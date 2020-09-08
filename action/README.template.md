@@ -5,8 +5,6 @@
 
 <table>
     <tr>
-        <th>레벨</th>
-        <th>번호</th>
         <th>문제</th>
         <th>코드</th>
     </tr>
