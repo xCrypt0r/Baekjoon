@@ -5,15 +5,12 @@ on:
     branches: [ master ]
 
 jobs:
-  update:
-    env:
-      COMMIT_MESSAGE: ${{ github.event.commits[0].message }}
-    if: startsWith(COMMIT_MESSAGE, 'Add Q')
+  update: 
+    if: startsWith(github.event.commits[0].message, 'Add Q')
     runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version: [12.x]
-
     steps:
       - uses: actions/checkout@v2
       - name: Install Node.js ${{ matrix.node-version }}
@@ -23,8 +20,8 @@ jobs:
       - name: Push to github
         run: |
           cd action
-          npm instalL
-          id = ${COMMIT_MESSAGE:5:-4}
+          npm install
+          id = ${{ github.event.commits[0].message:5:-4 }}
           node main.js $id
           git config --global user.name 'xCrypt0r'
           git config --global user.email ${{ secrets.EMAIL }}
