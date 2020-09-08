@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  update:
+    if: startsWith(github.event.commits[0].message, 'Add Q')
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install
+      - run: node main.js 1000
