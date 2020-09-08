@@ -21,7 +21,7 @@ jobs:
         run: |
           cd action
           npm install
-          id = ${{ github.event.commits[0].message:5:-4 }}
+          id=$(echo ${{ github.event.commits[0].message }} | cut -dQ -f2)
           node main.js $id
           git config --global user.name 'xCrypt0r'
           git config --global user.email ${{ secrets.EMAIL }}
