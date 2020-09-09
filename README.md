@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (241문제)
+## 문제 풀이 현황 (242문제)
 
 <table>
     <tr>
@@ -1414,6 +1414,17 @@
         </td>
         <td>
             <a href="5/Q5597.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5656">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5656 비교 연산자
+            </a>
+        </td>
+        <td>
+            <a href="5/Q5656.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
