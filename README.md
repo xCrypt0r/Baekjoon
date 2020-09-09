@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (240문제)
+## 문제 풀이 현황 (241문제)
 
 <table>
     <tr>
@@ -1117,6 +1117,17 @@
         </td>
         <td>
             <a href="3/Q3059.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3449">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                3449 해밍 거리
+            </a>
+        </td>
+        <td>
+            <a href="3/Q3449.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
