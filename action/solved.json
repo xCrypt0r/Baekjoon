@@ -864,6 +864,14 @@
         ]
     },
     {
+        "id": 4606,
+        "title": "The Seven Percent Solution",
+        "level": 4,
+        "codes": [
+            "4/Q4606.cpp"
+        ]
+    },
+    {
         "id": 4673,
         "title": "셀프 넘버",
         "level": 5,
