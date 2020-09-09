@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (239문제)
+## 문제 풀이 현황 (240문제)
 
 <table>
     <tr>
@@ -2261,6 +2261,17 @@
         </td>
         <td>
             <a href="11/Q11557.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11586">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                11586 지영 공주님의 마법 거울
+            </a>
+        </td>
+        <td>
+            <a href="11/Q11586.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
