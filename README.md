@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (246문제)
+## 문제 풀이 현황 (247문제)
 
 <table>
     <tr>
@@ -721,6 +721,17 @@
         </td>
         <td>
             <a href="2/Q2675.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2693">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                2693 N번째 큰 수
+            </a>
+        </td>
+        <td>
+            <a href="2/Q2693.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
