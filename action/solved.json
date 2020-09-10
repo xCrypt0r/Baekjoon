@@ -1704,6 +1704,14 @@
         ]
     },
     {
+        "id": 11575,
+        "title": "Affine Cipher",
+        "level": 4,
+        "codes": [
+            "11/Q11575.cpp"
+        ]
+    },
+    {
         "id": 11586,
         "title": "지영 공주님의 마법 거울",
         "level": 5,

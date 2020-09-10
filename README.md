@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (251문제)
+## 문제 풀이 현황 (252문제)
 
 <table>
     <tr>
@@ -2349,6 +2349,17 @@
         </td>
         <td>
             <a href="11/Q11557.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11575">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                11575 Affine Cipher
+            </a>
+        </td>
+        <td>
+            <a href="11/Q11575.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
