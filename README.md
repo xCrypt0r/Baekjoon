@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (258문제)
+## 문제 풀이 현황 (259문제)
 
 <table>
     <tr>
@@ -2756,6 +2756,17 @@
         </td>
         <td>
             <a href="15/Q15813.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15894">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                15894 수학은 체육과목 입니다
+            </a>
+        </td>
+        <td>
+            <a href="15/Q15894.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
