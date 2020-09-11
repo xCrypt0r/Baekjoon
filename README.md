@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (252문제)
+## 문제 풀이 현황 (253문제)
 
 <table>
     <tr>
@@ -1480,6 +1480,17 @@
         </td>
         <td>
             <a href="5/Q5717.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5988">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5988 홀수일까 짝수일까
+            </a>
+        </td>
+        <td>
+            <a href="5/Q5988.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
