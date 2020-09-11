@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (255문제)
+## 문제 풀이 현황 (256문제)
 
 <table>
     <tr>
@@ -534,6 +534,17 @@
         </td>
         <td>
             <a href="2/Q2475.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2476">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2476 주사위 게임
+            </a>
+        </td>
+        <td>
+            <a href="2/Q2476.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
