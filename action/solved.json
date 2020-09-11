@@ -1328,6 +1328,14 @@
         ]
     },
     {
+        "id": 10214,
+        "title": "Baseball",
+        "level": 3,
+        "codes": [
+            "10/Q10214.cpp"
+        ]
+    },
+    {
         "id": 10430,
         "title": "나머지",
         "level": 1,
