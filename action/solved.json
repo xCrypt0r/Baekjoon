@@ -872,6 +872,14 @@
         ]
     },
     {
+        "id": 4504,
+        "title": "배수 찾기",
+        "level": 3,
+        "codes": [
+            "4/Q4504.cpp"
+        ]
+    },
+    {
         "id": 4606,
         "title": "The Seven Percent Solution",
         "level": 4,
