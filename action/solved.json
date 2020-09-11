@@ -1280,6 +1280,14 @@
         ]
     },
     {
+        "id": 10162,
+        "title": "전자레인지",
+        "level": 2,
+        "codes": [
+            "10/Q10162.cpp"
+        ]
+    },
+    {
         "id": 10170,
         "title": "NFC West vs North",
         "level": 1,
