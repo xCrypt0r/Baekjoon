@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
     cout << "NFC West       W   L  T" << '\n';
     cout << "-----------------------" << '\n';
     cout << "Seattle        13  3  0" << '\n';
