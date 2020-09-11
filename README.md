@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (259문제)
+## 문제 풀이 현황 (260문제)
 
 <table>
     <tr>
@@ -908,6 +908,17 @@
         </td>
         <td>
             <a href="2/Q2753.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2754">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2754 학점계산
+            </a>
+        </td>
+        <td>
+            <a href="2/Q2754.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
