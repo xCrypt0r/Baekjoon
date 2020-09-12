@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (269문제)
+## 문제 풀이 현황 (270문제)
 
 <table>
     <tr>
@@ -2943,6 +2943,17 @@
         </td>
         <td>
             <a href="17/Q17863.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18096">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                18096 Арифметическая магия
+            </a>
+        </td>
+        <td>
+            <a href="18/Q18096.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
