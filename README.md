@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (291문제)
+## 문제 풀이 현황 (292문제)
 
 <table>
     <tr>
@@ -2943,6 +2943,17 @@
         </td>
         <td>
             <a href="14/Q14918.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14924">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                14924 폰 노이만과 파리
+            </a>
+        </td>
+        <td>
+            <a href="14/Q14924.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
