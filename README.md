@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (275문제)
+## 문제 풀이 현황 (276문제)
 
 <table>
     <tr>
@@ -3020,6 +3020,17 @@
         </td>
         <td>
             <a href="18/Q18108.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18301">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                18301 Rats
+            </a>
+        </td>
+        <td>
+            <a href="18/Q18301.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
