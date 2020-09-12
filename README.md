@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (271문제)
+## 문제 풀이 현황 (272문제)
 
 <table>
     <tr>
@@ -2844,6 +2844,17 @@
         </td>
         <td>
             <a href="15/Q15688.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15727">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                15727 조별과제를 하려는데 조장이 사라졌다
+            </a>
+        </td>
+        <td>
+            <a href="15/Q15727.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
