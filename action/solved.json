@@ -928,6 +928,14 @@
         ]
     },
     {
+        "id": 4402,
+        "title": "Soundex",
+        "level": 6,
+        "codes": [
+            "4/Q4402.cpp"
+        ]
+    },
+    {
         "id": 4458,
         "title": "첫 글자를 대문자로",
         "level": 4,
