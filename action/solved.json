@@ -1144,6 +1144,14 @@
         ]
     },
     {
+        "id": 5928,
+        "title": "Contest Timing",
+        "level": 2,
+        "codes": [
+            "5/Q5928.cpp"
+        ]
+    },
+    {
         "id": 5988,
         "title": "홀수일까 짝수일까",
         "level": 4,
