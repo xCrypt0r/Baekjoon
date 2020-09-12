@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (280문제)
+## 문제 풀이 현황 (281문제)
 
 <table>
     <tr>
@@ -644,6 +644,17 @@
         </td>
         <td>
             <a href="2/Q2525.cpp">.cpp</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2530">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                2530 인공지능 시계
+            </a>
+        </td>
+        <td>
+            <a href="2/Q2530.cpp">.cpp</a>
         </td>
     </tr>
     <tr>
