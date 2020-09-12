@@ -1120,6 +1120,14 @@
         ]
     },
     {
+        "id": 6749,
+        "title": "Next in line",
+        "level": 1,
+        "codes": [
+            "6/Q6749.cpp"
+        ]
+    },
+    {
         "id": 6996,
         "title": "애너그램",
         "level": 5,
