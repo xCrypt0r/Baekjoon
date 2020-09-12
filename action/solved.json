@@ -2072,6 +2072,14 @@
         ]
     },
     {
+        "id": 13866,
+        "title": "팀 나누기",
+        "level": 2,
+        "codes": [
+            "13/Q13866.cpp"
+        ]
+    },
+    {
         "id": 13985,
         "title": "Equality",
         "level": 2,
