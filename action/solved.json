@@ -1176,6 +1176,14 @@
         ]
     },
     {
+        "id": 5800,
+        "title": "성적 통계",
+        "level": 6,
+        "codes": [
+            "5/Q5800.cpp"
+        ]
+    },
+    {
         "id": 5928,
         "title": "Contest Timing",
         "level": 2,
