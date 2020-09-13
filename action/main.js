@@ -9,6 +9,7 @@ const argv          = process.argv.slice(2).map(a => a.match(rgx_id)[0]);
 const URL           = 'https://solved.ac/search?query=';
 const saveFile      = './solved.json';
 const list          = require(saveFile);
+const LANG          = require('./langs.json');
 
 function main() {
     let promises = [];
@@ -55,11 +56,25 @@ function saveInfo({ id, title, level }) {
 }
 
 function updateReadme(list) {
-    let readme = fs.readFileSync('README.template.md', 'utf-8');
+    let readme = fs.readFileSync('README.template.md', 'utf-8'),
+        langs = {},
+        langsMarkdown = [];
+
+    list.forEach(p => {
+        p.codes.forEach(code => {
+            let ext = path.extname(code).substr(1);
+
+            langs[LANG[ext]] ? langs[LANG[ext]]++ : langs[LANG[ext]] = 1;
+        });
+    });
+
+    for (let [lang, count] of Object.entries(langs)) {
+        langsMarkdown.push(`- **${lang}**: ${count}`);
+    }
 
     let trs = list.map(p => {
         let codes = p.codes.map(code => {
-            return `<a href="${code}">${path.extname(code)}</a>`;
+            return `<a href="${code}">${LANG[path.extname(code).substr(1)]}</a>`;
         });
 
         return `
@@ -70,7 +85,7 @@ function updateReadme(list) {
                 ${p.id} ${p.title}
             </a>
         </td>
-        <td>
+        <td align="center">
             ${codes.join('<br>')}
         </td>
     </tr>`;
@@ -78,6 +93,7 @@ function updateReadme(list) {
 
     readme = readme
         .replace('${{TOTAL}}', list.length)
+        .replace('${{LANGUAGES}}', langsMarkdown.join('\n'))
         .replace('${{SOLVED}}', trs.join('').trim());
 
     fs.writeFileSync('../README.md', readme);
