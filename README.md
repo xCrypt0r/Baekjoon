@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (301문제)
+## 문제 풀이 현황 (302문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 5
+- **Python**: 6
 
 ### 해결된 문제 목록
 <table>
@@ -2948,6 +2948,17 @@
         </td>
         <td align="center">
             <a href="13/Q13241.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13277">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                13277 큰 수 곱셈
+            </a>
+        </td>
+        <td align="center">
+            <a href="13/Q13277.py">Python</a>
         </td>
     </tr>
     <tr>
