@@ -2480,6 +2480,14 @@
         ]
     },
     {
+        "id": 17009,
+        "title": "Winning Score",
+        "level": 2,
+        "codes": [
+            "17/Q17009.py"
+        ]
+    },
+    {
         "id": 17249,
         "title": "태보태보 총난타",
         "level": 4,
