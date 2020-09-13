@@ -2224,6 +2224,14 @@
         ]
     },
     {
+        "id": 14928,
+        "title": "큰 수 (BIG)",
+        "level": 1,
+        "codes": [
+            "14/Q14928.py"
+        ]
+    },
+    {
         "id": 15439,
         "title": "Vera and Outfits",
         "level": 1,
