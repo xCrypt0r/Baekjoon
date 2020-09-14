@@ -1,3 +1,7 @@
-m, n = map(int, input().split())
+def main():
+    m, n = map(int, input().split())
 
-print(m // n, m % n, sep='\n')
+    print(m // n, m % n, sep='\n')
+
+if __name__ == '__main__':
+    main()

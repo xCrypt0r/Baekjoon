@@ -1,6 +1,10 @@
 def Rev(x):
     return int(str(x)[::-1])
 
-X, Y = map(int, input().split())
+def main():
+    X, Y = map(int, input().split())
 
-print(Rev((Rev(X)) + Rev(Y)))
+    print(Rev((Rev(X)) + Rev(Y)))
+
+if __name__ == '__main__':
+    main()

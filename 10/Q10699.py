@@ -1,3 +1,7 @@
 from datetime import datetime
 
-print(str(datetime.now())[:10])
+def main():
+    print(str(datetime.now())[:10])
+
+if __name__ == '__main__':
+    main()
