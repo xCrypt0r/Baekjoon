@@ -1296,6 +1296,14 @@
         ]
     },
     {
+        "id": 6780,
+        "title": "Sumac Sequences",
+        "level": 3,
+        "codes": [
+            "6/Q6780.py"
+        ]
+    },
+    {
         "id": 6996,
         "title": "애너그램",
         "level": 5,
