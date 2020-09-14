@@ -1264,6 +1264,14 @@
         ]
     },
     {
+        "id": 6190,
+        "title": "Another Cow Number Game",
+        "level": 3,
+        "codes": [
+            "6/Q6190.py"
+        ]
+    },
+    {
         "id": 6359,
         "title": "만취한 상범",
         "level": 4,
