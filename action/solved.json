@@ -1344,6 +1344,14 @@
         ]
     },
     {
+        "id": 8710,
+        "title": "Koszykarz",
+        "level": 2,
+        "codes": [
+            "8/Q8710.py"
+        ]
+    },
+    {
         "id": 8949,
         "title": "대충 더해",
         "level": 4,
