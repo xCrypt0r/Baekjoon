@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (336문제)
+## 문제 풀이 현황 (337문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 40
+- **Python**: 41
 
 ### 해결된 문제 목록
 <table>
@@ -3234,6 +3234,17 @@
         </td>
         <td align="center">
             <a href="15/Q15059.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15080">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                15080 Every Second Counts
+            </a>
+        </td>
+        <td align="center">
+            <a href="15/Q15080.py">Python</a>
         </td>
     </tr>
     <tr>
