@@ -1,5 +1,5 @@
 def main():
-    SKH = [int(x) for x in input().strip().split()]
+    SKH = list(map(int, input().split()))
 
     if sum(SKH) >= 100: print('OK')
     else: print(['Soongsil', 'Korea', 'Hanyang'][SKH.index(min(SKH))])
