@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (355문제)
+## 문제 풀이 현황 (357문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 59
+- **Python**: 61
 
 ### 해결된 문제 목록
 <table>
@@ -2644,6 +2644,17 @@
     </tr>
     <tr>
         <td>
+            <a href="https://www.acmicpc.net/problem/10928">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10928 SHA-1
+            </a>
+        </td>
+        <td align="center">
+            <a href="10/Q10928.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.acmicpc.net/problem/10929">
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 10929 SHA-224
@@ -2651,6 +2662,17 @@
         </td>
         <td align="center">
             <a href="10/Q10929.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10930">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10930 SHA-256
+            </a>
+        </td>
+        <td align="center">
+            <a href="10/Q10930.py">Python</a>
         </td>
     </tr>
     <tr>
