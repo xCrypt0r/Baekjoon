@@ -2568,6 +2568,14 @@
         ]
     },
     {
+        "id": 14782,
+        "title": "Bedtime Reading, I",
+        "level": 3,
+        "codes": [
+            "14/Q14782.py"
+        ]
+    },
+    {
         "id": 14912,
         "title": "숫자 빈도수",
         "level": 6,
