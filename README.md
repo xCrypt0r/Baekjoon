@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (385문제)
+## 문제 풀이 현황 (386문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 89
+- **Python**: 90
 
 ### 해결된 문제 목록
 <table>
@@ -1562,6 +1562,17 @@
         </td>
         <td align="center">
             <a href="5/Q5086.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5217">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                5217 쌍의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="5/Q5217.py">Python</a>
         </td>
     </tr>
     <tr>
