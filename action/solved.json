@@ -1616,6 +1616,14 @@
         ]
     },
     {
+        "id": 9713,
+        "title": "Sum of Odd Sequence",
+        "level": 3,
+        "codes": [
+            "9/Q9713.py"
+        ]
+    },
+    {
         "id": 10039,
         "title": "평균 점수",
         "level": 2,
