@@ -2720,6 +2720,14 @@
         ]
     },
     {
+        "id": 15000,
+        "title": "CAPS",
+        "level": 4,
+        "codes": [
+            "15/Q15000.py"
+        ]
+    },
+    {
         "id": 15059,
         "title": "Hard choice",
         "level": 2,
