@@ -3000,6 +3000,14 @@
         ]
     },
     {
+        "id": 17094,
+        "title": "Serious Problem",
+        "level": 4,
+        "codes": [
+            "17/Q17094.py"
+        ]
+    },
+    {
         "id": 17249,
         "title": "태보태보 총난타",
         "level": 4,
