@@ -896,6 +896,14 @@
         ]
     },
     {
+        "id": 2975,
+        "title": "Transactions",
+        "level": 3,
+        "codes": [
+            "2/Q2975.py"
+        ]
+    },
+    {
         "id": 3003,
         "title": "킹, 퀸, 룩, 비숍, 나이트, 폰",
         "level": 1,
