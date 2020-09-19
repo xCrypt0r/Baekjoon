@@ -6,6 +6,7 @@
 ### 언어별 코드 수
 - **C++**: 296
 - **Python**: 134
+- **Java**: 1
 
 ### 해결된 문제 목록
 <table>
@@ -2573,7 +2574,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="10/Q10757.py">Python</a>
+            <a href="10/Q10757.java">Java</a><br><a href="10/Q10757.py">Python</a>
         </td>
     </tr>
     <tr>
