@@ -992,6 +992,14 @@
         ]
     },
     {
+        "id": 3507,
+        "title": "Automated Telephone Exchange",
+        "level": 3,
+        "codes": [
+            "3/Q3507.py"
+        ]
+    },
+    {
         "id": 4101,
         "title": "크냐?",
         "level": 3,
