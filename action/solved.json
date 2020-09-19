@@ -1448,6 +1448,14 @@
         ]
     },
     {
+        "id": 7595,
+        "title": "Triangles",
+        "level": 3,
+        "codes": [
+            "7/Q7595.py"
+        ]
+    },
+    {
         "id": 7600,
         "title": "문자가 몇갤까",
         "level": 4,
