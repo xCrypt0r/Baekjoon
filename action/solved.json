@@ -2889,6 +2889,14 @@
         ]
     },
     {
+        "id": 15025,
+        "title": "Judging Moose",
+        "level": 2,
+        "codes": [
+            "15/Q15025.py"
+        ]
+    },
+    {
         "id": 15059,
         "title": "Hard choice",
         "level": 2,
