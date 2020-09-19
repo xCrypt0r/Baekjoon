@@ -3072,6 +3072,14 @@
         ]
     },
     {
+        "id": 16175,
+        "title": "General Election",
+        "level": 3,
+        "codes": [
+            "16/Q16175.py"
+        ]
+    },
+    {
         "id": 16204,
         "title": "카드 뽑기",
         "level": 2,
