@@ -2328,6 +2328,14 @@
         ]
     },
     {
+        "id": 11131,
+        "title": "Balancing Weights",
+        "level": 3,
+        "codes": [
+            "11/Q11131.py"
+        ]
+    },
+    {
         "id": 11170,
         "title": "0의 개수",
         "level": 6,
