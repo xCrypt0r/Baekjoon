@@ -3208,6 +3208,14 @@
         ]
     },
     {
+        "id": 16648,
+        "title": "Accumulator Battery",
+        "level": 2,
+        "codes": [
+            "16/Q16648.py"
+        ]
+    },
+    {
         "id": 16673,
         "title": "고려대학교에는 공식 와인이 있다",
         "level": 3,
