@@ -2600,6 +2600,14 @@
         ]
     },
     {
+        "id": 13073,
+        "title": "Sums",
+        "level": 3,
+        "codes": [
+            "13/Q13073.py"
+        ]
+    },
+    {
         "id": 13136,
         "title": "Do Not Touch Anything",
         "level": 2,
