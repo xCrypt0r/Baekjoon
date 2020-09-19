@@ -1624,6 +1624,14 @@
         ]
     },
     {
+        "id": 9950,
+        "title": "Rectangles",
+        "level": 3,
+        "codes": [
+            "9/Q9950.py"
+        ]
+    },
+    {
         "id": 10039,
         "title": "평균 점수",
         "level": 2,

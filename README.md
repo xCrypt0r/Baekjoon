@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (397문제)
+## 문제 풀이 현황 (398문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 101
+- **Python**: 102
 
 ### 해결된 문제 목록
 <table>
@@ -2244,6 +2244,17 @@
         </td>
         <td align="center">
             <a href="9/Q9713.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9950">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9950 Rectangles
+            </a>
+        </td>
+        <td align="center">
+            <a href="9/Q9950.py">Python</a>
         </td>
     </tr>
     <tr>
