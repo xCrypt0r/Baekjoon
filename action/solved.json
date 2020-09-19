@@ -2416,6 +2416,14 @@
         ]
     },
     {
+        "id": 11522,
+        "title": "Sum Kind of Problem",
+        "level": 3,
+        "codes": [
+            "11/Q11522.py"
+        ]
+    },
+    {
         "id": 11549,
         "title": "Identifying tea",
         "level": 2,
