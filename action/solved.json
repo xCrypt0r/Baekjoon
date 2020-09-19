@@ -1320,6 +1320,14 @@
         ]
     },
     {
+        "id": 5751,
+        "title": "Head or Tail",
+        "level": 3,
+        "codes": [
+            "5/Q5751.py"
+        ]
+    },
+    {
         "id": 5800,
         "title": "성적 통계",
         "level": 6,
