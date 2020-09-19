@@ -2624,6 +2624,14 @@
         ]
     },
     {
+        "id": 13240,
+        "title": "Chessboard",
+        "level": 3,
+        "codes": [
+            "13/Q13240.py"
+        ]
+    },
+    {
         "id": 13241,
         "title": "최소공배수",
         "level": 8,
