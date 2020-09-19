@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (414문제)
+## 문제 풀이 현황 (415문제)
 
 ### 언어별 코드 수
 - **C++**: 296
-- **Python**: 118
+- **Python**: 119
 
 ### 해결된 문제 목록
 <table>
@@ -4411,6 +4411,17 @@
         </td>
         <td align="center">
             <a href="17/Q17530.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17588">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                17588 Missing Numbers
+            </a>
+        </td>
+        <td align="center">
+            <a href="17/Q17588.py">Python</a>
         </td>
     </tr>
     <tr>
