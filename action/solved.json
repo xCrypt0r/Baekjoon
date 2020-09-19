@@ -2640,6 +2640,14 @@
         ]
     },
     {
+        "id": 13484,
+        "title": "Tarifa",
+        "level": 3,
+        "codes": [
+            "13/Q13484.py"
+        ]
+    },
+    {
         "id": 13597,
         "title": "Tri-du",
         "level": 2,
