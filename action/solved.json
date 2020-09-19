@@ -2600,6 +2600,14 @@
         ]
     },
     {
+        "id": 13225,
+        "title": "Divisors",
+        "level": 3,
+        "codes": [
+            "13/Q13225.py"
+        ]
+    },
+    {
         "id": 13234,
         "title": "George Boole",
         "level": 4,
