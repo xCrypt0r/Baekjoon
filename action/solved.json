@@ -2632,6 +2632,14 @@
         ]
     },
     {
+        "id": 13297,
+        "title": "Quick Estimates",
+        "level": 3,
+        "codes": [
+            "13/Q13297.py"
+        ]
+    },
+    {
         "id": 13417,
         "title": "카드 문자열",
         "level": 8,
