@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (453문제)
+## 문제 풀이 현황 (454문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 157
+- **Python**: 158
 - **Java**: 1
 
 ### 해결된 문제 목록
@@ -4775,6 +4775,17 @@
         </td>
         <td align="center">
             <a href="17/Q17295.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17350">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                17350 2루수 이름이 뭐야
+            </a>
+        </td>
+        <td align="center">
+            <a href="17/Q17350.py">Python</a>
         </td>
     </tr>
     <tr>
