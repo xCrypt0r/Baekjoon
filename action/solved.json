@@ -3514,6 +3514,14 @@
         ]
     },
     {
+        "id": 17548,
+        "title": "Greetings!",
+        "level": 4,
+        "codes": [
+            "17/Q17548.py"
+        ]
+    },
+    {
         "id": 17588,
         "title": "Missing Numbers",
         "level": 3,
