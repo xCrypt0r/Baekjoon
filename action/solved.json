@@ -3266,6 +3266,14 @@
         ]
     },
     {
+        "id": 16189,
+        "title": "Repetitive Palindrome",
+        "level": 4,
+        "codes": [
+            "16/Q16189.py"
+        ]
+    },
+    {
         "id": 16199,
         "title": "나이 계산하기",
         "level": 2,

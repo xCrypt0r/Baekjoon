@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (459문제)
+## 문제 풀이 현황 (460문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 163
+- **Python**: 164
 - **Java**: 1
 
 ### 해결된 문제 목록
@@ -4500,6 +4500,17 @@
         </td>
         <td align="center">
             <a href="16/Q16175.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16189">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                16189 Repetitive Palindrome
+            </a>
+        </td>
+        <td align="center">
+            <a href="16/Q16189.py">Python</a>
         </td>
     </tr>
     <tr>
