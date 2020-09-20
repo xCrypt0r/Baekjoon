@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (474문제)
+## 문제 풀이 현황 (475문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 178
+- **Python**: 179
 - **Java**: 3
 
 ### 해결된 문제 목록
@@ -4170,6 +4170,17 @@
         </td>
         <td align="center">
             <a href="14/Q14681.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14682">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14682 Shifty Sum
+            </a>
+        </td>
+        <td align="center">
+            <a href="14/Q14682.py">Python</a>
         </td>
     </tr>
     <tr>
