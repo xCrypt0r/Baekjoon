@@ -4,7 +4,7 @@
 ## 문제 풀이 현황 (452문제)
 
 ### 언어별 코드 수
-- **C++**: 296
+- **C++**: 297
 - **Python**: 156
 - **Java**: 1
 
@@ -4125,7 +4125,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="15/Q15051.py">Python</a>
+            <a href="15/Q15051.cpp">C++</a><br><a href="15/Q15051.py">Python</a>
         </td>
     </tr>
     <tr>
