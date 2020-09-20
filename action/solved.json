@@ -3289,6 +3289,14 @@
         ]
     },
     {
+        "id": 16785,
+        "title": "ソーシャルゲーム",
+        "level": 2,
+        "codes": [
+            "16/Q16785.py"
+        ]
+    },
+    {
         "id": 17009,
         "title": "Winning Score",
         "level": 2,
