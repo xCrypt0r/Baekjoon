@@ -2969,6 +2969,14 @@
         ]
     },
     {
+        "id": 15128,
+        "title": "Congruent Numbers",
+        "level": 2,
+        "codes": [
+            "15/Q15128.py"
+        ]
+    },
+    {
         "id": 15178,
         "title": "Angles",
         "level": 3,
