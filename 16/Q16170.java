@@ -6,8 +6,8 @@ public class Main {
 		
 		int year = time.getYear();
 		String month = String.format("%02d", time.getMonthValue());
-		int day = time.getDayOfMonth();
+		int dayOfMonth = time.getDayOfMonth();
 		
-		System.out.println(year + "\n" + month + "\n" + day);
+		System.out.println(year + "\n" + month + "\n" + dayOfMonth);
 	}
 }
