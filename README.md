@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (470문제)
+## 문제 풀이 현황 (471문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 174
+- **Python**: 175
 - **Java**: 1
 
 ### 해결된 문제 목록
@@ -2399,6 +2399,17 @@
         </td>
         <td align="center">
             <a href="9/Q9507.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9523">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                9523 Arithmetic with Morse
+            </a>
+        </td>
+        <td align="center">
+            <a href="9/Q9523.py">Python</a>
         </td>
     </tr>
     <tr>

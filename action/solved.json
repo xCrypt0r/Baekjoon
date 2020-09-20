@@ -1736,6 +1736,14 @@
         ]
     },
     {
+        "id": 9523,
+        "title": "Arithmetic with Morse",
+        "level": 7,
+        "codes": [
+            "9/Q9523.py"
+        ]
+    },
+    {
         "id": 9524,
         "title": "Beautiful Yekaterinburg",
         "level": 2,
