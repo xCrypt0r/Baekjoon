@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (475문제)
+## 문제 풀이 현황 (476문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 179
+- **Python**: 180
 - **Java**: 3
 
 ### 해결된 문제 목록
@@ -4522,6 +4522,17 @@
         </td>
         <td align="center">
             <a href="15/Q15740.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15781">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15781 헬멧과 조끼
+            </a>
+        </td>
+        <td align="center">
+            <a href="15/Q15781.py">Python</a>
         </td>
     </tr>
     <tr>
