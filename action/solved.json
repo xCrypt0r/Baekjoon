@@ -1384,6 +1384,14 @@
         ]
     },
     {
+        "id": 5987,
+        "title": "String Function Encoding",
+        "level": 5,
+        "codes": [
+            "5/Q5987.py"
+        ]
+    },
+    {
         "id": 5988,
         "title": "홀수일까 짝수일까",
         "level": 4,
