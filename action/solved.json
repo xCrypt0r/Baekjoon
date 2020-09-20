@@ -3225,6 +3225,14 @@
         ]
     },
     {
+        "id": 16431,
+        "title": "베시와 데이지",
+        "level": 2,
+        "codes": [
+            "16/Q16431.py"
+        ]
+    },
+    {
         "id": 16445,
         "title": "Desvendando Monty Hall",
         "level": 3,
