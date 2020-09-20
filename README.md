@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (462문제)
+## 문제 풀이 현황 (463문제)
 
 ### 언어별 코드 수
 - **C++**: 297
-- **Python**: 166
+- **Python**: 167
 - **Java**: 1
 
 ### 해결된 문제 목록
@@ -1970,6 +1970,17 @@
         </td>
         <td align="center">
             <a href="6/Q6679.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6721">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6721 Backward numbers
+            </a>
+        </td>
+        <td align="center">
+            <a href="6/Q6721.py">Python</a>
         </td>
     </tr>
     <tr>

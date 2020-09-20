@@ -1424,6 +1424,14 @@
         ]
     },
     {
+        "id": 6721,
+        "title": "Backward numbers",
+        "level": 4,
+        "codes": [
+            "6/Q6721.py"
+        ]
+    },
+    {
         "id": 6749,
         "title": "Next in line",
         "level": 1,
