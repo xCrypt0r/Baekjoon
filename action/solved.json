@@ -2433,6 +2433,14 @@
         ]
     },
     {
+        "id": 11269,
+        "title": "Cryptographer’s Conundrum",
+        "level": 4,
+        "codes": [
+            "11/Q11269.py"
+        ]
+    },
+    {
         "id": 11282,
         "title": "한글",
         "level": 2,
