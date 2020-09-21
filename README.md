@@ -1,12 +1,12 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (491문제)
+## 문제 풀이 현황 (492문제)
 
 ### 언어별 코드 수
 - **C++**: 298
 - **Python**: 193
-- **Java**: 15
+- **Java**: 16
 
 ### 해결된 문제 목록
 <table>
@@ -991,6 +991,17 @@
         </td>
         <td align="center">
             <a href="2/Q2720.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2721">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2721 삼각수의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="2/Q2721.java">Java</a>
         </td>
     </tr>
     <tr>
