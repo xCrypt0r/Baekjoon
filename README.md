@@ -6,7 +6,7 @@
 ### 언어별 코드 수
 - **C++**: 298
 - **Python**: 193
-- **Java**: 17
+- **Java**: 18
 
 ### 해결된 문제 목록
 <table>
@@ -2431,7 +2431,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="9/Q9086.cpp">C++</a>
+            <a href="9/Q9086.cpp">C++</a><br><a href="9/Q9086.java">Java</a>
         </td>
     </tr>
     <tr>
