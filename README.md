@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (485문제)
+## 문제 풀이 현황 (486문제)
 
 ### 언어별 코드 수
 - **C++**: 298
-- **Python**: 187
+- **Python**: 188
 - **Java**: 15
 
 ### 해결된 문제 목록
@@ -1640,6 +1640,17 @@
         </td>
         <td align="center">
             <a href="4/Q4706.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4766">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                4766 일반 화학 실험
+            </a>
+        </td>
+        <td align="center">
+            <a href="4/Q4766.py">Python</a>
         </td>
     </tr>
     <tr>
