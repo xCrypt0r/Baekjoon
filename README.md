@@ -1,11 +1,11 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (488문제)
+## 문제 풀이 현황 (489문제)
 
 ### 언어별 코드 수
 - **C++**: 298
-- **Python**: 190
+- **Python**: 191
 - **Java**: 15
 
 ### 해결된 문제 목록
@@ -1431,6 +1431,17 @@
         </td>
         <td align="center">
             <a href="3/Q3047.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3049">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                3049 다각형의 대각선
+            </a>
+        </td>
+        <td align="center">
+            <a href="3/Q3049.py">Python</a>
         </td>
     </tr>
     <tr>
