@@ -1,12 +1,12 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (476문제)
+## 문제 풀이 현황 (477문제)
 
 ### 언어별 코드 수
 - **C++**: 297
 - **Python**: 180
-- **Java**: 13
+- **Java**: 14
 
 ### 해결된 문제 목록
 <table>
@@ -980,6 +980,17 @@
         </td>
         <td align="center">
             <a href="2/Q2720.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2738">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2738 행렬 덧셈
+            </a>
+        </td>
+        <td align="center">
+            <a href="2/Q2738.java">Java</a>
         </td>
     </tr>
     <tr>
