@@ -2538,6 +2538,14 @@
         ]
     },
     {
+        "id": 11109,
+        "title": "괴짜 교수",
+        "level": 3,
+        "codes": [
+            "11/Q11109.py"
+        ]
+    },
+    {
         "id": 11131,
         "title": "Balancing Weights",
         "level": 3,
