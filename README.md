@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td><b>Java</b></td>
-        <td>20</td>
+        <td>21</td>
     </tr>
 </table>
 
@@ -653,7 +653,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="2/Q2442.cpp">C++</a>
+            <a href="2/Q2442.cpp">C++</a><br><a href="2/Q2442.java">Java</a>
         </td>
     </tr>
     <tr>
