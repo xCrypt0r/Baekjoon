@@ -22,7 +22,7 @@ int main()
     {
         if (book.second > max)
         {
-		    max = book.second;;
+		    max = book.second;
             bestseller = book.first;
         }
     }
