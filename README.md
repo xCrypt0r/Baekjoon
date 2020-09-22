@@ -4,9 +4,24 @@
 ## 문제 풀이 현황 (493문제)
 
 ### 언어별 코드 수
-- **C++**: 298
-- **Python**: 193
-- **Java**: 18
+<table>
+    <tr>
+        <th>언어</th>
+        <th>개수</th>
+    </tr>
+    <tr>
+        <td><b>C++</b></td>
+        <td>298</td>
+    </tr>
+    <tr>
+        <td><b>Python</b></td>
+        <td>193</td>
+    </tr>
+    <tr>
+        <td><b>Java</b></td>
+        <td>18</td>
+    </tr>
+</table>
 
 ### 해결된 문제 목록
 <table>

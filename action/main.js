@@ -69,10 +69,15 @@ function updateReadme(list) {
     });
 
     for (let [lang, count] of Object.entries(langs)) {
-        langsMarkdown.push(`- **${lang}**: ${count}`);
+        langsMarkdown.push(`
+    <tr>
+        <td><b>${lang}</b></td>
+        <td>${count}</td>
+    </tr>`
+        );
     }
 
-    let trs = list.map(p => {
+    let codesMarkdown = list.map(p => {
         let codes = p.codes.map(code => {
             return `<a href="${code}">${LANG[path.extname(code).substr(1)]}</a>`;
         });
@@ -93,8 +98,8 @@ function updateReadme(list) {
 
     readme = readme
         .replace('${{TOTAL}}', list.length)
-        .replace('${{LANGUAGES}}', langsMarkdown.join('\n'))
-        .replace('${{SOLVED}}', trs.join('').trim());
+        .replace('${{LANGUAGES}}', langsMarkdown.join('').trim())
+        .replace('${{SOLVED}}', codesMarkdown.join('').trim());
 
     fs.writeFileSync('../README.md', readme);
 }

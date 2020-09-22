@@ -4,7 +4,13 @@
 ## 문제 풀이 현황 (${{TOTAL}}문제)
 
 ### 언어별 코드 수
-${{LANGUAGES}}
+<table>
+    <tr>
+        <th>언어</th>
+        <th>개수</th>
+    </tr>
+    ${{LANGUAGES}}
+</table>
 
 ### 해결된 문제 목록
 <table>
