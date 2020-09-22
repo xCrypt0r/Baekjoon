@@ -1678,6 +1678,14 @@
         ]
     },
     {
+        "id": 8246,
+        "title": "Stół",
+        "level": 2,
+        "codes": [
+            "8/Q8246.py"
+        ]
+    },
+    {
         "id": 8370,
         "title": "Plane",
         "level": 1,
