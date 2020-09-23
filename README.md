@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (522문제)
+## 문제 풀이 현황 (523문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td><b>Java</b></td>
-        <td>23</td>
+        <td>24</td>
     </tr>
 </table>
 
@@ -1600,6 +1600,17 @@
         </td>
         <td align="center">
             <a href="3/Q3062.java">Java</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3107">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                3107 IPv6
+            </a>
+        </td>
+        <td align="center">
+            <a href="3/Q3107.java">Java</a>
         </td>
     </tr>
     <tr>
