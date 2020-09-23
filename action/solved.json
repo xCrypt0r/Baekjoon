@@ -3099,6 +3099,14 @@
         ]
     },
     {
+        "id": 13236,
+        "title": "Collatz Conjecture",
+        "level": 3,
+        "codes": [
+            "13/Q13236.py"
+        ]
+    },
+    {
         "id": 13240,
         "title": "Chessboard",
         "level": 3,

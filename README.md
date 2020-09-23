@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (513문제)
+## 문제 풀이 현황 (514문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>213</td>
+        <td>214</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -4273,6 +4273,17 @@
         </td>
         <td align="center">
             <a href="13/Q13234.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13236">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13236 Collatz Conjecture
+            </a>
+        </td>
+        <td align="center">
+            <a href="13/Q13236.py">Python</a>
         </td>
     </tr>
     <tr>
