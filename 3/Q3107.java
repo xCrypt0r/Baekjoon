@@ -38,7 +38,7 @@ public class Main {
 		String strWithZero = new String("");
 		Matcher m = p.matcher(str);
 		
-		while(m.find()){
+		while (m.find()) {
 			int Dec = Integer.parseInt(m.group(0), 16);
 			String fillZero = String.format("%04x", Dec);
 			strWithZero += fillZero + ":";
