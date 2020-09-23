@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (523문제)
+## 문제 풀이 현황 (524문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td><b>Java</b></td>
-        <td>24</td>
+        <td>25</td>
     </tr>
 </table>
 
@@ -544,6 +544,17 @@
         </td>
         <td align="center">
             <a href="1/Q1934.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1977">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                1977 완전제곱수
+            </a>
+        </td>
+        <td align="center">
+            <a href="1/Q1977.java">Java</a>
         </td>
     </tr>
     <tr>
