@@ -3916,6 +3916,14 @@
         ]
     },
     {
+        "id": 17284,
+        "title": "Vending Machine",
+        "level": 3,
+        "codes": [
+            "17/Q17284.py"
+        ]
+    },
+    {
         "id": 17295,
         "title": "엔드게임 스포일러",
         "level": 1,
