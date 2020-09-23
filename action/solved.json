@@ -1150,6 +1150,14 @@
         ]
     },
     {
+        "id": 3486,
+        "title": "Adding Reversed Numbers",
+        "level": 3,
+        "codes": [
+            "3/Q3486.py"
+        ]
+    },
+    {
         "id": 3507,
         "title": "Automated Telephone Exchange",
         "level": 3,
