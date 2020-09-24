@@ -646,6 +646,14 @@
         ]
     },
     {
+        "id": 2556,
+        "title": "별 찍기 - 14",
+        "level": 0,
+        "codes": [
+            "2/Q2556.py"
+        ]
+    },
+    {
         "id": 2557,
         "title": "Hello World",
         "level": 1,
