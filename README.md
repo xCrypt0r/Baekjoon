@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>299</td>
+        <td>300</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td><b>Java</b></td>
-        <td>25</td>
+        <td>24</td>
     </tr>
 </table>
 
@@ -554,7 +554,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="1/Q1977.java">Java</a>
+            <a href="1/Q1977.cpp">C++</a>
         </td>
     </tr>
     <tr>
