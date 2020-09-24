@@ -1,5 +1,3 @@
-import sys
-
 def main():
     while True:
         start, duration = input().split()
