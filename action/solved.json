@@ -1383,6 +1383,14 @@
         ]
     },
     {
+        "id": 5074,
+        "title": "When Do We Finish?",
+        "level": 3,
+        "codes": [
+            "5/Q5074.py"
+        ]
+    },
+    {
         "id": 5086,
         "title": "배수와 약수",
         "level": 3,
