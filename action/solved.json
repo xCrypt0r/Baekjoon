@@ -1944,6 +1944,14 @@
         ]
     },
     {
+        "id": 9286,
+        "title": "Gradabase",
+        "level": 3,
+        "codes": [
+            "9/Q9286.py"
+        ]
+    },
+    {
         "id": 9295,
         "title": "주사위",
         "level": 3,
