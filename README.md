@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (536문제)
+## 문제 풀이 현황 (537문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>234</td>
+        <td>235</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -4449,6 +4449,17 @@
         </td>
         <td align="center">
             <a href="13/Q13225.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13228">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13228 The REAL Manhattan distance
+            </a>
+        </td>
+        <td align="center">
+            <a href="13/Q13228.py">Python</a>
         </td>
     </tr>
     <tr>

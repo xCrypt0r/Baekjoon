@@ -3228,6 +3228,14 @@
         ]
     },
     {
+        "id": 13228,
+        "title": "The REAL Manhattan distance",
+        "level": 3,
+        "codes": [
+            "13/Q13228.py"
+        ]
+    },
+    {
         "id": 13234,
         "title": "George Boole",
         "level": 4,
