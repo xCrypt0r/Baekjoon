@@ -1807,6 +1807,14 @@
         ]
     },
     {
+        "id": 7598,
+        "title": "Bookings",
+        "level": 3,
+        "codes": [
+            "7/Q7598.py"
+        ]
+    },
+    {
         "id": 7600,
         "title": "문자가 몇갤까",
         "level": 4,
