@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (542문제)
+## 문제 풀이 현황 (543문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>240</td>
+        <td>241</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -2359,6 +2359,17 @@
         </td>
         <td align="center">
             <a href="6/Q6190.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6249">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6249 TV Reports
+            </a>
+        </td>
+        <td align="center">
+            <a href="6/Q6249.py">Python</a>
         </td>
     </tr>
     <tr>
