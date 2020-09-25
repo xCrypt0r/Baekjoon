@@ -2264,6 +2264,14 @@
         ]
     },
     {
+        "id": 10395,
+        "title": "Automated Checking Machine",
+        "level": 3,
+        "codes": [
+            "10/Q10395.py"
+        ]
+    },
+    {
         "id": 10406,
         "title": "The fellowship of the ring",
         "level": 3,
