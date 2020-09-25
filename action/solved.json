@@ -2120,6 +2120,14 @@
         ]
     },
     {
+        "id": 9506,
+        "title": "약수들의 합",
+        "level": 5,
+        "codes": [
+            "9/Q9506.py"
+        ]
+    },
+    {
         "id": 9507,
         "title": "Generations of Tribbles",
         "level": 8,
