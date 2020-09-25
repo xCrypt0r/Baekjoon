@@ -1919,6 +1919,14 @@
         ]
     },
     {
+        "id": 8387,
+        "title": "Dyslexia",
+        "level": 4,
+        "codes": [
+            "8/Q8387.py"
+        ]
+    },
+    {
         "id": 8393,
         "title": "합",
         "level": 1,
