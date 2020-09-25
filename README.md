@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (570문제)
+## 문제 풀이 현황 (571문제)
 
 ### 언어별 코드 수
 <table>
@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>3</td>
+        <td>4</td>
     </tr>
 </table>
 
@@ -2429,6 +2429,17 @@
         </td>
         <td align="center">
             <a href="6/Q6359.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6376">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6376 e 계산
+            </a>
+        </td>
+        <td align="center">
+            <a href="6/Q6376.txt">Text</a>
         </td>
     </tr>
     <tr>
