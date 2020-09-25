@@ -2000,6 +2000,14 @@
         ]
     },
     {
+        "id": 9299,
+        "title": "Math Tutoring",
+        "level": 3,
+        "codes": [
+            "9/Q9299.py"
+        ]
+    },
+    {
         "id": 9316,
         "title": "Hello Judge",
         "level": 3,
