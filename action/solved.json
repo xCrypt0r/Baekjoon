@@ -3825,6 +3825,14 @@
         ]
     },
     {
+        "id": 15633,
+        "title": "Fan Death",
+        "level": 3,
+        "codes": [
+            "15/Q15633.py"
+        ]
+    },
+    {
         "id": 15636,
         "title": "Linear Algebra and Group",
         "level": 0,
