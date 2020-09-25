@@ -3268,6 +3268,14 @@
         ]
     },
     {
+        "id": 13118,
+        "title": "뉴턴과 사과",
+        "level": 3,
+        "codes": [
+            "13/Q13118.py"
+        ]
+    },
+    {
         "id": 13136,
         "title": "Do Not Touch Anything",
         "level": 2,
