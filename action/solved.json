@@ -2016,6 +2016,14 @@
         ]
     },
     {
+        "id": 9317,
+        "title": "Monitor DPI",
+        "level": 3,
+        "codes": [
+            "9/Q9317.py"
+        ]
+    },
+    {
         "id": 9325,
         "title": "얼마?",
         "level": 3,
