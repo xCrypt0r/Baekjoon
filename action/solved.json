@@ -3833,6 +3833,14 @@
         ]
     },
     {
+        "id": 15624,
+        "title": "피보나치 수 7",
+        "level": 8,
+        "codes": [
+            "15/Q15624.py"
+        ]
+    },
+    {
         "id": 15631,
         "title": "BOJeopardy",
         "level": 0,
