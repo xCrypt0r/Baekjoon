@@ -2104,6 +2104,14 @@
         ]
     },
     {
+        "id": 9699,
+        "title": "RICE SACK",
+        "level": 3,
+        "codes": [
+            "9/Q9699.py"
+        ]
+    },
+    {
         "id": 9713,
         "title": "Sum of Odd Sequence",
         "level": 3,
