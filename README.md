@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>290</td>
+        <td>291</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -1207,7 +1207,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="2/Q2738.java">Java</a>
+            <a href="2/Q2738.java">Java</a><br><a href="2/Q2738.py">Python</a>
         </td>
     </tr>
     <tr>
