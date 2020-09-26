@@ -3831,6 +3831,14 @@
         ]
     },
     {
+        "id": 14761,
+        "title": "FizzBuzz",
+        "level": 3,
+        "codes": [
+            "14/Q14761.py"
+        ]
+    },
+    {
         "id": 14782,
         "title": "Bedtime Reading, I",
         "level": 3,
