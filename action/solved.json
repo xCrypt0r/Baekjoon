@@ -1102,6 +1102,14 @@
         ]
     },
     {
+        "id": 2966,
+        "title": "찍기",
+        "level": 4,
+        "codes": [
+            "2/Q2966.py"
+        ]
+    },
+    {
         "id": 2975,
         "title": "Transactions",
         "level": 3,
