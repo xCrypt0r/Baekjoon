@@ -14,6 +14,10 @@
         <td>300</td>
     </tr>
     <tr>
+        <td><b>Rust</b></td>
+        <td>1</td>
+    </tr>
+    <tr>
         <td><b>Python</b></td>
         <td>300</td>
     </tr>
@@ -41,7 +45,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="1/Q1000.cpp">C++</a>
+            <a href="1/Q1000.cpp">C++</a><br><a href="1/Q1000.rs">Rust</a>
         </td>
     </tr>
     <tr>
