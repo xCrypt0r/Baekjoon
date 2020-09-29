@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>3</td>
+        <td>4</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -3723,7 +3723,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="10/Q10801.rs">Rust</a>
+            <a href="10/Q10801.kt">Kotlin</a><br><a href="10/Q10801.rs">Rust</a>
         </td>
     </tr>
     <tr>
