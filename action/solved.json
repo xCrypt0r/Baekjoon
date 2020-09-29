@@ -4713,6 +4713,14 @@
         ]
     },
     {
+        "id": 17618,
+        "title": "신기한 수",
+        "level": 3,
+        "codes": [
+            "17/Q17618.rs"
+        ]
+    },
+    {
         "id": 17783,
         "title": "Breaking Branches",
         "level": 3,
