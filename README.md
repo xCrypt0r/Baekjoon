@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (606문제)
+## 문제 풀이 현황 (607문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -6705,6 +6705,17 @@
         </td>
         <td align="center">
             <a href="19/Q19602.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19944">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                19944 뉴비의 기준은 뭘까?
+            </a>
+        </td>
+        <td align="center">
+            <a href="19/Q19944.rs">Rust</a>
         </td>
     </tr>
 </table>
