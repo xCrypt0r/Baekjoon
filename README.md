@@ -26,6 +26,10 @@
         <td>24</td>
     </tr>
     <tr>
+        <td><b>Kotlin</b></td>
+        <td>1</td>
+    </tr>
+    <tr>
         <td><b>Text</b></td>
         <td>4</td>
     </tr>
@@ -309,7 +313,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="1/Q1284.py">Python</a>
+            <a href="1/Q1284.kt">Kotlin</a><br><a href="1/Q1284.py">Python</a>
         </td>
     </tr>
     <tr>
