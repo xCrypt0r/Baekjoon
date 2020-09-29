@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (607문제)
+## 문제 풀이 현황 (608문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>2</td>
+        <td>3</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -3713,6 +3713,17 @@
         </td>
         <td align="center">
             <a href="10/Q10798.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10801">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10801 카드게임
+            </a>
+        </td>
+        <td align="center">
+            <a href="10/Q10801.rs">Rust</a>
         </td>
     </tr>
     <tr>
