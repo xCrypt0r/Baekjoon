@@ -14,7 +14,7 @@
     <tr>
         <td><b>C++</b></td>
         <td>300</td>
-        <td>7188</td>
+        <td>7,188</td>
         <td>102.99 KB</td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@
     <tr>
         <td><b>Python</b></td>
         <td>300</td>
-        <td>4690</td>
+        <td>4,690</td>
         <td>89.88 KB</td>
     </tr>
     <tr>

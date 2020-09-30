@@ -4,6 +4,7 @@ const cheerio       = require('cheerio');
 const glob          = require('fast-glob');
 const fs            = require('fs');
 const filesize      = require('filesize');
+const nf            = new Intl.NumberFormat();
 const path          = require('path');
 const exec          = promisify(require('child_process').exec);
 const rgx_id        = /\d+/;
@@ -77,8 +78,8 @@ async function updateReadme(list) {
         langsMarkdown.push(`
     <tr>
         <td><b>${lang}</b></td>
-        <td>${count}</td>
-        <td>${lines}</td>
+        <td>${nf.format(count)}</td>
+        <td>${nf.format(lines)}</td>
         <td>${filesize(+size)}</td>
     </tr>`
         );
