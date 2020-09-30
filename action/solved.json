@@ -2464,7 +2464,8 @@
         "title": "고양이",
         "level": 1,
         "codes": [
-            "src/10/Q10171.cpp"
+            "src/10/Q10171.cpp",
+            "src/10/Q10171.txt"
         ]
     },
     {

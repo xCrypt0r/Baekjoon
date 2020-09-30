@@ -37,8 +37,8 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>4</td>
-        <td>20</td>
+        <td>5</td>
+        <td>24</td>
     </tr>
 </table>
 
@@ -3422,7 +3422,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/10/Q10171.cpp">C++</a>
+            <a href="src/10/Q10171.cpp">C++</a><br><a href="src/10/Q10171.txt">Text</a>
         </td>
     </tr>
     <tr>
