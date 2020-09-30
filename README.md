@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>4</td>
+        <td>5</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -1314,7 +1314,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/2/Q2748.cpp">C++</a>
+            <a href="src/2/Q2748.cpp">C++</a><br><a href="src/2/Q2748.kt">Kotlin</a>
         </td>
     </tr>
     <tr>

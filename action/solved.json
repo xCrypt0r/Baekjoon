@@ -933,7 +933,8 @@
         "title": "피보나치 수 2",
         "level": 6,
         "codes": [
-            "src/2/Q2748.cpp"
+            "src/2/Q2748.cpp",
+            "src/2/Q2748.kt"
         ]
     },
     {
