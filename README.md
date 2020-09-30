@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (611문제)
+## 문제 풀이 현황 (612문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>6</td>
-        <td>165</td>
-        <td>3.0K</td>
+        <td>7</td>
+        <td>195</td>
+        <td>3.5K</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -5850,6 +5850,17 @@
         </td>
         <td align="center">
             <a href="src/15/Q15740.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15780">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15780 멀티탭 충분하니?
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/Q15780.rs">Rust</a>
         </td>
     </tr>
     <tr>
