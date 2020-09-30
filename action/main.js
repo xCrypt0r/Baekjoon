@@ -71,13 +71,15 @@ async function updateReadme(list) {
 
     for (let [lang, count] of Object.entries(langs)) {
         let ext = Object.keys(LANG).find(key => LANG[key] === lang),
-            lines = (await exec(`bash getLines.sh ${ext}`)).stdout.trim();
+            lines = (await exec(`bash getLines.sh ${ext}`)).stdout.trim(),
+            size = (await exec(`bash getSize.sh ${ext}`)).stdout.trim();
 
         langsMarkdown.push(`
     <tr>
         <td><b>${lang}</b></td>
         <td>${count}</td>
         <td>${lines}</td>
+        <td>${size}</td>
     </tr>`
         );
     }

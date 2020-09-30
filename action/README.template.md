@@ -9,6 +9,7 @@
         <th>언어</th>
         <th>개수</th>
         <th>줄수</th>
+        <th>크기</th>
     </tr>
     ${{LANGUAGES}}
 </table>

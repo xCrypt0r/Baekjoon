@@ -9,36 +9,43 @@
         <th>언어</th>
         <th>개수</th>
         <th>줄수</th>
+        <th>크기</th>
     </tr>
     <tr>
         <td><b>C++</b></td>
         <td>300</td>
         <td>7188</td>
+        <td>103K</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>4</td>
         <td>102</td>
+        <td>1.9K</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>300</td>
         <td>4690</td>
+        <td>90K</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>535</td>
+        <td>12K</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>5</td>
         <td>164</td>
+        <td>3.5K</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>5</td>
         <td>24</td>
+        <td>261B</td>
     </tr>
 </table>
 
