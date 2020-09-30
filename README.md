@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (609문제)
+## 문제 풀이 현황 (610문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>4</td>
-        <td>102</td>
-        <td>1.9K</td>
+        <td>5</td>
+        <td>138</td>
+        <td>2.5K</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -6554,6 +6554,17 @@
         </td>
         <td align="center">
             <a href="src/17/Q17912.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17944">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                17944 퐁당퐁당 1
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/Q17944.rs">Rust</a>
         </td>
     </tr>
     <tr>
