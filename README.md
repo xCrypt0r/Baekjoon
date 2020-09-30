@@ -8,30 +8,37 @@
     <tr>
         <th>언어</th>
         <th>개수</th>
+        <th>줄수</th>
     </tr>
     <tr>
         <td><b>C++</b></td>
         <td>300</td>
+        <td>7188</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>4</td>
+        <td>102</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>300</td>
+        <td>4690</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
+        <td>535</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>5</td>
+        <td>164</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>4</td>
+        <td>20</td>
     </tr>
 </table>
 

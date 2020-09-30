@@ -8,6 +8,7 @@
     <tr>
         <th>언어</th>
         <th>개수</th>
+        <th>줄수</th>
     </tr>
     ${{LANGUAGES}}
 </table>

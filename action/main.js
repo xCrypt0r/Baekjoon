@@ -4,6 +4,7 @@ const cheerio       = require('cheerio');
 const glob          = require('fast-glob');
 const fs            = require('fs');
 const path          = require('path');
+const exec          = promisify(require('child_process').exec);
 const rgx_id        = /\d+/;
 const argv          = process.argv.slice(2).map(a => a.match(rgx_id)[0]);
 const URL           = 'https://solved.ac/search?query=';
@@ -55,7 +56,7 @@ function saveInfo({ id, title, level }) {
     }
 }
 
-function updateReadme(list) {
+async function updateReadme(list) {
     let readme = fs.readFileSync('README.template.md', 'utf-8'),
         langs = {},
         langsMarkdown = [];
@@ -69,10 +70,14 @@ function updateReadme(list) {
     });
 
     for (let [lang, count] of Object.entries(langs)) {
+        let ext = Object.keys(LANG).find(key => LANG[key] === lang),
+            lines = (await exec(`bash getLines.sh ${ext}`)).stdout.trim();
+
         langsMarkdown.push(`
     <tr>
         <td><b>${lang}</b></td>
         <td>${count}</td>
+        <td>${lines}</td>
     </tr>`
         );
     }
