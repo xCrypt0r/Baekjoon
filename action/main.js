@@ -3,6 +3,7 @@ const request       = promisify(require('request'));
 const cheerio       = require('cheerio');
 const glob          = require('fast-glob');
 const fs            = require('fs');
+const filesize      = require('filesize');
 const path          = require('path');
 const exec          = promisify(require('child_process').exec);
 const rgx_id        = /\d+/;
@@ -71,15 +72,14 @@ async function updateReadme(list) {
 
     for (let [lang, count] of Object.entries(langs)) {
         let ext = Object.keys(LANG).find(key => LANG[key] === lang),
-            lines = (await exec(`bash getLines.sh ${ext}`)).stdout.trim(),
-            size = (await exec(`bash getSize.sh ${ext}`)).stdout.trim();
+            [lines, size] = (await exec(`bash getDetails.sh ${ext}`)).stdout.trim().split(' ');
 
         langsMarkdown.push(`
     <tr>
         <td><b>${lang}</b></td>
         <td>${count}</td>
         <td>${lines}</td>
-        <td>${size}</td>
+        <td>${filesize(+size)}</td>
     </tr>`
         );
     }

@@ -15,37 +15,37 @@
         <td><b>C++</b></td>
         <td>300</td>
         <td>7188</td>
-        <td>103K</td>
+        <td>102.99 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>7</td>
         <td>195</td>
-        <td>3.5K</td>
+        <td>3.5 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>300</td>
         <td>4690</td>
-        <td>90K</td>
+        <td>89.88 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>535</td>
-        <td>12K</td>
+        <td>11.14 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>5</td>
         <td>164</td>
-        <td>3.5K</td>
+        <td>3.44 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>6</td>
         <td>25</td>
-        <td>264B</td>
+        <td>264 B</td>
     </tr>
 </table>
 
