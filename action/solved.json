@@ -3869,6 +3869,14 @@
         ]
     },
     {
+        "id": 14720,
+        "title": "우유 축제",
+        "level": 3,
+        "codes": [
+            "src/14/Q14720.rs"
+        ]
+    },
+    {
         "id": 14761,
         "title": "FizzBuzz",
         "level": 3,
