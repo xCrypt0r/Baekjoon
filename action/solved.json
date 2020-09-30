@@ -4,8 +4,8 @@
         "title": "A+B",
         "level": 1,
         "codes": [
-            "1/Q1000.cpp",
-            "1/Q1000.rs"
+            "src/1/Q1000.cpp",
+            "src/1/Q1000.rs"
         ]
     },
     {
@@ -13,7 +13,7 @@
         "title": "A-B",
         "level": 1,
         "codes": [
-            "1/Q1001.cpp"
+            "src/1/Q1001.cpp"
         ]
     },
     {
@@ -21,7 +21,7 @@
         "title": "피보나치 함수",
         "level": 8,
         "codes": [
-            "1/Q1003.cpp"
+            "src/1/Q1003.cpp"
         ]
     },
     {
@@ -29,7 +29,7 @@
         "title": "A/B",
         "level": 2,
         "codes": [
-            "1/Q1008.cpp"
+            "src/1/Q1008.cpp"
         ]
     },
     {
@@ -37,7 +37,7 @@
         "title": "보물",
         "level": 7,
         "codes": [
-            "1/Q1026.cpp"
+            "src/1/Q1026.cpp"
         ]
     },
     {
@@ -45,7 +45,7 @@
         "title": "약수",
         "level": 6,
         "codes": [
-            "1/Q1037.py"
+            "src/1/Q1037.py"
         ]
     },
     {
@@ -53,7 +53,7 @@
         "title": "한수",
         "level": 7,
         "codes": [
-            "1/Q1065.cpp"
+            "src/1/Q1065.cpp"
         ]
     },
     {
@@ -61,7 +61,7 @@
         "title": "저항",
         "level": 4,
         "codes": [
-            "1/Q1076.py"
+            "src/1/Q1076.py"
         ]
     },
     {
@@ -69,7 +69,7 @@
         "title": "직사각형에서 탈출",
         "level": 3,
         "codes": [
-            "1/Q1085.cpp"
+            "src/1/Q1085.cpp"
         ]
     },
     {
@@ -77,7 +77,7 @@
         "title": "막대기",
         "level": 6,
         "codes": [
-            "1/Q1094.cpp"
+            "src/1/Q1094.cpp"
         ]
     },
     {
@@ -85,7 +85,7 @@
         "title": "하얀 칸",
         "level": 4,
         "codes": [
-            "1/Q1100.cpp"
+            "src/1/Q1100.cpp"
         ]
     },
     {
@@ -93,7 +93,7 @@
         "title": "더하기 사이클",
         "level": 5,
         "codes": [
-            "1/Q1110.cpp"
+            "src/1/Q1110.cpp"
         ]
     },
     {
@@ -101,7 +101,7 @@
         "title": "단어의 개수",
         "level": 4,
         "codes": [
-            "1/Q1152.cpp"
+            "src/1/Q1152.cpp"
         ]
     },
     {
@@ -109,7 +109,7 @@
         "title": "단어 공부",
         "level": 5,
         "codes": [
-            "1/Q1157.cpp"
+            "src/1/Q1157.cpp"
         ]
     },
     {
@@ -117,7 +117,7 @@
         "title": "농구 경기",
         "level": 4,
         "codes": [
-            "1/Q1159.py"
+            "src/1/Q1159.py"
         ]
     },
     {
@@ -125,7 +125,7 @@
         "title": "단어 정렬",
         "level": 6,
         "codes": [
-            "1/Q1181.cpp"
+            "src/1/Q1181.cpp"
         ]
     },
     {
@@ -133,8 +133,8 @@
         "title": "8진수 2진수",
         "level": 2,
         "codes": [
-            "1/Q1212.java",
-            "1/Q1212.py"
+            "src/1/Q1212.java",
+            "src/1/Q1212.py"
         ]
     },
     {
@@ -142,7 +142,7 @@
         "title": "이상한 곱셈",
         "level": 4,
         "codes": [
-            "1/Q1225.py"
+            "src/1/Q1225.py"
         ]
     },
     {
@@ -150,7 +150,7 @@
         "title": "정ㅋ벅ㅋ",
         "level": 0,
         "codes": [
-            "1/Q1237.cpp"
+            "src/1/Q1237.cpp"
         ]
     },
     {
@@ -158,7 +158,7 @@
         "title": "이진수 덧셈",
         "level": 5,
         "codes": [
-            "1/Q1252.py"
+            "src/1/Q1252.py"
         ]
     },
     {
@@ -166,7 +166,7 @@
         "title": "팰린드롬수",
         "level": 5,
         "codes": [
-            "1/Q1259.cpp"
+            "src/1/Q1259.cpp"
         ]
     },
     {
@@ -174,7 +174,7 @@
         "title": "모음의 개수",
         "level": 4,
         "codes": [
-            "1/Q1264.py"
+            "src/1/Q1264.py"
         ]
     },
     {
@@ -182,7 +182,7 @@
         "title": "핸드폰 요금",
         "level": 3,
         "codes": [
-            "1/Q1267.py"
+            "src/1/Q1267.py"
         ]
     },
     {
@@ -190,7 +190,7 @@
         "title": "엄청난 부자2",
         "level": 1,
         "codes": [
-            "1/Q1271.py"
+            "src/1/Q1271.py"
         ]
     },
     {
@@ -198,8 +198,8 @@
         "title": "집 주소",
         "level": 3,
         "codes": [
-            "1/Q1284.kt",
-            "1/Q1284.py"
+            "src/1/Q1284.kt",
+            "src/1/Q1284.py"
         ]
     },
     {
@@ -207,7 +207,7 @@
         "title": "TV 크기",
         "level": 2,
         "codes": [
-            "1/Q1297.py"
+            "src/1/Q1297.py"
         ]
     },
     {
@@ -215,7 +215,7 @@
         "title": "베스트셀러",
         "level": 7,
         "codes": [
-            "1/Q1302.cpp"
+            "src/1/Q1302.cpp"
         ]
     },
     {
@@ -223,7 +223,7 @@
         "title": "그룹 단어 체커",
         "level": 6,
         "codes": [
-            "1/Q1316.cpp"
+            "src/1/Q1316.cpp"
         ]
     },
     {
@@ -231,7 +231,7 @@
         "title": "두 수 비교하기",
         "level": 2,
         "codes": [
-            "1/Q1330.cpp"
+            "src/1/Q1330.cpp"
         ]
     },
     {
@@ -239,7 +239,7 @@
         "title": "뒤집힌 덧셈",
         "level": 5,
         "codes": [
-            "1/Q1357.py"
+            "src/1/Q1357.py"
         ]
     },
     {
@@ -247,7 +247,7 @@
         "title": "가장 많은 글자",
         "level": 4,
         "codes": [
-            "1/Q1371.cpp"
+            "src/1/Q1371.cpp"
         ]
     },
     {
@@ -255,7 +255,7 @@
         "title": "2진수 8진수",
         "level": 4,
         "codes": [
-            "1/Q1373.py"
+            "src/1/Q1373.py"
         ]
     },
     {
@@ -263,7 +263,7 @@
         "title": "소트인사이드",
         "level": 6,
         "codes": [
-            "1/Q1427.cpp"
+            "src/1/Q1427.cpp"
         ]
     },
     {
@@ -271,7 +271,7 @@
         "title": "피시방 알바",
         "level": 5,
         "codes": [
-            "1/Q1453.cpp"
+            "src/1/Q1453.cpp"
         ]
     },
     {
@@ -279,7 +279,7 @@
         "title": "1로 만들기",
         "level": 8,
         "codes": [
-            "1/Q1463.cpp"
+            "src/1/Q1463.cpp"
         ]
     },
     {
@@ -287,7 +287,7 @@
         "title": "평균",
         "level": 5,
         "codes": [
-            "1/Q1546.cpp"
+            "src/1/Q1546.cpp"
         ]
     },
     {
@@ -295,7 +295,7 @@
         "title": "공",
         "level": 3,
         "codes": [
-            "1/Q1547.cpp"
+            "src/1/Q1547.cpp"
         ]
     },
     {
@@ -303,7 +303,7 @@
         "title": "16진수",
         "level": 1,
         "codes": [
-            "1/Q1550.cpp"
+            "src/1/Q1550.cpp"
         ]
     },
     {
@@ -311,7 +311,7 @@
         "title": "새",
         "level": 4,
         "codes": [
-            "1/Q1568.py"
+            "src/1/Q1568.py"
         ]
     },
     {
@@ -319,7 +319,7 @@
         "title": "손익분기점",
         "level": 2,
         "codes": [
-            "1/Q1712.cpp"
+            "src/1/Q1712.cpp"
         ]
     },
     {
@@ -327,7 +327,7 @@
         "title": "추론",
         "level": 4,
         "codes": [
-            "1/Q1731.py"
+            "src/1/Q1731.py"
         ]
     },
     {
@@ -335,7 +335,7 @@
         "title": "암호 만들기",
         "level": 11,
         "codes": [
-            "1/Q1759.py"
+            "src/1/Q1759.py"
         ]
     },
     {
@@ -343,7 +343,7 @@
         "title": "듣보잡",
         "level": 7,
         "codes": [
-            "1/Q1764.cpp"
+            "src/1/Q1764.cpp"
         ]
     },
     {
@@ -351,7 +351,7 @@
         "title": "나머지와 몫이 같은 수",
         "level": 5,
         "codes": [
-            "1/Q1834.py"
+            "src/1/Q1834.py"
         ]
     },
     {
@@ -359,7 +359,7 @@
         "title": "최대공약수",
         "level": 9,
         "codes": [
-            "1/Q1850.py"
+            "src/1/Q1850.py"
         ]
     },
     {
@@ -367,7 +367,7 @@
         "title": "문어 숫자",
         "level": 3,
         "codes": [
-            "1/Q1864.py"
+            "src/1/Q1864.py"
         ]
     },
     {
@@ -375,7 +375,7 @@
         "title": "좋은 자동차 번호판",
         "level": 4,
         "codes": [
-            "1/Q1871.cpp"
+            "src/1/Q1871.cpp"
         ]
     },
     {
@@ -383,7 +383,7 @@
         "title": "애너그램 만들기",
         "level": 4,
         "codes": [
-            "1/Q1919.cpp"
+            "src/1/Q1919.cpp"
         ]
     },
     {
@@ -391,7 +391,7 @@
         "title": "2007년",
         "level": 5,
         "codes": [
-            "1/Q1924.cpp"
+            "src/1/Q1924.cpp"
         ]
     },
     {
@@ -399,7 +399,7 @@
         "title": "소수 구하기",
         "level": 9,
         "codes": [
-            "1/Q1929.cpp"
+            "src/1/Q1929.cpp"
         ]
     },
     {
@@ -407,7 +407,7 @@
         "title": "최소공배수",
         "level": 6,
         "codes": [
-            "1/Q1934.cpp"
+            "src/1/Q1934.cpp"
         ]
     },
     {
@@ -415,7 +415,7 @@
         "title": "오각형, 오각형, 오각형…",
         "level": 3,
         "codes": [
-            "1/Q1964.py"
+            "src/1/Q1964.py"
         ]
     },
     {
@@ -423,7 +423,7 @@
         "title": "완전제곱수",
         "level": 5,
         "codes": [
-            "1/Q1977.cpp"
+            "src/1/Q1977.cpp"
         ]
     },
     {
@@ -431,7 +431,7 @@
         "title": "소수 찾기",
         "level": 7,
         "codes": [
-            "1/Q1978.cpp"
+            "src/1/Q1978.cpp"
         ]
     },
     {
@@ -439,7 +439,7 @@
         "title": "플러그",
         "level": 3,
         "codes": [
-            "2/Q2010.py"
+            "src/2/Q2010.py"
         ]
     },
     {
@@ -447,7 +447,7 @@
         "title": "카드1",
         "level": 4,
         "codes": [
-            "2/Q2161.cpp"
+            "src/2/Q2161.cpp"
         ]
     },
     {
@@ -455,7 +455,7 @@
         "title": "초콜릿 자르기",
         "level": 3,
         "codes": [
-            "2/Q2163.cpp"
+            "src/2/Q2163.cpp"
         ]
     },
     {
@@ -463,7 +463,7 @@
         "title": "분해합",
         "level": 4,
         "codes": [
-            "2/Q2231.cpp"
+            "src/2/Q2231.cpp"
         ]
     },
     {
@@ -471,7 +471,7 @@
         "title": "일곱 난쟁이",
         "level": 4,
         "codes": [
-            "2/Q2309.py"
+            "src/2/Q2309.py"
         ]
     },
     {
@@ -479,7 +479,7 @@
         "title": "긴자리 계산",
         "level": 1,
         "codes": [
-            "2/Q2338.py"
+            "src/2/Q2338.py"
         ]
     },
     {
@@ -487,7 +487,7 @@
         "title": "시그마",
         "level": 3,
         "codes": [
-            "2/Q2355.cpp"
+            "src/2/Q2355.cpp"
         ]
     },
     {
@@ -495,7 +495,7 @@
         "title": "도비의 영어 공부",
         "level": 4,
         "codes": [
-            "2/Q2386.cpp"
+            "src/2/Q2386.cpp"
         ]
     },
     {
@@ -503,7 +503,7 @@
         "title": "조합",
         "level": 9,
         "codes": [
-            "2/Q2407.py"
+            "src/2/Q2407.py"
         ]
     },
     {
@@ -511,7 +511,7 @@
         "title": "사파리월드",
         "level": 2,
         "codes": [
-            "2/Q2420.cpp"
+            "src/2/Q2420.cpp"
         ]
     },
     {
@@ -519,7 +519,7 @@
         "title": "별 찍기 - 1",
         "level": 3,
         "codes": [
-            "2/Q2438.cpp"
+            "src/2/Q2438.cpp"
         ]
     },
     {
@@ -527,7 +527,7 @@
         "title": "별 찍기 - 2",
         "level": 3,
         "codes": [
-            "2/Q2439.cpp"
+            "src/2/Q2439.cpp"
         ]
     },
     {
@@ -535,8 +535,8 @@
         "title": "별 찍기 - 3",
         "level": 3,
         "codes": [
-            "2/Q2440.cpp",
-            "2/Q2440.java"
+            "src/2/Q2440.cpp",
+            "src/2/Q2440.java"
         ]
     },
     {
@@ -544,8 +544,8 @@
         "title": "별 찍기 - 4",
         "level": 3,
         "codes": [
-            "2/Q2441.cpp",
-            "2/Q2441.java"
+            "src/2/Q2441.cpp",
+            "src/2/Q2441.java"
         ]
     },
     {
@@ -553,8 +553,8 @@
         "title": "별 찍기 - 5",
         "level": 3,
         "codes": [
-            "2/Q2442.cpp",
-            "2/Q2442.java"
+            "src/2/Q2442.cpp",
+            "src/2/Q2442.java"
         ]
     },
     {
@@ -562,8 +562,8 @@
         "title": "별 찍기 - 6",
         "level": 3,
         "codes": [
-            "2/Q2443.cpp",
-            "2/Q2443.java"
+            "src/2/Q2443.cpp",
+            "src/2/Q2443.java"
         ]
     },
     {
@@ -571,8 +571,8 @@
         "title": "별 찍기 - 7",
         "level": 3,
         "codes": [
-            "2/Q2444.cpp",
-            "2/Q2444.java"
+            "src/2/Q2444.cpp",
+            "src/2/Q2444.java"
         ]
     },
     {
@@ -580,7 +580,7 @@
         "title": "별 찍기 - 8",
         "level": 3,
         "codes": [
-            "2/Q2445.cpp"
+            "src/2/Q2445.cpp"
         ]
     },
     {
@@ -588,7 +588,7 @@
         "title": "별 찍기 - 9",
         "level": 3,
         "codes": [
-            "2/Q2446.cpp"
+            "src/2/Q2446.cpp"
         ]
     },
     {
@@ -596,7 +596,7 @@
         "title": "지능형 기차",
         "level": 3,
         "codes": [
-            "2/Q2455.cpp"
+            "src/2/Q2455.cpp"
         ]
     },
     {
@@ -604,7 +604,7 @@
         "title": "지능형 기차 2",
         "level": 3,
         "codes": [
-            "2/Q2460.cpp"
+            "src/2/Q2460.cpp"
         ]
     },
     {
@@ -612,7 +612,7 @@
         "title": "검증수",
         "level": 1,
         "codes": [
-            "2/Q2475.cpp"
+            "src/2/Q2475.cpp"
         ]
     },
     {
@@ -620,7 +620,7 @@
         "title": "주사위 게임",
         "level": 3,
         "codes": [
-            "2/Q2476.cpp"
+            "src/2/Q2476.cpp"
         ]
     },
     {
@@ -628,7 +628,7 @@
         "title": "주사위 세개",
         "level": 2,
         "codes": [
-            "2/Q2480.cpp"
+            "src/2/Q2480.cpp"
         ]
     },
     {
@@ -636,7 +636,7 @@
         "title": "주사위 네개",
         "level": 4,
         "codes": [
-            "2/Q2484.py"
+            "src/2/Q2484.py"
         ]
     },
     {
@@ -644,7 +644,7 @@
         "title": "윷놀이",
         "level": 3,
         "codes": [
-            "2/Q2490.cpp"
+            "src/2/Q2490.cpp"
         ]
     },
     {
@@ -652,7 +652,7 @@
         "title": "연속구간",
         "level": 4,
         "codes": [
-            "2/Q2495.cpp"
+            "src/2/Q2495.cpp"
         ]
     },
     {
@@ -660,7 +660,7 @@
         "title": "약수 구하기",
         "level": 3,
         "codes": [
-            "2/Q2501.cpp"
+            "src/2/Q2501.cpp"
         ]
     },
     {
@@ -668,7 +668,7 @@
         "title": "점수계산",
         "level": 3,
         "codes": [
-            "2/Q2506.cpp"
+            "src/2/Q2506.cpp"
         ]
     },
     {
@@ -676,7 +676,7 @@
         "title": "별 찍기 - 12",
         "level": 3,
         "codes": [
-            "2/Q2522.cpp"
+            "src/2/Q2522.cpp"
         ]
     },
     {
@@ -684,7 +684,7 @@
         "title": "별 찍기 - 13",
         "level": 3,
         "codes": [
-            "2/Q2523.cpp"
+            "src/2/Q2523.cpp"
         ]
     },
     {
@@ -692,7 +692,7 @@
         "title": "오븐 시계",
         "level": 2,
         "codes": [
-            "2/Q2525.cpp"
+            "src/2/Q2525.cpp"
         ]
     },
     {
@@ -700,7 +700,7 @@
         "title": "인공지능 시계",
         "level": 2,
         "codes": [
-            "2/Q2530.cpp"
+            "src/2/Q2530.cpp"
         ]
     },
     {
@@ -708,7 +708,7 @@
         "title": "생일 출력하기",
         "level": 0,
         "codes": [
-            "2/Q2555.cpp"
+            "src/2/Q2555.cpp"
         ]
     },
     {
@@ -716,7 +716,7 @@
         "title": "별 찍기 - 14",
         "level": 0,
         "codes": [
-            "2/Q2556.py"
+            "src/2/Q2556.py"
         ]
     },
     {
@@ -724,7 +724,7 @@
         "title": "Hello World",
         "level": 1,
         "codes": [
-            "2/Q2557.cpp"
+            "src/2/Q2557.cpp"
         ]
     },
     {
@@ -732,7 +732,7 @@
         "title": "A+B - 2",
         "level": 1,
         "codes": [
-            "2/Q2558.cpp"
+            "src/2/Q2558.cpp"
         ]
     },
     {
@@ -740,7 +740,7 @@
         "title": "최댓값",
         "level": 4,
         "codes": [
-            "2/Q2562.cpp"
+            "src/2/Q2562.cpp"
         ]
     },
     {
@@ -748,7 +748,7 @@
         "title": "최댓값",
         "level": 3,
         "codes": [
-            "2/Q2566.cpp"
+            "src/2/Q2566.cpp"
         ]
     },
     {
@@ -756,7 +756,7 @@
         "title": "홀수",
         "level": 3,
         "codes": [
-            "2/Q2576.cpp"
+            "src/2/Q2576.cpp"
         ]
     },
     {
@@ -764,7 +764,7 @@
         "title": "숫자의 개수",
         "level": 4,
         "codes": [
-            "2/Q2577.cpp"
+            "src/2/Q2577.cpp"
         ]
     },
     {
@@ -772,7 +772,7 @@
         "title": "소수",
         "level": 7,
         "codes": [
-            "2/Q2581.py"
+            "src/2/Q2581.py"
         ]
     },
     {
@@ -780,7 +780,7 @@
         "title": "대표값2",
         "level": 4,
         "codes": [
-            "2/Q2587.cpp"
+            "src/2/Q2587.cpp"
         ]
     },
     {
@@ -788,7 +788,7 @@
         "title": "곱셈",
         "level": 2,
         "codes": [
-            "2/Q2588.cpp"
+            "src/2/Q2588.cpp"
         ]
     },
     {
@@ -796,7 +796,7 @@
         "title": "대표값",
         "level": 4,
         "codes": [
-            "2/Q2592.cpp"
+            "src/2/Q2592.cpp"
         ]
     },
     {
@@ -804,7 +804,7 @@
         "title": "줄 세우기",
         "level": 4,
         "codes": [
-            "2/Q2605.py"
+            "src/2/Q2605.py"
         ]
     },
     {
@@ -812,7 +812,7 @@
         "title": "최대공약수와 최소공배수",
         "level": 6,
         "codes": [
-            "2/Q2609.cpp"
+            "src/2/Q2609.cpp"
         ]
     },
     {
@@ -820,7 +820,7 @@
         "title": "단지번호붙이기",
         "level": 10,
         "codes": [
-            "2/Q2667.kt"
+            "src/2/Q2667.kt"
         ]
     },
     {
@@ -828,7 +828,7 @@
         "title": "문자열 반복",
         "level": 4,
         "codes": [
-            "2/Q2675.cpp"
+            "src/2/Q2675.cpp"
         ]
     },
     {
@@ -836,7 +836,7 @@
         "title": "N번째 큰 수",
         "level": 6,
         "codes": [
-            "2/Q2693.cpp"
+            "src/2/Q2693.cpp"
         ]
     },
     {
@@ -844,7 +844,7 @@
         "title": "오타맨 고창영",
         "level": 4,
         "codes": [
-            "2/Q2711.cpp"
+            "src/2/Q2711.cpp"
         ]
     },
     {
@@ -852,7 +852,7 @@
         "title": "세탁소 사장 동혁",
         "level": 3,
         "codes": [
-            "2/Q2720.cpp"
+            "src/2/Q2720.cpp"
         ]
     },
     {
@@ -860,7 +860,7 @@
         "title": "삼각수의 합",
         "level": 4,
         "codes": [
-            "2/Q2721.java"
+            "src/2/Q2721.java"
         ]
     },
     {
@@ -868,8 +868,8 @@
         "title": "행렬 덧셈",
         "level": 5,
         "codes": [
-            "2/Q2738.java",
-            "2/Q2738.py"
+            "src/2/Q2738.java",
+            "src/2/Q2738.py"
         ]
     },
     {
@@ -877,7 +877,7 @@
         "title": "구구단",
         "level": 3,
         "codes": [
-            "2/Q2739.cpp"
+            "src/2/Q2739.cpp"
         ]
     },
     {
@@ -885,7 +885,7 @@
         "title": "N 찍기",
         "level": 3,
         "codes": [
-            "2/Q2741.cpp"
+            "src/2/Q2741.cpp"
         ]
     },
     {
@@ -893,7 +893,7 @@
         "title": "기찍 N",
         "level": 3,
         "codes": [
-            "2/Q2742.cpp"
+            "src/2/Q2742.cpp"
         ]
     },
     {
@@ -901,7 +901,7 @@
         "title": "단어 길이 재기",
         "level": 4,
         "codes": [
-            "2/Q2743.cpp"
+            "src/2/Q2743.cpp"
         ]
     },
     {
@@ -909,7 +909,7 @@
         "title": "대소문자 바꾸기",
         "level": 4,
         "codes": [
-            "2/Q2744.cpp"
+            "src/2/Q2744.cpp"
         ]
     },
     {
@@ -917,7 +917,7 @@
         "title": "진법 변환",
         "level": 4,
         "codes": [
-            "2/Q2745.cpp"
+            "src/2/Q2745.cpp"
         ]
     },
     {
@@ -925,7 +925,7 @@
         "title": "피보나치 수",
         "level": 3,
         "codes": [
-            "2/Q2747.cpp"
+            "src/2/Q2747.cpp"
         ]
     },
     {
@@ -933,7 +933,7 @@
         "title": "피보나치 수 2",
         "level": 6,
         "codes": [
-            "2/Q2748.cpp"
+            "src/2/Q2748.cpp"
         ]
     },
     {
@@ -941,7 +941,7 @@
         "title": "수 정렬하기",
         "level": 6,
         "codes": [
-            "2/Q2750.cpp"
+            "src/2/Q2750.cpp"
         ]
     },
     {
@@ -949,7 +949,7 @@
         "title": "수 정렬하기 2",
         "level": 6,
         "codes": [
-            "2/Q2751.cpp"
+            "src/2/Q2751.cpp"
         ]
     },
     {
@@ -957,7 +957,7 @@
         "title": "세수정렬",
         "level": 2,
         "codes": [
-            "2/Q2752.cpp"
+            "src/2/Q2752.cpp"
         ]
     },
     {
@@ -965,7 +965,7 @@
         "title": "윤년",
         "level": 2,
         "codes": [
-            "2/Q2753.cpp"
+            "src/2/Q2753.cpp"
         ]
     },
     {
@@ -973,7 +973,7 @@
         "title": "학점계산",
         "level": 3,
         "codes": [
-            "2/Q2754.cpp"
+            "src/2/Q2754.cpp"
         ]
     },
     {
@@ -981,7 +981,7 @@
         "title": "암기왕",
         "level": 8,
         "codes": [
-            "2/Q2776.cpp"
+            "src/2/Q2776.cpp"
         ]
     },
     {
@@ -989,7 +989,7 @@
         "title": "유학 금지",
         "level": 4,
         "codes": [
-            "2/Q2789.cpp"
+            "src/2/Q2789.cpp"
         ]
     },
     {
@@ -997,7 +997,7 @@
         "title": "블랙잭",
         "level": 4,
         "codes": [
-            "2/Q2798.py"
+            "src/2/Q2798.py"
         ]
     },
     {
@@ -1005,7 +1005,7 @@
         "title": "컵홀더",
         "level": 4,
         "codes": [
-            "2/Q2810.py"
+            "src/2/Q2810.py"
         ]
     },
     {
@@ -1013,7 +1013,7 @@
         "title": "점수 계산",
         "level": 6,
         "codes": [
-            "2/Q2822.cpp"
+            "src/2/Q2822.cpp"
         ]
     },
     {
@@ -1021,7 +1021,7 @@
         "title": "설탕 배달",
         "level": 5,
         "codes": [
-            "2/Q2839.cpp"
+            "src/2/Q2839.cpp"
         ]
     },
     {
@@ -1029,7 +1029,7 @@
         "title": "파티가 끝나고 난 뒤",
         "level": 1,
         "codes": [
-            "2/Q2845.cpp"
+            "src/2/Q2845.cpp"
         ]
     },
     {
@@ -1037,7 +1037,7 @@
         "title": "FBI",
         "level": 4,
         "codes": [
-            "2/Q2857.cpp"
+            "src/2/Q2857.cpp"
         ]
     },
     {
@@ -1045,7 +1045,7 @@
         "title": "5와 6의 차이",
         "level": 4,
         "codes": [
-            "2/Q2864.cpp"
+            "src/2/Q2864.cpp"
         ]
     },
     {
@@ -1053,7 +1053,7 @@
         "title": "대회 or 인턴",
         "level": 3,
         "codes": [
-            "2/Q2875.py"
+            "src/2/Q2875.py"
         ]
     },
     {
@@ -1061,7 +1061,7 @@
         "title": "알람 시계",
         "level": 3,
         "codes": [
-            "2/Q2884.cpp"
+            "src/2/Q2884.cpp"
         ]
     },
     {
@@ -1069,7 +1069,7 @@
         "title": "KMP는 왜 KMP일까?",
         "level": 4,
         "codes": [
-            "2/Q2902.cpp"
+            "src/2/Q2902.cpp"
         ]
     },
     {
@@ -1077,7 +1077,7 @@
         "title": "상수",
         "level": 4,
         "codes": [
-            "2/Q2908.cpp"
+            "src/2/Q2908.cpp"
         ]
     },
     {
@@ -1085,7 +1085,7 @@
         "title": "저작권",
         "level": 1,
         "codes": [
-            "2/Q2914.cpp"
+            "src/2/Q2914.cpp"
         ]
     },
     {
@@ -1093,7 +1093,7 @@
         "title": "음계",
         "level": 4,
         "codes": [
-            "2/Q2920.cpp"
+            "src/2/Q2920.cpp"
         ]
     },
     {
@@ -1101,7 +1101,7 @@
         "title": "소음",
         "level": 3,
         "codes": [
-            "2/Q2935.py"
+            "src/2/Q2935.py"
         ]
     },
     {
@@ -1109,7 +1109,7 @@
         "title": "크로아티아 알파벳",
         "level": 6,
         "codes": [
-            "2/Q2941.py"
+            "src/2/Q2941.py"
         ]
     },
     {
@@ -1117,7 +1117,7 @@
         "title": "나무 조각",
         "level": 6,
         "codes": [
-            "2/Q2947.py"
+            "src/2/Q2947.py"
         ]
     },
     {
@@ -1125,7 +1125,7 @@
         "title": "나는 요리사다",
         "level": 3,
         "codes": [
-            "2/Q2953.cpp"
+            "src/2/Q2953.cpp"
         ]
     },
     {
@@ -1133,7 +1133,7 @@
         "title": "창영이의 일기장",
         "level": 5,
         "codes": [
-            "2/Q2954.cpp"
+            "src/2/Q2954.cpp"
         ]
     },
     {
@@ -1141,7 +1141,7 @@
         "title": "거북이",
         "level": 3,
         "codes": [
-            "2/Q2959.py"
+            "src/2/Q2959.py"
         ]
     },
     {
@@ -1149,7 +1149,7 @@
         "title": "캥거루 세마리",
         "level": 3,
         "codes": [
-            "2/Q2965.cpp"
+            "src/2/Q2965.cpp"
         ]
     },
     {
@@ -1157,7 +1157,7 @@
         "title": "찍기",
         "level": 4,
         "codes": [
-            "2/Q2966.py"
+            "src/2/Q2966.py"
         ]
     },
     {
@@ -1165,7 +1165,7 @@
         "title": "Transactions",
         "level": 3,
         "codes": [
-            "2/Q2975.py"
+            "src/2/Q2975.py"
         ]
     },
     {
@@ -1173,7 +1173,7 @@
         "title": "네 번째 수",
         "level": 3,
         "codes": [
-            "2/Q2997.py"
+            "src/2/Q2997.py"
         ]
     },
     {
@@ -1181,7 +1181,7 @@
         "title": "8진수",
         "level": 6,
         "codes": [
-            "2/Q2998.py"
+            "src/2/Q2998.py"
         ]
     },
     {
@@ -1189,7 +1189,7 @@
         "title": "킹, 퀸, 룩, 비숍, 나이트, 폰",
         "level": 1,
         "codes": [
-            "3/Q3003.cpp"
+            "src/3/Q3003.cpp"
         ]
     },
     {
@@ -1197,7 +1197,7 @@
         "title": "체스판 조각",
         "level": 2,
         "codes": [
-            "3/Q3004.py"
+            "src/3/Q3004.py"
         ]
     },
     {
@@ -1205,7 +1205,7 @@
         "title": "네 번째 점",
         "level": 3,
         "codes": [
-            "3/Q3009.cpp"
+            "src/3/Q3009.cpp"
         ]
     },
     {
@@ -1213,7 +1213,7 @@
         "title": "창영마을",
         "level": 3,
         "codes": [
-            "3/Q3028.py"
+            "src/3/Q3028.py"
         ]
     },
     {
@@ -1221,7 +1221,7 @@
         "title": "경고",
         "level": 3,
         "codes": [
-            "3/Q3029.py"
+            "src/3/Q3029.py"
         ]
     },
     {
@@ -1229,7 +1229,7 @@
         "title": "앵그리 창영",
         "level": 3,
         "codes": [
-            "3/Q3034.cpp"
+            "src/3/Q3034.cpp"
         ]
     },
     {
@@ -1237,7 +1237,7 @@
         "title": "링",
         "level": 8,
         "codes": [
-            "3/Q3036.cpp"
+            "src/3/Q3036.cpp"
         ]
     },
     {
@@ -1245,7 +1245,7 @@
         "title": "백설 공주와 일곱 난쟁이",
         "level": 4,
         "codes": [
-            "3/Q3040.py"
+            "src/3/Q3040.py"
         ]
     },
     {
@@ -1253,7 +1253,7 @@
         "title": "R2",
         "level": 1,
         "codes": [
-            "3/Q3046.cpp"
+            "src/3/Q3046.cpp"
         ]
     },
     {
@@ -1261,7 +1261,7 @@
         "title": "ABC",
         "level": 4,
         "codes": [
-            "3/Q3047.cpp"
+            "src/3/Q3047.cpp"
         ]
     },
     {
@@ -1269,7 +1269,7 @@
         "title": "다각형의 대각선",
         "level": 3,
         "codes": [
-            "3/Q3049.py"
+            "src/3/Q3049.py"
         ]
     },
     {
@@ -1277,7 +1277,7 @@
         "title": "나머지",
         "level": 4,
         "codes": [
-            "3/Q3052.cpp"
+            "src/3/Q3052.cpp"
         ]
     },
     {
@@ -1285,7 +1285,7 @@
         "title": "짝수를 찾아라",
         "level": 3,
         "codes": [
-            "3/Q3058.cpp"
+            "src/3/Q3058.cpp"
         ]
     },
     {
@@ -1293,7 +1293,7 @@
         "title": "등장하지 않는 문자의 합",
         "level": 4,
         "codes": [
-            "3/Q3059.cpp"
+            "src/3/Q3059.cpp"
         ]
     },
     {
@@ -1301,8 +1301,8 @@
         "title": "수 뒤집기",
         "level": 4,
         "codes": [
-            "3/Q3062.java",
-            "3/Q3062.py"
+            "src/3/Q3062.java",
+            "src/3/Q3062.py"
         ]
     },
     {
@@ -1310,7 +1310,7 @@
         "title": "IPv6",
         "level": 11,
         "codes": [
-            "3/Q3107.java"
+            "src/3/Q3107.java"
         ]
     },
     {
@@ -1318,7 +1318,7 @@
         "title": "해밍 거리",
         "level": 4,
         "codes": [
-            "3/Q3449.cpp"
+            "src/3/Q3449.cpp"
         ]
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "이진수",
         "level": 3,
         "codes": [
-            "3/Q3460.cpp"
+            "src/3/Q3460.cpp"
         ]
     },
     {
@@ -1334,7 +1334,7 @@
         "title": "Adding Reversed Numbers",
         "level": 3,
         "codes": [
-            "3/Q3486.py"
+            "src/3/Q3486.py"
         ]
     },
     {
@@ -1342,7 +1342,7 @@
         "title": "Automated Telephone Exchange",
         "level": 3,
         "codes": [
-            "3/Q3507.py"
+            "src/3/Q3507.py"
         ]
     },
     {
@@ -1350,7 +1350,7 @@
         "title": "Viva la Diferencia",
         "level": 3,
         "codes": [
-            "4/Q4084.py"
+            "src/4/Q4084.py"
         ]
     },
     {
@@ -1358,7 +1358,7 @@
         "title": "크냐?",
         "level": 3,
         "codes": [
-            "4/Q4101.cpp"
+            "src/4/Q4101.cpp"
         ]
     },
     {
@@ -1366,7 +1366,7 @@
         "title": "피보나치 수",
         "level": 8,
         "codes": [
-            "4/Q4150.py"
+            "src/4/Q4150.py"
         ]
     },
     {
@@ -1374,7 +1374,7 @@
         "title": "직각삼각형",
         "level": 3,
         "codes": [
-            "4/Q4153.cpp"
+            "src/4/Q4153.cpp"
         ]
     },
     {
@@ -1382,7 +1382,7 @@
         "title": "AFC 윔블던",
         "level": 2,
         "codes": [
-            "4/Q4299.cpp"
+            "src/4/Q4299.cpp"
         ]
     },
     {
@@ -1390,7 +1390,7 @@
         "title": "평균은 넘겠지",
         "level": 5,
         "codes": [
-            "4/Q4344.cpp"
+            "src/4/Q4344.cpp"
         ]
     },
     {
@@ -1398,7 +1398,7 @@
         "title": "Soundex",
         "level": 6,
         "codes": [
-            "4/Q4402.cpp"
+            "src/4/Q4402.cpp"
         ]
     },
     {
@@ -1406,7 +1406,7 @@
         "title": "좋은놈 나쁜놈",
         "level": 4,
         "codes": [
-            "4/Q4447.py"
+            "src/4/Q4447.py"
         ]
     },
     {
@@ -1414,7 +1414,7 @@
         "title": "첫 글자를 대문자로",
         "level": 4,
         "codes": [
-            "4/Q4458.cpp"
+            "src/4/Q4458.cpp"
         ]
     },
     {
@@ -1422,7 +1422,7 @@
         "title": "줄번호",
         "level": 4,
         "codes": [
-            "4/Q4470.py"
+            "src/4/Q4470.py"
         ]
     },
     {
@@ -1430,7 +1430,7 @@
         "title": "가위 바위 보?",
         "level": 3,
         "codes": [
-            "4/Q4493.py"
+            "src/4/Q4493.py"
         ]
     },
     {
@@ -1438,7 +1438,7 @@
         "title": "배수 찾기",
         "level": 3,
         "codes": [
-            "4/Q4504.cpp"
+            "src/4/Q4504.cpp"
         ]
     },
     {
@@ -1446,7 +1446,7 @@
         "title": "The Seven Percent Solution",
         "level": 4,
         "codes": [
-            "4/Q4606.cpp"
+            "src/4/Q4606.cpp"
         ]
     },
     {
@@ -1454,7 +1454,7 @@
         "title": "Speed Limit",
         "level": 3,
         "codes": [
-            "4/Q4635.py"
+            "src/4/Q4635.py"
         ]
     },
     {
@@ -1462,7 +1462,7 @@
         "title": "비밀번호 발음하기",
         "level": 6,
         "codes": [
-            "4/Q4659.py"
+            "src/4/Q4659.py"
         ]
     },
     {
@@ -1470,7 +1470,7 @@
         "title": "셀프 넘버",
         "level": 5,
         "codes": [
-            "4/Q4673.cpp"
+            "src/4/Q4673.cpp"
         ]
     },
     {
@@ -1478,7 +1478,7 @@
         "title": "쌍둥이 역설",
         "level": 3,
         "codes": [
-            "4/Q4706.py"
+            "src/4/Q4706.py"
         ]
     },
     {
@@ -1486,7 +1486,7 @@
         "title": "Lunacy",
         "level": 3,
         "codes": [
-            "4/Q4714.py"
+            "src/4/Q4714.py"
         ]
     },
     {
@@ -1494,7 +1494,7 @@
         "title": "Filling Out the Team",
         "level": 3,
         "codes": [
-            "4/Q4758.py"
+            "src/4/Q4758.py"
         ]
     },
     {
@@ -1502,7 +1502,7 @@
         "title": "일반 화학 실험",
         "level": 3,
         "codes": [
-            "4/Q4766.py"
+            "src/4/Q4766.py"
         ]
     },
     {
@@ -1510,7 +1510,7 @@
         "title": "다음수",
         "level": 3,
         "codes": [
-            "4/Q4880.py"
+            "src/4/Q4880.py"
         ]
     },
     {
@@ -1518,7 +1518,7 @@
         "title": "숫자 맞추기 게임",
         "level": 3,
         "codes": [
-            "4/Q4892.py"
+            "src/4/Q4892.py"
         ]
     },
     {
@@ -1526,7 +1526,7 @@
         "title": "아!",
         "level": 4,
         "codes": [
-            "4/Q4999.cpp"
+            "src/4/Q4999.cpp"
         ]
     },
     {
@@ -1534,7 +1534,7 @@
         "title": "박사 과정",
         "level": 4,
         "codes": [
-            "5/Q5026.cpp"
+            "src/5/Q5026.cpp"
         ]
     },
     {
@@ -1542,7 +1542,7 @@
         "title": "탄산 음료",
         "level": 4,
         "codes": [
-            "5/Q5032.py"
+            "src/5/Q5032.py"
         ]
     },
     {
@@ -1550,7 +1550,7 @@
         "title": "전화번호 목록",
         "level": 12,
         "codes": [
-            "5/Q5052.py"
+            "src/5/Q5052.py"
         ]
     },
     {
@@ -1558,7 +1558,7 @@
         "title": "주차의 신",
         "level": 4,
         "codes": [
-            "5/Q5054.py"
+            "src/5/Q5054.py"
         ]
     },
     {
@@ -1566,7 +1566,7 @@
         "title": "TGN",
         "level": 3,
         "codes": [
-            "5/Q5063.cpp"
+            "src/5/Q5063.cpp"
         ]
     },
     {
@@ -1574,7 +1574,7 @@
         "title": "삼각형과 세 변",
         "level": 3,
         "codes": [
-            "5/Q5073.py"
+            "src/5/Q5073.py"
         ]
     },
     {
@@ -1582,7 +1582,7 @@
         "title": "When Do We Finish?",
         "level": 3,
         "codes": [
-            "5/Q5074.py"
+            "src/5/Q5074.py"
         ]
     },
     {
@@ -1590,7 +1590,7 @@
         "title": "배수와 약수",
         "level": 3,
         "codes": [
-            "5/Q5086.cpp"
+            "src/5/Q5086.cpp"
         ]
     },
     {
@@ -1598,7 +1598,7 @@
         "title": "쌍의 합",
         "level": 3,
         "codes": [
-            "5/Q5217.py"
+            "src/5/Q5217.py"
         ]
     },
     {
@@ -1606,7 +1606,7 @@
         "title": "알파벳 거리",
         "level": 4,
         "codes": [
-            "5/Q5218.cpp"
+            "src/5/Q5218.cpp"
         ]
     },
     {
@@ -1614,7 +1614,7 @@
         "title": "웰컴",
         "level": 1,
         "codes": [
-            "5/Q5337.cpp"
+            "src/5/Q5337.cpp"
         ]
     },
     {
@@ -1622,7 +1622,7 @@
         "title": "마이크로소프트 로고",
         "level": 1,
         "codes": [
-            "5/Q5338.cpp"
+            "src/5/Q5338.cpp"
         ]
     },
     {
@@ -1630,7 +1630,7 @@
         "title": "콜센터",
         "level": 1,
         "codes": [
-            "5/Q5339.cpp"
+            "src/5/Q5339.cpp"
         ]
     },
     {
@@ -1638,7 +1638,7 @@
         "title": "전투 드로이드 가격",
         "level": 3,
         "codes": [
-            "5/Q5361.py"
+            "src/5/Q5361.py"
         ]
     },
     {
@@ -1646,7 +1646,7 @@
         "title": "카드 게임",
         "level": 1,
         "codes": [
-            "5/Q5522.cpp"
+            "src/5/Q5522.cpp"
         ]
     },
     {
@@ -1654,7 +1654,7 @@
         "title": "경기 결과",
         "level": 3,
         "codes": [
-            "5/Q5523.py"
+            "src/5/Q5523.py"
         ]
     },
     {
@@ -1662,7 +1662,7 @@
         "title": "입실 관리",
         "level": 4,
         "codes": [
-            "5/Q5524.cpp"
+            "src/5/Q5524.cpp"
         ]
     },
     {
@@ -1670,7 +1670,7 @@
         "title": "방학 숙제",
         "level": 2,
         "codes": [
-            "5/Q5532.cpp"
+            "src/5/Q5532.cpp"
         ]
     },
     {
@@ -1678,7 +1678,7 @@
         "title": "유니크",
         "level": 5,
         "codes": [
-            "5/Q5533.cpp"
+            "src/5/Q5533.cpp"
         ]
     },
     {
@@ -1686,7 +1686,7 @@
         "title": "상근날드",
         "level": 2,
         "codes": [
-            "5/Q5543.cpp"
+            "src/5/Q5543.cpp"
         ]
     },
     {
@@ -1694,7 +1694,7 @@
         "title": "심부름 가는 길",
         "level": 1,
         "codes": [
-            "5/Q5554.cpp"
+            "src/5/Q5554.cpp"
         ]
     },
     {
@@ -1702,7 +1702,7 @@
         "title": "영수증",
         "level": 3,
         "codes": [
-            "5/Q5565.cpp"
+            "src/5/Q5565.cpp"
         ]
     },
     {
@@ -1710,7 +1710,7 @@
         "title": "타임 카드",
         "level": 2,
         "codes": [
-            "5/Q5575.cpp"
+            "src/5/Q5575.cpp"
         ]
     },
     {
@@ -1718,7 +1718,7 @@
         "title": "콘테스트",
         "level": 4,
         "codes": [
-            "5/Q5576.cpp"
+            "src/5/Q5576.cpp"
         ]
     },
     {
@@ -1726,7 +1726,7 @@
         "title": "거스름돈",
         "level": 4,
         "codes": [
-            "5/Q5585.cpp"
+            "src/5/Q5585.cpp"
         ]
     },
     {
@@ -1734,7 +1734,7 @@
         "title": "JOI와 IOI",
         "level": 4,
         "codes": [
-            "5/Q5586.cpp"
+            "src/5/Q5586.cpp"
         ]
     },
     {
@@ -1742,7 +1742,7 @@
         "title": "시험 점수",
         "level": 2,
         "codes": [
-            "5/Q5596.cpp"
+            "src/5/Q5596.cpp"
         ]
     },
     {
@@ -1750,7 +1750,7 @@
         "title": "과제 안 내신 분..?",
         "level": 4,
         "codes": [
-            "5/Q5597.cpp"
+            "src/5/Q5597.cpp"
         ]
     },
     {
@@ -1758,7 +1758,7 @@
         "title": "계산기 프로그램",
         "level": 3,
         "codes": [
-            "5/Q5613.py"
+            "src/5/Q5613.py"
         ]
     },
     {
@@ -1766,7 +1766,7 @@
         "title": "공약수",
         "level": 3,
         "codes": [
-            "5/Q5618.py"
+            "src/5/Q5618.py"
         ]
     },
     {
@@ -1774,7 +1774,7 @@
         "title": "생일",
         "level": 6,
         "codes": [
-            "5/Q5635.cpp"
+            "src/5/Q5635.cpp"
         ]
     },
     {
@@ -1782,7 +1782,7 @@
         "title": "비교 연산자",
         "level": 4,
         "codes": [
-            "5/Q5656.cpp"
+            "src/5/Q5656.cpp"
         ]
     },
     {
@@ -1790,7 +1790,7 @@
         "title": "Hot Dogs",
         "level": 3,
         "codes": [
-            "5/Q5666.py"
+            "src/5/Q5666.py"
         ]
     },
     {
@@ -1798,7 +1798,7 @@
         "title": "평균 중앙값 문제",
         "level": 4,
         "codes": [
-            "5/Q5691.py"
+            "src/5/Q5691.py"
         ]
     },
     {
@@ -1806,7 +1806,7 @@
         "title": "팬그램",
         "level": 4,
         "codes": [
-            "5/Q5704.py"
+            "src/5/Q5704.py"
         ]
     },
     {
@@ -1814,7 +1814,7 @@
         "title": "상근이의 친구들",
         "level": 3,
         "codes": [
-            "5/Q5717.cpp"
+            "src/5/Q5717.cpp"
         ]
     },
     {
@@ -1822,7 +1822,7 @@
         "title": "파인만",
         "level": 4,
         "codes": [
-            "5/Q5724.py"
+            "src/5/Q5724.py"
         ]
     },
     {
@@ -1830,7 +1830,7 @@
         "title": "Head or Tail",
         "level": 3,
         "codes": [
-            "5/Q5751.py"
+            "src/5/Q5751.py"
         ]
     },
     {
@@ -1838,7 +1838,7 @@
         "title": "성적 통계",
         "level": 6,
         "codes": [
-            "5/Q5800.cpp"
+            "src/5/Q5800.cpp"
         ]
     },
     {
@@ -1846,7 +1846,7 @@
         "title": "17배",
         "level": 2,
         "codes": [
-            "5/Q5893.py"
+            "src/5/Q5893.py"
         ]
     },
     {
@@ -1854,7 +1854,7 @@
         "title": "Contest Timing",
         "level": 2,
         "codes": [
-            "5/Q5928.cpp"
+            "src/5/Q5928.cpp"
         ]
     },
     {
@@ -1862,7 +1862,7 @@
         "title": "Adding Commas",
         "level": 4,
         "codes": [
-            "5/Q5949.py"
+            "src/5/Q5949.py"
         ]
     },
     {
@@ -1870,7 +1870,7 @@
         "title": "String Function Encoding",
         "level": 5,
         "codes": [
-            "5/Q5987.py"
+            "src/5/Q5987.py"
         ]
     },
     {
@@ -1878,7 +1878,7 @@
         "title": "홀수일까 짝수일까",
         "level": 4,
         "codes": [
-            "5/Q5988.cpp"
+            "src/5/Q5988.cpp"
         ]
     },
     {
@@ -1886,7 +1886,7 @@
         "title": "Hexadecimal Conversion",
         "level": 4,
         "codes": [
-            "6/Q6040.py"
+            "src/6/Q6040.py"
         ]
     },
     {
@@ -1894,7 +1894,7 @@
         "title": "Another Cow Number Game",
         "level": 3,
         "codes": [
-            "6/Q6190.py"
+            "src/6/Q6190.py"
         ]
     },
     {
@@ -1902,7 +1902,7 @@
         "title": "TV Reports",
         "level": 3,
         "codes": [
-            "6/Q6249.py"
+            "src/6/Q6249.py"
         ]
     },
     {
@@ -1910,7 +1910,7 @@
         "title": "만취한 상범",
         "level": 4,
         "codes": [
-            "6/Q6359.cpp"
+            "src/6/Q6359.cpp"
         ]
     },
     {
@@ -1918,7 +1918,7 @@
         "title": "e 계산",
         "level": 4,
         "codes": [
-            "6/Q6376.txt"
+            "src/6/Q6376.txt"
         ]
     },
     {
@@ -1926,7 +1926,7 @@
         "title": "싱기한 네자리 숫자",
         "level": 4,
         "codes": [
-            "6/Q6679.py"
+            "src/6/Q6679.py"
         ]
     },
     {
@@ -1934,7 +1934,7 @@
         "title": "Backward numbers",
         "level": 4,
         "codes": [
-            "6/Q6721.py"
+            "src/6/Q6721.py"
         ]
     },
     {
@@ -1942,7 +1942,7 @@
         "title": "Next in line",
         "level": 1,
         "codes": [
-            "6/Q6749.cpp"
+            "src/6/Q6749.cpp"
         ]
     },
     {
@@ -1950,7 +1950,7 @@
         "title": "Sounds fishy!",
         "level": 2,
         "codes": [
-            "6/Q6764.cpp"
+            "src/6/Q6764.cpp"
         ]
     },
     {
@@ -1958,7 +1958,7 @@
         "title": "Which Alien?",
         "level": 2,
         "codes": [
-            "6/Q6778.py"
+            "src/6/Q6778.py"
         ]
     },
     {
@@ -1966,7 +1966,7 @@
         "title": "Sumac Sequences",
         "level": 3,
         "codes": [
-            "6/Q6780.py"
+            "src/6/Q6780.py"
         ]
     },
     {
@@ -1974,7 +1974,7 @@
         "title": "애너그램",
         "level": 5,
         "codes": [
-            "6/Q6996.cpp"
+            "src/6/Q6996.cpp"
         ]
     },
     {
@@ -1982,7 +1982,7 @@
         "title": "등록",
         "level": 1,
         "codes": [
-            "7/Q7287.cpp"
+            "src/7/Q7287.cpp"
         ]
     },
     {
@@ -1990,7 +1990,7 @@
         "title": "고급 수학",
         "level": 3,
         "codes": [
-            "7/Q7510.py"
+            "src/7/Q7510.py"
         ]
     },
     {
@@ -1998,7 +1998,7 @@
         "title": "그릇",
         "level": 4,
         "codes": [
-            "7/Q7567.cpp"
+            "src/7/Q7567.cpp"
         ]
     },
     {
@@ -2006,7 +2006,7 @@
         "title": "Cuboids",
         "level": 3,
         "codes": [
-            "7/Q7581.py"
+            "src/7/Q7581.py"
         ]
     },
     {
@@ -2014,7 +2014,7 @@
         "title": "Triangles",
         "level": 3,
         "codes": [
-            "7/Q7595.py"
+            "src/7/Q7595.py"
         ]
     },
     {
@@ -2022,7 +2022,7 @@
         "title": "Bookings",
         "level": 3,
         "codes": [
-            "7/Q7598.py"
+            "src/7/Q7598.py"
         ]
     },
     {
@@ -2030,7 +2030,7 @@
         "title": "문자가 몇갤까",
         "level": 4,
         "codes": [
-            "7/Q7600.cpp"
+            "src/7/Q7600.cpp"
         ]
     },
     {
@@ -2038,7 +2038,7 @@
         "title": "Stół",
         "level": 2,
         "codes": [
-            "8/Q8246.py"
+            "src/8/Q8246.py"
         ]
     },
     {
@@ -2046,7 +2046,7 @@
         "title": "Plane",
         "level": 1,
         "codes": [
-            "8/Q8370.cpp"
+            "src/8/Q8370.cpp"
         ]
     },
     {
@@ -2054,7 +2054,7 @@
         "title": "Dyslexia",
         "level": 4,
         "codes": [
-            "8/Q8371.py"
+            "src/8/Q8371.py"
         ]
     },
     {
@@ -2062,7 +2062,7 @@
         "title": "Dyslexia",
         "level": 4,
         "codes": [
-            "8/Q8387.py"
+            "src/8/Q8387.py"
         ]
     },
     {
@@ -2070,7 +2070,7 @@
         "title": "합",
         "level": 1,
         "codes": [
-            "8/Q8393.cpp"
+            "src/8/Q8393.cpp"
         ]
     },
     {
@@ -2078,7 +2078,7 @@
         "title": "Julka",
         "level": 1,
         "codes": [
-            "8/Q8437.py"
+            "src/8/Q8437.py"
         ]
     },
     {
@@ -2086,7 +2086,7 @@
         "title": "Koszykarz",
         "level": 2,
         "codes": [
-            "8/Q8710.py"
+            "src/8/Q8710.py"
         ]
     },
     {
@@ -2094,7 +2094,7 @@
         "title": "Wężyk",
         "level": 5,
         "codes": [
-            "8/Q8712.py"
+            "src/8/Q8712.py"
         ]
     },
     {
@@ -2102,7 +2102,7 @@
         "title": "Pole",
         "level": 2,
         "codes": [
-            "8/Q8716.py"
+            "src/8/Q8716.py"
         ]
     },
     {
@@ -2110,7 +2110,7 @@
         "title": "Bałwanek",
         "level": 2,
         "codes": [
-            "8/Q8718.py"
+            "src/8/Q8718.py"
         ]
     },
     {
@@ -2118,7 +2118,7 @@
         "title": "Patyki",
         "level": 2,
         "codes": [
-            "8/Q8723.py"
+            "src/8/Q8723.py"
         ]
     },
     {
@@ -2126,7 +2126,7 @@
         "title": "대충 더해",
         "level": 4,
         "codes": [
-            "8/Q8949.cpp"
+            "src/8/Q8949.cpp"
         ]
     },
     {
@@ -2134,7 +2134,7 @@
         "title": "OX퀴즈",
         "level": 4,
         "codes": [
-            "8/Q8958.cpp"
+            "src/8/Q8958.cpp"
         ]
     },
     {
@@ -2142,7 +2142,7 @@
         "title": "괄호",
         "level": 7,
         "codes": [
-            "9/Q9012.cpp"
+            "src/9/Q9012.cpp"
         ]
     },
     {
@@ -2150,7 +2150,7 @@
         "title": "점수 집계",
         "level": 4,
         "codes": [
-            "9/Q9076.py"
+            "src/9/Q9076.py"
         ]
     },
     {
@@ -2158,7 +2158,7 @@
         "title": "더하기",
         "level": 3,
         "codes": [
-            "9/Q9085.cpp"
+            "src/9/Q9085.cpp"
         ]
     },
     {
@@ -2166,8 +2166,8 @@
         "title": "문자열",
         "level": 4,
         "codes": [
-            "9/Q9086.cpp",
-            "9/Q9086.java"
+            "src/9/Q9086.cpp",
+            "src/9/Q9086.java"
         ]
     },
     {
@@ -2175,7 +2175,7 @@
         "title": "단어 뒤집기",
         "level": 5,
         "codes": [
-            "9/Q9093.cpp"
+            "src/9/Q9093.cpp"
         ]
     },
     {
@@ -2183,7 +2183,7 @@
         "title": "1, 2, 3 더하기",
         "level": 8,
         "codes": [
-            "9/Q9095.cpp"
+            "src/9/Q9095.cpp"
         ]
     },
     {
@@ -2191,7 +2191,7 @@
         "title": "Gradabase",
         "level": 3,
         "codes": [
-            "9/Q9286.py"
+            "src/9/Q9286.py"
         ]
     },
     {
@@ -2199,7 +2199,7 @@
         "title": "주사위",
         "level": 3,
         "codes": [
-            "9/Q9295.py"
+            "src/9/Q9295.py"
         ]
     },
     {
@@ -2207,7 +2207,7 @@
         "title": "Grading Exams",
         "level": 4,
         "codes": [
-            "9/Q9296.py"
+            "src/9/Q9296.py"
         ]
     },
     {
@@ -2215,7 +2215,7 @@
         "title": "Math Tutoring",
         "level": 3,
         "codes": [
-            "9/Q9299.py"
+            "src/9/Q9299.py"
         ]
     },
     {
@@ -2223,7 +2223,7 @@
         "title": "Hello Judge",
         "level": 3,
         "codes": [
-            "9/Q9316.cpp"
+            "src/9/Q9316.cpp"
         ]
     },
     {
@@ -2231,7 +2231,7 @@
         "title": "Monitor DPI",
         "level": 3,
         "codes": [
-            "9/Q9317.py"
+            "src/9/Q9317.py"
         ]
     },
     {
@@ -2239,7 +2239,7 @@
         "title": "얼마?",
         "level": 3,
         "codes": [
-            "9/Q9325.cpp"
+            "src/9/Q9325.cpp"
         ]
     },
     {
@@ -2247,7 +2247,7 @@
         "title": "삼각형 분류",
         "level": 3,
         "codes": [
-            "9/Q9366.py"
+            "src/9/Q9366.py"
         ]
     },
     {
@@ -2255,7 +2255,7 @@
         "title": "사라진 페이지 찾기",
         "level": 3,
         "codes": [
-            "9/Q9437.py"
+            "src/9/Q9437.py"
         ]
     },
     {
@@ -2263,7 +2263,7 @@
         "title": "폰 노이만",
         "level": 3,
         "codes": [
-            "9/Q9469.py"
+            "src/9/Q9469.py"
         ]
     },
     {
@@ -2271,7 +2271,7 @@
         "title": "시험 성적",
         "level": 2,
         "codes": [
-            "9/Q9498.cpp"
+            "src/9/Q9498.cpp"
         ]
     },
     {
@@ -2279,7 +2279,7 @@
         "title": "꿍의 우주여행",
         "level": 3,
         "codes": [
-            "9/Q9501.py"
+            "src/9/Q9501.py"
         ]
     },
     {
@@ -2287,7 +2287,7 @@
         "title": "약수들의 합",
         "level": 5,
         "codes": [
-            "9/Q9506.py"
+            "src/9/Q9506.py"
         ]
     },
     {
@@ -2295,7 +2295,7 @@
         "title": "Generations of Tribbles",
         "level": 8,
         "codes": [
-            "9/Q9507.cpp"
+            "src/9/Q9507.cpp"
         ]
     },
     {
@@ -2303,7 +2303,7 @@
         "title": "Arithmetic with Morse",
         "level": 7,
         "codes": [
-            "9/Q9523.py"
+            "src/9/Q9523.py"
         ]
     },
     {
@@ -2311,7 +2311,7 @@
         "title": "Beautiful Yekaterinburg",
         "level": 2,
         "codes": [
-            "9/Q9524.py"
+            "src/9/Q9524.py"
         ]
     },
     {
@@ -2319,7 +2319,7 @@
         "title": "사분면",
         "level": 3,
         "codes": [
-            "9/Q9610.cpp"
+            "src/9/Q9610.cpp"
         ]
     },
     {
@@ -2327,7 +2327,7 @@
         "title": "GCD 합",
         "level": 8,
         "codes": [
-            "9/Q9613.py"
+            "src/9/Q9613.py"
         ]
     },
     {
@@ -2335,7 +2335,7 @@
         "title": "스타워즈 로고",
         "level": 1,
         "codes": [
-            "9/Q9653.cpp"
+            "src/9/Q9653.cpp"
         ]
     },
     {
@@ -2343,7 +2343,7 @@
         "title": "나부 함대 데이터",
         "level": 1,
         "codes": [
-            "9/Q9654.cpp"
+            "src/9/Q9654.cpp"
         ]
     },
     {
@@ -2351,7 +2351,7 @@
         "title": "RICE SACK",
         "level": 3,
         "codes": [
-            "9/Q9699.py"
+            "src/9/Q9699.py"
         ]
     },
     {
@@ -2359,7 +2359,7 @@
         "title": "Sum of Odd Sequence",
         "level": 3,
         "codes": [
-            "9/Q9713.py"
+            "src/9/Q9713.py"
         ]
     },
     {
@@ -2367,7 +2367,7 @@
         "title": "민균이의 비밀번호",
         "level": 5,
         "codes": [
-            "9/Q9933.py"
+            "src/9/Q9933.py"
         ]
     },
     {
@@ -2375,7 +2375,7 @@
         "title": "Rectangles",
         "level": 3,
         "codes": [
-            "9/Q9950.py"
+            "src/9/Q9950.py"
         ]
     },
     {
@@ -2383,7 +2383,7 @@
         "title": "포켓몬 마스터",
         "level": 0,
         "codes": [
-            "9/Q9987.py"
+            "src/9/Q9987.py"
         ]
     },
     {
@@ -2391,7 +2391,7 @@
         "title": "구구",
         "level": 0,
         "codes": [
-            "9/Q9999.py"
+            "src/9/Q9999.py"
         ]
     },
     {
@@ -2399,7 +2399,7 @@
         "title": "평균 점수",
         "level": 2,
         "codes": [
-            "10/Q10039.cpp"
+            "src/10/Q10039.cpp"
         ]
     },
     {
@@ -2407,7 +2407,7 @@
         "title": "숫자",
         "level": 4,
         "codes": [
-            "10/Q10093.py"
+            "src/10/Q10093.py"
         ]
     },
     {
@@ -2415,7 +2415,7 @@
         "title": "삼각형 외우기",
         "level": 2,
         "codes": [
-            "10/Q10101.cpp"
+            "src/10/Q10101.cpp"
         ]
     },
     {
@@ -2423,7 +2423,7 @@
         "title": "개표",
         "level": 4,
         "codes": [
-            "10/Q10102.py"
+            "src/10/Q10102.py"
         ]
     },
     {
@@ -2431,7 +2431,7 @@
         "title": "주사위 게임",
         "level": 3,
         "codes": [
-            "10/Q10103.cpp"
+            "src/10/Q10103.cpp"
         ]
     },
     {
@@ -2439,7 +2439,7 @@
         "title": "과자",
         "level": 2,
         "codes": [
-            "10/Q10156.cpp"
+            "src/10/Q10156.cpp"
         ]
     },
     {
@@ -2447,7 +2447,7 @@
         "title": "전자레인지",
         "level": 2,
         "codes": [
-            "10/Q10162.cpp"
+            "src/10/Q10162.cpp"
         ]
     },
     {
@@ -2455,7 +2455,7 @@
         "title": "NFC West vs North",
         "level": 1,
         "codes": [
-            "10/Q10170.cpp"
+            "src/10/Q10170.cpp"
         ]
     },
     {
@@ -2463,7 +2463,7 @@
         "title": "고양이",
         "level": 1,
         "codes": [
-            "10/Q10171.cpp"
+            "src/10/Q10171.cpp"
         ]
     },
     {
@@ -2471,7 +2471,7 @@
         "title": "개",
         "level": 1,
         "codes": [
-            "10/Q10172.cpp"
+            "src/10/Q10172.cpp"
         ]
     },
     {
@@ -2479,7 +2479,7 @@
         "title": "팰린드롬",
         "level": 4,
         "codes": [
-            "10/Q10174.py"
+            "src/10/Q10174.py"
         ]
     },
     {
@@ -2487,7 +2487,7 @@
         "title": "할로윈의 사탕",
         "level": 3,
         "codes": [
-            "10/Q10178.cpp"
+            "src/10/Q10178.cpp"
         ]
     },
     {
@@ -2495,7 +2495,7 @@
         "title": "쿠폰",
         "level": 2,
         "codes": [
-            "10/Q10179.cpp"
+            "src/10/Q10179.cpp"
         ]
     },
     {
@@ -2503,7 +2503,7 @@
         "title": "Ship Selection",
         "level": 3,
         "codes": [
-            "10/Q10180.py"
+            "src/10/Q10180.py"
         ]
     },
     {
@@ -2511,7 +2511,7 @@
         "title": "Federation Favorites",
         "level": 5,
         "codes": [
-            "10/Q10181.py"
+            "src/10/Q10181.py"
         ]
     },
     {
@@ -2519,7 +2519,7 @@
         "title": "Baseball",
         "level": 3,
         "codes": [
-            "10/Q10214.cpp"
+            "src/10/Q10214.cpp"
         ]
     },
     {
@@ -2527,7 +2527,7 @@
         "title": "Automated Checking Machine",
         "level": 3,
         "codes": [
-            "10/Q10395.py"
+            "src/10/Q10395.py"
         ]
     },
     {
@@ -2535,7 +2535,7 @@
         "title": "The fellowship of the ring",
         "level": 3,
         "codes": [
-            "10/Q10406.py"
+            "src/10/Q10406.py"
         ]
     },
     {
@@ -2543,7 +2543,7 @@
         "title": "지각",
         "level": 3,
         "codes": [
-            "10/Q10419.py"
+            "src/10/Q10419.py"
         ]
     },
     {
@@ -2551,7 +2551,7 @@
         "title": "나머지",
         "level": 1,
         "codes": [
-            "10/Q10430.cpp"
+            "src/10/Q10430.cpp"
         ]
     },
     {
@@ -2559,7 +2559,7 @@
         "title": "분수좋아해?",
         "level": 3,
         "codes": [
-            "10/Q10474.py"
+            "src/10/Q10474.py"
         ]
     },
     {
@@ -2567,7 +2567,7 @@
         "title": "Oddities",
         "level": 3,
         "codes": [
-            "10/Q10480.py"
+            "src/10/Q10480.py"
         ]
     },
     {
@@ -2575,7 +2575,7 @@
         "title": "수빈이와 수열",
         "level": 3,
         "codes": [
-            "10/Q10539.cpp"
+            "src/10/Q10539.cpp"
         ]
     },
     {
@@ -2583,7 +2583,7 @@
         "title": "STROJOPIS",
         "level": 4,
         "codes": [
-            "10/Q10551.cpp"
+            "src/10/Q10551.cpp"
         ]
     },
     {
@@ -2591,7 +2591,7 @@
         "title": "다면체",
         "level": 3,
         "codes": [
-            "10/Q10569.cpp"
+            "src/10/Q10569.cpp"
         ]
     },
     {
@@ -2599,7 +2599,7 @@
         "title": "페르시아의 왕들",
         "level": 3,
         "codes": [
-            "10/Q10599.py"
+            "src/10/Q10599.py"
         ]
     },
     {
@@ -2607,7 +2607,7 @@
         "title": "30",
         "level": 6,
         "codes": [
-            "10/Q10610.cpp"
+            "src/10/Q10610.cpp"
         ]
     },
     {
@@ -2615,7 +2615,7 @@
         "title": "Ahmed Aly",
         "level": 3,
         "codes": [
-            "10/Q10698.py"
+            "src/10/Q10698.py"
         ]
     },
     {
@@ -2623,7 +2623,7 @@
         "title": "오늘 날짜",
         "level": 1,
         "codes": [
-            "10/Q10699.py"
+            "src/10/Q10699.py"
         ]
     },
     {
@@ -2631,7 +2631,7 @@
         "title": "수도요금",
         "level": 2,
         "codes": [
-            "10/Q10707.cpp"
+            "src/10/Q10707.cpp"
         ]
     },
     {
@@ -2639,7 +2639,7 @@
         "title": "We love kriii",
         "level": 1,
         "codes": [
-            "10/Q10718.cpp"
+            "src/10/Q10718.cpp"
         ]
     },
     {
@@ -2647,8 +2647,8 @@
         "title": "큰 수 A+B",
         "level": 1,
         "codes": [
-            "10/Q10757.java",
-            "10/Q10757.py"
+            "src/10/Q10757.java",
+            "src/10/Q10757.py"
         ]
     },
     {
@@ -2656,7 +2656,7 @@
         "title": "특별한 날",
         "level": 2,
         "codes": [
-            "10/Q10768.cpp"
+            "src/10/Q10768.cpp"
         ]
     },
     {
@@ -2664,7 +2664,7 @@
         "title": "제로",
         "level": 7,
         "codes": [
-            "10/Q10773.cpp"
+            "src/10/Q10773.cpp"
         ]
     },
     {
@@ -2672,7 +2672,7 @@
         "title": "10부제",
         "level": 2,
         "codes": [
-            "10/Q10797.cpp"
+            "src/10/Q10797.cpp"
         ]
     },
     {
@@ -2680,7 +2680,7 @@
         "title": "세로읽기",
         "level": 5,
         "codes": [
-            "10/Q10798.cpp"
+            "src/10/Q10798.cpp"
         ]
     },
     {
@@ -2688,8 +2688,8 @@
         "title": "카드게임",
         "level": 4,
         "codes": [
-            "10/Q10801.kt",
-            "10/Q10801.rs"
+            "src/10/Q10801.kt",
+            "src/10/Q10801.rs"
         ]
     },
     {
@@ -2697,7 +2697,7 @@
         "title": "개수 세기",
         "level": 4,
         "codes": [
-            "10/Q10807.cpp"
+            "src/10/Q10807.cpp"
         ]
     },
     {
@@ -2705,7 +2705,7 @@
         "title": "알파벳 개수",
         "level": 4,
         "codes": [
-            "10/Q10808.cpp"
+            "src/10/Q10808.cpp"
         ]
     },
     {
@@ -2713,7 +2713,7 @@
         "title": "알파벳 찾기",
         "level": 4,
         "codes": [
-            "10/Q10809.cpp"
+            "src/10/Q10809.cpp"
         ]
     },
     {
@@ -2721,7 +2721,7 @@
         "title": "공 넣기",
         "level": 4,
         "codes": [
-            "10/Q10810.py"
+            "src/10/Q10810.py"
         ]
     },
     {
@@ -2729,7 +2729,7 @@
         "title": "공 바꾸기",
         "level": 4,
         "codes": [
-            "10/Q10813.py"
+            "src/10/Q10813.py"
         ]
     },
     {
@@ -2737,7 +2737,7 @@
         "title": "나이순 정렬",
         "level": 6,
         "codes": [
-            "10/Q10814.cpp"
+            "src/10/Q10814.cpp"
         ]
     },
     {
@@ -2745,7 +2745,7 @@
         "title": "숫자 카드",
         "level": 7,
         "codes": [
-            "10/Q10815.cpp"
+            "src/10/Q10815.cpp"
         ]
     },
     {
@@ -2753,7 +2753,7 @@
         "title": "세 수",
         "level": 3,
         "codes": [
-            "10/Q10817.cpp"
+            "src/10/Q10817.cpp"
         ]
     },
     {
@@ -2761,7 +2761,7 @@
         "title": "최소, 최대",
         "level": 3,
         "codes": [
-            "10/Q10818.cpp"
+            "src/10/Q10818.cpp"
         ]
     },
     {
@@ -2769,7 +2769,7 @@
         "title": "문자열 분석",
         "level": 4,
         "codes": [
-            "10/Q10820.py"
+            "src/10/Q10820.py"
         ]
     },
     {
@@ -2777,7 +2777,7 @@
         "title": "정수의 개수",
         "level": 4,
         "codes": [
-            "10/Q10821.py"
+            "src/10/Q10821.py"
         ]
     },
     {
@@ -2785,7 +2785,7 @@
         "title": "더하기",
         "level": 4,
         "codes": [
-            "10/Q10822.cpp"
+            "src/10/Q10822.cpp"
         ]
     },
     {
@@ -2793,7 +2793,7 @@
         "title": "더하기 2",
         "level": 4,
         "codes": [
-            "10/Q10823.cpp"
+            "src/10/Q10823.cpp"
         ]
     },
     {
@@ -2801,7 +2801,7 @@
         "title": "네 수",
         "level": 3,
         "codes": [
-            "10/Q10824.cpp"
+            "src/10/Q10824.cpp"
         ]
     },
     {
@@ -2809,15 +2809,15 @@
         "title": "국영수",
         "level": 7,
         "codes": [
-            "10/Q10825.cpp"
+            "src/10/Q10825.cpp"
         ]
     },
     {
         "id": 10826,
         "title": "피보나치 수 4",
-        "level": 8,
+        "level": 7,
         "codes": [
-            "10/Q10826.py"
+            "src/10/Q10826.py"
         ]
     },
     {
@@ -2825,7 +2825,7 @@
         "title": "스택",
         "level": 7,
         "codes": [
-            "10/Q10828.cpp"
+            "src/10/Q10828.cpp"
         ]
     },
     {
@@ -2833,7 +2833,7 @@
         "title": "사과",
         "level": 3,
         "codes": [
-            "10/Q10833.cpp"
+            "src/10/Q10833.cpp"
         ]
     },
     {
@@ -2841,7 +2841,7 @@
         "title": "중복 빼고 정렬하기",
         "level": 6,
         "codes": [
-            "10/Q10867.cpp"
+            "src/10/Q10867.cpp"
         ]
     },
     {
@@ -2849,7 +2849,7 @@
         "title": "사칙연산",
         "level": 1,
         "codes": [
-            "10/Q10869.cpp"
+            "src/10/Q10869.cpp"
         ]
     },
     {
@@ -2857,7 +2857,7 @@
         "title": "피보나치 수 5",
         "level": 4,
         "codes": [
-            "10/Q10870.cpp"
+            "src/10/Q10870.cpp"
         ]
     },
     {
@@ -2865,7 +2865,7 @@
         "title": "X보다 작은 수",
         "level": 3,
         "codes": [
-            "10/Q10871.cpp"
+            "src/10/Q10871.cpp"
         ]
     },
     {
@@ -2873,8 +2873,8 @@
         "title": "팩토리얼",
         "level": 3,
         "codes": [
-            "10/Q10872.cpp",
-            "10/Q10872.kt"
+            "src/10/Q10872.cpp",
+            "src/10/Q10872.kt"
         ]
     },
     {
@@ -2882,7 +2882,7 @@
         "title": "0 = not cute / 1 = cute",
         "level": 3,
         "codes": [
-            "10/Q10886.cpp"
+            "src/10/Q10886.cpp"
         ]
     },
     {
@@ -2890,7 +2890,7 @@
         "title": "??!",
         "level": 1,
         "codes": [
-            "10/Q10926.cpp"
+            "src/10/Q10926.cpp"
         ]
     },
     {
@@ -2898,7 +2898,7 @@
         "title": "MD5",
         "level": 4,
         "codes": [
-            "10/Q10927.py"
+            "src/10/Q10927.py"
         ]
     },
     {
@@ -2906,7 +2906,7 @@
         "title": "SHA-1",
         "level": 4,
         "codes": [
-            "10/Q10928.py"
+            "src/10/Q10928.py"
         ]
     },
     {
@@ -2914,7 +2914,7 @@
         "title": "SHA-224",
         "level": 4,
         "codes": [
-            "10/Q10929.py"
+            "src/10/Q10929.py"
         ]
     },
     {
@@ -2922,7 +2922,7 @@
         "title": "SHA-256",
         "level": 4,
         "codes": [
-            "10/Q10930.py"
+            "src/10/Q10930.py"
         ]
     },
     {
@@ -2930,7 +2930,7 @@
         "title": "SHA-384",
         "level": 4,
         "codes": [
-            "10/Q10931.py"
+            "src/10/Q10931.py"
         ]
     },
     {
@@ -2938,7 +2938,7 @@
         "title": "SHA-512",
         "level": 4,
         "codes": [
-            "10/Q10932.py"
+            "src/10/Q10932.py"
         ]
     },
     {
@@ -2946,7 +2946,7 @@
         "title": "BASE64 인코딩",
         "level": 4,
         "codes": [
-            "10/Q10935.py"
+            "src/10/Q10935.py"
         ]
     },
     {
@@ -2954,7 +2954,7 @@
         "title": "BASE64 디코딩",
         "level": 4,
         "codes": [
-            "10/Q10936.py"
+            "src/10/Q10936.py"
         ]
     },
     {
@@ -2962,7 +2962,7 @@
         "title": "BASE32 인코딩",
         "level": 4,
         "codes": [
-            "10/Q10938.py"
+            "src/10/Q10938.py"
         ]
     },
     {
@@ -2970,7 +2970,7 @@
         "title": "BASE32 디코딩",
         "level": 4,
         "codes": [
-            "10/Q10939.py"
+            "src/10/Q10939.py"
         ]
     },
     {
@@ -2978,7 +2978,7 @@
         "title": "BASE16 인코딩",
         "level": 4,
         "codes": [
-            "10/Q10940.py"
+            "src/10/Q10940.py"
         ]
     },
     {
@@ -2986,7 +2986,7 @@
         "title": "BASE16 디코딩",
         "level": 4,
         "codes": [
-            "10/Q10941.py"
+            "src/10/Q10941.py"
         ]
     },
     {
@@ -2994,7 +2994,7 @@
         "title": "A+B - 3",
         "level": 3,
         "codes": [
-            "10/Q10950.cpp"
+            "src/10/Q10950.cpp"
         ]
     },
     {
@@ -3002,7 +3002,7 @@
         "title": "A+B - 4",
         "level": 3,
         "codes": [
-            "10/Q10951.cpp"
+            "src/10/Q10951.cpp"
         ]
     },
     {
@@ -3010,7 +3010,7 @@
         "title": "A+B - 5",
         "level": 3,
         "codes": [
-            "10/Q10952.cpp"
+            "src/10/Q10952.cpp"
         ]
     },
     {
@@ -3018,7 +3018,7 @@
         "title": "A+B - 6",
         "level": 4,
         "codes": [
-            "10/Q10953.cpp"
+            "src/10/Q10953.cpp"
         ]
     },
     {
@@ -3026,7 +3026,7 @@
         "title": "내 학점을 구해줘",
         "level": 3,
         "codes": [
-            "10/Q10984.cpp"
+            "src/10/Q10984.cpp"
         ]
     },
     {
@@ -3034,7 +3034,7 @@
         "title": "모음의 개수",
         "level": 4,
         "codes": [
-            "10/Q10987.cpp"
+            "src/10/Q10987.cpp"
         ]
     },
     {
@@ -3042,7 +3042,7 @@
         "title": "팰린드롬인지 확인하기",
         "level": 5,
         "codes": [
-            "10/Q10988.cpp"
+            "src/10/Q10988.cpp"
         ]
     },
     {
@@ -3050,7 +3050,7 @@
         "title": "수 정렬하기 3",
         "level": 7,
         "codes": [
-            "10/Q10989.cpp"
+            "src/10/Q10989.cpp"
         ]
     },
     {
@@ -3058,7 +3058,7 @@
         "title": "별 찍기 - 16",
         "level": 3,
         "codes": [
-            "10/Q10991.cpp"
+            "src/10/Q10991.cpp"
         ]
     },
     {
@@ -3066,7 +3066,7 @@
         "title": "별 찍기 - 20",
         "level": 4,
         "codes": [
-            "10/Q10995.cpp"
+            "src/10/Q10995.cpp"
         ]
     },
     {
@@ -3074,7 +3074,7 @@
         "title": "별 찍기 - 21",
         "level": 4,
         "codes": [
-            "10/Q10996.cpp"
+            "src/10/Q10996.cpp"
         ]
     },
     {
@@ -3082,7 +3082,7 @@
         "title": "A×B",
         "level": 1,
         "codes": [
-            "10/Q10998.cpp"
+            "src/10/Q10998.cpp"
         ]
     },
     {
@@ -3090,7 +3090,7 @@
         "title": "K번째 수",
         "level": 6,
         "codes": [
-            "11/Q11004.cpp"
+            "src/11/Q11004.cpp"
         ]
     },
     {
@@ -3098,7 +3098,7 @@
         "title": "진법 변환 2",
         "level": 5,
         "codes": [
-            "11/Q11005.cpp"
+            "src/11/Q11005.cpp"
         ]
     },
     {
@@ -3106,7 +3106,7 @@
         "title": "남욱이의 닭장",
         "level": 3,
         "codes": [
-            "11/Q11006.cpp"
+            "src/11/Q11006.cpp"
         ]
     },
     {
@@ -3114,7 +3114,7 @@
         "title": "A+B - 7",
         "level": 3,
         "codes": [
-            "11/Q11021.cpp"
+            "src/11/Q11021.cpp"
         ]
     },
     {
@@ -3122,7 +3122,7 @@
         "title": "A+B - 8",
         "level": 3,
         "codes": [
-            "11/Q11022.cpp"
+            "src/11/Q11022.cpp"
         ]
     },
     {
@@ -3130,7 +3130,7 @@
         "title": "더하기 3",
         "level": 3,
         "codes": [
-            "11/Q11023.cpp"
+            "src/11/Q11023.cpp"
         ]
     },
     {
@@ -3138,7 +3138,7 @@
         "title": "더하기 4",
         "level": 3,
         "codes": [
-            "11/Q11024.cpp"
+            "src/11/Q11024.cpp"
         ]
     },
     {
@@ -3146,7 +3146,7 @@
         "title": "이항 계수 1",
         "level": 5,
         "codes": [
-            "11/Q11050.cpp"
+            "src/11/Q11050.cpp"
         ]
     },
     {
@@ -3154,7 +3154,7 @@
         "title": "첼시를 도와줘!",
         "level": 5,
         "codes": [
-            "11/Q11098.cpp"
+            "src/11/Q11098.cpp"
         ]
     },
     {
@@ -3162,7 +3162,7 @@
         "title": "Fridge of Your Dreams",
         "level": 5,
         "codes": [
-            "11/Q11104.py"
+            "src/11/Q11104.py"
         ]
     },
     {
@@ -3170,7 +3170,7 @@
         "title": "괴짜 교수",
         "level": 3,
         "codes": [
-            "11/Q11109.py"
+            "src/11/Q11109.py"
         ]
     },
     {
@@ -3178,7 +3178,7 @@
         "title": "Balancing Weights",
         "level": 3,
         "codes": [
-            "11/Q11131.py"
+            "src/11/Q11131.py"
         ]
     },
     {
@@ -3186,7 +3186,7 @@
         "title": "쿠키애호가",
         "level": 3,
         "codes": [
-            "11/Q11134.py"
+            "src/11/Q11134.py"
         ]
     },
     {
@@ -3194,7 +3194,7 @@
         "title": "0의 개수",
         "level": 6,
         "codes": [
-            "11/Q11170.py"
+            "src/11/Q11170.py"
         ]
     },
     {
@@ -3202,7 +3202,7 @@
         "title": "2진수 뒤집기",
         "level": 5,
         "codes": [
-            "11/Q11179.py"
+            "src/11/Q11179.py"
         ]
     },
     {
@@ -3210,7 +3210,7 @@
         "title": "Cryptographer’s Conundrum",
         "level": 4,
         "codes": [
-            "11/Q11269.py"
+            "src/11/Q11269.py"
         ]
     },
     {
@@ -3218,7 +3218,7 @@
         "title": "한글",
         "level": 2,
         "codes": [
-            "11/Q11282.py"
+            "src/11/Q11282.py"
         ]
     },
     {
@@ -3226,8 +3226,8 @@
         "title": "한글 2",
         "level": 1,
         "codes": [
-            "11/Q11283.java",
-            "11/Q11283.py"
+            "src/11/Q11283.java",
+            "src/11/Q11283.py"
         ]
     },
     {
@@ -3235,7 +3235,7 @@
         "title": "Count Me In",
         "level": 5,
         "codes": [
-            "11/Q11319.py"
+            "src/11/Q11319.py"
         ]
     },
     {
@@ -3243,7 +3243,7 @@
         "title": "Strfry",
         "level": 4,
         "codes": [
-            "11/Q11328.py"
+            "src/11/Q11328.py"
         ]
     },
     {
@@ -3251,7 +3251,7 @@
         "title": "!밀비 급일",
         "level": 4,
         "codes": [
-            "11/Q11365.cpp"
+            "src/11/Q11365.cpp"
         ]
     },
     {
@@ -3259,7 +3259,7 @@
         "title": "Report Card Time",
         "level": 4,
         "codes": [
-            "11/Q11367.py"
+            "src/11/Q11367.py"
         ]
     },
     {
@@ -3267,8 +3267,8 @@
         "title": "꼬마 정민",
         "level": 1,
         "codes": [
-            "11/Q11382.cpp",
-            "11/Q11382.java"
+            "src/11/Q11382.cpp",
+            "src/11/Q11382.java"
         ]
     },
     {
@@ -3276,7 +3276,7 @@
         "title": "ATM",
         "level": 8,
         "codes": [
-            "11/Q11399.cpp"
+            "src/11/Q11399.cpp"
         ]
     },
     {
@@ -3284,7 +3284,7 @@
         "title": "占쏙옙",
         "level": 0,
         "codes": [
-            "11/Q11506.py"
+            "src/11/Q11506.py"
         ]
     },
     {
@@ -3292,7 +3292,7 @@
         "title": "Sum Kind of Problem",
         "level": 3,
         "codes": [
-            "11/Q11522.py"
+            "src/11/Q11522.py"
         ]
     },
     {
@@ -3300,7 +3300,7 @@
         "title": "Identifying tea",
         "level": 2,
         "codes": [
-            "11/Q11549.cpp"
+            "src/11/Q11549.cpp"
         ]
     },
     {
@@ -3308,7 +3308,7 @@
         "title": "Yangjojang of The Year",
         "level": 6,
         "codes": [
-            "11/Q11557.cpp"
+            "src/11/Q11557.cpp"
         ]
     },
     {
@@ -3316,7 +3316,7 @@
         "title": "Affine Cipher",
         "level": 4,
         "codes": [
-            "11/Q11575.cpp"
+            "src/11/Q11575.cpp"
         ]
     },
     {
@@ -3324,7 +3324,7 @@
         "title": "지영 공주님의 마법 거울",
         "level": 5,
         "codes": [
-            "11/Q11586.cpp"
+            "src/11/Q11586.cpp"
         ]
     },
     {
@@ -3332,7 +3332,7 @@
         "title": "좌표 정렬하기",
         "level": 6,
         "codes": [
-            "11/Q11650.cpp"
+            "src/11/Q11650.cpp"
         ]
     },
     {
@@ -3340,7 +3340,7 @@
         "title": "좌표 정렬하기 2",
         "level": 6,
         "codes": [
-            "11/Q11651.cpp"
+            "src/11/Q11651.cpp"
         ]
     },
     {
@@ -3348,8 +3348,8 @@
         "title": "아스키 코드",
         "level": 1,
         "codes": [
-            "11/Q11654.cpp",
-            "11/Q11654.java"
+            "src/11/Q11654.cpp",
+            "src/11/Q11654.java"
         ]
     },
     {
@@ -3357,7 +3357,7 @@
         "title": "ROT13",
         "level": 5,
         "codes": [
-            "11/Q11655.cpp"
+            "src/11/Q11655.cpp"
         ]
     },
     {
@@ -3365,7 +3365,7 @@
         "title": "접미사 배열",
         "level": 7,
         "codes": [
-            "11/Q11656.cpp"
+            "src/11/Q11656.cpp"
         ]
     },
     {
@@ -3373,7 +3373,7 @@
         "title": "그대로 출력하기",
         "level": 3,
         "codes": [
-            "11/Q11718.cpp"
+            "src/11/Q11718.cpp"
         ]
     },
     {
@@ -3381,7 +3381,7 @@
         "title": "그대로 출력하기 2",
         "level": 5,
         "codes": [
-            "11/Q11719.cpp"
+            "src/11/Q11719.cpp"
         ]
     },
     {
@@ -3389,7 +3389,7 @@
         "title": "숫자의 합",
         "level": 4,
         "codes": [
-            "11/Q11720.cpp"
+            "src/11/Q11720.cpp"
         ]
     },
     {
@@ -3397,7 +3397,7 @@
         "title": "열 개씩 끊어 출력하기",
         "level": 4,
         "codes": [
-            "11/Q11721.cpp"
+            "src/11/Q11721.cpp"
         ]
     },
     {
@@ -3405,7 +3405,7 @@
         "title": "2×n 타일링",
         "level": 8,
         "codes": [
-            "11/Q11726.cpp"
+            "src/11/Q11726.cpp"
         ]
     },
     {
@@ -3413,7 +3413,7 @@
         "title": "CCW",
         "level": 11,
         "codes": [
-            "11/Q11758.cpp"
+            "src/11/Q11758.cpp"
         ]
     },
     {
@@ -3421,7 +3421,7 @@
         "title": "POT",
         "level": 3,
         "codes": [
-            "11/Q11772.py"
+            "src/11/Q11772.py"
         ]
     },
     {
@@ -3429,7 +3429,7 @@
         "title": "Donation Packaging",
         "level": 3,
         "codes": [
-            "11/Q11795.py"
+            "src/11/Q11795.py"
         ]
     },
     {
@@ -3437,7 +3437,7 @@
         "title": "Tawla",
         "level": 3,
         "codes": [
-            "11/Q11800.py"
+            "src/11/Q11800.py"
         ]
     },
     {
@@ -3445,7 +3445,7 @@
         "title": "8진수, 10진수, 16진수",
         "level": 5,
         "codes": [
-            "11/Q11816.cpp"
+            "src/11/Q11816.cpp"
         ]
     },
     {
@@ -3453,7 +3453,7 @@
         "title": "수 정렬하기 4",
         "level": 6,
         "codes": [
-            "11/Q11931.cpp"
+            "src/11/Q11931.cpp"
         ]
     },
     {
@@ -3461,7 +3461,7 @@
         "title": "고려대는 사랑입니다",
         "level": 1,
         "codes": [
-            "11/Q11942.cpp"
+            "src/11/Q11942.cpp"
         ]
     },
     {
@@ -3469,7 +3469,7 @@
         "title": "파일 옮기기",
         "level": 2,
         "codes": [
-            "11/Q11943.cpp"
+            "src/11/Q11943.cpp"
         ]
     },
     {
@@ -3477,7 +3477,7 @@
         "title": "NN",
         "level": 4,
         "codes": [
-            "11/Q11944.py"
+            "src/11/Q11944.py"
         ]
     },
     {
@@ -3485,7 +3485,7 @@
         "title": "과목선택",
         "level": 2,
         "codes": [
-            "11/Q11948.cpp"
+            "src/11/Q11948.cpp"
         ]
     },
     {
@@ -3493,7 +3493,7 @@
         "title": "2의 제곱인가?",
         "level": 3,
         "codes": [
-            "11/Q11966.py"
+            "src/11/Q11966.py"
         ]
     },
     {
@@ -3501,7 +3501,7 @@
         "title": "이브이 진화 시키기",
         "level": 0,
         "codes": [
-            "12/Q12091.py"
+            "src/12/Q12091.py"
         ]
     },
     {
@@ -3509,15 +3509,15 @@
         "title": "",
         "level": 0,
         "codes": [
-            "12/Q12096.py"
+            "src/12/Q12096.py"
         ]
     },
     {
         "id": 12756,
-        "title": "고급 레스토랑",
+        "title": "고급 여관",
         "level": 3,
         "codes": [
-            "12/Q12756.py"
+            "src/12/Q12756.py"
         ]
     },
     {
@@ -3525,7 +3525,7 @@
         "title": "원피스",
         "level": 4,
         "codes": [
-            "12/Q12780.py"
+            "src/12/Q12780.py"
         ]
     },
     {
@@ -3533,7 +3533,7 @@
         "title": "Mini Fantasy War",
         "level": 3,
         "codes": [
-            "12/Q12790.py"
+            "src/12/Q12790.py"
         ]
     },
     {
@@ -3541,7 +3541,7 @@
         "title": "XORXORXOR",
         "level": 3,
         "codes": [
-            "12/Q12833.py"
+            "src/12/Q12833.py"
         ]
     },
     {
@@ -3549,7 +3549,7 @@
         "title": "Sums",
         "level": 3,
         "codes": [
-            "13/Q13073.py"
+            "src/13/Q13073.py"
         ]
     },
     {
@@ -3557,7 +3557,7 @@
         "title": "뉴턴과 사과",
         "level": 3,
         "codes": [
-            "13/Q13118.py"
+            "src/13/Q13118.py"
         ]
     },
     {
@@ -3565,7 +3565,7 @@
         "title": "Do Not Touch Anything",
         "level": 2,
         "codes": [
-            "13/Q13136.cpp"
+            "src/13/Q13136.cpp"
         ]
     },
     {
@@ -3573,7 +3573,7 @@
         "title": "닉네임에 갓 붙이기",
         "level": 4,
         "codes": [
-            "13/Q13163.cpp"
+            "src/13/Q13163.cpp"
         ]
     },
     {
@@ -3581,7 +3581,7 @@
         "title": "Manhattan",
         "level": 3,
         "codes": [
-            "13/Q13221.py"
+            "src/13/Q13221.py"
         ]
     },
     {
@@ -3589,7 +3589,7 @@
         "title": "Matches",
         "level": 3,
         "codes": [
-            "13/Q13222.py"
+            "src/13/Q13222.py"
         ]
     },
     {
@@ -3597,7 +3597,7 @@
         "title": "Divisors",
         "level": 3,
         "codes": [
-            "13/Q13225.py"
+            "src/13/Q13225.py"
         ]
     },
     {
@@ -3605,7 +3605,7 @@
         "title": "The REAL Manhattan distance",
         "level": 3,
         "codes": [
-            "13/Q13228.py"
+            "src/13/Q13228.py"
         ]
     },
     {
@@ -3613,7 +3613,7 @@
         "title": "George Boole",
         "level": 4,
         "codes": [
-            "13/Q13234.cpp"
+            "src/13/Q13234.cpp"
         ]
     },
     {
@@ -3621,7 +3621,7 @@
         "title": "Collatz Conjecture",
         "level": 3,
         "codes": [
-            "13/Q13236.py"
+            "src/13/Q13236.py"
         ]
     },
     {
@@ -3629,7 +3629,7 @@
         "title": "Chessboard",
         "level": 3,
         "codes": [
-            "13/Q13240.py"
+            "src/13/Q13240.py"
         ]
     },
     {
@@ -3637,7 +3637,7 @@
         "title": "최소공배수",
         "level": 8,
         "codes": [
-            "13/Q13241.cpp"
+            "src/13/Q13241.cpp"
         ]
     },
     {
@@ -3645,8 +3645,8 @@
         "title": "큰 수 곱셈",
         "level": 1,
         "codes": [
-            "13/Q13277.java",
-            "13/Q13277.py"
+            "src/13/Q13277.java",
+            "src/13/Q13277.py"
         ]
     },
     {
@@ -3654,7 +3654,7 @@
         "title": "Quick Estimates",
         "level": 3,
         "codes": [
-            "13/Q13297.py"
+            "src/13/Q13297.py"
         ]
     },
     {
@@ -3662,7 +3662,7 @@
         "title": "카드 문자열",
         "level": 8,
         "codes": [
-            "13/Q13417.cpp"
+            "src/13/Q13417.cpp"
         ]
     },
     {
@@ -3670,7 +3670,7 @@
         "title": "사칙연산",
         "level": 4,
         "codes": [
-            "13/Q13420.py"
+            "src/13/Q13420.py"
         ]
     },
     {
@@ -3678,7 +3678,7 @@
         "title": "Tarifa",
         "level": 3,
         "codes": [
-            "13/Q13484.py"
+            "src/13/Q13484.py"
         ]
     },
     {
@@ -3686,7 +3686,7 @@
         "title": "Tri-du",
         "level": 2,
         "codes": [
-            "13/Q13597.py"
+            "src/13/Q13597.py"
         ]
     },
     {
@@ -3694,7 +3694,7 @@
         "title": "Hawk eyes",
         "level": 3,
         "codes": [
-            "13/Q13698.py"
+            "src/13/Q13698.py"
         ]
     },
     {
@@ -3702,7 +3702,7 @@
         "title": "히스토그램",
         "level": 3,
         "codes": [
-            "13/Q13752.py"
+            "src/13/Q13752.py"
         ]
     },
     {
@@ -3710,7 +3710,7 @@
         "title": "Presents",
         "level": 3,
         "codes": [
-            "13/Q13771.py"
+            "src/13/Q13771.py"
         ]
     },
     {
@@ -3718,7 +3718,7 @@
         "title": "팀 나누기",
         "level": 2,
         "codes": [
-            "13/Q13866.cpp"
+            "src/13/Q13866.cpp"
         ]
     },
     {
@@ -3726,7 +3726,7 @@
         "title": "Equality",
         "level": 2,
         "codes": [
-            "13/Q13985.cpp"
+            "src/13/Q13985.cpp"
         ]
     },
     {
@@ -3734,7 +3734,7 @@
         "title": "Tournament Selection",
         "level": 2,
         "codes": [
-            "14/Q14038.cpp"
+            "src/14/Q14038.cpp"
         ]
     },
     {
@@ -3742,7 +3742,7 @@
         "title": "Tax",
         "level": 3,
         "codes": [
-            "14/Q14182.py"
+            "src/14/Q14182.py"
         ]
     },
     {
@@ -3750,7 +3750,7 @@
         "title": "정육각형과 삼각형",
         "level": 2,
         "codes": [
-            "14/Q14264.py"
+            "src/14/Q14264.py"
         ]
     },
     {
@@ -3758,7 +3758,7 @@
         "title": "전자레인지",
         "level": 2,
         "codes": [
-            "14/Q14470.py"
+            "src/14/Q14470.py"
         ]
     },
     {
@@ -3766,7 +3766,7 @@
         "title": "백대열",
         "level": 8,
         "codes": [
-            "14/Q14490.cpp"
+            "src/14/Q14490.cpp"
         ]
     },
     {
@@ -3774,7 +3774,7 @@
         "title": "9진수",
         "level": 3,
         "codes": [
-            "14/Q14491.py"
+            "src/14/Q14491.py"
         ]
     },
     {
@@ -3782,7 +3782,7 @@
         "title": "Speed Limit",
         "level": 3,
         "codes": [
-            "14/Q14541.py"
+            "src/14/Q14541.py"
         ]
     },
     {
@@ -3790,7 +3790,7 @@
         "title": "Square",
         "level": 3,
         "codes": [
-            "14/Q14545.py"
+            "src/14/Q14545.py"
         ]
     },
     {
@@ -3798,7 +3798,7 @@
         "title": "덧셈과 곱셈",
         "level": 3,
         "codes": [
-            "14/Q14579.py"
+            "src/14/Q14579.py"
         ]
     },
     {
@@ -3806,7 +3806,7 @@
         "title": "팬들에게 둘러싸인 홍준",
         "level": 4,
         "codes": [
-            "14/Q14581.py"
+            "src/14/Q14581.py"
         ]
     },
     {
@@ -3814,7 +3814,7 @@
         "title": "Calculate!",
         "level": 3,
         "codes": [
-            "14/Q14614.py"
+            "src/14/Q14614.py"
         ]
     },
     {
@@ -3822,7 +3822,7 @@
         "title": "감정이입",
         "level": 2,
         "codes": [
-            "14/Q14623.py"
+            "src/14/Q14623.py"
         ]
     },
     {
@@ -3830,7 +3830,7 @@
         "title": "와이버스 부릉부릉",
         "level": 1,
         "codes": [
-            "14/Q14645.cpp"
+            "src/14/Q14645.cpp"
         ]
     },
     {
@@ -3838,8 +3838,8 @@
         "title": "나는 행복합니다~",
         "level": 1,
         "codes": [
-            "14/Q14652.cpp",
-            "14/Q14652.java"
+            "src/14/Q14652.cpp",
+            "src/14/Q14652.java"
         ]
     },
     {
@@ -3847,7 +3847,7 @@
         "title": "조교는 새디스트야!!",
         "level": 3,
         "codes": [
-            "14/Q14656.py"
+            "src/14/Q14656.py"
         ]
     },
     {
@@ -3855,7 +3855,7 @@
         "title": "사분면 고르기",
         "level": 2,
         "codes": [
-            "14/Q14681.cpp"
+            "src/14/Q14681.cpp"
         ]
     },
     {
@@ -3863,7 +3863,7 @@
         "title": "Shifty Sum",
         "level": 3,
         "codes": [
-            "14/Q14682.py"
+            "src/14/Q14682.py"
         ]
     },
     {
@@ -3871,7 +3871,7 @@
         "title": "FizzBuzz",
         "level": 3,
         "codes": [
-            "14/Q14761.py"
+            "src/14/Q14761.py"
         ]
     },
     {
@@ -3879,7 +3879,7 @@
         "title": "Bedtime Reading, I",
         "level": 3,
         "codes": [
-            "14/Q14782.py"
+            "src/14/Q14782.py"
         ]
     },
     {
@@ -3887,7 +3887,7 @@
         "title": "양수 개수 세기",
         "level": 3,
         "codes": [
-            "14/Q14909.py"
+            "src/14/Q14909.py"
         ]
     },
     {
@@ -3895,7 +3895,7 @@
         "title": "오르막",
         "level": 4,
         "codes": [
-            "14/Q14910.py"
+            "src/14/Q14910.py"
         ]
     },
     {
@@ -3903,7 +3903,7 @@
         "title": "숫자 빈도수",
         "level": 6,
         "codes": [
-            "14/Q14912.py"
+            "src/14/Q14912.py"
         ]
     },
     {
@@ -3911,7 +3911,7 @@
         "title": "등차수열에서 항 번호 찾기",
         "level": 3,
         "codes": [
-            "14/Q14913.py"
+            "src/14/Q14913.py"
         ]
     },
     {
@@ -3919,7 +3919,7 @@
         "title": "사과와 바나나 나눠주기",
         "level": 6,
         "codes": [
-            "14/Q14914.py"
+            "src/14/Q14914.py"
         ]
     },
     {
@@ -3927,8 +3927,8 @@
         "title": "더하기",
         "level": 1,
         "codes": [
-            "14/Q14918.cpp",
-            "14/Q14918.java"
+            "src/14/Q14918.cpp",
+            "src/14/Q14918.java"
         ]
     },
     {
@@ -3936,7 +3936,7 @@
         "title": "3n+1 수열",
         "level": 3,
         "codes": [
-            "14/Q14920.py"
+            "src/14/Q14920.py"
         ]
     },
     {
@@ -3944,7 +3944,7 @@
         "title": "폰 노이만과 파리",
         "level": 2,
         "codes": [
-            "14/Q14924.cpp"
+            "src/14/Q14924.cpp"
         ]
     },
     {
@@ -3952,7 +3952,7 @@
         "title": "큰 수 (BIG)",
         "level": 1,
         "codes": [
-            "14/Q14928.py"
+            "src/14/Q14928.py"
         ]
     },
     {
@@ -3960,7 +3960,7 @@
         "title": "FA",
         "level": 2,
         "codes": [
-            "14/Q14935.py"
+            "src/14/Q14935.py"
         ]
     },
     {
@@ -3968,7 +3968,7 @@
         "title": "CAPS",
         "level": 4,
         "codes": [
-            "15/Q15000.py"
+            "src/15/Q15000.py"
         ]
     },
     {
@@ -3976,7 +3976,7 @@
         "title": "Judging Moose",
         "level": 2,
         "codes": [
-            "15/Q15025.py"
+            "src/15/Q15025.py"
         ]
     },
     {
@@ -3984,7 +3984,7 @@
         "title": "Jogo de Boca",
         "level": 2,
         "codes": [
-            "15/Q15048.py"
+            "src/15/Q15048.py"
         ]
     },
     {
@@ -3992,8 +3992,8 @@
         "title": "Máquina de café",
         "level": 2,
         "codes": [
-            "15/Q15051.cpp",
-            "15/Q15051.py"
+            "src/15/Q15051.cpp",
+            "src/15/Q15051.py"
         ]
     },
     {
@@ -4001,7 +4001,7 @@
         "title": "Hard choice",
         "level": 2,
         "codes": [
-            "15/Q15059.py"
+            "src/15/Q15059.py"
         ]
     },
     {
@@ -4009,7 +4009,7 @@
         "title": "Every Second Counts",
         "level": 2,
         "codes": [
-            "15/Q15080.py"
+            "src/15/Q15080.py"
         ]
     },
     {
@@ -4017,7 +4017,7 @@
         "title": "Batter Up",
         "level": 3,
         "codes": [
-            "15/Q15096.py"
+            "src/15/Q15096.py"
         ]
     },
     {
@@ -4025,7 +4025,7 @@
         "title": "Congruent Numbers",
         "level": 2,
         "codes": [
-            "15/Q15128.py"
+            "src/15/Q15128.py"
         ]
     },
     {
@@ -4033,7 +4033,7 @@
         "title": "Angles",
         "level": 3,
         "codes": [
-            "15/Q15178.py"
+            "src/15/Q15178.py"
         ]
     },
     {
@@ -4041,7 +4041,7 @@
         "title": "Rectangles",
         "level": 3,
         "codes": [
-            "15/Q15232.py"
+            "src/15/Q15232.py"
         ]
     },
     {
@@ -4049,7 +4049,7 @@
         "title": "Dominos",
         "level": 2,
         "codes": [
-            "15/Q15236.py"
+            "src/15/Q15236.py"
         ]
     },
     {
@@ -4057,7 +4057,7 @@
         "title": "Chanukah Challenge",
         "level": 3,
         "codes": [
-            "15/Q15295.py"
+            "src/15/Q15295.py"
         ]
     },
     {
@@ -4065,7 +4065,7 @@
         "title": "Sim Card",
         "level": 3,
         "codes": [
-            "15/Q15340.py"
+            "src/15/Q15340.py"
         ]
     },
     {
@@ -4073,7 +4073,7 @@
         "title": "Aron",
         "level": 3,
         "codes": [
-            "15/Q15354.py"
+            "src/15/Q15354.py"
         ]
     },
     {
@@ -4081,8 +4081,8 @@
         "title": "Vera and Outfits",
         "level": 1,
         "codes": [
-            "15/Q15439.cpp",
-            "15/Q15439.java"
+            "src/15/Q15439.cpp",
+            "src/15/Q15439.java"
         ]
     },
     {
@@ -4090,7 +4090,7 @@
         "title": "鉛筆",
         "level": 2,
         "codes": [
-            "15/Q15474.py"
+            "src/15/Q15474.py"
         ]
     },
     {
@@ -4098,7 +4098,7 @@
         "title": "빠른 A+B",
         "level": 4,
         "codes": [
-            "15/Q15552.cpp"
+            "src/15/Q15552.cpp"
         ]
     },
     {
@@ -4106,7 +4106,7 @@
         "title": "정수 N개의 합",
         "level": 4,
         "codes": [
-            "15/Q15596.cpp"
+            "src/15/Q15596.cpp"
         ]
     },
     {
@@ -4114,7 +4114,7 @@
         "title": "Abbey Courtyard",
         "level": 2,
         "codes": [
-            "15/Q15610.py"
+            "src/15/Q15610.py"
         ]
     },
     {
@@ -4122,7 +4122,7 @@
         "title": "피보나치 수 7",
         "level": 8,
         "codes": [
-            "15/Q15624.py"
+            "src/15/Q15624.py"
         ]
     },
     {
@@ -4130,7 +4130,7 @@
         "title": "BOJeopardy",
         "level": 0,
         "codes": [
-            "15/Q15631.txt"
+            "src/15/Q15631.txt"
         ]
     },
     {
@@ -4138,7 +4138,7 @@
         "title": "Fan Death",
         "level": 3,
         "codes": [
-            "15/Q15633.py"
+            "src/15/Q15633.py"
         ]
     },
     {
@@ -4146,7 +4146,7 @@
         "title": "Linear Algebra and Group",
         "level": 0,
         "codes": [
-            "15/Q15636.txt"
+            "src/15/Q15636.txt"
         ]
     },
     {
@@ -4154,7 +4154,7 @@
         "title": "Yee",
         "level": 0,
         "codes": [
-            "15/Q15643.txt"
+            "src/15/Q15643.txt"
         ]
     },
     {
@@ -4162,7 +4162,7 @@
         "title": "2018 연세대학교 프로그래밍 경진대회",
         "level": 3,
         "codes": [
-            "15/Q15667.py"
+            "src/15/Q15667.py"
         ]
     },
     {
@@ -4170,7 +4170,7 @@
         "title": "연세대학교",
         "level": 2,
         "codes": [
-            "15/Q15680.cpp"
+            "src/15/Q15680.cpp"
         ]
     },
     {
@@ -4178,7 +4178,7 @@
         "title": "수 정렬하기 5",
         "level": 6,
         "codes": [
-            "15/Q15688.cpp"
+            "src/15/Q15688.cpp"
         ]
     },
     {
@@ -4186,7 +4186,7 @@
         "title": "타일 채우기 4",
         "level": 2,
         "codes": [
-            "15/Q15700.py"
+            "src/15/Q15700.py"
         ]
     },
     {
@@ -4194,7 +4194,7 @@
         "title": "이칙연산",
         "level": 2,
         "codes": [
-            "15/Q15726.py"
+            "src/15/Q15726.py"
         ]
     },
     {
@@ -4202,8 +4202,8 @@
         "title": "조별과제를 하려는데 조장이 사라졌다",
         "level": 1,
         "codes": [
-            "15/Q15727.cpp",
-            "15/Q15727.java"
+            "src/15/Q15727.cpp",
+            "src/15/Q15727.java"
         ]
     },
     {
@@ -4211,7 +4211,7 @@
         "title": "나는 누구인가",
         "level": 1,
         "codes": [
-            "15/Q15733.cpp"
+            "src/15/Q15733.cpp"
         ]
     },
     {
@@ -4219,7 +4219,7 @@
         "title": "명장 남정훈",
         "level": 3,
         "codes": [
-            "15/Q15734.py"
+            "src/15/Q15734.py"
         ]
     },
     {
@@ -4227,7 +4227,7 @@
         "title": "A+B - 9",
         "level": 1,
         "codes": [
-            "15/Q15740.py"
+            "src/15/Q15740.py"
         ]
     },
     {
@@ -4235,7 +4235,7 @@
         "title": "헬멧과 조끼",
         "level": 3,
         "codes": [
-            "15/Q15781.py"
+            "src/15/Q15781.py"
         ]
     },
     {
@@ -4243,7 +4243,7 @@
         "title": "타노스",
         "level": 1,
         "codes": [
-            "15/Q15802.cpp"
+            "src/15/Q15802.cpp"
         ]
     },
     {
@@ -4251,7 +4251,7 @@
         "title": "너의 이름은 몇 점이니?",
         "level": 4,
         "codes": [
-            "15/Q15813.cpp"
+            "src/15/Q15813.cpp"
         ]
     },
     {
@@ -4259,7 +4259,7 @@
         "title": "야바위 대장",
         "level": 4,
         "codes": [
-            "15/Q15814.py"
+            "src/15/Q15814.py"
         ]
     },
     {
@@ -4267,7 +4267,7 @@
         "title": "맞았는데 왜 틀리죠?",
         "level": 3,
         "codes": [
-            "15/Q15820.py"
+            "src/15/Q15820.py"
         ]
     },
     {
@@ -4275,7 +4275,7 @@
         "title": "공백 없는 A+B",
         "level": 2,
         "codes": [
-            "15/Q15873.py"
+            "src/15/Q15873.py"
         ]
     },
     {
@@ -4283,7 +4283,7 @@
         "title": "전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018",
         "level": 1,
         "codes": [
-            "15/Q15890.cpp"
+            "src/15/Q15890.cpp"
         ]
     },
     {
@@ -4291,7 +4291,7 @@
         "title": "스타트링크 사무실을 파헤쳐보자",
         "level": 0,
         "codes": [
-            "15/Q15891.py"
+            "src/15/Q15891.py"
         ]
     },
     {
@@ -4299,7 +4299,7 @@
         "title": "수학은 체육과목 입니다",
         "level": 1,
         "codes": [
-            "15/Q15894.cpp"
+            "src/15/Q15894.cpp"
         ]
     },
     {
@@ -4307,7 +4307,7 @@
         "title": "수찬은 마린보이야!!",
         "level": 2,
         "codes": [
-            "15/Q15921.py"
+            "src/15/Q15921.py"
         ]
     },
     {
@@ -4315,7 +4315,7 @@
         "title": "욱제는 건축왕이야!!",
         "level": 3,
         "codes": [
-            "15/Q15923.py"
+            "src/15/Q15923.py"
         ]
     },
     {
@@ -4323,7 +4323,7 @@
         "title": "상금 헌터",
         "level": 3,
         "codes": [
-            "15/Q15953.py"
+            "src/15/Q15953.py"
         ]
     },
     {
@@ -4331,8 +4331,8 @@
         "title": "새로운 시작",
         "level": 1,
         "codes": [
-            "15/Q15962.cpp",
-            "15/Q15962.java"
+            "src/15/Q15962.cpp",
+            "src/15/Q15962.java"
         ]
     },
     {
@@ -4340,7 +4340,7 @@
         "title": "CASIO",
         "level": 2,
         "codes": [
-            "15/Q15963.py"
+            "src/15/Q15963.py"
         ]
     },
     {
@@ -4348,8 +4348,8 @@
         "title": "이상한 기호",
         "level": 1,
         "codes": [
-            "15/Q15964.cpp",
-            "15/Q15964.java"
+            "src/15/Q15964.cpp",
+            "src/15/Q15964.java"
         ]
     },
     {
@@ -4357,7 +4357,7 @@
         "title": "행복",
         "level": 4,
         "codes": [
-            "15/Q15969.py"
+            "src/15/Q15969.py"
         ]
     },
     {
@@ -4365,7 +4365,7 @@
         "title": "Telemarketer or not?",
         "level": 2,
         "codes": [
-            "16/Q16017.py"
+            "src/16/Q16017.py"
         ]
     },
     {
@@ -4373,8 +4373,8 @@
         "title": "오늘의 날짜는?",
         "level": 1,
         "codes": [
-            "16/Q16170.java",
-            "16/Q16170.py"
+            "src/16/Q16170.java",
+            "src/16/Q16170.py"
         ]
     },
     {
@@ -4382,7 +4382,7 @@
         "title": "General Election",
         "level": 3,
         "codes": [
-            "16/Q16175.py"
+            "src/16/Q16175.py"
         ]
     },
     {
@@ -4390,7 +4390,7 @@
         "title": "Repetitive Palindrome",
         "level": 4,
         "codes": [
-            "16/Q16189.py"
+            "src/16/Q16189.py"
         ]
     },
     {
@@ -4398,7 +4398,7 @@
         "title": "나이 계산하기",
         "level": 2,
         "codes": [
-            "16/Q16199.py"
+            "src/16/Q16199.py"
         ]
     },
     {
@@ -4406,7 +4406,7 @@
         "title": "카드 뽑기",
         "level": 2,
         "codes": [
-            "16/Q16204.py"
+            "src/16/Q16204.py"
         ]
     },
     {
@@ -4414,7 +4414,7 @@
         "title": "정열적인 정렬",
         "level": 6,
         "codes": [
-            "16/Q16212.py"
+            "src/16/Q16212.py"
         ]
     },
     {
@@ -4422,7 +4422,7 @@
         "title": "홍익대학교",
         "level": 1,
         "codes": [
-            "16/Q16394.cpp"
+            "src/16/Q16394.cpp"
         ]
     },
     {
@@ -4430,7 +4430,7 @@
         "title": "Poker Hand",
         "level": 3,
         "codes": [
-            "16/Q16408.py"
+            "src/16/Q16408.py"
         ]
     },
     {
@@ -4438,7 +4438,7 @@
         "title": "Time Limits",
         "level": 3,
         "codes": [
-            "16/Q16427.py"
+            "src/16/Q16427.py"
         ]
     },
     {
@@ -4446,7 +4446,7 @@
         "title": "A/B - 3",
         "level": 2,
         "codes": [
-            "16/Q16428.py"
+            "src/16/Q16428.py"
         ]
     },
     {
@@ -4454,7 +4454,7 @@
         "title": "제리와 톰",
         "level": 1,
         "codes": [
-            "16/Q16430.cpp"
+            "src/16/Q16430.cpp"
         ]
     },
     {
@@ -4462,7 +4462,7 @@
         "title": "베시와 데이지",
         "level": 2,
         "codes": [
-            "16/Q16431.py"
+            "src/16/Q16431.py"
         ]
     },
     {
@@ -4470,7 +4470,7 @@
         "title": "Desvendando Monty Hall",
         "level": 3,
         "codes": [
-            "16/Q16445.py"
+            "src/16/Q16445.py"
         ]
     },
     {
@@ -4478,7 +4478,7 @@
         "title": "컵라면 측정하기",
         "level": 3,
         "codes": [
-            "16/Q16479.py"
+            "src/16/Q16479.py"
         ]
     },
     {
@@ -4486,7 +4486,7 @@
         "title": "접시 안의 원",
         "level": 3,
         "codes": [
-            "16/Q16483.py"
+            "src/16/Q16483.py"
         ]
     },
     {
@@ -4494,7 +4494,7 @@
         "title": "작도하자! - ②",
         "level": 3,
         "codes": [
-            "16/Q16485.py"
+            "src/16/Q16485.py"
         ]
     },
     {
@@ -4502,7 +4502,7 @@
         "title": "운동장 한 바퀴",
         "level": 2,
         "codes": [
-            "16/Q16486.py"
+            "src/16/Q16486.py"
         ]
     },
     {
@@ -4510,7 +4510,7 @@
         "title": "Missing Runners",
         "level": 3,
         "codes": [
-            "16/Q16546.py"
+            "src/16/Q16546.py"
         ]
     },
     {
@@ -4518,7 +4518,7 @@
         "title": "Contemporary Art",
         "level": 2,
         "codes": [
-            "16/Q16600.py"
+            "src/16/Q16600.py"
         ]
     },
     {
@@ -4526,7 +4526,7 @@
         "title": "Accumulator Battery",
         "level": 2,
         "codes": [
-            "16/Q16648.py"
+            "src/16/Q16648.py"
         ]
     },
     {
@@ -4534,7 +4534,7 @@
         "title": "고려대학교에는 공식 와인이 있다",
         "level": 3,
         "codes": [
-            "16/Q16673.cpp"
+            "src/16/Q16673.cpp"
         ]
     },
     {
@@ -4542,7 +4542,7 @@
         "title": "Pizza Deal",
         "level": 2,
         "codes": [
-            "16/Q16693.py"
+            "src/16/Q16693.py"
         ]
     },
     {
@@ -4550,7 +4550,7 @@
         "title": "ICPC",
         "level": 2,
         "codes": [
-            "16/Q16727.py"
+            "src/16/Q16727.py"
         ]
     },
     {
@@ -4558,7 +4558,7 @@
         "title": "ソーシャルゲーム",
         "level": 2,
         "codes": [
-            "16/Q16785.py"
+            "src/16/Q16785.py"
         ]
     },
     {
@@ -4566,7 +4566,7 @@
         "title": "Star in Parentheses",
         "level": 6,
         "codes": [
-            "16/Q16815.py"
+            "src/16/Q16815.py"
         ]
     },
     {
@@ -4574,7 +4574,7 @@
         "title": "Winning Score",
         "level": 2,
         "codes": [
-            "17/Q17009.py"
+            "src/17/Q17009.py"
         ]
     },
     {
@@ -4582,7 +4582,7 @@
         "title": "Time to Decompress",
         "level": 3,
         "codes": [
-            "17/Q17010.py"
+            "src/17/Q17010.py"
         ]
     },
     {
@@ -4590,7 +4590,7 @@
         "title": "Serious Problem",
         "level": 4,
         "codes": [
-            "17/Q17094.py"
+            "src/17/Q17094.py"
         ]
     },
     {
@@ -4598,7 +4598,7 @@
         "title": "전체 계산 횟수",
         "level": 3,
         "codes": [
-            "17/Q17174.py"
+            "src/17/Q17174.py"
         ]
     },
     {
@@ -4606,7 +4606,7 @@
         "title": "태보태보 총난타",
         "level": 4,
         "codes": [
-            "17/Q17249.cpp"
+            "src/17/Q17249.cpp"
         ]
     },
     {
@@ -4614,7 +4614,7 @@
         "title": "달달함이 넘쳐흘러",
         "level": 1,
         "codes": [
-            "17/Q17256.py"
+            "src/17/Q17256.py"
         ]
     },
     {
@@ -4622,7 +4622,7 @@
         "title": "Sort 마스터 배지훈",
         "level": 4,
         "codes": [
-            "17/Q17263.py"
+            "src/17/Q17263.py"
         ]
     },
     {
@@ -4630,7 +4630,7 @@
         "title": "Vending Machine",
         "level": 3,
         "codes": [
-            "17/Q17284.py"
+            "src/17/Q17284.py"
         ]
     },
     {
@@ -4638,7 +4638,7 @@
         "title": "맥주 99병",
         "level": 5,
         "codes": [
-            "17/Q17293.py"
+            "src/17/Q17293.py"
         ]
     },
     {
@@ -4646,7 +4646,7 @@
         "title": "엔드게임 스포일러",
         "level": 1,
         "codes": [
-            "17/Q17295.cpp"
+            "src/17/Q17295.cpp"
         ]
     },
     {
@@ -4654,7 +4654,7 @@
         "title": "2루수 이름이 뭐야",
         "level": 4,
         "codes": [
-            "17/Q17350.py"
+            "src/17/Q17350.py"
         ]
     },
     {
@@ -4662,7 +4662,7 @@
         "title": "욱 제",
         "level": 3,
         "codes": [
-            "17/Q17356.py"
+            "src/17/Q17356.py"
         ]
     },
     {
@@ -4670,7 +4670,7 @@
         "title": "수학은 체육과목 입니다 2",
         "level": 2,
         "codes": [
-            "17/Q17362.py"
+            "src/17/Q17362.py"
         ]
     },
     {
@@ -4678,7 +4678,7 @@
         "title": "와글와글 숭고한",
         "level": 2,
         "codes": [
-            "17/Q17388.py"
+            "src/17/Q17388.py"
         ]
     },
     {
@@ -4686,7 +4686,7 @@
         "title": "스타후르츠",
         "level": 1,
         "codes": [
-            "17/Q17496.cpp"
+            "src/17/Q17496.cpp"
         ]
     },
     {
@@ -4694,7 +4694,7 @@
         "title": "Buffoon",
         "level": 3,
         "codes": [
-            "17/Q17530.py"
+            "src/17/Q17530.py"
         ]
     },
     {
@@ -4702,7 +4702,7 @@
         "title": "Greetings!",
         "level": 4,
         "codes": [
-            "17/Q17548.py"
+            "src/17/Q17548.py"
         ]
     },
     {
@@ -4710,7 +4710,7 @@
         "title": "Missing Numbers",
         "level": 3,
         "codes": [
-            "17/Q17588.py"
+            "src/17/Q17588.py"
         ]
     },
     {
@@ -4718,7 +4718,7 @@
         "title": "신기한 수",
         "level": 3,
         "codes": [
-            "17/Q17618.rs"
+            "src/17/Q17618.rs"
         ]
     },
     {
@@ -4726,7 +4726,7 @@
         "title": "Breaking Branches",
         "level": 3,
         "codes": [
-            "17/Q17783.py"
+            "src/17/Q17783.py"
         ]
     },
     {
@@ -4734,7 +4734,7 @@
         "title": "FYI",
         "level": 2,
         "codes": [
-            "17/Q17863.cpp"
+            "src/17/Q17863.cpp"
         ]
     },
     {
@@ -4742,7 +4742,7 @@
         "title": "Piece of Cake!",
         "level": 2,
         "codes": [
-            "17/Q17874.py"
+            "src/17/Q17874.py"
         ]
     },
     {
@@ -4750,7 +4750,7 @@
         "title": "License to Launch",
         "level": 3,
         "codes": [
-            "17/Q17912.py"
+            "src/17/Q17912.py"
         ]
     },
     {
@@ -4758,7 +4758,7 @@
         "title": "통학의 신",
         "level": 3,
         "codes": [
-            "17/Q17945.py"
+            "src/17/Q17945.py"
         ]
     },
     {
@@ -4766,7 +4766,7 @@
         "title": "Even or Odd?",
         "level": 2,
         "codes": [
-            "18/Q18005.py"
+            "src/18/Q18005.py"
         ]
     },
     {
@@ -4774,7 +4774,7 @@
         "title": "Арифметическая магия",
         "level": 1,
         "codes": [
-            "18/Q18096.cpp"
+            "src/18/Q18096.cpp"
         ]
     },
     {
@@ -4782,8 +4782,8 @@
         "title": "1998년생인 내가 태국에서는 2541년생?!",
         "level": 1,
         "codes": [
-            "18/Q18108.cpp",
-            "18/Q18108.java"
+            "src/18/Q18108.cpp",
+            "src/18/Q18108.java"
         ]
     },
     {
@@ -4791,7 +4791,7 @@
         "title": "Tapioka",
         "level": 4,
         "codes": [
-            "18/Q18142.py"
+            "src/18/Q18142.py"
         ]
     },
     {
@@ -4799,7 +4799,7 @@
         "title": "Rats",
         "level": 1,
         "codes": [
-            "18/Q18301.cpp"
+            "src/18/Q18301.cpp"
         ]
     },
     {
@@ -4807,7 +4807,7 @@
         "title": "Word Processor",
         "level": 4,
         "codes": [
-            "18/Q18322.py"
+            "src/18/Q18322.py"
         ]
     },
     {
@@ -4815,7 +4815,7 @@
         "title": "HOMWRK",
         "level": 3,
         "codes": [
-            "18/Q18398.py"
+            "src/18/Q18398.py"
         ]
     },
     {
@@ -4823,7 +4823,7 @@
         "title": "럭키 스트레이트",
         "level": 4,
         "codes": [
-            "18/Q18406.cpp"
+            "src/18/Q18406.cpp"
         ]
     },
     {
@@ -4831,7 +4831,7 @@
         "title": "3 つの整数",
         "level": 2,
         "codes": [
-            "18/Q18408.py"
+            "src/18/Q18408.py"
         ]
     },
     {
@@ -4839,7 +4839,7 @@
         "title": "母音を数える",
         "level": 4,
         "codes": [
-            "18/Q18409.py"
+            "src/18/Q18409.py"
         ]
     },
     {
@@ -4847,7 +4847,7 @@
         "title": "試験",
         "level": 2,
         "codes": [
-            "18/Q18411.py"
+            "src/18/Q18411.py"
         ]
     },
     {
@@ -4855,7 +4855,7 @@
         "title": "文字列の反転",
         "level": 4,
         "codes": [
-            "18/Q18412.py"
+            "src/18/Q18412.py"
         ]
     },
     {
@@ -4863,7 +4863,7 @@
         "title": "X に最も近い値",
         "level": 2,
         "codes": [
-            "18/Q18414.py"
+            "src/18/Q18414.py"
         ]
     },
     {
@@ -4871,7 +4871,7 @@
         "title": "キャピタリゼーション",
         "level": 4,
         "codes": [
-            "18/Q18415.py"
+            "src/18/Q18415.py"
         ]
     },
     {
@@ -4879,7 +4879,7 @@
         "title": "Banana",
         "level": 4,
         "codes": [
-            "18/Q18679.py"
+            "src/18/Q18679.py"
         ]
     },
     {
@@ -4887,7 +4887,7 @@
         "title": "Dog Treats",
         "level": 2,
         "codes": [
-            "19/Q19602.py"
+            "src/19/Q19602.py"
         ]
     },
     {
@@ -4895,7 +4895,7 @@
         "title": "뉴비의 기준은 뭘까?",
         "level": 2,
         "codes": [
-            "19/Q19944.rs"
+            "src/19/Q19944.rs"
         ]
     }
 ]
