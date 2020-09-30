@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (612문제)
+## 문제 풀이 현황 (613문제)
 
 ### 언어별 코드 수
 <table>
@@ -43,9 +43,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>5</td>
-        <td>24</td>
-        <td>261B</td>
+        <td>6</td>
+        <td>25</td>
+        <td>264B</td>
     </tr>
 </table>
 
@@ -5058,6 +5058,17 @@
         </td>
         <td align="center">
             <a href="src/13/Q13297.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13311">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13311 행운의 편지
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/Q13311.txt">Text</a>
         </td>
     </tr>
     <tr>
