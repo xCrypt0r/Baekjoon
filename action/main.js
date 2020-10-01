@@ -15,9 +15,10 @@ const list          = require(saveFile);
 const LANG          = require('./langs.json');
 
 function main() {
-    let promises = [];
+    let promises = [],
+        ids = [...new Set(argv)];
 
-    for (let id of argv) {
+    for (let id of ids) {
         promises.push(getInfo(id));
     }
 
