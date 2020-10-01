@@ -47,6 +47,12 @@
         <td>25</td>
         <td>264 B</td>
     </tr>
+    <tr>
+        <td><b>Total</b></td>
+        <td>642</td>
+        <td>12,797</td>
+        <td>211.21 KB</td>
+    </tr>
 </table>
 
 ### 해결된 문제 목록

@@ -60,6 +60,7 @@ function saveInfo({ id, title, level }) {
 
 async function updateReadme(list) {
     let readme = fs.readFileSync('README.template.md', 'utf-8'),
+        total = 0,
         langs = {},
         langsMarkdown = [];
 
@@ -69,10 +70,14 @@ async function updateReadme(list) {
 
             langs[LANG[ext]] ? langs[LANG[ext]]++ : langs[LANG[ext]] = 1;
         });
+        
+        total += p.codes.length;
     });
 
+    langs['Total'] = total;
+
     for (let [lang, count] of Object.entries(langs)) {
-        let ext = Object.keys(LANG).find(key => LANG[key] === lang),
+        let ext = Object.keys(LANG).find(key => LANG[key] === lang) || '',
             [lines, size] = (await exec(`bash getDetails.sh ${ext}`)).stdout.trim().split(' ');
 
         langsMarkdown.push(`
