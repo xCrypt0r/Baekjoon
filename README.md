@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (614문제)
+## 문제 풀이 현황 (615문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>8</td>
-        <td>223</td>
-        <td>4.04 KB</td>
+        <td>9</td>
+        <td>251</td>
+        <td>4.63 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>643</td>
-        <td>12,825</td>
-        <td>211.75 KB</td>
+        <td>644</td>
+        <td>12,853</td>
+        <td>212.33 KB</td>
     </tr>
 </table>
 
@@ -6307,6 +6307,17 @@
         </td>
         <td align="center">
             <a href="src/16/Q16673.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16675">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                16675 두 개의 손
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/Q16675.rs">Rust</a>
         </td>
     </tr>
     <tr>
