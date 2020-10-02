@@ -5,7 +5,7 @@ macro_rules! get_line {
   
             std::io::stdin().read_line(&mut line).unwrap();
   
-                let mut iter = line.split_whitespace();
+            let mut iter = line.split_whitespace();
   
             ( $( iter.next().unwrap().parse::<$t>().unwrap() ),+ )
         }
