@@ -4844,6 +4844,14 @@
         ]
     },
     {
+        "id": 18063,
+        "title": "Jazz Enthusiast",
+        "level": 3,
+        "codes": [
+            "src/18/Q18063.rs"
+        ]
+    },
+    {
         "id": 18096,
         "title": "Арифметическая магия",
         "level": 1,
