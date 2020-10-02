@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (620문제)
+## 문제 풀이 현황 (621문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>14</td>
-        <td>403</td>
-        <td>7.55 KB</td>
+        <td>15</td>
+        <td>442</td>
+        <td>8.24 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>649</td>
-        <td>13,005</td>
-        <td>215.26 KB</td>
+        <td>650</td>
+        <td>13,044</td>
+        <td>215.95 KB</td>
     </tr>
 </table>
 
@@ -2457,6 +2457,17 @@
         </td>
         <td align="center">
             <a href="src/5/Q5597.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5612">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                5612 터널의 입구와 출구
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/5/Q5612.rs">Rust</a>
         </td>
     </tr>
     <tr>
