@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     val k = scanner.nextInt()
     scanner.close()
 
-    val arr = Array(k) { IntArray(n) { it + 1 } }
+    val arr = IntArray(n) { it + 1 }
     val result = IntArray(k) { 0 }
 
     val bw = BufferedWriter(OutputStreamWriter(System.`out`))
@@ -19,13 +19,13 @@ fun main(args: Array<String>) {
     bw.close()
 }
 
-fun search(arr: Array<IntArray>, bw: BufferedWriter, result: IntArray, location: Int) {
-    if (location == arr.size) {
+fun search(arr: IntArray, bw: BufferedWriter, result: IntArray, location: Int) {
+    if (location == result.size) {
         bw.write(result.joinToString(" "))
         bw.newLine()
     } else {
-        for (i in arr[0].indices) {
-            result[location] = arr[location][i]
+        for (i in arr.indices) {
+            result[location] = arr[i]
 
             search(arr, bw, result, location + 1)
         }
