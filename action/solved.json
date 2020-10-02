@@ -2260,6 +2260,14 @@
         ]
     },
     {
+        "id": 9297,
+        "title": "Reducing Improper Fractions",
+        "level": 3,
+        "codes": [
+            "src/9/Q9297.rs"
+        ]
+    },
+    {
         "id": 9299,
         "title": "Math Tutoring",
         "level": 3,

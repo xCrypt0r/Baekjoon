@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (624문제)
+## 문제 풀이 현황 (625문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>18</td>
-        <td>536</td>
-        <td>10.08 KB</td>
+        <td>19</td>
+        <td>568</td>
+        <td>10.76 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>653</td>
-        <td>13,138</td>
-        <td>217.79 KB</td>
+        <td>654</td>
+        <td>13,170</td>
+        <td>218.47 KB</td>
     </tr>
 </table>
 
@@ -3150,6 +3150,17 @@
         </td>
         <td align="center">
             <a href="src/9/Q9296.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9297">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9297 Reducing Improper Fractions
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/Q9297.rs">Rust</a>
         </td>
     </tr>
     <tr>
