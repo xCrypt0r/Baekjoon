@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (631문제)
+## 문제 풀이 현황 (632문제)
 
 ### 언어별 코드 수
 <table>
@@ -24,6 +24,12 @@
         <td>12.5 KB</td>
     </tr>
     <tr>
+        <td><b>Kotlin</b></td>
+        <td>9</td>
+        <td>317</td>
+        <td>6.9 KB</td>
+    </tr>
+    <tr>
         <td><b>Python</b></td>
         <td>300</td>
         <td>4,690</td>
@@ -36,12 +42,6 @@
         <td>11.14 KB</td>
     </tr>
     <tr>
-        <td><b>Kotlin</b></td>
-        <td>8</td>
-        <td>265</td>
-        <td>5.81 KB</td>
-    </tr>
-    <tr>
         <td><b>Text</b></td>
         <td>6</td>
         <td>25</td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>660</td>
-        <td>13,360</td>
-        <td>222.58 KB</td>
+        <td>661</td>
+        <td>13,412</td>
+        <td>223.67 KB</td>
     </tr>
 </table>
 
@@ -103,6 +103,17 @@
         </td>
         <td align="center">
             <a href="src/1/Q1008.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1012">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+                1012 유기농 배추
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/Q1012.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
