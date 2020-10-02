@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (628문제)
+## 문제 풀이 현황 (629문제)
 
 ### 언어별 코드 수
 <table>
@@ -37,9 +37,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>7</td>
-        <td>230</td>
-        <td>5.04 KB</td>
+        <td>8</td>
+        <td>265</td>
+        <td>5.84 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>657</td>
-        <td>13,262</td>
-        <td>220.58 KB</td>
+        <td>658</td>
+        <td>13,297</td>
+        <td>221.38 KB</td>
     </tr>
 </table>
 
@@ -5889,6 +5889,17 @@
         </td>
         <td align="center">
             <a href="src/15/Q15650.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15651">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                15651 N과 M (3)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/Q15651.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
