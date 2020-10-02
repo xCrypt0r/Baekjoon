@@ -2147,6 +2147,14 @@
         ]
     },
     {
+        "id": 8719,
+        "title": "Piłeczka",
+        "level": 3,
+        "codes": [
+            "src/8/Q8719.rs"
+        ]
+    },
+    {
         "id": 8723,
         "title": "Patyki",
         "level": 2,
