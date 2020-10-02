@@ -2228,6 +2228,14 @@
         ]
     },
     {
+        "id": 9288,
+        "title": "More Dice",
+        "level": 3,
+        "codes": [
+            "src/9/Q9288.rs"
+        ]
+    },
+    {
         "id": 9295,
         "title": "주사위",
         "level": 3,
