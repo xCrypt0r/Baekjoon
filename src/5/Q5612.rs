@@ -1,4 +1,4 @@
-#![allow(non_snake_case)]
+use std::cmp;
 
 macro_rules! get_line {
     ( $( $t: ty ),+ ) => {
@@ -13,8 +13,6 @@ macro_rules! get_line {
         }
     }
 }
-
-use std::cmp;
 
 fn main() {
     let n = get_line!(i32);
