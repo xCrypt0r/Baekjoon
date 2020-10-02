@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (619문제)
+## 문제 풀이 현황 (620문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>13</td>
-        <td>362</td>
-        <td>6.74 KB</td>
+        <td>14</td>
+        <td>403</td>
+        <td>7.55 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>648</td>
-        <td>12,964</td>
-        <td>214.45 KB</td>
+        <td>649</td>
+        <td>13,005</td>
+        <td>215.26 KB</td>
     </tr>
 </table>
 
@@ -2644,6 +2644,17 @@
         </td>
         <td align="center">
             <a href="src/6/Q6040.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6162">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6162 Superlatives
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/Q6162.rs">Rust</a>
         </td>
     </tr>
     <tr>

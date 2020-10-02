@@ -1891,6 +1891,14 @@
         ]
     },
     {
+        "id": 6162,
+        "title": "Superlatives",
+        "level": 3,
+        "codes": [
+            "src/6/Q6162.rs"
+        ]
+    },
+    {
         "id": 6190,
         "title": "Another Cow Number Game",
         "level": 3,
