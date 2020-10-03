@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (636문제)
+## 문제 풀이 현황 (637문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>25</td>
-        <td>753</td>
-        <td>14.57 KB</td>
+        <td>26</td>
+        <td>801</td>
+        <td>15.51 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>665</td>
-        <td>13,542</td>
-        <td>226.42 KB</td>
+        <td>666</td>
+        <td>13,590</td>
+        <td>227.36 KB</td>
     </tr>
 </table>
 
@@ -3348,6 +3348,17 @@
         </td>
         <td align="center">
             <a href="src/9/Q9524.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9550">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9550 아이들은 사탕을 좋아해
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/Q9550.rs">Rust</a>
         </td>
     </tr>
     <tr>
