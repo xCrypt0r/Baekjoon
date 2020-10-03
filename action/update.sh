@@ -7,6 +7,7 @@ do
     node main.js $( \
         find $src/$folder -type f \
         | grep -oP '\d{4,}' \
+        | uniq \
         | tr '\n' ' ' \
     )
 done
