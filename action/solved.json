@@ -4547,6 +4547,14 @@
         ]
     },
     {
+        "id": 15995,
+        "title": "잉여역수 구하기",
+        "level": 3,
+        "codes": [
+            "src/15/Q15995.rs"
+        ]
+    },
+    {
         "id": 16017,
         "title": "Telemarketer or not?",
         "level": 2,
