@@ -43,14 +43,14 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>6</td>
-        <td>25</td>
-        <td>264 B</td>
+        <td>7</td>
+        <td>26</td>
+        <td>266 B</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>681</td>
-        <td>14,181</td>
+        <td>682</td>
+        <td>14,182</td>
         <td>240.12 KB</td>
     </tr>
 </table>
@@ -6251,7 +6251,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/15/Q15802.cpp">C++</a>
+            <a href="src/15/Q15802.cpp">C++</a><br><a href="src/15/Q15802.txt">Text</a>
         </td>
     </tr>
     <tr>
