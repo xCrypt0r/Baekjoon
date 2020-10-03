@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (644문제)
+## 문제 풀이 현황 (645문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>33</td>
-        <td>991</td>
-        <td>19.3 KB</td>
+        <td>34</td>
+        <td>1,035</td>
+        <td>20.16 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>673</td>
-        <td>13,780</td>
-        <td>231.14 KB</td>
+        <td>674</td>
+        <td>13,824</td>
+        <td>232 KB</td>
     </tr>
 </table>
 
@@ -6197,6 +6197,17 @@
         </td>
         <td align="center">
             <a href="src/15/Q15814.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15818">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15818 오버플로우와 모듈러
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/Q15818.rs">Rust</a>
         </td>
     </tr>
     <tr>
