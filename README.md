@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (661문제)
+## 문제 풀이 현황 (662문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>49</td>
-        <td>1,577</td>
-        <td>31.09 KB</td>
+        <td>50</td>
+        <td>1,578</td>
+        <td>31.1 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -43,15 +43,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>9</td>
-        <td>34</td>
-        <td>404 B</td>
+        <td>10</td>
+        <td>35</td>
+        <td>415 B</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>693</td>
-        <td>14,539</td>
-        <td>247.47 KB</td>
+        <td>695</td>
+        <td>14,541</td>
+        <td>247.5 KB</td>
     </tr>
 </table>
 
@@ -7308,6 +7308,17 @@
         </td>
         <td align="center">
             <a href="src/19/19602.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19617">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                19617 랜덤 게임~~~~~
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/19/19617.rs">Rust</a><br><a href="src/19/19617.txt">Text</a>
         </td>
     </tr>
     <tr>
