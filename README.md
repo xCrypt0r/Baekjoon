@@ -43,15 +43,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>7</td>
-        <td>26</td>
-        <td>266 B</td>
+        <td>9</td>
+        <td>34</td>
+        <td>404 B</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>682</td>
-        <td>14,182</td>
-        <td>240.12 KB</td>
+        <td>684</td>
+        <td>14,190</td>
+        <td>240.25 KB</td>
     </tr>
 </table>
 
@@ -2335,7 +2335,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/5/5337.cpp">C++</a>
+            <a href="src/5/5337.cpp">C++</a><br><a href="src/5/5337.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -2346,7 +2346,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/5/5338.cpp">C++</a>
+            <a href="src/5/5338.cpp">C++</a><br><a href="src/5/5338.txt">Text</a>
         </td>
     </tr>
     <tr>
