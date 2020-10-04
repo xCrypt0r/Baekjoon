@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (659문제)
+## 문제 풀이 현황 (660문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>47</td>
-        <td>1,498</td>
-        <td>29.43 KB</td>
+        <td>48</td>
+        <td>1,549</td>
+        <td>30.56 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>691</td>
-        <td>14,460</td>
-        <td>245.82 KB</td>
+        <td>692</td>
+        <td>14,511</td>
+        <td>246.95 KB</td>
     </tr>
 </table>
 
@@ -1236,6 +1236,17 @@
         </td>
         <td align="center">
             <a href="src/2/2667.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2670">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                2670 연속부분최대곱
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2670.rs">Rust</a>
         </td>
     </tr>
     <tr>
