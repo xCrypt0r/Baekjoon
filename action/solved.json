@@ -4466,6 +4466,14 @@
         ]
     },
     {
+        "id": 15637,
+        "title": "Lotto",
+        "level": 0,
+        "codes": [
+            "src/15/15637.rs"
+        ]
+    },
+    {
         "id": 15643,
         "title": "Yee",
         "level": 0,
