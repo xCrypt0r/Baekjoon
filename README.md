@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>50</td>
-        <td>1,578</td>
-        <td>31.1 KB</td>
+        <td>49</td>
+        <td>1,577</td>
+        <td>31.09 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>695</td>
-        <td>14,541</td>
-        <td>247.5 KB</td>
+        <td>694</td>
+        <td>14,540</td>
+        <td>247.48 KB</td>
     </tr>
 </table>
 
@@ -7318,7 +7318,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/19/19617.rs">Rust</a><br><a href="src/19/19617.txt">Text</a>
+            <a href="src/19/19617.txt">Text</a>
         </td>
     </tr>
     <tr>
