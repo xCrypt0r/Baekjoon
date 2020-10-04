@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (653문제)
+## 문제 풀이 현황 (654문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>41</td>
-        <td>1,262</td>
-        <td>24.58 KB</td>
+        <td>42</td>
+        <td>1,297</td>
+        <td>25.25 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>685</td>
-        <td>14,224</td>
-        <td>240.96 KB</td>
+        <td>686</td>
+        <td>14,259</td>
+        <td>241.63 KB</td>
     </tr>
 </table>
 
@@ -3326,6 +3326,17 @@
         </td>
         <td align="center">
             <a href="src/9/9437.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9461">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                9461 파도반 수열
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9461.rs">Rust</a>
         </td>
     </tr>
     <tr>
