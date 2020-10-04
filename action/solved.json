@@ -4525,7 +4525,8 @@
         "title": "타노스",
         "level": 1,
         "codes": [
-            "src/15/Q15802.cpp"
+            "src/15/Q15802.cpp",
+            "src/15/Q15802.txt"
         ]
     },
     {
