@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (656문제)
+## 문제 풀이 현황 (657문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>44</td>
-        <td>1,365</td>
-        <td>26.79 KB</td>
+        <td>45</td>
+        <td>1,404</td>
+        <td>27.52 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>688</td>
-        <td>14,327</td>
-        <td>243.18 KB</td>
+        <td>689</td>
+        <td>14,366</td>
+        <td>243.9 KB</td>
     </tr>
 </table>
 
@@ -4613,6 +4613,17 @@
         </td>
         <td align="center">
             <a href="src/11/11050.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11053">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+                11053 가장 긴 증가하는 부분 수열
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11053.rs">Rust</a>
         </td>
     </tr>
     <tr>
