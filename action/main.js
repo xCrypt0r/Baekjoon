@@ -41,7 +41,7 @@ async function getInfo(id) {
 function saveInfo({ id, title, level }) {
     let sid = String(id),
         folder = sid.substr(0, sid.length - 3),
-        codes = glob.sync(`src/${folder}/Q${id}.*`, { cwd: '..' }),
+        codes = glob.sync(`src/${folder}/${id}.*`, { cwd: '..' }),
         info = { id, title, level, codes },
         i = list.findIndex(p => p.id === +id);
 
