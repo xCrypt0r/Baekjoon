@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (677문제)
+## 문제 풀이 현황 (678문제)
 
 ### 언어별 코드 수
 <table>
@@ -43,15 +43,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>11</td>
-        <td>115</td>
-        <td>2.83 KB</td>
+        <td>12</td>
+        <td>135</td>
+        <td>3.58 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>709</td>
-        <td>15,044</td>
-        <td>260.27 KB</td>
+        <td>710</td>
+        <td>15,064</td>
+        <td>261.03 KB</td>
     </tr>
 </table>
 
@@ -2842,6 +2842,17 @@
         </td>
         <td align="center">
             <a href="src/6/6249.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6358">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                6358 Four Quarters
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6358.txt">Text</a>
         </td>
     </tr>
     <tr>
