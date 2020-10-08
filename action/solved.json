@@ -5360,6 +5360,14 @@
         ]
     },
     {
+        "id": 19575,
+        "title": "Polynomial",
+        "level": 5,
+        "codes": [
+            "src/19/19575.rs"
+        ]
+    },
+    {
         "id": 19602,
         "title": "Dog Treats",
         "level": 2,
