@@ -4142,6 +4142,14 @@
         ]
     },
     {
+        "id": 14542,
+        "title": "Outer Triangle Sum",
+        "level": 3,
+        "codes": [
+            "src/14/14542.rs"
+        ]
+    },
+    {
         "id": 14545,
         "title": "Square",
         "level": 3,
