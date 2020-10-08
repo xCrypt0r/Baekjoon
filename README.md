@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (678문제)
+## 문제 풀이 현황 (679문제)
 
 ### 언어별 코드 수
 <table>
@@ -43,15 +43,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>12</td>
-        <td>135</td>
-        <td>3.58 KB</td>
+        <td>13</td>
+        <td>143</td>
+        <td>3.74 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>710</td>
-        <td>15,064</td>
-        <td>261.03 KB</td>
+        <td>711</td>
+        <td>15,072</td>
+        <td>261.18 KB</td>
     </tr>
 </table>
 
@@ -5251,6 +5251,17 @@
         </td>
         <td align="center">
             <a href="src/12/12091.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12095">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                12095 가장 오래 걸리는 스도쿠
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/12/12095.txt">Text</a>
         </td>
     </tr>
     <tr>
