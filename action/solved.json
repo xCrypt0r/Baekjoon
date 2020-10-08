@@ -4458,6 +4458,14 @@
         ]
     },
     {
+        "id": 15547,
+        "title": "Lorem ipsum",
+        "level": 0,
+        "codes": [
+            "src/15/15547.rs"
+        ]
+    },
+    {
         "id": 15552,
         "title": "빠른 A+B",
         "level": 4,
