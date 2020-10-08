@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (676문제)
+## 문제 풀이 현황 (677문제)
 
 ### 언어별 코드 수
 <table>
@@ -43,15 +43,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>10</td>
-        <td>35</td>
-        <td>415 B</td>
+        <td>11</td>
+        <td>115</td>
+        <td>2.83 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>708</td>
-        <td>14,964</td>
-        <td>257.85 KB</td>
+        <td>709</td>
+        <td>15,044</td>
+        <td>260.27 KB</td>
     </tr>
 </table>
 
@@ -2193,6 +2193,17 @@
         </td>
         <td align="center">
             <a href="src/4/4673.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4690">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                4690 완전 세제곱
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4690.txt">Text</a>
         </td>
     </tr>
     <tr>
