@@ -1,7 +1,7 @@
 # Baekjoon
 🔫 백준 알고리즘 문제 풀기!
 
-## 문제 풀이 현황 (686문제)
+## 문제 풀이 현황 (687문제)
 
 ### 언어별 코드 수
 <table>
@@ -19,9 +19,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>70</td>
-        <td>2,282</td>
-        <td>47.09 KB</td>
+        <td>71</td>
+        <td>2,342</td>
+        <td>48.5 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -49,9 +49,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>718</td>
-        <td>15,353</td>
-        <td>266.83 KB</td>
+        <td>719</td>
+        <td>15,413</td>
+        <td>268.23 KB</td>
     </tr>
 </table>
 
@@ -2875,6 +2875,17 @@
         </td>
         <td align="center">
             <a href="src/6/6376.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6568">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6568.rs">Rust</a>
         </td>
     </tr>
     <tr>
