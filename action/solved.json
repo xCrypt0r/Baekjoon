@@ -5480,6 +5480,14 @@
         ]
     },
     {
+        "id": 19564,
+        "title": "반복",
+        "level": 5,
+        "codes": [
+            "src/19/19564.rs"
+        ]
+    },
+    {
         "id": 19575,
         "title": "Polynomial",
         "level": 5,
