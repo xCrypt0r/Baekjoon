@@ -3,4 +3,3 @@ coldcase/
 action/node_modules/
 
 *.out
-action/package-lock.json
