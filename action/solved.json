@@ -3580,6 +3580,14 @@
         ]
     },
     {
+        "id": 11466,
+        "title": "Alex Origami Squares",
+        "level": 2,
+        "codes": [
+            "src/11/11466.rs"
+        ]
+    },
+    {
         "id": 11506,
         "title": "占쏙옙",
         "level": 0,
