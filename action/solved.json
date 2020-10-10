@@ -1707,6 +1707,14 @@
         ]
     },
     {
+        "id": 5101,
+        "title": "Sequences",
+        "level": 2,
+        "codes": [
+            "src/5/5101.rs"
+        ]
+    },
+    {
         "id": 5217,
         "title": "쌍의 합",
         "level": 3,

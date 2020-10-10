@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (693문제)
+## 문제 풀이 현황 (694문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>77</td>
-        <td>2,520</td>
-        <td>52.35 KB</td>
+        <td>78</td>
+        <td>2,549</td>
+        <td>52.97 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>725</td>
-        <td>15,591</td>
-        <td>272.09 KB</td>
+        <td>726</td>
+        <td>15,620</td>
+        <td>272.7 KB</td>
     </tr>
 </table>
 
@@ -2393,6 +2393,17 @@
         </td>
         <td align="center">
             <a href="src/5/5086.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5101">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                5101 Sequences
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/5/5101.rs">Rust</a>
         </td>
     </tr>
     <tr>
