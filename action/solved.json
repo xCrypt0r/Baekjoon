@@ -5063,6 +5063,14 @@
         ]
     },
     {
+        "id": 16625,
+        "title": "Das Blinkenlights",
+        "level": 3,
+        "codes": [
+            "src/16/16625.rs"
+        ]
+    },
+    {
         "id": 16648,
         "title": "Accumulator Battery",
         "level": 2,

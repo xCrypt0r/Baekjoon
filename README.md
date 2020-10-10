@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (691문제)
+## 문제 풀이 현황 (692문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>75</td>
-        <td>2,443</td>
-        <td>50.74 KB</td>
+        <td>76</td>
+        <td>2,485</td>
+        <td>51.5 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>723</td>
-        <td>15,514</td>
-        <td>270.48 KB</td>
+        <td>724</td>
+        <td>15,556</td>
+        <td>271.24 KB</td>
     </tr>
 </table>
 
@@ -6980,6 +6980,17 @@
         </td>
         <td align="center">
             <a href="src/16/16600.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16625">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                16625 Das Blinkenlights
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16625.rs">Rust</a>
         </td>
     </tr>
     <tr>
