@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (699문제)
+## 문제 풀이 현황 (700문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>83</td>
-        <td>2,678</td>
-        <td>55.68 KB</td>
+        <td>84</td>
+        <td>2,696</td>
+        <td>56.08 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>731</td>
-        <td>15,749</td>
-        <td>275.42 KB</td>
+        <td>732</td>
+        <td>15,767</td>
+        <td>275.82 KB</td>
     </tr>
 </table>
 
@@ -5715,6 +5715,17 @@
         </td>
         <td align="center">
             <a href="src/14/14038.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14065">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                14065 Gorivo
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14065.rs">Rust</a>
         </td>
     </tr>
     <tr>
