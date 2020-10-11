@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (700문제)
+## 문제 풀이 현황 (701문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,13 +45,13 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>13</td>
+        <td>14</td>
         <td>143</td>
         <td>3.74 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>732</td>
+        <td>733</td>
         <td>15,767</td>
         <td>275.82 KB</td>
     </tr>
@@ -6419,6 +6419,17 @@
         </td>
         <td align="center">
             <a href="src/15/15637.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15641">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                15641 SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15641.txt">Text</a>
         </td>
     </tr>
     <tr>
