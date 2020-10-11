@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (695문제)
+## 문제 풀이 현황 (696문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>79</td>
-        <td>2,577</td>
-        <td>53.64 KB</td>
+        <td>80</td>
+        <td>2,606</td>
+        <td>54.26 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>727</td>
-        <td>15,648</td>
-        <td>273.37 KB</td>
+        <td>728</td>
+        <td>15,677</td>
+        <td>274 KB</td>
     </tr>
 </table>
 
@@ -5704,6 +5704,17 @@
         </td>
         <td align="center">
             <a href="src/14/14038.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14173">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                14173 Square Pasture
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14173.rs">Rust</a>
         </td>
     </tr>
     <tr>

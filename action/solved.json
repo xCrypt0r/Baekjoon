@@ -4126,6 +4126,14 @@
         ]
     },
     {
+        "id": 14173,
+        "title": "Square Pasture",
+        "level": 2,
+        "codes": [
+            "src/14/14173.rs"
+        ]
+    },
+    {
         "id": 14182,
         "title": "Tax",
         "level": 3,
