@@ -5359,6 +5359,14 @@
         ]
     },
     {
+        "id": 17903,
+        "title": "Counting Clauses",
+        "level": 2,
+        "codes": [
+            "src/17/17903.rs"
+        ]
+    },
+    {
         "id": 17912,
         "title": "License to Launch",
         "level": 3,

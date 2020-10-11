@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (696문제)
+## 문제 풀이 현황 (697문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>80</td>
-        <td>2,606</td>
-        <td>54.26 KB</td>
+        <td>81</td>
+        <td>2,625</td>
+        <td>54.68 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>728</td>
-        <td>15,677</td>
-        <td>274 KB</td>
+        <td>729</td>
+        <td>15,696</td>
+        <td>274.42 KB</td>
     </tr>
 </table>
 
@@ -7387,6 +7387,17 @@
         </td>
         <td align="center">
             <a href="src/17/17874.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17903">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                17903 Counting Clauses
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17903.rs">Rust</a>
         </td>
     </tr>
     <tr>
