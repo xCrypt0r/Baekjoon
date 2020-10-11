@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (704문제)
+## 문제 풀이 현황 (705문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>87</td>
-        <td>2,780</td>
-        <td>57.71 KB</td>
+        <td>88</td>
+        <td>2,802</td>
+        <td>58.24 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>736</td>
-        <td>15,851</td>
-        <td>277.45 KB</td>
+        <td>737</td>
+        <td>15,873</td>
+        <td>277.98 KB</td>
     </tr>
 </table>
 
@@ -3900,6 +3900,17 @@
         </td>
         <td align="center">
             <a href="src/10/10214.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10262">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10262 주사위 게임
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10262.rs">Rust</a>
         </td>
     </tr>
     <tr>

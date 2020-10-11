@@ -2807,6 +2807,14 @@
         ]
     },
     {
+        "id": 10262,
+        "title": "주사위 게임",
+        "level": 3,
+        "codes": [
+            "src/10/10262.rs"
+        ]
+    },
+    {
         "id": 10395,
         "title": "Automated Checking Machine",
         "level": 3,
