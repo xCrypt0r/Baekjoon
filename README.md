@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (705문제)
+## 문제 풀이 현황 (706문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>88</td>
-        <td>2,802</td>
-        <td>58.24 KB</td>
+        <td>89</td>
+        <td>2,855</td>
+        <td>59.35 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>737</td>
-        <td>15,873</td>
-        <td>277.98 KB</td>
+        <td>738</td>
+        <td>15,926</td>
+        <td>279.09 KB</td>
     </tr>
 </table>
 
@@ -5616,6 +5616,17 @@
         </td>
         <td align="center">
             <a href="src/13/13363.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13416">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13416 주식 투자
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13416.rs">Rust</a>
         </td>
     </tr>
     <tr>
