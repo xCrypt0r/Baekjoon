@@ -4513,6 +4513,14 @@
         ]
     },
     {
+        "id": 15115,
+        "title": "Delayed Work",
+        "level": 3,
+        "codes": [
+            "src/15/15115.rs"
+        ]
+    },
+    {
         "id": 15128,
         "title": "Congruent Numbers",
         "level": 2,
