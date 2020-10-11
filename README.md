@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (701문제)
+## 문제 풀이 현황 (702문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>84</td>
-        <td>2,696</td>
-        <td>56.08 KB</td>
+        <td>85</td>
+        <td>2,724</td>
+        <td>56.57 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>733</td>
-        <td>15,767</td>
-        <td>275.82 KB</td>
+        <td>734</td>
+        <td>15,795</td>
+        <td>276.3 KB</td>
     </tr>
 </table>
 
@@ -2294,6 +2294,17 @@
         </td>
         <td align="center">
             <a href="src/4/4909.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4922">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                4922 Walk Like an Egyptian
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4922.rs">Rust</a>
         </td>
     </tr>
     <tr>
