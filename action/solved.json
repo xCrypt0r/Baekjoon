@@ -4650,6 +4650,14 @@
         ]
     },
     {
+        "id": 15600,
+        "title": "Boss Battle",
+        "level": 3,
+        "codes": [
+            "src/15/15600.rs"
+        ]
+    },
+    {
         "id": 15610,
         "title": "Abbey Courtyard",
         "level": 2,

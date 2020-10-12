@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (707문제)
+## 문제 풀이 현황 (708문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>90</td>
-        <td>2,889</td>
-        <td>60.06 KB</td>
+        <td>91</td>
+        <td>2,909</td>
+        <td>60.45 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>739</td>
-        <td>15,960</td>
-        <td>279.8 KB</td>
+        <td>740</td>
+        <td>15,980</td>
+        <td>280.19 KB</td>
     </tr>
 </table>
 
@@ -6419,6 +6419,17 @@
         </td>
         <td align="center">
             <a href="src/15/15596.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15600">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15600 Boss Battle
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15600.rs">Rust</a>
         </td>
     </tr>
     <tr>
