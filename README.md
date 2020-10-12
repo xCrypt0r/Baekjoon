@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (711문제)
+## 문제 풀이 현황 (712문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>94</td>
-        <td>2,999</td>
-        <td>62.4 KB</td>
+        <td>95</td>
+        <td>3,032</td>
+        <td>63 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>743</td>
-        <td>16,070</td>
-        <td>282.14 KB</td>
+        <td>744</td>
+        <td>16,103</td>
+        <td>282.73 KB</td>
     </tr>
 </table>
 
@@ -2679,6 +2679,17 @@
         </td>
         <td align="center">
             <a href="src/5/5618.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5622">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5622 다이얼
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/5/5622.rs">Rust</a>
         </td>
     </tr>
     <tr>
