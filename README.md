@@ -22,7 +22,7 @@
     <tr>
         <td><b>Rust</b></td>
         <td>90</td>
-        <td>2,890</td>
+        <td>2,889</td>
         <td>60.06 KB</td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
     <tr>
         <td><b>Total</b></td>
         <td>739</td>
-        <td>15,961</td>
+        <td>15,960</td>
         <td>279.8 KB</td>
     </tr>
 </table>
