@@ -2478,6 +2478,14 @@
         ]
     },
     {
+        "id": 9310,
+        "title": "Arithmetic and Geometric Sums",
+        "level": 3,
+        "codes": [
+            "src/9/9310.rs"
+        ]
+    },
+    {
         "id": 9316,
         "title": "Hello Judge",
         "level": 3,
