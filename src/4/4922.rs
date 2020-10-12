@@ -14,7 +14,6 @@ macro_rules! get_line {
     }
 }
 
-
 fn main() {
     loop {
         let N = get_line!(i32);
