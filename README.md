@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (706문제)
+## 문제 풀이 현황 (707문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>89</td>
-        <td>2,855</td>
-        <td>59.35 KB</td>
+        <td>90</td>
+        <td>2,890</td>
+        <td>60.06 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>738</td>
-        <td>15,926</td>
-        <td>279.09 KB</td>
+        <td>739</td>
+        <td>15,961</td>
+        <td>279.8 KB</td>
     </tr>
 </table>
 
@@ -1788,6 +1788,17 @@
         </td>
         <td align="center">
             <a href="src/2/2985.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2991">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2991 사나운 개
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2991.rs">Rust</a>
         </td>
     </tr>
     <tr>
