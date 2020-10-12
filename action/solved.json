@@ -4827,6 +4827,14 @@
         ]
     },
     {
+        "id": 15751,
+        "title": "Teleportation",
+        "level": 3,
+        "codes": [
+            "src/15/15751.rs"
+        ]
+    },
+    {
         "id": 15780,
         "title": "멀티탭 충분하니?",
         "level": 3,

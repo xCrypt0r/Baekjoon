@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (710문제)
+## 문제 풀이 현황 (711문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>93</td>
-        <td>2,980</td>
-        <td>61.9 KB</td>
+        <td>94</td>
+        <td>2,999</td>
+        <td>62.4 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>742</td>
-        <td>16,051</td>
-        <td>281.64 KB</td>
+        <td>743</td>
+        <td>16,070</td>
+        <td>282.14 KB</td>
     </tr>
 </table>
 
@@ -6661,6 +6661,17 @@
         </td>
         <td align="center">
             <a href="src/15/15740.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15751">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15751 Teleportation
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15751.rs">Rust</a>
         </td>
     </tr>
     <tr>
