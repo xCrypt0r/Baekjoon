@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (715문제)
+## 문제 풀이 현황 (716문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>98</td>
-        <td>3,121</td>
-        <td>64.76 KB</td>
+        <td>99</td>
+        <td>3,141</td>
+        <td>65.17 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>747</td>
-        <td>16,192</td>
-        <td>284.5 KB</td>
+        <td>748</td>
+        <td>16,212</td>
+        <td>284.91 KB</td>
     </tr>
 </table>
 
@@ -1645,6 +1645,17 @@
         </td>
         <td align="center">
             <a href="src/2/2902.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2903">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2903 중앙 이동 알고리즘
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2903.rs">Rust</a>
         </td>
     </tr>
     <tr>
