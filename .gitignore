@@ -1,5 +1,6 @@
 test/
 coldcase/
 action/node_modules/
+src/stdin
 
 *.out
