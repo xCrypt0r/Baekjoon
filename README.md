@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (713문제)
+## 문제 풀이 현황 (714문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Rust</b></td>
-        <td>96</td>
-        <td>3,060</td>
-        <td>63.53 KB</td>
+        <td>97</td>
+        <td>3,083</td>
+        <td>64.01 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>745</td>
-        <td>16,131</td>
-        <td>283.26 KB</td>
+        <td>746</td>
+        <td>16,154</td>
+        <td>283.74 KB</td>
     </tr>
 </table>
 
@@ -1964,6 +1964,17 @@
         </td>
         <td align="center">
             <a href="src/3/3052.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3053">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                3053 택시 기하학
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/3/3053.rs">Rust</a>
         </td>
     </tr>
     <tr>
