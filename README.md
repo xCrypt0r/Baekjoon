@@ -52,14 +52,14 @@
     <tr>
         <td><b>Node.js</b></td>
         <td>1</td>
-        <td>13</td>
-        <td>307 B</td>
+        <td>17</td>
+        <td>376 B</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
         <td>750</td>
-        <td>16,283</td>
-        <td>286.28 KB</td>
+        <td>16,287</td>
+        <td>286.34 KB</td>
     </tr>
 </table>
 
