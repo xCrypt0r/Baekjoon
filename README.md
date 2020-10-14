@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (719문제)
+## 문제 풀이 현황 (720문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>2</td>
-        <td>41</td>
-        <td>948 B</td>
+        <td>3</td>
+        <td>74</td>
+        <td>1.56 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>751</td>
-        <td>16,311</td>
-        <td>286.9 KB</td>
+        <td>752</td>
+        <td>16,344</td>
+        <td>287.54 KB</td>
     </tr>
 </table>
 
@@ -2993,6 +2993,17 @@
         </td>
         <td align="center">
             <a href="src/6/6376.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6378">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6378 디지털 루트
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6378.js">Node.js</a>
         </td>
     </tr>
     <tr>
