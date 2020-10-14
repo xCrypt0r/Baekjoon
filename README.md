@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (721문제)
+## 문제 풀이 현황 (722문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>4</td>
-        <td>91</td>
-        <td>2.05 KB</td>
+        <td>5</td>
+        <td>116</td>
+        <td>2.56 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>753</td>
-        <td>16,361</td>
-        <td>288.03 KB</td>
+        <td>754</td>
+        <td>16,386</td>
+        <td>288.54 KB</td>
     </tr>
 </table>
 
@@ -5875,6 +5875,17 @@
         </td>
         <td align="center">
             <a href="src/14/14038.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14041">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14041 Arrival Time
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14041.js">Node.js</a>
         </td>
     </tr>
     <tr>
