@@ -2085,6 +2085,14 @@
         ]
     },
     {
+        "id": 6060,
+        "title": "Wheel Rotation",
+        "level": 3,
+        "codes": [
+            "src/6/6060.js"
+        ]
+    },
+    {
         "id": 6131,
         "title": "완전 제곱수",
         "level": 3,

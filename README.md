@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (728문제)
+## 문제 풀이 현황 (729문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>10</td>
-        <td>182</td>
-        <td>4.18 KB</td>
+        <td>11</td>
+        <td>211</td>
+        <td>4.75 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>760</td>
-        <td>16,479</td>
-        <td>290.45 KB</td>
+        <td>761</td>
+        <td>16,508</td>
+        <td>291.02 KB</td>
     </tr>
 </table>
 
@@ -2916,6 +2916,17 @@
         </td>
         <td align="center">
             <a href="src/6/6040.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6060">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6060 Wheel Rotation
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6060.js">Node.js</a>
         </td>
     </tr>
     <tr>
