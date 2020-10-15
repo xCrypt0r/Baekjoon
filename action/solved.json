@@ -4608,6 +4608,14 @@
         ]
     },
     {
+        "id": 15036,
+        "title": "Just A Minim",
+        "level": 3,
+        "codes": [
+            "src/15/15036.js"
+        ]
+    },
+    {
         "id": 15048,
         "title": "Jogo de Boca",
         "level": 2,
