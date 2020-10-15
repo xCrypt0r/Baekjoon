@@ -2405,6 +2405,14 @@
         ]
     },
     {
+        "id": 8806,
+        "title": "Papier kamień nożyczki",
+        "level": 3,
+        "codes": [
+            "src/8/8806.js"
+        ]
+    },
+    {
         "id": 8815,
         "title": "Test",
         "level": 3,
