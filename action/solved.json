@@ -2871,6 +2871,14 @@
         ]
     },
     {
+        "id": 10212,
+        "title": "Mystery",
+        "level": 0,
+        "codes": [
+            "src/10/10212.js"
+        ]
+    },
+    {
         "id": 10214,
         "title": "Baseball",
         "level": 3,
