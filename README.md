@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (726문제)
+## 문제 풀이 현황 (727문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>8</td>
-        <td>143</td>
-        <td>3.34 KB</td>
+        <td>9</td>
+        <td>151</td>
+        <td>3.5 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>758</td>
-        <td>16,440</td>
-        <td>289.61 KB</td>
+        <td>759</td>
+        <td>16,448</td>
+        <td>289.77 KB</td>
     </tr>
 </table>
 
@@ -5578,6 +5578,17 @@
         </td>
         <td align="center">
             <a href="src/13/13118.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13131">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                13131 HicCup
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13131.js">Node.js</a>
         </td>
     </tr>
     <tr>
