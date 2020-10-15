@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (727문제)
+## 문제 풀이 현황 (728문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>9</td>
-        <td>151</td>
-        <td>3.5 KB</td>
+        <td>10</td>
+        <td>182</td>
+        <td>4.18 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>759</td>
-        <td>16,448</td>
-        <td>289.77 KB</td>
+        <td>760</td>
+        <td>16,479</td>
+        <td>290.45 KB</td>
     </tr>
 </table>
 
@@ -5864,6 +5864,17 @@
         </td>
         <td align="center">
             <a href="src/13/13771.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13777">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13777 Hunt The Rabbit
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13777.js">Node.js</a>
         </td>
     </tr>
     <tr>
