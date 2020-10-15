@@ -4665,6 +4665,14 @@
         ]
     },
     {
+        "id": 15279,
+        "title": "Heart Rate",
+        "level": 3,
+        "codes": [
+            "src/15/15279.js"
+        ]
+    },
+    {
         "id": 15295,
         "title": "Chanukah Challenge",
         "level": 3,

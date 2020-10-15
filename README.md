@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (722문제)
+## 문제 풀이 현황 (723문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>5</td>
-        <td>116</td>
-        <td>2.56 KB</td>
+        <td>6</td>
+        <td>130</td>
+        <td>2.94 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>754</td>
-        <td>16,386</td>
-        <td>288.54 KB</td>
+        <td>755</td>
+        <td>16,400</td>
+        <td>288.92 KB</td>
     </tr>
 </table>
 
@@ -6447,6 +6447,17 @@
         </td>
         <td align="center">
             <a href="src/15/15236.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15279">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15279 Heart Rate
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15279.js">Node.js</a>
         </td>
     </tr>
     <tr>
