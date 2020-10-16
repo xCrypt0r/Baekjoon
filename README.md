@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (734문제)
+## 문제 풀이 현황 (735문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,8 +45,8 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>17</td>
-        <td>146</td>
+        <td>18</td>
+        <td>147</td>
         <td>3.76 KB</td>
     </tr>
     <tr>
@@ -57,8 +57,8 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>766</td>
-        <td>16,558</td>
+        <td>767</td>
+        <td>16,559</td>
         <td>292.19 KB</td>
     </tr>
 </table>
@@ -7041,6 +7041,17 @@
         </td>
         <td align="center">
             <a href="src/15/15913.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15915">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                15915 가위 바위 보 1002
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15915.txt">Text</a>
         </td>
     </tr>
     <tr>
