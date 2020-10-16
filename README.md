@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (732문제)
+## 문제 풀이 현황 (733문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>15</td>
-        <td>144</td>
-        <td>3.75 KB</td>
+        <td>16</td>
+        <td>145</td>
+        <td>3.76 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>764</td>
-        <td>16,556</td>
-        <td>292.17 KB</td>
+        <td>765</td>
+        <td>16,557</td>
+        <td>292.19 KB</td>
     </tr>
 </table>
 
@@ -4720,6 +4720,17 @@
         </td>
         <td align="center">
             <a href="src/10/10943.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10946">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10946 랜덤 게임~~~~
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10946.txt">Text</a>
         </td>
     </tr>
     <tr>
