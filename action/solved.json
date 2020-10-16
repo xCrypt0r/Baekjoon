@@ -1576,6 +1576,14 @@
         ]
     },
     {
+        "id": 10180,
+        "title": "Ship Selection",
+        "level": 3,
+        "codes": [
+            "10/Q10180.py"
+        ]
+    },
+    {
         "id": 10214,
         "title": "Baseball",
         "level": 3,
