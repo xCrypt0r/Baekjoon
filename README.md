@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (735문제)
+## 문제 풀이 현황 (736문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,8 +45,8 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>18</td>
-        <td>147</td>
+        <td>19</td>
+        <td>148</td>
         <td>3.76 KB</td>
     </tr>
     <tr>
@@ -57,8 +57,8 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>767</td>
-        <td>16,559</td>
+        <td>768</td>
+        <td>16,560</td>
         <td>292.19 KB</td>
     </tr>
 </table>
@@ -7151,6 +7151,17 @@
         </td>
         <td align="center">
             <a href="src/16/16017.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16076">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                16076 휴식이 필요해
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16076.txt">Text</a>
         </td>
     </tr>
     <tr>
