@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (736문제)
+## 문제 풀이 현황 (737문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>11</td>
-        <td>515</td>
-        <td>11.99 KB</td>
+        <td>12</td>
+        <td>566</td>
+        <td>13.2 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>768</td>
-        <td>16,560</td>
-        <td>292.19 KB</td>
+        <td>769</td>
+        <td>16,611</td>
+        <td>293.4 KB</td>
     </tr>
 </table>
 
@@ -7690,6 +7690,17 @@
         </td>
         <td align="center">
             <a href="src/17/17388.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17413">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                17413 단어 뒤집기 2
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17413.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
