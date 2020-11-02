@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (740문제)
+## 문제 풀이 현황 (741문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,13 +51,13 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>19</td>
+        <td>20</td>
         <td>148</td>
         <td>3.76 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>772</td>
+        <td>773</td>
         <td>16,711</td>
         <td>295.59 KB</td>
     </tr>
@@ -5545,6 +5545,17 @@
         </td>
         <td align="center">
             <a href="src/12/12091.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12093">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                12093 최댓값은 곧 페널티 감소
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/12/12093.txt">Text</a>
         </td>
     </tr>
     <tr>
