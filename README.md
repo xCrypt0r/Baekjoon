@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (739문제)
+## 문제 풀이 현황 (740문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>15</td>
-        <td>306</td>
-        <td>7.06 KB</td>
+        <td>16</td>
+        <td>358</td>
+        <td>8.09 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>771</td>
-        <td>16,659</td>
-        <td>294.56 KB</td>
+        <td>772</td>
+        <td>16,711</td>
+        <td>295.59 KB</td>
     </tr>
 </table>
 
@@ -7096,6 +7096,17 @@
         </td>
         <td align="center">
             <a href="src/15/15923.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15947">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                15947 아기 석환 뚜루루 뚜루
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15947.js">Node.js</a>
         </td>
     </tr>
     <tr>
