@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (738문제)
+## 문제 풀이 현황 (739문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>14</td>
-        <td>287</td>
-        <td>6.6 KB</td>
+        <td>15</td>
+        <td>306</td>
+        <td>7.06 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>770</td>
-        <td>16,640</td>
-        <td>294.1 KB</td>
+        <td>771</td>
+        <td>16,659</td>
+        <td>294.56 KB</td>
     </tr>
 </table>
 
@@ -6172,6 +6172,17 @@
         </td>
         <td align="center">
             <a href="src/14/14623.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14624">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14624 전북대학교
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14624.js">Node.js</a>
         </td>
     </tr>
     <tr>
