@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (741문제)
+## 문제 풀이 현황 (742문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>20</td>
-        <td>148</td>
-        <td>3.76 KB</td>
+        <td>21</td>
+        <td>159</td>
+        <td>3.88 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>773</td>
-        <td>16,711</td>
-        <td>295.59 KB</td>
+        <td>774</td>
+        <td>16,722</td>
+        <td>295.71 KB</td>
     </tr>
 </table>
 
@@ -5809,6 +5809,17 @@
         </td>
         <td align="center">
             <a href="src/13/13311.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13312">
+                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                13312 아크코사인은 믿음입니다
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13312.txt">Text</a>
         </td>
     </tr>
     <tr>
