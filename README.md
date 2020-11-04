@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (742문제)
+## 문제 풀이 현황 (743문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>16</td>
-        <td>358</td>
-        <td>8.09 KB</td>
+        <td>17</td>
+        <td>369</td>
+        <td>8.41 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>774</td>
-        <td>16,722</td>
-        <td>295.71 KB</td>
+        <td>775</td>
+        <td>16,733</td>
+        <td>296.03 KB</td>
     </tr>
 </table>
 
@@ -1629,6 +1629,17 @@
         </td>
         <td align="center">
             <a href="src/2/2857.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2863">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2863 이게 분수?
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2863.js">Node.js</a>
         </td>
     </tr>
     <tr>
