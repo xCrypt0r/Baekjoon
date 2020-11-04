@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (743문제)
+## 문제 풀이 현황 (744문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>17</td>
-        <td>369</td>
-        <td>8.41 KB</td>
+        <td>18</td>
+        <td>383</td>
+        <td>8.83 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>775</td>
-        <td>16,733</td>
-        <td>296.03 KB</td>
+        <td>776</td>
+        <td>16,747</td>
+        <td>296.45 KB</td>
     </tr>
 </table>
 
@@ -6975,6 +6975,17 @@
         </td>
         <td align="center">
             <a href="src/15/15781.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15784">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15784 질투진서
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15784.js">Node.js</a>
         </td>
     </tr>
     <tr>
