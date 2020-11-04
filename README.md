@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (746문제)
+## 문제 풀이 현황 (747문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,13 +51,13 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>23</td>
+        <td>24</td>
         <td>2,134</td>
         <td>16.73 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>778</td>
+        <td>779</td>
         <td>18,722</td>
         <td>309.3 KB</td>
     </tr>
@@ -8119,6 +8119,17 @@
         </td>
         <td align="center">
             <a href="src/18/18679.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18829">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                18829 0초 후에 제출할 수 있습니다.
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/18/18829.txt">Text</a>
         </td>
     </tr>
     <tr>
