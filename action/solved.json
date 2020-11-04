@@ -5551,6 +5551,14 @@
         ]
     },
     {
+        "id": 17107,
+        "title": "Thinking Language",
+        "level": 0,
+        "codes": [
+            "src/17/17107.txt"
+        ]
+    },
+    {
         "id": 17174,
         "title": "전체 계산 횟수",
         "level": 3,
