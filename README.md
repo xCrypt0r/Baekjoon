@@ -2492,7 +2492,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/5101">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 5101 Sequences
             </a>
         </td>
