@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (749문제)
+## 문제 풀이 현황 (750문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>20</td>
-        <td>415</td>
-        <td>9.65 KB</td>
+        <td>21</td>
+        <td>426</td>
+        <td>9.95 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>781</td>
-        <td>18,754</td>
-        <td>310.12 KB</td>
+        <td>782</td>
+        <td>18,765</td>
+        <td>310.42 KB</td>
     </tr>
 </table>
 
@@ -6106,6 +6106,17 @@
         </td>
         <td align="center">
             <a href="src/14/14470.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14489">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14489 치킨 두 마리 (...)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14489.js">Node.js</a>
         </td>
     </tr>
     <tr>
