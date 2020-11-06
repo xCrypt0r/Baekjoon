@@ -2205,6 +2205,14 @@
         ]
     },
     {
+        "id": 6763,
+        "title": "Speed fines are not fine!",
+        "level": 2,
+        "codes": [
+            "src/6/6763.js"
+        ]
+    },
+    {
         "id": 6764,
         "title": "Sounds fishy!",
         "level": 2,

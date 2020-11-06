@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (748문제)
+## 문제 풀이 현황 (749문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>19</td>
-        <td>397</td>
-        <td>9.12 KB</td>
+        <td>20</td>
+        <td>415</td>
+        <td>9.65 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>780</td>
-        <td>18,736</td>
-        <td>309.58 KB</td>
+        <td>781</td>
+        <td>18,754</td>
+        <td>310.12 KB</td>
     </tr>
 </table>
 
@@ -3081,6 +3081,17 @@
         </td>
         <td align="center">
             <a href="src/6/6749.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6763">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                6763 Speed fines are not fine!
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6763.js">Node.js</a>
         </td>
     </tr>
     <tr>
