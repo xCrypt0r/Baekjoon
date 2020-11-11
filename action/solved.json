@@ -2221,6 +2221,14 @@
         ]
     },
     {
+        "id": 6768,
+        "title": "Don’t pass me the ball!",
+        "level": 2,
+        "codes": [
+            "src/6/6768.js"
+        ]
+    },
+    {
         "id": 6778,
         "title": "Which Alien?",
         "level": 2,
