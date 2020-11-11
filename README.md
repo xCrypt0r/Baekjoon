@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (753문제)
+## 문제 풀이 현황 (754문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>24</td>
-        <td>484</td>
-        <td>11.06 KB</td>
+        <td>25</td>
+        <td>510</td>
+        <td>11.57 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>785</td>
-        <td>18,823</td>
-        <td>311.52 KB</td>
+        <td>786</td>
+        <td>18,849</td>
+        <td>312.04 KB</td>
     </tr>
 </table>
 
@@ -8350,6 +8350,17 @@
         </td>
         <td align="center">
             <a href="src/20/20004.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20124">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                20124 모르고리즘 회장님 추천 받습니다
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20124.js">Node.js</a>
         </td>
     </tr>
 </table>
