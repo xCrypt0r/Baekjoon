@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (752문제)
+## 문제 풀이 현황 (753문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>23</td>
-        <td>450</td>
-        <td>10.41 KB</td>
+        <td>24</td>
+        <td>484</td>
+        <td>11.06 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>784</td>
-        <td>18,789</td>
-        <td>310.88 KB</td>
+        <td>785</td>
+        <td>18,823</td>
+        <td>311.52 KB</td>
     </tr>
 </table>
 
@@ -1574,6 +1574,17 @@
         </td>
         <td align="center">
             <a href="src/2/2798.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2804">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2804 크로스워드 만들기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2804.js">Node.js</a>
         </td>
     </tr>
     <tr>
