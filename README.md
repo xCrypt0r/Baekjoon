@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (760문제)
+## 문제 풀이 현황 (761문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,14 +51,14 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>24</td>
-        <td>2,134</td>
-        <td>16.73 KB</td>
+        <td>25</td>
+        <td>2,135</td>
+        <td>16.74 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>792</td>
-        <td>18,974</td>
+        <td>793</td>
+        <td>18,975</td>
         <td>314.69 KB</td>
     </tr>
 </table>
@@ -4830,6 +4830,17 @@
         </td>
         <td align="center">
             <a href="src/10/10946.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10949">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                10949 숫자야구
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10949.txt">Text</a>
         </td>
     </tr>
     <tr>
