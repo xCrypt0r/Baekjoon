@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (756문제)
+## 문제 풀이 현황 (757문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>27</td>
-        <td>554</td>
-        <td>12.54 KB</td>
+        <td>28</td>
+        <td>570</td>
+        <td>12.81 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>788</td>
-        <td>18,893</td>
-        <td>313 KB</td>
+        <td>789</td>
+        <td>18,909</td>
+        <td>313.27 KB</td>
     </tr>
 </table>
 
@@ -3279,6 +3279,17 @@
         </td>
         <td align="center">
             <a href="src/8/8295.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8320">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                8320 직사각형을 만드는 방법
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/8/8320.js">Node.js</a>
         </td>
     </tr>
     <tr>
