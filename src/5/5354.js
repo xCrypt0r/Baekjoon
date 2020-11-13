@@ -1,4 +1,4 @@
-const  fs = require('fs');
+const fs = require('fs');
 
 function main() {
     let [T, ...sizes] = fs.readFileSync('/dev/stdin').toString().split('\n');
