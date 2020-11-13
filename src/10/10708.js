@@ -2,26 +2,20 @@ const fs = require('fs');
 
 function main() {
     let input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
-    let [[N, M], A, ...B] = [
-        input.splice(0, 2).map(x => +x),
+    let [N, M, A, ...B] = [
+        +input.shift(),
+        +input.shift(),
         input.shift().split(' ').map(x => +x),
         ...input.map(x => x.split(' ').map(y => +y))
     ];
-    let score = [];
-
-    for (let i = 0; i < N; i++) {
-        score[i] = 0;
-    }
+    let score = new Array(N).fill(0);
 
     for (let i = 0; i < M; i++) {
-        let target = A[i],
-            bonus = 0;
+        let target = A[i];
         
         for (let j = 0; j < N; j++) {
-            B[i][j] === target ? score[j]++ : bonus++;
+            B[i][j] === target ? score[j]++ : score[target - 1]++;
         }
-
-        score[target - 1] += bonus;
     }
 
     process.stdout.write(score.join('\n'));
