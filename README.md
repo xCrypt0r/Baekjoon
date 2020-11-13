@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (757문제)
+## 문제 풀이 현황 (758문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>28</td>
-        <td>570</td>
-        <td>12.81 KB</td>
+        <td>29</td>
+        <td>600</td>
+        <td>13.47 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>789</td>
-        <td>18,909</td>
-        <td>313.27 KB</td>
+        <td>790</td>
+        <td>18,939</td>
+        <td>313.94 KB</td>
     </tr>
 </table>
 
@@ -4302,6 +4302,17 @@
         </td>
         <td align="center">
             <a href="src/10/10707.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10708">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10708 크리스마스 파티
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10708.js">Node.js</a>
         </td>
     </tr>
     <tr>

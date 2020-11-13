@@ -3095,6 +3095,14 @@
         ]
     },
     {
+        "id": 10708,
+        "title": "크리스마스 파티",
+        "level": 4,
+        "codes": [
+            "src/10/10708.js"
+        ]
+    },
+    {
         "id": 10718,
         "title": "We love kriii",
         "level": 1,
