@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function main() {
-    let numbers = fs.readFileSync('../stdin').toString().split('\n').map(x => +x);
+    let numbers = fs.readFileSync('/dev/stdin').toString().split('\n').map(x => +x);
 
     for (let i = 0; i < numbers.length; i++) {
         if (numbers[i] == 0) {
