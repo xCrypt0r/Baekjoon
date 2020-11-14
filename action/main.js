@@ -34,7 +34,7 @@ async function getInfo(id) {
     let { body } = await request(URL + id),
         $ = cheerio.load(body),
         { problems } = JSON.parse($('#__NEXT_DATA__').html()).props.pageProps.result;
-    
+
     saveInfo(problems.find(p => p.id === +id));
 }
 
@@ -62,31 +62,59 @@ function saveInfo({ id, title, level }) {
 async function updateReadme(list) {
     let readme = fs.readFileSync('README.template.md', 'utf-8'),
         total = 0,
-        langs = {},
+        langs = [],
         langsMarkdown = [];
 
     list.forEach(p => {
         p.codes.forEach(code => {
-            let ext = path.extname(code).substr(1);
+            let ext = LANG[path.extname(code).substr(1)],
+                target = langs.find(lang => lang.name === ext);
 
-            langs[LANG[ext]] ? langs[LANG[ext]]++ : langs[LANG[ext]] = 1;
+            if (!target) {
+                langs.push({ name: ext, count: 0 });
+
+                target = langs[langs.length - 1];
+            }
+
+            target.count++;
         });
-        
+
         total += p.codes.length;
     });
 
-    langs['Total'] = total;
+    langs.push({ name: 'Total', count: total });
 
-    for (let [lang, count] of Object.entries(langs)) {
-        let ext = Object.keys(LANG).find(key => LANG[key] === lang) || '',
+    for (let lang of langs) {
+        let ext = Object.keys(LANG).find(key => LANG[key] === lang.name) || '',
             [lines, size] = (await exec(`bash getDetails.sh ${ext}`)).stdout.trim().split(' ');
 
+        lang.lines = +lines;
+        lang.size = +size;
+    }
+
+    langs.sort((x, y) => {
+        if (x.name === 'Total') {
+            return Infinity;
+        }
+
+        if (x.count !== y.count) {
+            return x.count > y.count ? -1 : 1;
+        } else {
+            if (x.lines !== y.lines) {
+                return x.lines > y.lines ? -1 : 1;
+            } else {
+                return x.size > y.size ? -1 : 1;
+            }
+        }
+    });
+
+    for (let { name, count, lines, size } of langs) {
         langsMarkdown.push(`
     <tr>
-        <td><b>${lang}</b></td>
+        <td><b>${name}</b></td>
         <td>${nf.format(count)}</td>
         <td>${nf.format(lines)}</td>
-        <td>${filesize(+size)}</td>
+        <td>${filesize(size)}</td>
     </tr>`
         );
     }

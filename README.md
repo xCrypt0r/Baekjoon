@@ -20,16 +20,16 @@
         <td>103.28 KB</td>
     </tr>
     <tr>
+        <td><b>Python</b></td>
+        <td>300</td>
+        <td>4,690</td>
+        <td>89.88 KB</td>
+    </tr>
+    <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>3,199</td>
         <td>66.24 KB</td>
-    </tr>
-    <tr>
-        <td><b>Kotlin</b></td>
-        <td>12</td>
-        <td>566</td>
-        <td>13.2 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -38,10 +38,10 @@
         <td>18.01 KB</td>
     </tr>
     <tr>
-        <td><b>Python</b></td>
-        <td>300</td>
-        <td>4,690</td>
-        <td>89.88 KB</td>
+        <td><b>Text</b></td>
+        <td>25</td>
+        <td>2,135</td>
+        <td>16.74 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -50,10 +50,10 @@
         <td>11.14 KB</td>
     </tr>
     <tr>
-        <td><b>Text</b></td>
-        <td>25</td>
-        <td>2,135</td>
-        <td>16.74 KB</td>
+        <td><b>Kotlin</b></td>
+        <td>12</td>
+        <td>566</td>
+        <td>13.2 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
