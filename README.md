@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (766문제)
+## 문제 풀이 현황 (767문제)
 
 ### 언어별 코드 수
 <table>
@@ -32,6 +32,12 @@
         <td>13.2 KB</td>
     </tr>
     <tr>
+        <td><b>Node.js</b></td>
+        <td>38</td>
+        <td>803</td>
+        <td>18.01 KB</td>
+    </tr>
+    <tr>
         <td><b>Python</b></td>
         <td>300</td>
         <td>4,690</td>
@@ -44,12 +50,6 @@
         <td>11.14 KB</td>
     </tr>
     <tr>
-        <td><b>Node.js</b></td>
-        <td>37</td>
-        <td>777</td>
-        <td>17.48 KB</td>
-    </tr>
-    <tr>
         <td><b>Text</b></td>
         <td>25</td>
         <td>2,135</td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>799</td>
-        <td>19,117</td>
-        <td>317.96 KB</td>
+        <td>800</td>
+        <td>19,143</td>
+        <td>318.48 KB</td>
     </tr>
 </table>
 
@@ -155,6 +155,17 @@
         </td>
         <td align="center">
             <a href="src/1/1026.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1032">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                1032 명령 프롬프트
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1032.js">Node.js</a>
         </td>
     </tr>
     <tr>
