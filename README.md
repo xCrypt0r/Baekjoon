@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>34</td>
-        <td>695</td>
-        <td>15.51 KB</td>
+        <td>35</td>
+        <td>710</td>
+        <td>15.89 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>796</td>
-        <td>19,035</td>
-        <td>315.98 KB</td>
+        <td>797</td>
+        <td>19,050</td>
+        <td>316.36 KB</td>
     </tr>
 </table>
 
@@ -726,7 +726,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/1/1977.cpp">C++</a>
+            <a href="src/1/1977.cpp">C++</a><br><a href="src/1/1977.js">Node.js</a>
         </td>
     </tr>
     <tr>
