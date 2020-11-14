@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (767문제)
+## 문제 풀이 현황 (768문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>25</td>
+        <td>26</td>
         <td>2,135</td>
         <td>16.74 KB</td>
     </tr>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>800</td>
+        <td>801</td>
         <td>19,143</td>
         <td>318.48 KB</td>
     </tr>
@@ -6238,6 +6238,17 @@
         </td>
         <td align="center">
             <a href="src/14/14406.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14443">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                14443 채점 소수 번호
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14443.txt">Text</a>
         </td>
     </tr>
     <tr>
