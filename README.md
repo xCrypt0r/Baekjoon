@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (771문제)
+## 문제 풀이 현황 (772문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>41</td>
-        <td>862</td>
-        <td>19.09 KB</td>
+        <td>42</td>
+        <td>874</td>
+        <td>19.38 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>804</td>
-        <td>19,202</td>
-        <td>319.56 KB</td>
+        <td>805</td>
+        <td>19,214</td>
+        <td>319.85 KB</td>
     </tr>
 </table>
 
@@ -573,6 +573,17 @@
         </td>
         <td align="center">
             <a href="src/1/1568.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1598">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                1598 꼬리를 무는 숫자 나열
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1598.js">Node.js</a>
         </td>
     </tr>
     <tr>
