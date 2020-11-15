@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (777문제)
+## 문제 풀이 현황 (778문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>47</td>
-        <td>982</td>
-        <td>21.55 KB</td>
+        <td>48</td>
+        <td>999</td>
+        <td>21.88 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>810</td>
-        <td>19,322</td>
-        <td>322.02 KB</td>
+        <td>811</td>
+        <td>19,339</td>
+        <td>322.35 KB</td>
     </tr>
 </table>
 
@@ -188,6 +188,17 @@
         </td>
         <td align="center">
             <a href="src/1/1065.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1075">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1075 나누기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1075.js">Node.js</a>
         </td>
     </tr>
     <tr>
