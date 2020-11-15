@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (780문제)
+## 문제 풀이 현황 (781문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>50</td>
-        <td>1,050</td>
-        <td>22.9 KB</td>
+        <td>51</td>
+        <td>1,076</td>
+        <td>23.43 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>813</td>
-        <td>19,390</td>
-        <td>323.37 KB</td>
+        <td>814</td>
+        <td>19,416</td>
+        <td>323.9 KB</td>
     </tr>
 </table>
 
@@ -2718,6 +2718,17 @@
         </td>
         <td align="center">
             <a href="src/5/5354.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5355">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5355 화성 수학
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/5/5355.js">Node.js</a>
         </td>
     </tr>
     <tr>
