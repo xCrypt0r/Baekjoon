@@ -1590,7 +1590,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2750">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 2750 수 정렬하기
             </a>
         </td>
@@ -6199,7 +6199,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/13312">
-                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/13.svg" height="14">
                 13312 아크코사인은 믿음입니다
             </a>
         </td>
