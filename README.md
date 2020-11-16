@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (790문제)
+## 문제 풀이 현황 (791문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>59</td>
-        <td>1,219</td>
-        <td>26.55 KB</td>
+        <td>60</td>
+        <td>1,227</td>
+        <td>26.74 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>823</td>
-        <td>19,570</td>
-        <td>327.25 KB</td>
+        <td>824</td>
+        <td>19,578</td>
+        <td>327.43 KB</td>
     </tr>
 </table>
 
@@ -3642,6 +3642,17 @@
         </td>
         <td align="center">
             <a href="src/8/8723.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8741">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                8741 이진수 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/8/8741.js">Node.js</a>
         </td>
     </tr>
     <tr>

@@ -2614,6 +2614,14 @@
         ]
     },
     {
+        "id": 8741,
+        "title": "이진수 합",
+        "level": 4,
+        "codes": [
+            "src/8/8741.js"
+        ]
+    },
+    {
         "id": 8806,
         "title": "Papier kamień nożyczki",
         "level": 3,
