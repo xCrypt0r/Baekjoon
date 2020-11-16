@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (791문제)
+## 문제 풀이 현황 (792문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>60</td>
-        <td>1,227</td>
-        <td>26.74 KB</td>
+        <td>61</td>
+        <td>1,250</td>
+        <td>27.24 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>824</td>
-        <td>19,578</td>
-        <td>327.43 KB</td>
+        <td>825</td>
+        <td>19,601</td>
+        <td>327.94 KB</td>
     </tr>
 </table>
 
@@ -3213,6 +3213,17 @@
         </td>
         <td align="center">
             <a href="src/6/6249.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6321">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6321 IBM 빼기 1
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6321.js">Node.js</a>
         </td>
     </tr>
     <tr>

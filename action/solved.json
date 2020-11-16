@@ -2302,6 +2302,14 @@
         ]
     },
     {
+        "id": 6321,
+        "title": "IBM 빼기 1",
+        "level": 4,
+        "codes": [
+            "src/6/6321.js"
+        ]
+    },
+    {
         "id": 6358,
         "title": "Four Quarters",
         "level": 5,
