@@ -2430,6 +2430,14 @@
         ]
     },
     {
+        "id": 7572,
+        "title": "간지(干支)",
+        "level": 4,
+        "codes": [
+            "src/7/7572.js"
+        ]
+    },
+    {
         "id": 7581,
         "title": "Cuboids",
         "level": 3,
