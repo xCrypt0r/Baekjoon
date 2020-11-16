@@ -6185,6 +6185,14 @@
         ]
     },
     {
+        "id": 19155,
+        "title": "Copying Homework",
+        "level": 3,
+        "codes": [
+            "src/19/19155.js"
+        ]
+    },
+    {
         "id": 19532,
         "title": "수학은 비대면강의입니다",
         "level": 4,
