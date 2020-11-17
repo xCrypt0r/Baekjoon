@@ -1,3 +1,13 @@
+"""
+4659. 비밀번호 발음하기
+
+작성자: xCrypt0r
+언어: Python 3
+사용 메모리: 32,724 KB
+소요 시간: 136 ms
+해결 날짜: 2020년 9월 18일
+"""
+
 import re
 
 rgx1 = re.compile('[aeiou]')

@@ -1,3 +1,13 @@
+"""
+1159. 농구 경기
+
+작성자: xCrypt0r
+언어: Python 3
+사용 메모리: 31,848 KB
+소요 시간: 92 ms
+해결 날짜: 2020년 9월 20일
+"""
+
 from collections import Counter
 
 def main():

@@ -22,8 +22,8 @@
     <tr>
         <td><b>Python</b></td>
         <td>301</td>
-        <td>4,701</td>
-        <td>90.1 KB</td>
+        <td>7,711</td>
+        <td>134.8 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -58,8 +58,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>826</td>
-        <td>24,231</td>
-        <td>405.14 KB</td>
+        <td>27,241</td>
+        <td>449.83 KB</td>
     </tr>
 </table>
 

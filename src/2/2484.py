@@ -1,3 +1,13 @@
+"""
+2484. 주사위 네개
+
+작성자: xCrypt0r
+언어: Python 3
+사용 메모리: 31,900 KB
+소요 시간: 88 ms
+해결 날짜: 2020년 9월 26일
+"""
+
 from sys import stdin
 from collections import Counter
 
