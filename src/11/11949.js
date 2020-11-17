@@ -1,3 +1,13 @@
+/**
+ * 11949. 번호표 교환
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,944 KB
+ * 소요 시간: 148 ms
+ * 해결 날짜: 2020년 11월 13일
+ */
+
 const fs = require('fs');
 
 function main() {

@@ -1,3 +1,13 @@
+/**
+ * 8741. 이진수 합
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 28,100 KB
+ * 소요 시간: 168 ms
+ * 해결 날짜: 2020년 11월 17일
+ */
+
 const fs = require('fs');
 
 function main() {

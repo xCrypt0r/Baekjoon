@@ -1,3 +1,13 @@
+/**
+ * 2153. 소수 단어
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,292 KB
+ * 소요 시간: 112 ms
+ * 해결 날짜: 2020년 11월 15일
+ */
+
 const fs = require('fs');
 
 function main() {

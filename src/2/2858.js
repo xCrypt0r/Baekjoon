@@ -1,3 +1,13 @@
+/**
+ * 2858. 기숙사 바닥
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,812 KB
+ * 소요 시간: 192 ms
+ * 해결 날짜: 2020년 11월 16일
+ */
+
 const fs = require('fs');
 
 function main() {

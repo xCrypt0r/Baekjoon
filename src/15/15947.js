@@ -1,3 +1,13 @@
+/**
+ * 15947. 아기 석환 뚜루루 뚜루
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,312 KB
+ * 소요 시간: 136 ms
+ * 해결 날짜: 2020년 11월 2일
+ */
+
 const fs = require('fs');
 
 function main() {

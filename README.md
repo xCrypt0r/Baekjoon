@@ -34,8 +34,8 @@
     <tr>
         <td><b>Node.js</b></td>
         <td>62</td>
-        <td>1,270</td>
-        <td>27.68 KB</td>
+        <td>1,890</td>
+        <td>38.25 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -58,8 +58,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>826</td>
-        <td>19,621</td>
-        <td>328.37 KB</td>
+        <td>20,241</td>
+        <td>338.95 KB</td>
     </tr>
 </table>
 

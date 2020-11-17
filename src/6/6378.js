@@ -1,3 +1,13 @@
+/**
+ * 6378. 디지털 루트
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 7,064 KB
+ * 소요 시간: 132 ms
+ * 해결 날짜: 2020년 10월 14일
+ */
+
 const fs = require('fs');
 
 function main() {

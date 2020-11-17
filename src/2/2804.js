@@ -1,3 +1,13 @@
+/**
+ * 2804. 크로스워드 만들기
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,296 KB
+ * 소요 시간: 136 ms
+ * 해결 날짜: 2020년 11월 12일
+ */
+
 const fs = require('fs');
 
 function main() {

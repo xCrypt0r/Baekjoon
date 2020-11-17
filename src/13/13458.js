@@ -1,3 +1,13 @@
+/**
+ * 13458. 시험 감독
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 115,768 KB
+ * 소요 시간: 512 ms
+ * 해결 날짜: 2020년 11월 16일
+ */
+
 const fs = require('fs');
 
 function main() {

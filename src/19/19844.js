@@ -1,3 +1,13 @@
+/**
+ * 19844. 단어 개수 세기
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 7,176 KB
+ * 소요 시간: 128 ms
+ * 해결 날짜: 2020년 10월 13일
+ */
+
 const fs = require('fs');
 
 function main() {

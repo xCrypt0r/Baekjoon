@@ -1,3 +1,13 @@
+/**
+ * 1977. 완전제곱수
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 8,320 KB
+ * 소요 시간: 144 ms
+ * 해결 날짜: 2020년 11월 14일
+ */
+
 const fs = require('fs');
 
 function main() {
