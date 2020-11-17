@@ -1,3 +1,13 @@
+/**
+ * 10815. 숫자 카드
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 3,788 KB
+ * 소요 시간: 228 ms
+ * 해결 날짜: 2020년 9월 6일
+ */
+
 #include <iostream>
 #include <algorithm>
 

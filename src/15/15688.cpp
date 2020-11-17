@@ -1,3 +1,13 @@
+/**
+ * 15688. 수 정렬하기 5
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 5,892 KB
+ * 소요 시간: 4,752 ms
+ * 해결 날짜: 2020년 9월 10일
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

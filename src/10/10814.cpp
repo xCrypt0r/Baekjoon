@@ -1,3 +1,13 @@
+/**
+ * 10814. 나이순 정렬
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 11,036 KB
+ * 소요 시간: 112 ms
+ * 해결 날짜: 2020년 8월 17일
+ */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

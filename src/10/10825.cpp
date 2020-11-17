@@ -1,3 +1,13 @@
+/**
+ * 10825. 국영수
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 6,684 KB
+ * 소요 시간: 60 ms
+ * 해결 날짜: 2020년 8월 17일
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

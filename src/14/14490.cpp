@@ -1,3 +1,13 @@
+/**
+ * 14490. 백대열
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 1,984 KB
+ * 소요 시간: 0 ms
+ * 해결 날짜: 2020년 8월 26일
+ */
+
 #include <iostream>
 #include <cstring>
 #include <string>

@@ -1,3 +1,13 @@
+/**
+ * 9093. 단어 뒤집기
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 2,044 KB
+ * 소요 시간: 24 ms
+ * 해결 날짜: 2020년 8월 27일
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <sstream>

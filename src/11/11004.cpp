@@ -1,3 +1,13 @@
+/**
+ * 11004. K번째 수
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 21,392 KB
+ * 소요 시간: 1,084 ms
+ * 해결 날짜: 2020년 8월 17일
+ */
+
 #include <iostream>
 #include <algorithm>
 

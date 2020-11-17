@@ -1,3 +1,13 @@
+/**
+ * 1463. 1로 만들기
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 5,892 KB
+ * 소요 시간: 4 ms
+ * 해결 날짜: 2020년 8월 17일
+ */
+
 #include <iostream>
 #include <algorithm>
 

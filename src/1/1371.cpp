@@ -1,3 +1,13 @@
+/**
+ * 1371. 가장 많은 글자
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 1,988 KB
+ * 소요 시간: 0 ms
+ * 해결 날짜: 2020년 8월 23일
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <locale>

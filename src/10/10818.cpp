@@ -1,3 +1,13 @@
+/**
+ * 10818. 최소, 최대
+ * 
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 5,768 KB
+ * 소요 시간: 464 ms
+ * 해결 날짜: 2020년 8월 17일
+ */
+
 #include <iostream>
 
 using namespace std;

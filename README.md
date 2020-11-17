@@ -16,8 +16,8 @@
     <tr>
         <td><b>C++</b></td>
         <td>301</td>
-        <td>7,215</td>
-        <td>103.28 KB</td>
+        <td>10,205</td>
+        <td>152.35 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -58,8 +58,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>826</td>
-        <td>20,241</td>
-        <td>338.95 KB</td>
+        <td>23,231</td>
+        <td>388.02 KB</td>
     </tr>
 </table>
 
