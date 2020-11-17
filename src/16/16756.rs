@@ -1,3 +1,13 @@
+/**
+ * 16756. Pismo
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 14,588 KB
+ * 소요 시간: 12 ms
+ * 해결 날짜: 2020년 10월 8일
+ */
+
 #![allow(non_snake_case)]
 
 use std::io::{self, Write};

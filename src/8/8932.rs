@@ -1,3 +1,13 @@
+/**
+ * 8932. 7종 경기
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 16,164 KB
+ * 소요 시간: 452 ms
+ * 해결 날짜: 2020년 10월 3일
+ */
+
 #![allow(non_snake_case)]
 
 macro_rules! get_line {

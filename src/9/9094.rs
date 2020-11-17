@@ -1,3 +1,13 @@
+/**
+ * 9094. 수학적 호기심
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 16,136 KB
+ * 소요 시간: 536 ms
+ * 해결 날짜: 2020년 10월 4일
+ */
+
 #![allow(non_snake_case)]
 
 macro_rules! get_line {

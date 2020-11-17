@@ -1,3 +1,13 @@
+/**
+ * 14173. Square Pasture
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,032 KB
+ * 소요 시간: 4 ms
+ * 해결 날짜: 2020년 10월 11일
+ */
+
 use std::cmp;
 
 macro_rules! get_line {

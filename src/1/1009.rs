@@ -1,3 +1,13 @@
+/**
+ * 1009. 분산처리
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,036 KB
+ * 소요 시간: 4 ms
+ * 해결 날짜: 2020년 10월 10일
+ */
+
 #![allow(non_snake_case)]
 
 use std::io::{self, Write};

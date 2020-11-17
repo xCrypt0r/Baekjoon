@@ -28,8 +28,8 @@
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
-        <td>3,199</td>
-        <td>66.24 KB</td>
+        <td>4,199</td>
+        <td>83.36 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -58,8 +58,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>826</td>
-        <td>23,231</td>
-        <td>388.02 KB</td>
+        <td>24,231</td>
+        <td>405.14 KB</td>
     </tr>
 </table>
 

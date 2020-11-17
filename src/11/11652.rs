@@ -1,3 +1,13 @@
+/**
+ * 11652. 카드
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 16,332 KB
+ * 소요 시간: 36 ms
+ * 해결 날짜: 2020년 10월 10일
+ */
+
 use std::io::{self, BufRead, Write};
 use std::collections::HashMap;
 

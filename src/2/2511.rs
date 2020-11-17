@@ -1,3 +1,13 @@
+/**
+ * 2511. 카드놀이
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,028 KB
+ * 소요 시간: 4 ms
+ * 해결 날짜: 2020년 10월 13일
+ */
+
 #![allow(non_snake_case)]
 
 macro_rules! get_list {

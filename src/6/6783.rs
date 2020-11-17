@@ -1,3 +1,13 @@
+/**
+ * 6783. English or French?
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,028 KB
+ * 소요 시간: 8 ms
+ * 해결 날짜: 2020년 10월 3일
+ */
+
 use std::io::{self, BufRead};
 
 fn main() {

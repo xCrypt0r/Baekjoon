@@ -1,3 +1,13 @@
+/**
+ * 9297. Reducing Improper Fractions
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,028 KB
+ * 소요 시간: 44 ms
+ * 해결 날짜: 2020년 10월 2일
+ */
+
 macro_rules! get_line {
     ( $( $t: ty ),+ ) => {
         {

@@ -1,3 +1,13 @@
+/**
+ * 14563. 완전수
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,036 KB
+ * 소요 시간: 20 ms
+ * 해결 날짜: 2020년 10월 8일
+ */
+
 use std::io::{self, Write};
 
 macro_rules! get_line {

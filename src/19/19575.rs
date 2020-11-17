@@ -1,3 +1,13 @@
+/**
+ * 19575. Polynomial
+ * 
+ * 작성자: xCrypt0r
+ * 언어: Rust 2018
+ * 사용 메모리: 13,028 KB
+ * 소요 시간: 188 ms
+ * 해결 날짜: 2020년 10월 8일
+ */
+
 #![allow(non_snake_case)]
 
 macro_rules! get_line {
