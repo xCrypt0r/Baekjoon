@@ -1,4 +1,5 @@
 const { promisify } = require('util');
+const chalk         = require('chalk');
 const request       = promisify(require('request'));
 const cheerio       = require('cheerio');
 const glob          = require('fast-glob');
@@ -49,13 +50,13 @@ function saveInfo({ id, title, level }) {
         if (JSON.stringify(list[i]) !== JSON.stringify(info)) {
             list[i] = info;
 
-            console.log(`[Updated] ${id}. ${title}`);
+            console.log(chalk.red(`[Updated] ${id}. ${title}`));
         } else {
-            console.log(`[Duplicated] ${id}. ${title}`);
+            console.log(chalk.white(`[Duplicated] ${id}. ${title}`));
         }
     } else {
         list.push(info);
-        console.log(`[Added] ${id}. ${title}`);
+        console.log(chalk.green(`[Added] ${id}. ${title}`));
     }
 }
 
