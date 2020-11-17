@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (792문제)
+## 문제 풀이 현황 (793문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>61</td>
-        <td>1,250</td>
-        <td>27.24 KB</td>
+        <td>62</td>
+        <td>1,270</td>
+        <td>27.68 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>825</td>
-        <td>19,601</td>
-        <td>327.94 KB</td>
+        <td>826</td>
+        <td>19,621</td>
+        <td>328.37 KB</td>
     </tr>
 </table>
 
@@ -584,6 +584,17 @@
         </td>
         <td align="center">
             <a href="src/1/1550.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1551">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1551 수열의 변화
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1551.js">Node.js</a>
         </td>
     </tr>
     <tr>
