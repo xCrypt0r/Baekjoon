@@ -1,3 +1,13 @@
+/**
+ * 2441. 별 찍기 - 4
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 17,344 KB
+ * 소요 시간: 192 ms
+ * 해결 날짜: 2020년 9월 22일
+ */
+
 import java.util.Scanner;
 
 public class Main {

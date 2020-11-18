@@ -1,3 +1,13 @@
+/**
+ * 10757. 큰 수 A+B
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 19,752 KB
+ * 소요 시간: 280 ms
+ * 해결 날짜: 2020년 9월 19일
+ */
+
 import java.util.Scanner;
 
 public class Main {

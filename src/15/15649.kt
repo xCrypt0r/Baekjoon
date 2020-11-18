@@ -1,3 +1,13 @@
+/**
+ * 15649. N과 M (1)
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 72,976 KB
+ * 소요 시간: 1,340 ms
+ * 해결 날짜: 2020년 10월 2일
+ */
+
 import java.util.Scanner
 
 fun main(args: Array<String>) {

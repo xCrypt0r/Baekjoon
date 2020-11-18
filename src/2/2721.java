@@ -1,3 +1,13 @@
+/**
+ * 2721. 삼각수의 합
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 18,076 KB
+ * 소요 시간: 244 ms
+ * 해결 날짜: 2020년 9월 21일
+ */
+
 import java.util.Scanner;
 
 public class Main {

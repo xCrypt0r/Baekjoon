@@ -1,3 +1,13 @@
+/**
+ * 13277. 큰 수 곱셈
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 358,976 KB
+ * 소요 시간: 6,696 ms
+ * 해결 날짜: 2020년 9월 21일
+ */
+
 import java.math.BigInteger;
 import java.util.Scanner;
 

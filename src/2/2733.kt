@@ -1,3 +1,13 @@
+/**
+ * 2733. Brainf*ck
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 19,608 KB
+ * 소요 시간: 516 ms
+ * 해결 날짜: 2020년 10월 3일
+ */
+
 import java.io.BufferedWriter
 import java.io.OutputStreamWriter
 

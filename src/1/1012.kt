@@ -1,3 +1,13 @@
+/**
+ * 1012. 유기농 배추
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 29,396 KB
+ * 소요 시간: 284 ms
+ * 해결 날짜: 2020년 10월 3일
+ */
+
 import java.util.Scanner
 
 fun main() {

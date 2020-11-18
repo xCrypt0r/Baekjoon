@@ -16,8 +16,8 @@
     <tr>
         <td><b>C++</b></td>
         <td>301</td>
-        <td>10,205</td>
-        <td>152.35 KB</td>
+        <td>10,225</td>
+        <td>152.68 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -46,20 +46,20 @@
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
-        <td>535</td>
-        <td>11.14 KB</td>
+        <td>775</td>
+        <td>15.3 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>12</td>
-        <td>566</td>
-        <td>13.2 KB</td>
+        <td>686</td>
+        <td>15.31 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
         <td>826</td>
-        <td>27,501</td>
-        <td>453.82 KB</td>
+        <td>27,881</td>
+        <td>460.43 KB</td>
     </tr>
 </table>
 

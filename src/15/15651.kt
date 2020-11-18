@@ -1,3 +1,13 @@
+/**
+ * 15651. N과 M (3)
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 262,468 KB
+ * 소요 시간: 752 ms
+ * 해결 날짜: 2020년 10월 2일
+ */
+
 import java.io.BufferedWriter
 import java.io.OutputStreamWriter
 import java.util.Scanner

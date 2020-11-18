@@ -1,3 +1,13 @@
+/**
+ * 15964. 이상한 기호
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 14,292 KB
+ * 소요 시간: 116 ms
+ * 해결 날짜: 2020년 9월 21일
+ */
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,3 +1,13 @@
+/**
+ * 1212. 8진수 2진수
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Java 8
+ * 사용 메모리: 42,856 KB
+ * 소요 시간: 612 ms
+ * 해결 날짜: 2020년 9월 21일
+ */
+
 import java.util.Scanner;
 
 public class Main {

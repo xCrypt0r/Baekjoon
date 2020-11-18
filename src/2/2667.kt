@@ -1,3 +1,13 @@
+/**
+ * 2667. 단지번호붙이기
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 20,200 KB
+ * 소요 시간: 176 ms
+ * 해결 날짜: 2020년 9월 29일
+ */
+
 import java.util.Scanner
 
 fun main() {

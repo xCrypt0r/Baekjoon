@@ -1,3 +1,13 @@
+/**
+ * 1284. 집 주소
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: Kotlin (JVM)
+ * 사용 메모리: 19,188 KB
+ * 소요 시간: 136 ms
+ * 해결 날짜: 2020년 9월 29일
+ */
+
 import java.util.Scanner
 
 fun main() {

@@ -1,3 +1,13 @@
+/**
+ * 15051. Máquina de café
+ * 
+ * 작성자: Raccoon Dog
+ * 언어: C++14
+ * 사용 메모리: 1,984 KB
+ * 소요 시간: 0 ms
+ * 해결 날짜: 2020년 9월 20일
+ */
+
 #include <iostream>
 #include <cstdlib>
 
