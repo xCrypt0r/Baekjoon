@@ -3208,6 +3208,14 @@
         ]
     },
     {
+        "id": 10270,
+        "title": "Algebraic Teamwork",
+        "level": 3,
+        "codes": [
+            "src/10/10270.js"
+        ]
+    },
+    {
         "id": 10395,
         "title": "Automated Checking Machine",
         "level": 3,

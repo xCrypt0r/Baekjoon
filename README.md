@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (804문제)
+## 문제 풀이 현황 (805문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>73</td>
-        <td>2,223</td>
-        <td>45.01 KB</td>
+        <td>74</td>
+        <td>2,252</td>
+        <td>45.57 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>837</td>
-        <td>28,214</td>
-        <td>467.19 KB</td>
+        <td>838</td>
+        <td>28,243</td>
+        <td>467.75 KB</td>
     </tr>
 </table>
 
@@ -4456,6 +4456,17 @@
         </td>
         <td align="center">
             <a href="src/10/10262.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10270">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10270 Algebraic Teamwork
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10270.js">Node.js</a>
         </td>
     </tr>
     <tr>
