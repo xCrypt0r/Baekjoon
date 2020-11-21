@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (802문제)
+## 문제 풀이 현황 (803문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>71</td>
-        <td>2,153</td>
-        <td>43.44 KB</td>
+        <td>72</td>
+        <td>2,189</td>
+        <td>44.18 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>835</td>
-        <td>28,144</td>
-        <td>465.62 KB</td>
+        <td>836</td>
+        <td>28,180</td>
+        <td>466.36 KB</td>
     </tr>
 </table>
 
@@ -617,6 +617,17 @@
         </td>
         <td align="center">
             <a href="src/1/1598.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1673">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1673 치킨 쿠폰
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1673.js">Node.js</a>
         </td>
     </tr>
     <tr>
