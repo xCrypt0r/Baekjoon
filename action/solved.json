@@ -2751,6 +2751,14 @@
         ]
     },
     {
+        "id": 9243,
+        "title": "파일 완전 삭제",
+        "level": 4,
+        "codes": [
+            "src/9/9243.js"
+        ]
+    },
+    {
         "id": 9286,
         "title": "Gradabase",
         "level": 3,
