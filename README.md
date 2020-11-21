@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (798문제)
+## 문제 풀이 현황 (799문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>67</td>
-        <td>2,031</td>
-        <td>41.07 KB</td>
+        <td>68</td>
+        <td>2,063</td>
+        <td>41.76 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>831</td>
-        <td>28,022</td>
-        <td>463.25 KB</td>
+        <td>832</td>
+        <td>28,054</td>
+        <td>463.94 KB</td>
     </tr>
 </table>
 
@@ -2278,6 +2278,17 @@
         </td>
         <td align="center">
             <a href="src/3/3062.java">Java</a><br><a href="src/3/3062.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3076">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                3076 상근이의 체스판
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/3/3076.js">Node.js</a>
         </td>
     </tr>
     <tr>
