@@ -3563,6 +3563,14 @@
         ]
     },
     {
+        "id": 10874,
+        "title": "이교수님의 시험",
+        "level": 4,
+        "codes": [
+            "src/10/10874.js"
+        ]
+    },
+    {
         "id": 10886,
         "title": "0 = not cute / 1 = cute",
         "level": 3,
