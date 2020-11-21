@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (799문제)
+## 문제 풀이 현황 (800문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>68</td>
-        <td>2,063</td>
-        <td>41.76 KB</td>
+        <td>69</td>
+        <td>2,094</td>
+        <td>42.33 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>832</td>
-        <td>28,054</td>
-        <td>463.94 KB</td>
+        <td>833</td>
+        <td>28,085</td>
+        <td>464.52 KB</td>
     </tr>
 </table>
 
@@ -4071,6 +4071,17 @@
         </td>
         <td align="center">
             <a href="src/9/9524.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9546">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                9546 3000번 버스
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9546.js">Node.js</a>
         </td>
     </tr>
     <tr>
