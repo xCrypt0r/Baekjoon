@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (801문제)
+## 문제 풀이 현황 (802문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>70</td>
-        <td>2,121</td>
-        <td>42.88 KB</td>
+        <td>71</td>
+        <td>2,153</td>
+        <td>43.44 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>834</td>
-        <td>28,112</td>
-        <td>465.06 KB</td>
+        <td>835</td>
+        <td>28,144</td>
+        <td>465.62 KB</td>
     </tr>
 </table>
 
@@ -6293,6 +6293,17 @@
         </td>
         <td align="center">
             <a href="src/13/13363.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13410">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                13410 거꾸로 구구단
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13410.js">Node.js</a>
         </td>
     </tr>
     <tr>
