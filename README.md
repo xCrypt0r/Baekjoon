@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (807문제)
+## 문제 풀이 현황 (808문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>76</td>
-        <td>2,309</td>
-        <td>46.8 KB</td>
+        <td>77</td>
+        <td>2,335</td>
+        <td>47.38 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>840</td>
-        <td>28,300</td>
-        <td>468.98 KB</td>
+        <td>841</td>
+        <td>28,326</td>
+        <td>469.56 KB</td>
     </tr>
 </table>
 
@@ -4214,6 +4214,17 @@
         </td>
         <td align="center">
             <a href="src/9/9713.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9724">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9724 Perfect Cube
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9724.js">Node.js</a>
         </td>
     </tr>
     <tr>

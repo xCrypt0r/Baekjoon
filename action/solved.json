@@ -3031,6 +3031,14 @@
         ]
     },
     {
+        "id": 9724,
+        "title": "Perfect Cube",
+        "level": 3,
+        "codes": [
+            "src/9/9724.js"
+        ]
+    },
+    {
         "id": 9933,
         "title": "민균이의 비밀번호",
         "level": 5,
