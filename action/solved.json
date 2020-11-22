@@ -2935,6 +2935,14 @@
         ]
     },
     {
+        "id": 9517,
+        "title": "아이 러브 크로아티아",
+        "level": 3,
+        "codes": [
+            "src/9/9517.js"
+        ]
+    },
+    {
         "id": 9523,
         "title": "Arithmetic with Morse",
         "level": 7,
