@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (815문제)
+## 문제 풀이 현황 (816문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>84</td>
-        <td>2,547</td>
-        <td>51.59 KB</td>
+        <td>85</td>
+        <td>2,580</td>
+        <td>52.14 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>848</td>
-        <td>28,538</td>
-        <td>473.77 KB</td>
+        <td>849</td>
+        <td>28,571</td>
+        <td>474.32 KB</td>
     </tr>
 </table>
 
@@ -650,6 +650,17 @@
         </td>
         <td align="center">
             <a href="src/1/1673.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1676">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                1676 팩토리얼 0의 개수
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1676.js">Node.js</a>
         </td>
     </tr>
     <tr>
