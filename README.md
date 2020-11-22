@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (813문제)
+## 문제 풀이 현황 (814문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>82</td>
-        <td>2,488</td>
-        <td>50.38 KB</td>
+        <td>83</td>
+        <td>2,520</td>
+        <td>51.04 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>846</td>
-        <td>28,479</td>
-        <td>472.56 KB</td>
+        <td>847</td>
+        <td>28,511</td>
+        <td>473.22 KB</td>
     </tr>
 </table>
 
@@ -4808,6 +4808,17 @@
         </td>
         <td align="center">
             <a href="src/10/10801.kt">Kotlin</a><br><a href="src/10/10801.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10804">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10804 카드 역배치
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10804.js">Node.js</a>
         </td>
     </tr>
     <tr>
