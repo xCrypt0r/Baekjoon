@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (817문제)
+## 문제 풀이 현황 (818문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>86</td>
-        <td>2,614</td>
-        <td>52.98 KB</td>
+        <td>87</td>
+        <td>2,663</td>
+        <td>53.89 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>850</td>
-        <td>28,605</td>
-        <td>475.16 KB</td>
+        <td>851</td>
+        <td>28,654</td>
+        <td>476.08 KB</td>
     </tr>
 </table>
 
@@ -6205,6 +6205,17 @@
         </td>
         <td align="center">
             <a href="src/12/12790.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12813">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                12813 이진수 연산
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/12/12813.js">Node.js</a>
         </td>
     </tr>
     <tr>
