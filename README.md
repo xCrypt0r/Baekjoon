@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (811문제)
+## 문제 풀이 현황 (812문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>80</td>
-        <td>2,428</td>
-        <td>49.16 KB</td>
+        <td>81</td>
+        <td>2,461</td>
+        <td>49.92 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>844</td>
-        <td>28,419</td>
-        <td>471.34 KB</td>
+        <td>845</td>
+        <td>28,452</td>
+        <td>472.1 KB</td>
     </tr>
 </table>
 
@@ -1431,6 +1431,17 @@
         </td>
         <td align="center">
             <a href="src/2/2667.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2669">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2669 직사각형 네개의 합집합의 면적 구하기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2669.js">Node.js</a>
         </td>
     </tr>
     <tr>
