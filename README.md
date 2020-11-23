@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (831문제)
+## 문제 풀이 현황 (832문제)
 
 ### 언어별 코드 수
 <table>
@@ -26,16 +26,16 @@
         <td>134.8 KB</td>
     </tr>
     <tr>
+        <td><b>Node.js</b></td>
+        <td>101</td>
+        <td>3,157</td>
+        <td>63.88 KB</td>
+    </tr>
+    <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
         <td>83.36 KB</td>
-    </tr>
-    <tr>
-        <td><b>Node.js</b></td>
-        <td>100</td>
-        <td>3,126</td>
-        <td>63.22 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>864</td>
-        <td>29,117</td>
-        <td>485.4 KB</td>
+        <td>865</td>
+        <td>29,148</td>
+        <td>486.06 KB</td>
     </tr>
 </table>
 
@@ -2564,6 +2564,17 @@
         </td>
         <td align="center">
             <a href="src/4/4504.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4592">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                4592 중복을 없애자
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4592.js">Node.js</a>
         </td>
     </tr>
     <tr>

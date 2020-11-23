@@ -1828,6 +1828,14 @@
         ]
     },
     {
+        "id": 4592,
+        "title": "중복을 없애자",
+        "level": 4,
+        "codes": [
+            "src/4/4592.js"
+        ]
+    },
+    {
         "id": 4606,
         "title": "The Seven Percent Solution",
         "level": 4,
