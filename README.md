@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (834문제)
+## 문제 풀이 현황 (835문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>104</td>
-        <td>3,234</td>
-        <td>65.67 KB</td>
+        <td>105</td>
+        <td>3,252</td>
+        <td>66.08 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>868</td>
-        <td>29,225</td>
-        <td>487.85 KB</td>
+        <td>869</td>
+        <td>29,243</td>
+        <td>488.26 KB</td>
     </tr>
 </table>
 
@@ -6073,6 +6073,17 @@
         </td>
         <td align="center">
             <a href="src/11/11727.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11728">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                11728 배열 합치기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11728.js">Node.js</a>
         </td>
     </tr>
     <tr>
