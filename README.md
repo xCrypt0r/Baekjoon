@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (844문제)
+## 문제 풀이 현황 (845문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>114</td>
-        <td>3,510</td>
-        <td>71.62 KB</td>
+        <td>115</td>
+        <td>3,530</td>
+        <td>72.04 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>878</td>
-        <td>29,501</td>
-        <td>493.8 KB</td>
+        <td>879</td>
+        <td>29,521</td>
+        <td>494.23 KB</td>
     </tr>
 </table>
 
@@ -2674,6 +2674,17 @@
         </td>
         <td align="center">
             <a href="src/4/4714.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4740">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                4740 거울, 오! 거울
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4740.js">Node.js</a>
         </td>
     </tr>
     <tr>
