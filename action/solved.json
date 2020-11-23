@@ -4630,6 +4630,14 @@
         ]
     },
     {
+        "id": 13235,
+        "title": "팰린드롬",
+        "level": 4,
+        "codes": [
+            "src/13/13235.js"
+        ]
+    },
+    {
         "id": 13236,
         "title": "Collatz Conjecture",
         "level": 3,
