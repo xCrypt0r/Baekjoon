@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (833문제)
+## 문제 풀이 현황 (834문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>103</td>
-        <td>3,216</td>
-        <td>65.06 KB</td>
+        <td>104</td>
+        <td>3,234</td>
+        <td>65.67 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>867</td>
-        <td>29,207</td>
-        <td>487.24 KB</td>
+        <td>868</td>
+        <td>29,225</td>
+        <td>487.85 KB</td>
     </tr>
 </table>
 
@@ -8999,6 +8999,17 @@
         </td>
         <td align="center">
             <a href="src/18/18679.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18825">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                18825 눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/18/18825.js">Node.js</a>
         </td>
     </tr>
     <tr>
