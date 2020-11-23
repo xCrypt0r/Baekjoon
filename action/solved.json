@@ -1101,7 +1101,8 @@
         "title": "삼각수의 합",
         "level": 4,
         "codes": [
-            "src/2/2721.java"
+            "src/2/2721.java",
+            "src/2/2721.js"
         ]
     },
     {
