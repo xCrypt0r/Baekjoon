@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (841문제)
+## 문제 풀이 현황 (842문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>111</td>
-        <td>3,433</td>
-        <td>69.89 KB</td>
+        <td>112</td>
+        <td>3,456</td>
+        <td>70.36 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>875</td>
-        <td>29,424</td>
-        <td>492.07 KB</td>
+        <td>876</td>
+        <td>29,447</td>
+        <td>492.54 KB</td>
     </tr>
 </table>
 
@@ -6326,6 +6326,17 @@
         </td>
         <td align="center">
             <a href="src/12/12096.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12605">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                12605 단어순서 뒤집기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/12/12605.js">Node.js</a>
         </td>
     </tr>
     <tr>
