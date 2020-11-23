@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (832문제)
+## 문제 풀이 현황 (833문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>102</td>
-        <td>3,184</td>
-        <td>64.4 KB</td>
+        <td>103</td>
+        <td>3,216</td>
+        <td>65.06 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>866</td>
-        <td>29,175</td>
-        <td>486.58 KB</td>
+        <td>867</td>
+        <td>29,207</td>
+        <td>487.24 KB</td>
     </tr>
 </table>
 
@@ -2564,6 +2564,17 @@
         </td>
         <td align="center">
             <a href="src/4/4504.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4564">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                4564 숫자 카드놀이
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4564.js">Node.js</a>
         </td>
     </tr>
     <tr>
