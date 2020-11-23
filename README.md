@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (840문제)
+## 문제 풀이 현황 (841문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>110</td>
-        <td>3,408</td>
-        <td>69.36 KB</td>
+        <td>111</td>
+        <td>3,433</td>
+        <td>69.89 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>874</td>
-        <td>29,399</td>
-        <td>491.54 KB</td>
+        <td>875</td>
+        <td>29,424</td>
+        <td>492.07 KB</td>
     </tr>
 </table>
 
@@ -7228,6 +7228,17 @@
         </td>
         <td align="center">
             <a href="src/14/14914.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14915">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14915 진수 변환기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14915.js">Node.js</a>
         </td>
     </tr>
     <tr>
