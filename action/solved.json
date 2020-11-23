@@ -4728,6 +4728,14 @@
         ]
     },
     {
+        "id": 13288,
+        "title": "A New Alphabet",
+        "level": 4,
+        "codes": [
+            "src/13/13288.js"
+        ]
+    },
+    {
         "id": 13297,
         "title": "Quick Estimates",
         "level": 3,

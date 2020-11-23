@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (837문제)
+## 문제 풀이 현황 (838문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>107</td>
-        <td>3,318</td>
-        <td>67.28 KB</td>
+        <td>108</td>
+        <td>3,345</td>
+        <td>67.99 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>871</td>
-        <td>29,309</td>
-        <td>489.46 KB</td>
+        <td>872</td>
+        <td>29,336</td>
+        <td>490.17 KB</td>
     </tr>
 </table>
 
@@ -6535,6 +6535,17 @@
         </td>
         <td align="center">
             <a href="src/13/13277.java">Java</a><br><a href="src/13/13277.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13288">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                13288 A New Alphabet
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13288.js">Node.js</a>
         </td>
     </tr>
     <tr>
