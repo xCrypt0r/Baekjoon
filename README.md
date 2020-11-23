@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (826문제)
+## 문제 풀이 현황 (827문제)
 
 ### 언어별 코드 수
 <table>
@@ -33,9 +33,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>95</td>
-        <td>2,996</td>
-        <td>60.59 KB</td>
+        <td>96</td>
+        <td>3,017</td>
+        <td>61.04 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>859</td>
-        <td>28,987</td>
-        <td>482.77 KB</td>
+        <td>860</td>
+        <td>29,008</td>
+        <td>483.22 KB</td>
     </tr>
 </table>
 
@@ -4456,6 +4456,17 @@
         </td>
         <td align="center">
             <a href="src/10/10172.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10173">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10173 니모를 찾아서
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10173.js">Node.js</a>
         </td>
     </tr>
     <tr>
