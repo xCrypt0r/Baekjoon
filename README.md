@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (860문제)
+## 문제 풀이 현황 (861문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>130</td>
-        <td>3,998</td>
-        <td>82.12 KB</td>
+        <td>131</td>
+        <td>4,021</td>
+        <td>82.55 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>894</td>
-        <td>29,989</td>
-        <td>504.3 KB</td>
+        <td>895</td>
+        <td>30,012</td>
+        <td>504.73 KB</td>
     </tr>
 </table>
 
@@ -9527,6 +9527,17 @@
         </td>
         <td align="center">
             <a href="src/20/20155.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20254">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                20254 Site Score
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20254.js">Node.js</a>
         </td>
     </tr>
 </table>
