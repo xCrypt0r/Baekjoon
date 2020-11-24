@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (855문제)
+## 문제 풀이 현황 (856문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>125</td>
-        <td>3,818</td>
-        <td>78.49 KB</td>
+        <td>126</td>
+        <td>3,858</td>
+        <td>79.27 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>889</td>
-        <td>29,809</td>
-        <td>500.67 KB</td>
+        <td>890</td>
+        <td>29,849</td>
+        <td>501.45 KB</td>
     </tr>
 </table>
 
@@ -4764,6 +4764,17 @@
         </td>
         <td align="center">
             <a href="src/10/10430.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10448">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                10448 유레카 이론
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10448.js">Node.js</a>
         </td>
     </tr>
     <tr>
