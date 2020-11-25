@@ -1,3 +1,13 @@
+/**
+ * 8721. Wykreślanka
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 81,084 KB
+ * 소요 시간: 420 ms
+ * 해결 날짜: 2020년 11월 25일
+ */
+
 const fs = require('fs');
 
 function main() {
