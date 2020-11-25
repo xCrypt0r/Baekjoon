@@ -2815,6 +2815,14 @@
         ]
     },
     {
+        "id": 8721,
+        "title": "Wykreślanka",
+        "level": 3,
+        "codes": [
+            "src/8/8721.js"
+        ]
+    },
+    {
         "id": 8723,
         "title": "Patyki",
         "level": 2,
