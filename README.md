@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (874문제)
+## 문제 풀이 현황 (875문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>144</td>
-        <td>4,396</td>
-        <td>90.22 KB</td>
+        <td>145</td>
+        <td>4,431</td>
+        <td>91.08 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>908</td>
-        <td>30,387</td>
-        <td>512.4 KB</td>
+        <td>909</td>
+        <td>30,422</td>
+        <td>513.27 KB</td>
     </tr>
 </table>
 
@@ -4247,6 +4247,17 @@
         </td>
         <td align="center">
             <a href="src/9/9469.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9493">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9493 길면 기차, 기차는 빨라, 빠른 것은 비행기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9493.js">Node.js</a>
         </td>
     </tr>
     <tr>
