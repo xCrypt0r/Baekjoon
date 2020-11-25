@@ -5305,6 +5305,14 @@
         ]
     },
     {
+        "id": 14790,
+        "title": "Tidy Numbers (Small)",
+        "level": 3,
+        "codes": [
+            "src/14/14790.js"
+        ]
+    },
+    {
         "id": 14803,
         "title": "Steed 2: Cruise Control (Small)",
         "level": 3,
