@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (861문제)
+## 문제 풀이 현황 (862문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>131</td>
-        <td>4,021</td>
-        <td>82.55 KB</td>
+        <td>132</td>
+        <td>4,054</td>
+        <td>83.28 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>895</td>
-        <td>30,012</td>
-        <td>504.73 KB</td>
+        <td>896</td>
+        <td>30,045</td>
+        <td>505.46 KB</td>
     </tr>
 </table>
 
@@ -7327,6 +7327,17 @@
         </td>
         <td align="center">
             <a href="src/14/14782.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14803">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14803 Steed 2: Cruise Control (Small)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14803.js">Node.js</a>
         </td>
     </tr>
     <tr>
