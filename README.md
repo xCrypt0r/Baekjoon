@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (866문제)
+## 문제 풀이 현황 (867문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>136</td>
-        <td>4,171</td>
-        <td>85.61 KB</td>
+        <td>137</td>
+        <td>4,208</td>
+        <td>86.42 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>900</td>
-        <td>30,162</td>
-        <td>507.79 KB</td>
+        <td>901</td>
+        <td>30,199</td>
+        <td>508.6 KB</td>
     </tr>
 </table>
 
@@ -7184,6 +7184,17 @@
         </td>
         <td align="center">
             <a href="src/14/14581.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14592">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14592 2017 아주대학교 프로그래밍 경시대회 (Small)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14592.js">Node.js</a>
         </td>
     </tr>
     <tr>
