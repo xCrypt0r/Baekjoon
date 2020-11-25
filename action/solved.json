@@ -5313,6 +5313,14 @@
         ]
     },
     {
+        "id": 14804,
+        "title": "Steed 2: Cruise Control (Large)",
+        "level": 6,
+        "codes": [
+            "src/14/14804.js"
+        ]
+    },
+    {
         "id": 14909,
         "title": "양수 개수 세기",
         "level": 3,
