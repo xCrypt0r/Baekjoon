@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (871문제)
+## 문제 풀이 현황 (872문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>141</td>
-        <td>4,323</td>
-        <td>88.72 KB</td>
+        <td>142</td>
+        <td>4,346</td>
+        <td>89.21 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>905</td>
-        <td>30,314</td>
-        <td>510.91 KB</td>
+        <td>906</td>
+        <td>30,337</td>
+        <td>511.39 KB</td>
     </tr>
 </table>
 
@@ -9263,6 +9263,17 @@
         </td>
         <td align="center">
             <a href="src/18/18142.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18247">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                18247 겨울왕국 티켓 예매
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/18/18247.js">Node.js</a>
         </td>
     </tr>
     <tr>
