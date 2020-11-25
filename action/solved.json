@@ -3056,6 +3056,14 @@
         ]
     },
     {
+        "id": 9449,
+        "title": "Garage",
+        "level": 3,
+        "codes": [
+            "src/9/9449.js"
+        ]
+    },
+    {
         "id": 9461,
         "title": "파도반 수열",
         "level": 8,
