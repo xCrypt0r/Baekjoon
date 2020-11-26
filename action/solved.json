@@ -2799,6 +2799,14 @@
         ]
     },
     {
+        "id": 8714,
+        "title": "Monety",
+        "level": 3,
+        "codes": [
+            "src/8/8714.js"
+        ]
+    },
+    {
         "id": 8716,
         "title": "Pole",
         "level": 2,
