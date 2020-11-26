@@ -2471,6 +2471,14 @@
         ]
     },
     {
+        "id": 6139,
+        "title": "Speed Reading",
+        "level": 3,
+        "codes": [
+            "src/6/6139.js"
+        ]
+    },
+    {
         "id": 6162,
         "title": "Superlatives",
         "level": 3,
