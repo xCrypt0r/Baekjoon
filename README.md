@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (883문제)
+## 문제 풀이 현황 (884문제)
 
 ### 언어별 코드 수
 <table>
@@ -14,16 +14,16 @@
         <th>크기</th>
     </tr>
     <tr>
+        <td><b>Python</b></td>
+        <td>302</td>
+        <td>7,732</td>
+        <td>135.14 KB</td>
+    </tr>
+    <tr>
         <td><b>C++</b></td>
         <td>301</td>
         <td>10,225</td>
         <td>152.68 KB</td>
-    </tr>
-    <tr>
-        <td><b>Python</b></td>
-        <td>301</td>
-        <td>7,711</td>
-        <td>134.8 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>917</td>
-        <td>30,666</td>
-        <td>518.1 KB</td>
+        <td>918</td>
+        <td>30,687</td>
+        <td>518.44 KB</td>
     </tr>
 </table>
 
@@ -3686,6 +3686,17 @@
         </td>
         <td align="center">
             <a href="src/6/6794.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6974">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6974 Long Division
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6974.py">Python</a>
         </td>
     </tr>
     <tr>

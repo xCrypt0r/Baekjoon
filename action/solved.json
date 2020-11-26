@@ -2647,6 +2647,14 @@
         ]
     },
     {
+        "id": 6974,
+        "title": "Long Division",
+        "level": 3,
+        "codes": [
+            "src/6/6974.py"
+        ]
+    },
+    {
         "id": 6996,
         "title": "애너그램",
         "level": 5,
