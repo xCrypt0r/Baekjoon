@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (886문제)
+## 문제 풀이 현황 (887문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>155</td>
-        <td>4,728</td>
-        <td>97.34 KB</td>
+        <td>156</td>
+        <td>4,757</td>
+        <td>97.96 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>920</td>
-        <td>30,740</td>
-        <td>519.86 KB</td>
+        <td>921</td>
+        <td>30,769</td>
+        <td>520.48 KB</td>
     </tr>
 </table>
 
@@ -8911,6 +8911,17 @@
         </td>
         <td align="center">
             <a href="src/16/16861.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16864">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                16864 So You Like Your Food Hot?
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16864.js">Node.js</a>
         </td>
     </tr>
     <tr>
