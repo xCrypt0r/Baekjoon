@@ -7050,6 +7050,14 @@
         ]
     },
     {
+        "id": 19572,
+        "title": "가뭄(Small)",
+        "level": 3,
+        "codes": [
+            "src/19/19572.js"
+        ]
+    },
+    {
         "id": 19575,
         "title": "Polynomial",
         "level": 5,
