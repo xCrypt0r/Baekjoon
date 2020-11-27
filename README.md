@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (889문제)
+## 문제 풀이 현황 (890문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>158</td>
-        <td>4,812</td>
-        <td>99.11 KB</td>
+        <td>159</td>
+        <td>4,847</td>
+        <td>99.87 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>923</td>
-        <td>30,824</td>
-        <td>521.64 KB</td>
+        <td>924</td>
+        <td>30,859</td>
+        <td>522.39 KB</td>
     </tr>
 </table>
 
@@ -4830,6 +4830,17 @@
         </td>
         <td align="center">
             <a href="src/10/10270.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/10372">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                10372 Alarm Clock
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/10/10372.js">Node.js</a>
         </td>
     </tr>
     <tr>

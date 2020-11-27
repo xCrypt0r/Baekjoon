@@ -3481,6 +3481,14 @@
         ]
     },
     {
+        "id": 10372,
+        "title": "Alarm Clock",
+        "level": 3,
+        "codes": [
+            "src/10/10372.js"
+        ]
+    },
+    {
         "id": 10395,
         "title": "Automated Checking Machine",
         "level": 3,
