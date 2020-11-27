@@ -2687,6 +2687,14 @@
         ]
     },
     {
+        "id": 6975,
+        "title": "Deficient, Perfect, and Abundant",
+        "level": 3,
+        "codes": [
+            "src/6/6975.js"
+        ]
+    },
+    {
         "id": 6996,
         "title": "애너그램",
         "level": 5,

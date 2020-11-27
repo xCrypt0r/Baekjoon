@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (899문제)
+## 문제 풀이 현황 (900문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>168</td>
-        <td>5,121</td>
-        <td>105.75 KB</td>
+        <td>169</td>
+        <td>5,151</td>
+        <td>106.42 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>933</td>
-        <td>31,133</td>
-        <td>528.27 KB</td>
+        <td>934</td>
+        <td>31,163</td>
+        <td>528.94 KB</td>
     </tr>
 </table>
 
@@ -3741,6 +3741,17 @@
         </td>
         <td align="center">
             <a href="src/6/6974.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6975">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6975 Deficient, Perfect, and Abundant
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/6/6975.js">Node.js</a>
         </td>
     </tr>
     <tr>
