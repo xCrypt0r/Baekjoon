@@ -5707,6 +5707,14 @@
         ]
     },
     {
+        "id": 15372,
+        "title": "A Simple Problem.",
+        "level": 3,
+        "codes": [
+            "src/15/15372.js"
+        ]
+    },
+    {
         "id": 15439,
         "title": "Vera and Outfits",
         "level": 1,
