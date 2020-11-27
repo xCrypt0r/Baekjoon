@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (898문제)
+## 문제 풀이 현황 (899문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>167</td>
-        <td>5,087</td>
-        <td>105.13 KB</td>
+        <td>168</td>
+        <td>5,121</td>
+        <td>105.75 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>932</td>
-        <td>31,099</td>
-        <td>527.65 KB</td>
+        <td>933</td>
+        <td>31,133</td>
+        <td>528.27 KB</td>
     </tr>
 </table>
 
@@ -9307,6 +9307,17 @@
         </td>
         <td align="center">
             <a href="src/17/17413.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17450">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                17450 과자 사기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17450.js">Node.js</a>
         </td>
     </tr>
     <tr>
