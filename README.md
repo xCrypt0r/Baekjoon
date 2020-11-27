@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (891문제)
+## 문제 풀이 현황 (892문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>160</td>
-        <td>4,874</td>
-        <td>100.51 KB</td>
+        <td>161</td>
+        <td>4,903</td>
+        <td>101.2 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>925</td>
-        <td>30,886</td>
-        <td>523.04 KB</td>
+        <td>926</td>
+        <td>30,915</td>
+        <td>523.72 KB</td>
     </tr>
 </table>
 
@@ -1772,6 +1772,17 @@
         </td>
         <td align="center">
             <a href="src/2/2754.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2765">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2765 자전거 속도
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2765.js">Node.js</a>
         </td>
     </tr>
     <tr>
