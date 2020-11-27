@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (893문제)
+## 문제 풀이 현황 (894문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>162</td>
-        <td>4,926</td>
-        <td>101.66 KB</td>
+        <td>163</td>
+        <td>4,954</td>
+        <td>102.26 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>927</td>
-        <td>30,938</td>
-        <td>524.18 KB</td>
+        <td>928</td>
+        <td>30,966</td>
+        <td>524.79 KB</td>
     </tr>
 </table>
 
@@ -9021,6 +9021,17 @@
         </td>
         <td align="center">
             <a href="src/17/17010.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17027">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                17027 Shell Game
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17027.js">Node.js</a>
         </td>
     </tr>
     <tr>
