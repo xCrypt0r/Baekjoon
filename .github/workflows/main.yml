@@ -16,7 +16,7 @@ jobs:
       - name: Check commit message
         uses: GsActions/commit-message-checker@v1
         with:
-          pattern: '(Add|Delete|Update) \w+.\w+'
+          pattern: '^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$'
           flags: 'gm'
           error: 'Commit message should start with Add or Delete or Update'
       - uses: actions/checkout@v2
