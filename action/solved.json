@@ -3240,6 +3240,14 @@
         ]
     },
     {
+        "id": 9622,
+        "title": "Cabin Baggage",
+        "level": 3,
+        "codes": [
+            "src/9/9622.js"
+        ]
+    },
+    {
         "id": 9625,
         "title": "BABBA",
         "level": 5,
