@@ -1,3 +1,13 @@
+/**
+ * 15312. 이름 궁합
+ * 
+ * 작성자: xCrypt0r
+ * 언어: node.js
+ * 사용 메모리: 15,468 KB
+ * 소요 시간: 400 ms
+ * 해결 날짜: 2020년 11월 30일
+ */
+
 const fs = require('fs');
 
 function main() {
