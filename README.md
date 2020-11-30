@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (902문제)
+## 문제 풀이 현황 (903문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>171</td>
-        <td>5,203</td>
-        <td>107.61 KB</td>
+        <td>172</td>
+        <td>5,251</td>
+        <td>108.68 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>936</td>
-        <td>31,215</td>
-        <td>530.13 KB</td>
+        <td>937</td>
+        <td>31,263</td>
+        <td>531.21 KB</td>
     </tr>
 </table>
 
@@ -7151,6 +7151,17 @@
         </td>
         <td align="center">
             <a href="src/13/13771.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13773">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13773 Olympic Games
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13773.js">Node.js</a>
         </td>
     </tr>
     <tr>
