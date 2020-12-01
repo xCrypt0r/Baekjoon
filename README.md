@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (911문제)
+## 문제 풀이 현황 (912문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>179</td>
-        <td>5,529</td>
-        <td>114.57 KB</td>
+        <td>180</td>
+        <td>5,564</td>
+        <td>115.35 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>945</td>
-        <td>31,563</td>
-        <td>537.46 KB</td>
+        <td>946</td>
+        <td>31,598</td>
+        <td>538.23 KB</td>
     </tr>
 </table>
 
@@ -4313,6 +4313,17 @@
         </td>
         <td align="center">
             <a href="src/9/9297.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9298">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9298 Ant Entrapment
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9298.js">Node.js</a>
         </td>
     </tr>
     <tr>

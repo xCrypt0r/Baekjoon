@@ -3104,6 +3104,14 @@
         ]
     },
     {
+        "id": 9298,
+        "title": "Ant Entrapment",
+        "level": 3,
+        "codes": [
+            "src/9/9298.js"
+        ]
+    },
+    {
         "id": 9299,
         "title": "Math Tutoring",
         "level": 3,
