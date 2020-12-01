@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (910문제)
+## 문제 풀이 현황 (911문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>178</td>
-        <td>5,496</td>
-        <td>113.88 KB</td>
+        <td>179</td>
+        <td>5,529</td>
+        <td>114.57 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>944</td>
-        <td>31,530</td>
-        <td>536.76 KB</td>
+        <td>945</td>
+        <td>31,563</td>
+        <td>537.46 KB</td>
     </tr>
 </table>
 
@@ -6315,6 +6315,17 @@
         </td>
         <td align="center">
             <a href="src/11/11605.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11606">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11606 Egg Drop
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11606.js">Node.js</a>
         </td>
     </tr>
     <tr>
