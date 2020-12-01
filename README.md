@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (914문제)
+## 문제 풀이 현황 (915문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>182</td>
-        <td>5,613</td>
-        <td>116.3 KB</td>
+        <td>183</td>
+        <td>5,639</td>
+        <td>116.83 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>948</td>
-        <td>31,647</td>
-        <td>539.18 KB</td>
+        <td>949</td>
+        <td>31,673</td>
+        <td>539.71 KB</td>
     </tr>
 </table>
 
@@ -694,6 +694,17 @@
         </td>
         <td align="center">
             <a href="src/1/1676.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1699">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                1699 제곱수의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1699.js">Node.js</a>
         </td>
     </tr>
     <tr>
