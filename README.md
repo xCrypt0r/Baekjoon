@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (906문제)
+## 문제 풀이 현황 (907문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>302</td>
-        <td>7,732</td>
-        <td>135.14 KB</td>
+        <td>303</td>
+        <td>7,754</td>
+        <td>135.5 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>940</td>
-        <td>31,389</td>
-        <td>533.8 KB</td>
+        <td>941</td>
+        <td>31,411</td>
+        <td>534.16 KB</td>
     </tr>
 </table>
 
@@ -925,6 +925,17 @@
         </td>
         <td align="center">
             <a href="src/2/2028.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2061">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                2061 좋은 암호
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2061.py">Python</a>
         </td>
     </tr>
     <tr>
