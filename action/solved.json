@@ -5336,6 +5336,14 @@
         ]
     },
     {
+        "id": 14530,
+        "title": "The Lost Cow",
+        "level": 3,
+        "codes": [
+            "src/14/14530.js"
+        ]
+    },
+    {
         "id": 14541,
         "title": "Speed Limit",
         "level": 3,
