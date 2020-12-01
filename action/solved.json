@@ -2551,6 +2551,14 @@
         ]
     },
     {
+        "id": 6322,
+        "title": "직각 삼각형의 두 변",
+        "level": 3,
+        "codes": [
+            "src/6/6322.js"
+        ]
+    },
+    {
         "id": 6358,
         "title": "Four Quarters",
         "level": 5,
