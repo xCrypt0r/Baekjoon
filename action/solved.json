@@ -4558,6 +4558,14 @@
         ]
     },
     {
+        "id": 11605,
+        "title": "Magic Trick",
+        "level": 3,
+        "codes": [
+            "src/11/11605.js"
+        ]
+    },
+    {
         "id": 11648,
         "title": "지속",
         "level": 4,

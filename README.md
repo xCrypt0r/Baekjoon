@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (909문제)
+## 문제 풀이 현황 (910문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>177</td>
-        <td>5,449</td>
-        <td>112.91 KB</td>
+        <td>178</td>
+        <td>5,496</td>
+        <td>113.88 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>943</td>
-        <td>31,483</td>
-        <td>535.79 KB</td>
+        <td>944</td>
+        <td>31,530</td>
+        <td>536.76 KB</td>
     </tr>
 </table>
 
@@ -6304,6 +6304,17 @@
         </td>
         <td align="center">
             <a href="src/11/11586.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11605">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                11605 Magic Trick
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11605.js">Node.js</a>
         </td>
     </tr>
     <tr>
