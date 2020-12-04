@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (924문제)
+## 문제 풀이 현황 (925문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>189</td>
-        <td>5,804</td>
-        <td>120.05 KB</td>
+        <td>190</td>
+        <td>5,833</td>
+        <td>120.5 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>958</td>
-        <td>31,904</td>
-        <td>543.89 KB</td>
+        <td>959</td>
+        <td>31,933</td>
+        <td>544.34 KB</td>
     </tr>
 </table>
 
@@ -3983,6 +3983,17 @@
         </td>
         <td align="center">
             <a href="src/7/7600.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/7770">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                7770 아즈텍 피라미드
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/7/7770.js">Node.js</a>
         </td>
     </tr>
     <tr>
