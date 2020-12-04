@@ -4168,6 +4168,7 @@
         "title": "RIPEMD-160",
         "level": 4,
         "codes": [
+            "src/10/10933.js",
             "src/10/10933.py"
         ]
     },

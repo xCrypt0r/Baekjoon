@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>191</td>
-        <td>5,851</td>
-        <td>120.85 KB</td>
+        <td>192</td>
+        <td>5,873</td>
+        <td>121.28 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>961</td>
-        <td>31,967</td>
-        <td>544.95 KB</td>
+        <td>962</td>
+        <td>31,989</td>
+        <td>545.38 KB</td>
     </tr>
 </table>
 
@@ -5775,7 +5775,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/10/10933.py">Python</a>
+            <a href="src/10/10933.js">Node.js</a><br><a href="src/10/10933.py">Python</a>
         </td>
     </tr>
     <tr>
