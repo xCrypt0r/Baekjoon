@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (925문제)
+## 문제 풀이 현황 (926문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>306</td>
-        <td>7,820</td>
-        <td>136.46 KB</td>
+        <td>307</td>
+        <td>7,836</td>
+        <td>136.72 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>190</td>
-        <td>5,833</td>
-        <td>120.5 KB</td>
+        <td>191</td>
+        <td>5,851</td>
+        <td>120.85 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>959</td>
-        <td>31,933</td>
-        <td>544.34 KB</td>
+        <td>961</td>
+        <td>31,967</td>
+        <td>544.95 KB</td>
     </tr>
 </table>
 
@@ -7382,6 +7382,17 @@
         </td>
         <td align="center">
             <a href="src/13/13985.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14004">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14004 ICPC
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14004.js">Node.js</a><br><a href="src/14/14004.py">Python</a>
         </td>
     </tr>
     <tr>
