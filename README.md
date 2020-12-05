@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (928문제)
+## 문제 풀이 현황 (929문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>194</td>
-        <td>5,930</td>
-        <td>122.54 KB</td>
+        <td>195</td>
+        <td>5,967</td>
+        <td>123.22 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>964</td>
-        <td>32,046</td>
-        <td>546.65 KB</td>
+        <td>965</td>
+        <td>32,083</td>
+        <td>547.32 KB</td>
     </tr>
 </table>
 
@@ -914,6 +914,17 @@
         </td>
         <td align="center">
             <a href="src/1/1964.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1975">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                1975 Number Game
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1975.js">Node.js</a>
         </td>
     </tr>
     <tr>

@@ -619,6 +619,14 @@
         ]
     },
     {
+        "id": 1975,
+        "title": "Number Game",
+        "level": 3,
+        "codes": [
+            "src/1/1975.js"
+        ]
+    },
+    {
         "id": 1977,
         "title": "완전제곱수",
         "level": 5,
