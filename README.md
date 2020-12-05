@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (926문제)
+## 문제 풀이 현황 (927문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>192</td>
-        <td>5,873</td>
-        <td>121.28 KB</td>
+        <td>193</td>
+        <td>5,904</td>
+        <td>121.98 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>962</td>
-        <td>31,989</td>
-        <td>545.38 KB</td>
+        <td>963</td>
+        <td>32,020</td>
+        <td>546.08 KB</td>
     </tr>
 </table>
 
@@ -7371,6 +7371,17 @@
         </td>
         <td align="center">
             <a href="src/13/13866.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13877">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                13877 이건 무슨 진법이지?
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13877.js">Node.js</a>
         </td>
     </tr>
     <tr>
