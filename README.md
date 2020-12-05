@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (930문제)
+## 문제 풀이 현황 (931문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>307</td>
-        <td>7,836</td>
-        <td>136.72 KB</td>
+        <td>308</td>
+        <td>7,862</td>
+        <td>137.13 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>966</td>
-        <td>32,129</td>
-        <td>548.22 KB</td>
+        <td>967</td>
+        <td>32,155</td>
+        <td>548.63 KB</td>
     </tr>
 </table>
 
@@ -364,6 +364,17 @@
         </td>
         <td align="center">
             <a href="src/1/1237.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1247">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                1247 부호
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1247.py">Python</a>
         </td>
     </tr>
     <tr>
