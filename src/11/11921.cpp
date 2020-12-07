@@ -1,4 +1,14 @@
-#include<stdio.h>
+/**
+ * 11921. 0.1
+ *
+ * 작성자: xCrypt0r
+ * 언어: C++14
+ * 사용 메모리: 2,140 KB
+ * 소요 시간: 56 ms
+ * 해결 날짜: 2020년 12월 7일
+ */
+
+#include <stdio.h>
 
 const int max = 1 << 20;
 
