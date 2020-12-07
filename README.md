@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (934문제)
+## 문제 풀이 현황 (935문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>26</td>
-        <td>2,395</td>
-        <td>20.73 KB</td>
+        <td>27</td>
+        <td>3,218</td>
+        <td>29.37 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>970</td>
-        <td>32,251</td>
-        <td>550.27 KB</td>
+        <td>971</td>
+        <td>33,074</td>
+        <td>558.91 KB</td>
     </tr>
 </table>
 
@@ -9384,6 +9384,17 @@
         </td>
         <td align="center">
             <a href="src/16/16917.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16972">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                16972 814 - 1
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16972.txt">Text</a>
         </td>
     </tr>
     <tr>
