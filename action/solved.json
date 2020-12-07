@@ -6336,6 +6336,14 @@
         ]
     },
     {
+        "id": 15858,
+        "title": "Simple Arithmetic",
+        "level": 3,
+        "codes": [
+            "src/15/15858.py"
+        ]
+    },
+    {
         "id": 15873,
         "title": "공백 없는 A+B",
         "level": 2,

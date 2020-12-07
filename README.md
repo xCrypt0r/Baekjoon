@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (937문제)
+## 문제 풀이 현황 (938문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,15 +15,15 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>310</td>
-        <td>7,921</td>
-        <td>138.08 KB</td>
+        <td>311</td>
+        <td>7,942</td>
+        <td>138.42 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
         <td>302</td>
-        <td>10,276</td>
-        <td>153.17 KB</td>
+        <td>10,286</td>
+        <td>153.32 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>973</td>
-        <td>33,135</td>
-        <td>559.54 KB</td>
+        <td>974</td>
+        <td>33,166</td>
+        <td>560.03 KB</td>
     </tr>
 </table>
 
@@ -8735,6 +8735,17 @@
         </td>
         <td align="center">
             <a href="src/15/15829.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15858">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15858 Simple Arithmetic
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15858.py">Python</a>
         </td>
     </tr>
     <tr>
