@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (938문제)
+## 문제 풀이 현황 (939문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>197</td>
-        <td>6,050</td>
-        <td>124.81 KB</td>
+        <td>198</td>
+        <td>6,092</td>
+        <td>125.64 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>974</td>
-        <td>33,166</td>
-        <td>560.03 KB</td>
+        <td>975</td>
+        <td>33,208</td>
+        <td>560.87 KB</td>
     </tr>
 </table>
 
@@ -331,6 +331,17 @@
         </td>
         <td align="center">
             <a href="src/1/1212.java">Java</a><br><a href="src/1/1212.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1213">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                1213 팰린드롬 만들기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1213.js">Node.js</a>
         </td>
     </tr>
     <tr>
