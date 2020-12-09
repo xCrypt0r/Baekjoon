@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (942문제)
+## 문제 풀이 현황 (943문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>201</td>
-        <td>6,176</td>
-        <td>127.26 KB</td>
+        <td>202</td>
+        <td>6,207</td>
+        <td>127.92 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>978</td>
-        <td>33,292</td>
-        <td>562.48 KB</td>
+        <td>979</td>
+        <td>33,323</td>
+        <td>563.15 KB</td>
     </tr>
 </table>
 
@@ -2641,6 +2641,17 @@
         </td>
         <td align="center">
             <a href="src/3/3507.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3613">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                3613 Java vs C++
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/3/3613.js">Node.js</a>
         </td>
     </tr>
     <tr>
