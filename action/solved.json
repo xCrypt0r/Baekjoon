@@ -3095,6 +3095,14 @@
         ]
     },
     {
+        "id": 8804,
+        "title": "Palindromy",
+        "level": 4,
+        "codes": [
+            "src/8/8804.js"
+        ]
+    },
+    {
         "id": 8806,
         "title": "Papier kamień nożyczki",
         "level": 3,

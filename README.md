@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (943문제)
+## 문제 풀이 현황 (944문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>202</td>
-        <td>6,207</td>
-        <td>127.92 KB</td>
+        <td>203</td>
+        <td>6,236</td>
+        <td>128.47 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>979</td>
-        <td>33,323</td>
-        <td>563.15 KB</td>
+        <td>980</td>
+        <td>33,352</td>
+        <td>563.7 KB</td>
     </tr>
 </table>
 
@@ -4302,6 +4302,17 @@
         </td>
         <td align="center">
             <a href="src/8/8741.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8804">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                8804 Palindromy
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/8/8804.js">Node.js</a>
         </td>
     </tr>
     <tr>
