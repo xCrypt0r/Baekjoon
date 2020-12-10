@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (947문제)
+## 문제 풀이 현황 (948문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>206</td>
-        <td>6,315</td>
-        <td>129.93 KB</td>
+        <td>207</td>
+        <td>6,365</td>
+        <td>130.95 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>983</td>
-        <td>33,431</td>
-        <td>565.15 KB</td>
+        <td>984</td>
+        <td>33,481</td>
+        <td>566.18 KB</td>
     </tr>
 </table>
 
@@ -4467,6 +4467,17 @@
         </td>
         <td align="center">
             <a href="src/9/9226.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9229">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                9229 단어 사다리
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9229.js">Node.js</a>
         </td>
     </tr>
     <tr>
