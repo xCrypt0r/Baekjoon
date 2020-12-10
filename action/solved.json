@@ -5224,6 +5224,14 @@
         ]
     },
     {
+        "id": 13224,
+        "title": "Chop Cup",
+        "level": 4,
+        "codes": [
+            "src/13/13224.js"
+        ]
+    },
+    {
         "id": 13225,
         "title": "Divisors",
         "level": 3,

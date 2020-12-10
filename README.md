@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (951문제)
+## 문제 풀이 현황 (952문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>210</td>
-        <td>6,457</td>
-        <td>132.81 KB</td>
+        <td>211</td>
+        <td>6,487</td>
+        <td>133.45 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>987</td>
-        <td>33,573</td>
-        <td>568.03 KB</td>
+        <td>988</td>
+        <td>33,603</td>
+        <td>568.67 KB</td>
     </tr>
 </table>
 
@@ -7217,6 +7217,17 @@
         </td>
         <td align="center">
             <a href="src/13/13222.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13224">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                13224 Chop Cup
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13224.js">Node.js</a>
         </td>
     </tr>
     <tr>
