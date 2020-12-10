@@ -5160,6 +5160,14 @@
         ]
     },
     {
+        "id": 13155,
+        "title": "Common Knowledge",
+        "level": 4,
+        "codes": [
+            "src/13/13155.js"
+        ]
+    },
+    {
         "id": 13163,
         "title": "닉네임에 갓 붙이기",
         "level": 4,
