@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (944문제)
+## 문제 풀이 현황 (945문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>203</td>
-        <td>6,236</td>
-        <td>128.47 KB</td>
+        <td>204</td>
+        <td>6,277</td>
+        <td>129.28 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>980</td>
-        <td>33,352</td>
-        <td>563.7 KB</td>
+        <td>981</td>
+        <td>33,393</td>
+        <td>564.5 KB</td>
     </tr>
 </table>
 
@@ -6568,6 +6568,17 @@
         </td>
         <td align="center">
             <a href="src/11/11606.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11636">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                11636 Stand on Zanzibar
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/11/11636.js">Node.js</a>
         </td>
     </tr>
     <tr>
