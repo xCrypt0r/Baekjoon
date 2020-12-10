@@ -2775,6 +2775,14 @@
         ]
     },
     {
+        "id": 6750,
+        "title": "Rotating letters",
+        "level": 4,
+        "codes": [
+            "src/6/6750.js"
+        ]
+    },
+    {
         "id": 6763,
         "title": "Speed fines are not fine!",
         "level": 2,
