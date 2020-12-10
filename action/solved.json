@@ -6069,6 +6069,14 @@
         ]
     },
     {
+        "id": 15296,
+        "title": "Sum Squared Digits Function",
+        "level": 4,
+        "codes": [
+            "src/15/15296.js"
+        ]
+    },
+    {
         "id": 15312,
         "title": "이름 궁합",
         "level": 4,

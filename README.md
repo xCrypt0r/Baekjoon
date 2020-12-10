@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (950문제)
+## 문제 풀이 현황 (951문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>209</td>
-        <td>6,423</td>
-        <td>132.14 KB</td>
+        <td>210</td>
+        <td>6,457</td>
+        <td>132.81 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>986</td>
-        <td>33,539</td>
-        <td>567.36 KB</td>
+        <td>987</td>
+        <td>33,573</td>
+        <td>568.03 KB</td>
     </tr>
 </table>
 
@@ -8372,6 +8372,17 @@
         </td>
         <td align="center">
             <a href="src/15/15295.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15296">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15296 Sum Squared Digits Function
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15296.js">Node.js</a>
         </td>
     </tr>
     <tr>
