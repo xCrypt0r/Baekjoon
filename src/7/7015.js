@@ -1,6 +1,6 @@
 /**
  * 7015. Millennium
- * 
+ *
  * 작성자: xCrypt0r
  * 언어: node.js
  * 사용 메모리: 10,016 KB
@@ -13,7 +13,6 @@ const fs = require('fs');
 function main() {
     let input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
     let n = +input.shift();
-
 
     for (let i = 0; i < n; i++) {
         let [y, m, d] = input[i].split(' ').map(x => +x),
