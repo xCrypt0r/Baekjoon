@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (954문제)
+## 문제 풀이 현황 (955문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>213</td>
-        <td>6,531</td>
-        <td>134.29 KB</td>
+        <td>214</td>
+        <td>6,550</td>
+        <td>134.67 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>990</td>
-        <td>33,647</td>
-        <td>569.52 KB</td>
+        <td>991</td>
+        <td>33,666</td>
+        <td>569.9 KB</td>
     </tr>
 </table>
 
@@ -10066,6 +10066,17 @@
         </td>
         <td align="center">
             <a href="src/17/17945.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17946">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                17946 피자는 나눌 수록 커지잖아요
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17946.js">Node.js</a>
         </td>
     </tr>
     <tr>
