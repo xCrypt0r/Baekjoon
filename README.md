@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (956문제)
+## 문제 풀이 현황 (957문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>28</td>
-        <td>3,228</td>
-        <td>29.52 KB</td>
+        <td>29</td>
+        <td>3,229</td>
+        <td>29.53 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>992</td>
-        <td>33,683</td>
-        <td>570.16 KB</td>
+        <td>993</td>
+        <td>33,684</td>
+        <td>570.17 KB</td>
     </tr>
 </table>
 
@@ -10286,6 +10286,17 @@
         </td>
         <td align="center">
             <a href="src/18/18679.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18822">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                18822 Beginning the Hunt
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/18/18822.txt">Text</a>
         </td>
     </tr>
     <tr>
