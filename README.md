@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (955문제)
+## 문제 풀이 현황 (956문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>311</td>
-        <td>7,942</td>
-        <td>138.42 KB</td>
+        <td>312</td>
+        <td>7,959</td>
+        <td>138.68 KB</td>
     </tr>
     <tr>
         <td><b>C++</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>991</td>
-        <td>33,666</td>
-        <td>569.9 KB</td>
+        <td>992</td>
+        <td>33,683</td>
+        <td>570.16 KB</td>
     </tr>
 </table>
 
@@ -9912,6 +9912,17 @@
         </td>
         <td align="center">
             <a href="src/17/17502.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17520">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                17520 Balanced String
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/17/17520.py">Python</a>
         </td>
     </tr>
     <tr>

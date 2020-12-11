@@ -7195,6 +7195,14 @@
         ]
     },
     {
+        "id": 17520,
+        "title": "Balanced String",
+        "level": 4,
+        "codes": [
+            "src/17/17520.py"
+        ]
+    },
+    {
         "id": 17530,
         "title": "Buffoon",
         "level": 3,
