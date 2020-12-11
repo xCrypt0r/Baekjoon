@@ -5361,6 +5361,14 @@
         ]
     },
     {
+        "id": 13322,
+        "title": "접두사 배열",
+        "level": 5,
+        "codes": [
+            "src/13/13322.js"
+        ]
+    },
+    {
         "id": 13363,
         "title": "Jumbled Compass",
         "level": 3,
