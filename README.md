@@ -40,8 +40,8 @@
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
-        <td>3,229</td>
-        <td>29.53 KB</td>
+        <td>3,239</td>
+        <td>29.68 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -58,8 +58,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>994</td>
-        <td>33,706</td>
-        <td>570.62 KB</td>
+        <td>33,716</td>
+        <td>570.76 KB</td>
     </tr>
 </table>
 
