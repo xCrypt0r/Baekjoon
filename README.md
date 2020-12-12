@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (967문제)
+## 문제 풀이 현황 (968문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>224</td>
-        <td>6,801</td>
-        <td>139.37 KB</td>
+        <td>225</td>
+        <td>6,839</td>
+        <td>140.2 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,003</td>
-        <td>33,945</td>
-        <td>575.01 KB</td>
+        <td>1,004</td>
+        <td>33,983</td>
+        <td>575.85 KB</td>
     </tr>
 </table>
 
@@ -1101,6 +1101,17 @@
         </td>
         <td align="center">
             <a href="src/2/2163.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2167">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2167 2차원 배열의 합
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2167.js">Node.js</a>
         </td>
     </tr>
     <tr>
