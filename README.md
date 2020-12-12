@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (963문제)
+## 문제 풀이 현황 (965문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>220</td>
-        <td>6,662</td>
-        <td>136.76 KB</td>
+        <td>222</td>
+        <td>6,698</td>
+        <td>137.39 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>999</td>
-        <td>33,806</td>
-        <td>572.4 KB</td>
+        <td>1,001</td>
+        <td>33,842</td>
+        <td>573.04 KB</td>
     </tr>
 </table>
 
@@ -4867,6 +4867,17 @@
     </tr>
     <tr>
         <td>
+            <a href="https://www.acmicpc.net/problem/9655">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                9655 돌 게임
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9655.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.acmicpc.net/problem/9656">
                 <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 9656 돌 게임 2
@@ -4918,6 +4929,17 @@
         </td>
         <td align="center">
             <a href="src/9/9660.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9661">
+                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                9661 돌 게임 7
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9661.js">Node.js</a>
         </td>
     </tr>
     <tr>
