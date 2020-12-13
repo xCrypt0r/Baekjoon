@@ -51,15 +51,15 @@
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
-        <td>12</td>
-        <td>686</td>
-        <td>15.31 KB</td>
+        <td>13</td>
+        <td>755</td>
+        <td>16.85 KB</td>
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,012</td>
-        <td>34,238</td>
-        <td>580.49 KB</td>
+        <td>1,013</td>
+        <td>34,307</td>
+        <td>582.03 KB</td>
     </tr>
 </table>
 
@@ -143,7 +143,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/1/1010.rs">Rust</a>
+            <a href="src/1/1010.kt">Kotlin</a><br><a href="src/1/1010.rs">Rust</a>
         </td>
     </tr>
     <tr>
