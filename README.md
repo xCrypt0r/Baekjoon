@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (974문제)
+## 문제 풀이 현황 (975문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>231</td>
-        <td>7,042</td>
-        <td>143.88 KB</td>
+        <td>232</td>
+        <td>7,062</td>
+        <td>144.25 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,010</td>
-        <td>34,186</td>
-        <td>579.52 KB</td>
+        <td>1,011</td>
+        <td>34,206</td>
+        <td>579.89 KB</td>
     </tr>
 </table>
 
@@ -1717,6 +1717,17 @@
         </td>
         <td align="center">
             <a href="src/2/2670.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2671">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                2671 잠수함식별
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2671.js">Node.js</a>
         </td>
     </tr>
     <tr>
