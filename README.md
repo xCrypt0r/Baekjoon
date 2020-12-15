@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (982문제)
+## 문제 풀이 현황 (983문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>239</td>
-        <td>7,282</td>
-        <td>148.68 KB</td>
+        <td>240</td>
+        <td>7,300</td>
+        <td>149.04 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,019</td>
-        <td>34,495</td>
-        <td>585.86 KB</td>
+        <td>1,020</td>
+        <td>34,513</td>
+        <td>586.22 KB</td>
     </tr>
 </table>
 
@@ -9175,6 +9175,17 @@
         </td>
         <td align="center">
             <a href="src/15/15873.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15885">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                15885 고장난 시계
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15885.js">Node.js</a>
         </td>
     </tr>
     <tr>
