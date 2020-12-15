@@ -3305,6 +3305,14 @@
         ]
     },
     {
+        "id": 9161,
+        "title": "Sir Bedavere’s Bogus Division Solutions",
+        "level": 3,
+        "codes": [
+            "src/9/9161.js"
+        ]
+    },
+    {
         "id": 9226,
         "title": "도깨비말",
         "level": 4,

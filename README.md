@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (981문제)
+## 문제 풀이 현황 (982문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>238</td>
-        <td>7,253</td>
-        <td>148.04 KB</td>
+        <td>239</td>
+        <td>7,282</td>
+        <td>148.68 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,018</td>
-        <td>34,466</td>
-        <td>585.23 KB</td>
+        <td>1,019</td>
+        <td>34,495</td>
+        <td>585.86 KB</td>
     </tr>
 </table>
 
@@ -4588,6 +4588,17 @@
         </td>
         <td align="center">
             <a href="src/9/9095.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9161">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                9161 Sir Bedavere’s Bogus Division Solutions
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9161.js">Node.js</a>
         </td>
     </tr>
     <tr>
