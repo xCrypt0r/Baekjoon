@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (980문제)
+## 문제 풀이 현황 (981문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>237</td>
-        <td>7,234</td>
-        <td>147.64 KB</td>
+        <td>238</td>
+        <td>7,253</td>
+        <td>148.04 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,017</td>
-        <td>34,447</td>
-        <td>584.83 KB</td>
+        <td>1,018</td>
+        <td>34,466</td>
+        <td>585.23 KB</td>
     </tr>
 </table>
 
@@ -9197,6 +9197,17 @@
         </td>
         <td align="center">
             <a href="src/15/15894.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15904">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                15904 UCPC는 무엇의 약자일까?
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15904.js">Node.js</a>
         </td>
     </tr>
     <tr>
