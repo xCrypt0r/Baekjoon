@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (987문제)
+## 문제 풀이 현황 (988문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>244</td>
-        <td>7,498</td>
-        <td>153.32 KB</td>
+        <td>245</td>
+        <td>7,517</td>
+        <td>153.67 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,024</td>
-        <td>34,711</td>
-        <td>590.5 KB</td>
+        <td>1,025</td>
+        <td>34,730</td>
+        <td>590.86 KB</td>
     </tr>
 </table>
 
@@ -9219,6 +9219,17 @@
         </td>
         <td align="center">
             <a href="src/15/15873.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15881">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15881 Pen Pineapple Apple Pen
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/15/15881.js">Node.js</a>
         </td>
     </tr>
     <tr>
