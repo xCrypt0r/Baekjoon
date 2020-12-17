@@ -11,7 +11,7 @@
 const fs = require('fs');
 
 function main() {
-    let input = fs.readFileSync('../stdin').toString().trim();
+    let input = fs.readFileSync('/dev/stdin').toString().trim();
     let rgx = /^.*U.*C.*P.*C.*$/;
 
     console.log(rgx.test(input) ? 'I love UCPC' : 'I hate UCPC');
