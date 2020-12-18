@@ -7645,6 +7645,14 @@
         ]
     },
     {
+        "id": 18332,
+        "title": "Valid Emails",
+        "level": 7,
+        "codes": [
+            "src/18/18332.js"
+        ]
+    },
+    {
         "id": 18398,
         "title": "HOMWRK",
         "level": 3,
