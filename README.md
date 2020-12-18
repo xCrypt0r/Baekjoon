@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (989문제)
+## 문제 풀이 현황 (990문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>246</td>
-        <td>7,562</td>
-        <td>154.8 KB</td>
+        <td>247</td>
+        <td>7,599</td>
+        <td>155.48 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,026</td>
-        <td>34,775</td>
-        <td>591.99 KB</td>
+        <td>1,027</td>
+        <td>34,812</td>
+        <td>592.67 KB</td>
     </tr>
 </table>
 
@@ -1145,6 +1145,17 @@
         </td>
         <td align="center">
             <a href="src/2/2193.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2204">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                2204 도비의 난독증 테스트
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2204.js">Node.js</a>
         </td>
     </tr>
     <tr>
