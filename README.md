@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>247</td>
-        <td>7,599</td>
-        <td>155.48 KB</td>
+        <td>248</td>
+        <td>7,624</td>
+        <td>155.96 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,027</td>
-        <td>34,812</td>
-        <td>592.67 KB</td>
+        <td>1,028</td>
+        <td>34,837</td>
+        <td>593.14 KB</td>
     </tr>
 </table>
 
@@ -10230,7 +10230,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/17/17413.kt">Kotlin</a>
+            <a href="src/17/17413.js">Node.js</a><br><a href="src/17/17413.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
