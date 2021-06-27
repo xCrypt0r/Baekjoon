@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (997문제)
+## 문제 풀이 현황 (998문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>307</td>
-        <td>10,423</td>
-        <td>155.33 KB</td>
+        <td>308</td>
+        <td>10,451</td>
+        <td>155.76 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,035</td>
-        <td>35,021</td>
-        <td>596.22 KB</td>
+        <td>1,036</td>
+        <td>35,049</td>
+        <td>596.66 KB</td>
     </tr>
 </table>
 
@@ -11012,6 +11012,17 @@
         </td>
         <td align="center">
             <a href="src/20/20673.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20976">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                20976 2 番目に大きい整数 (The Second Largest Integer)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20976.cpp">C++</a>
         </td>
     </tr>
     <tr>
