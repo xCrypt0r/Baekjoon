@@ -8020,5 +8020,13 @@
         "codes": [
             "src/21/21612.cpp"
         ]
+    },
+    {
+        "id": 22015,
+        "title": "金平糖 (Konpeito)",
+        "level": 2,
+        "codes": [
+            "src/22/22015.cpp"
+        ]
     }
 ]

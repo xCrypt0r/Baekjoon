@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (998문제)
+## 문제 풀이 현황 (999문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>308</td>
-        <td>10,451</td>
-        <td>155.76 KB</td>
+        <td>309</td>
+        <td>10,479</td>
+        <td>156.2 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,036</td>
-        <td>35,049</td>
-        <td>596.66 KB</td>
+        <td>1,037</td>
+        <td>35,077</td>
+        <td>597.09 KB</td>
     </tr>
 </table>
 
@@ -11045,6 +11045,17 @@
         </td>
         <td align="center">
             <a href="src/21/21612.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22015">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                22015 金平糖 (Konpeito)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/22/22015.cpp">C++</a>
         </td>
     </tr>
 </table>
