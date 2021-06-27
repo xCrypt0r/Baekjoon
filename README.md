@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (994문제)
+## 문제 풀이 현황 (995문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>304</td>
-        <td>10,344</td>
-        <td>154.21 KB</td>
+        <td>305</td>
+        <td>10,365</td>
+        <td>154.54 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,032</td>
-        <td>34,942</td>
-        <td>595.11 KB</td>
+        <td>1,033</td>
+        <td>34,963</td>
+        <td>595.44 KB</td>
     </tr>
 </table>
 
@@ -11001,6 +11001,17 @@
         </td>
         <td align="center">
             <a href="src/20/20540.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21300">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                21300 Bottle Return
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/21/21300.cpp">C++</a>
         </td>
     </tr>
 </table>
