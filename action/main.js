@@ -34,12 +34,13 @@ function main() {
 async function getInfo(id) {
     let { body } = await request(URL + id),
         $ = cheerio.load(body),
-        { problems } = JSON.parse($('#__NEXT_DATA__').html()).props.pageProps.result;
+        problems = JSON.parse($('#__NEXT_DATA__').html()).props.pageProps.problems.items,
+        { problemId, titleKo, level } = problems.find(p => p.problemId === +id);
 
-    saveInfo(problems.find(p => p.id === +id));
+    saveInfo(problemId, titleKo, level);
 }
 
-function saveInfo({ id, title, level }) {
+function saveInfo(id, title, level) {
     let sid = String(id),
         folder = sid.substr(0, sid.length - 3),
         codes = glob.sync(`src/${folder}/${id}.*`, { cwd: '..' }),
