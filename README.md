@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (999문제)
+## 문제 풀이 현황 (1000문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>309</td>
-        <td>10,479</td>
-        <td>156.2 KB</td>
+        <td>310</td>
+        <td>10,504</td>
+        <td>156.52 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,037</td>
-        <td>35,077</td>
-        <td>597.09 KB</td>
+        <td>1,038</td>
+        <td>35,102</td>
+        <td>597.41 KB</td>
     </tr>
 </table>
 
@@ -11034,6 +11034,17 @@
         </td>
         <td align="center">
             <a href="src/21/21300.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21598">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                21598 SciComLove
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/21/21598.cpp">C++</a>
         </td>
     </tr>
     <tr>
