@@ -8004,5 +8004,13 @@
         "codes": [
             "src/21/21300.cpp"
         ]
+    },
+    {
+        "id": 21612,
+        "title": "Boiling Water",
+        "level": 2,
+        "codes": [
+            "src/21/21612.cpp"
+        ]
     }
 ]

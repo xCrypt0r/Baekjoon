@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (996문제)
+## 문제 풀이 현황 (997문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>306</td>
-        <td>10,398</td>
-        <td>154.98 KB</td>
+        <td>307</td>
+        <td>10,423</td>
+        <td>155.33 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,034</td>
-        <td>34,996</td>
-        <td>595.88 KB</td>
+        <td>1,035</td>
+        <td>35,021</td>
+        <td>596.22 KB</td>
     </tr>
 </table>
 
@@ -11023,6 +11023,17 @@
         </td>
         <td align="center">
             <a href="src/21/21300.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21612">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                21612 Boiling Water
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/21/21612.cpp">C++</a>
         </td>
     </tr>
 </table>
