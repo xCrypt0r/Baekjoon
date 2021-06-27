@@ -8014,6 +8014,14 @@
         ]
     },
     {
+        "id": 21591,
+        "title": "Laptop Sticker",
+        "level": 2,
+        "codes": [
+            "src/21/21591.cpp"
+        ]
+    },
+    {
         "id": 21598,
         "title": "SciComLove",
         "level": 2,
