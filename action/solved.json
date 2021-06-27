@@ -7990,6 +7990,14 @@
         ]
     },
     {
+        "id": 20673,
+        "title": "Covid-19",
+        "level": 2,
+        "codes": [
+            "src/20/20673.cpp"
+        ]
+    },
+    {
         "id": 21300,
         "title": "Bottle Return",
         "level": 1,
