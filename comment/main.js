@@ -91,6 +91,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
             break;
 
+        case '.awk':
         case '.r':
             template = fs.readFileSync('templates/comment_r.txt', 'utf8');
 
