@@ -42,6 +42,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         result;
 
     switch (ext.toLowerCase()) {
+        case '.bf':
         case '.c':
         case '.cpp':
         case '.cs':
@@ -49,6 +50,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         case '.java':
         case '.js':
         case '.kt':
+        case '.php':
         case '.rs':
         case '.swift':
         case '.ts':
