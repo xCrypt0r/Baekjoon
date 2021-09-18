@@ -1,0 +1,7 @@
+' {problem_id}. {problem_title}
+
+' 작성자: {user_id}
+' 언어: {language}
+' 사용 메모리: {memory} KB
+' 소요 시간: {time} ms
+' 해결 날짜: {date}

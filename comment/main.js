@@ -125,6 +125,11 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
             break;
 
+        case '.vb':
+            template = fs.readFileSync('templates/comment_vb.txt', 'utf8');
+
+            break;
+
         default:
             throw new Error(`지원되지 않는 확장자: ${ext}`);
     }
