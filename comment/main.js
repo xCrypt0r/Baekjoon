@@ -41,7 +41,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         template,
         result;
 
-    switch (ext) {
+    switch (ext.toLowerCase()) {
         case '.c':
         case '.cpp':
         case '.cs':
@@ -58,6 +58,11 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
         case '.py':
             template = fs.readFileSync('templates/comment_py.txt', 'utf8');
+
+            break;
+
+        case '.r':
+            template = fs.readFileSync('templates/comment_r.txt', 'utf8');
 
             break;
 
