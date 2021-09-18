@@ -76,6 +76,11 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
             break;
 
+        case '.ml':
+            template = fs.readFileSync('templates/comment_ml.txt', 'utf8');
+
+            break;
+
         case '.pas':
             template = fs.readFileSync('templates/comment_pas.txt', 'utf8');
 
