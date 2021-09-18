@@ -68,8 +68,20 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
             break;
 
+        case '.awk':
+        case '.r':
+        case '.tcl':
+            template = fs.readFileSync('templates/comment_r.txt', 'utf8');
+
+            break;
+
         case '.f95':
             template = fs.readFileSync('templates/comment_f95.txt', 'utf8');
+
+            break;
+
+        case '.fs':
+            template = fs.readFileSync('templates/comment_fs.txt', 'utf8');
 
             break;
 
@@ -95,13 +107,6 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
         case '.py':
             template = fs.readFileSync('templates/comment_py.txt', 'utf8');
-
-            break;
-
-        case '.awk':
-        case '.r':
-        case '.tcl':
-            template = fs.readFileSync('templates/comment_r.txt', 'utf8');
 
             break;
 
