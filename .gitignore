@@ -5,5 +5,7 @@ action/node_modules/
 comment/node_modules/
 src/stdin
 
+comment/config.json
+
 *.out
 *.exe
