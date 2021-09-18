@@ -56,6 +56,11 @@ function setComment(target, { id, title, memory, time, language, date }) {
 
             break;
 
+        case '.pl':
+            template = fs.readFileSync('templates/comment_pl.txt', 'utf8');
+
+            break;
+
         case '.py':
             template = fs.readFileSync('templates/comment_py.txt', 'utf8');
 
