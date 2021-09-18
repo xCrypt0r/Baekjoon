@@ -1,6 +1,9 @@
+.vscode/
 test/
 coldcase/
 action/node_modules/
+comment/node_modules/
 src/stdin
 
 *.out
+*.exe

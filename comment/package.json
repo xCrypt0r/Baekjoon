@@ -1,0 +1,17 @@
+{
+  "name": "auto_comment",
+  "version": "1.0.0",
+  "description": "Commenting tool for baekjoon codes",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "xCrypt0r",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "fast-glob": "^3.2.7",
+    "request": "^2.88.2"
+  }
+}
