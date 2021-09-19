@@ -4,8 +4,11 @@ coldcase/
 action/node_modules/
 comment/node_modules/
 src/stdin
+obj/
+bin/
 
 comment/config.json
 
+*.csproj
 *.out
 *.exe
