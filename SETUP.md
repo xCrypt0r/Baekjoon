@@ -6,6 +6,8 @@
 
 ### 자동 리드미 업데이트
 
+1. 필자가 사용한 파일들까지 그대로 가져왔으니 이를 정리해주어야 합니다. `README.md`와 `action/solved.json` 파일의 내용을 모두 지워줍니다. `solved.json`에는 `[]`를 적고 깃허브에 업로드합니다.
+
 1. 리포지토리의 Settings 에서 Secrets 탭으로 이동한 후 `New repository secret` 버튼을 누르고 `Name` 부분에 `EMAIL` 을 적고 `Value` 부분에 본인의 깃허브 이메일을 적어줍니다. 같은 방식으로 `Name` 부분에 `USER` 을 적고 `Value` 부분에 본인의 깃허브 유저네임을 적어줍니다.
 
 1. 위의 단계를 거친 후에는 커밋 메시지를 정규식 `^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$` 과 일치하도록 작성하여 커밋하면 자동으로 리드미가 업데이트 됩니다. 아래는 예시입니다.
