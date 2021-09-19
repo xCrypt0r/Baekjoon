@@ -4,9 +4,9 @@
 
 1. 포크한 리포지토리를 클론합니다.
 
-### 자동 리드미 업데이트
+## 자동 리드미 업데이트
 
-1. 필자가 사용한 파일들까지 그대로 가져왔으니 이를 정리해주어야 합니다. `README.md`와 `action/solved.json` 파일의 내용을 모두 지워줍니다. `solved.json`에는 `[]`를 적고 깃허브에 업로드합니다.
+1. 기존의 문제풀이 파일들을 제거합니다. [src](src) 폴더를 비워주고 [README.md](README.md) 와 [solved.json](action/solved.json) 파일의 문제풀이 내용을 모두 지워줍니다. solved.json 에는 `[]` 만 남기고 깃허브에 업로드합니다.
 
 1. 리포지토리의 Settings 에서 Secrets 탭으로 이동한 후 `New repository secret` 버튼을 누르고 `Name` 부분에 `EMAIL` 을 적고 `Value` 부분에 본인의 깃허브 이메일을 적어줍니다. 같은 방식으로 `Name` 부분에 `USER` 을 적고 `Value` 부분에 본인의 깃허브 유저네임을 적어줍니다.
 
@@ -16,10 +16,10 @@
     - Update 1000.cpp
     - Delete 1000.cpp
 
-### 문제풀이 정보 주석으로 넣기
+## 문제풀이 정보 주석으로 넣기
 
 1. `cd comment` 를 입력하여 `comment` 폴더로 이동하고 `npm install` 을 입력하여 라이브러리들을 설치해줍니다.
 
-1. [config.example.json](comment/config.example.json) 파일의 이름을 `config.json` 으로 변경하고 `BAEKJOON_USER` 필드에 본인의 백준 아이디를 적습니다.
+1. [config.example.json](comment/config.example.json) 파일을 복사한 후 사본의 이름을 `config.json` 으로 변경하고 `BAEKJOON_USER` 필드에 본인의 백준 아이디를 적습니다.
 
 1. `node main.js 1000.cpp` 와 같이 입력하면 해당 문제에 자동으로 주석이 추가됩니다. (**comment 폴더로 이동한 후에 입력해야 정상적으로 작동합니다.**)
