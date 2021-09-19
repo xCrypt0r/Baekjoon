@@ -38,7 +38,8 @@
         "title": "A/B",
         "level": 2,
         "codes": [
-            "src/1/1008.cpp"
+            "src/1/1008.cpp",
+            "src/1/1008.cs"
         ]
     },
     {

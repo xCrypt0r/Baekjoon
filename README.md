@@ -17,43 +17,49 @@
         <td><b>C++</b></td>
         <td>314</td>
         <td>10,647</td>
-        <td>158.74 KB</td>
+        <td>169.04 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>312</td>
         <td>7,959</td>
-        <td>138.68 KB</td>
+        <td>146.45 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>250</td>
         <td>7,671</td>
-        <td>157.03 KB</td>
+        <td>164.52 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>83.36 KB</td>
+        <td>87.46 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>29.68 KB</td>
+        <td>32.84 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>15.3 KB</td>
+        <td>16.05 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>16.85 KB</td>
+        <td>17.59 KB</td>
+    </tr>
+    <tr>
+        <td><b>C#</b></td>
+        <td>1</td>
+        <td>20</td>
+        <td>418 B</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -63,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,043</td>
-        <td>35,260</td>
-        <td>599.85 KB</td>
+        <td>1,044</td>
+        <td>35,280</td>
+        <td>634.58 KB</td>
     </tr>
 </table>
 
@@ -127,7 +133,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/1/1008.cpp">C++</a>
+            <a href="src/1/1008.cpp">C++</a><br><a href="src/1/1008.cs">C#</a>
         </td>
     </tr>
     <tr>
