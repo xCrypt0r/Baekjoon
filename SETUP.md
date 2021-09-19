@@ -10,7 +10,7 @@
 
 1. 위의 단계를 거친 후에는 커밋 메시지를 정규식 `^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$` 과 일치하도록 작성하여 커밋하면 자동으로 리드미가 업데이트 됩니다. 아래는 예시입니다.
     - Add 1000.cpp
-    - Add 1000.cpp 1001.cpp 1002.cpp
+    - Add 1000.cpp | Add 1001.cpp | Add 1002.cpp
     - Update 1000.cpp
     - Delete 1000.cpp
 
