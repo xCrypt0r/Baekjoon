@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1004문제)
+## 문제 풀이 현황 (1005문제)
 
 ### 언어별 코드 수
 <table>
@@ -17,49 +17,49 @@
         <td><b>C++</b></td>
         <td>314</td>
         <td>10,647</td>
-        <td>169.04 KB</td>
+        <td>158.74 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>312</td>
         <td>7,959</td>
-        <td>146.45 KB</td>
+        <td>138.68 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>250</td>
         <td>7,671</td>
-        <td>164.52 KB</td>
+        <td>157.03 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>87.46 KB</td>
+        <td>83.36 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>32.84 KB</td>
+        <td>29.68 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>16.05 KB</td>
+        <td>15.3 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>17.59 KB</td>
+        <td>16.85 KB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>1</td>
-        <td>20</td>
-        <td>418 B</td>
+        <td>2</td>
+        <td>44</td>
+        <td>966 B</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,044</td>
-        <td>35,280</td>
-        <td>634.58 KB</td>
+        <td>1,045</td>
+        <td>35,304</td>
+        <td>600.79 KB</td>
     </tr>
 </table>
 
@@ -2928,6 +2928,17 @@
         </td>
         <td align="center">
             <a href="src/4/4504.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4562">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                4562 No Brainer
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4562.cs">C#</a>
         </td>
     </tr>
     <tr>

@@ -2088,6 +2088,14 @@
         ]
     },
     {
+        "id": 4562,
+        "title": "No Brainer",
+        "level": 3,
+        "codes": [
+            "src/4/4562.cs"
+        ]
+    },
+    {
         "id": 4564,
         "title": "숫자 카드놀이",
         "level": 4,
