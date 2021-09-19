@@ -2,7 +2,6 @@ const Config        = require('./config.json');
 const { promisify } = require('util');
 const request       = promisify(require('request'));
 const cheerio       = require('cheerio');
-const glob          = require('fast-glob');
 const fs            = require('fs');
 const nf            = new Intl.NumberFormat();
 const path          = require('path');
