@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1005문제)
+## 문제 풀이 현황 (1006문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>2</td>
-        <td>44</td>
-        <td>966 B</td>
+        <td>3</td>
+        <td>80</td>
+        <td>1.84 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,045</td>
-        <td>35,304</td>
-        <td>600.79 KB</td>
+        <td>1,046</td>
+        <td>35,340</td>
+        <td>601.68 KB</td>
     </tr>
 </table>
 
@@ -3346,6 +3346,17 @@
         </td>
         <td align="center">
             <a href="src/5/5218.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5235">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                5235 Even Sum More Than Odd Sum
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/5/5235.cs">C#</a>
         </td>
     </tr>
     <tr>
