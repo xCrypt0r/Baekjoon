@@ -56,10 +56,16 @@
         <td>16.85 KB</td>
     </tr>
     <tr>
+        <td><b>Pascal</b></td>
+        <td>1</td>
+        <td>15</td>
+        <td>220 B</td>
+    </tr>
+    <tr>
         <td><b>Total</b></td>
-        <td>1,042</td>
-        <td>35,245</td>
-        <td>599.63 KB</td>
+        <td>1,043</td>
+        <td>35,260</td>
+        <td>599.85 KB</td>
     </tr>
 </table>
 
@@ -88,7 +94,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/1/1001.cpp">C++</a>
+            <a href="src/1/1001.cpp">C++</a><br><a href="src/1/1001.pas">Pascal</a>
         </td>
     </tr>
     <tr>
