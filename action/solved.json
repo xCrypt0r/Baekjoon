@@ -8080,6 +8080,14 @@
         ]
     },
     {
+        "id": 22193,
+        "title": "Multiply",
+        "level": 1,
+        "codes": [
+            "src/22/22193.cs"
+        ]
+    },
+    {
         "id": 23037,
         "title": "5의 수난",
         "level": 3,
