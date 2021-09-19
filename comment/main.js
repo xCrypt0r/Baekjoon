@@ -47,6 +47,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         case '.cpp':
         case '.cs':
         case '.go':
+        case '.hx':
         case '.java':
         case '.js':
         case '.kt':
