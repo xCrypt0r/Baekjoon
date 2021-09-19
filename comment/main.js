@@ -5,11 +5,18 @@ const cheerio       = require('cheerio');
 const fs            = require('fs');
 const nf            = new Intl.NumberFormat();
 const path          = require('path');
-const rgx_file        = /\d+\..+/;
+const rgx_file      = /\d+\..+/;
 const argv          = process.argv.slice(2).map(a => a.match(rgx_file)[0]);
 const URL           = 'https://www.acmicpc.net/status?from_mine=1&problem_id={problem}&user_id={user}';
 
 async function main() {
+    if (argv.length < 1) {
+        console.log('사용법: node main.js <파일명>');
+        console.log('ex) node main.js 1000.cpp');
+
+        return;
+    }
+
     let id = argv[0].replace(/\..+$/, ''),
         target = `../src/${Math.floor(id / 1000)}/${argv[0]}`;
 
@@ -19,9 +26,8 @@ async function main() {
 async function getProblemInfo(id) {
     let url = URL.replace('{problem}', id).replace('{user}', Config.BAEKJOON_USER),
         { body } = await request(url),
-        $ = cheerio.load(body);
-
-    let row = $('#status-table > tbody > tr:nth-child(1)'),
+        $ = cheerio.load(body),
+        row = $('#status-table > tbody > tr:nth-child(1)'),
         title = row.find('td:nth-child(3) > a').attr('title'),
         memory = row.find('.memory').text(),
         time = row.find('.time').text(),
