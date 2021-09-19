@@ -35,7 +35,7 @@ jobs:
           npm install
           id=($(echo "${{ steps.files.outputs.all }}" | grep -oP '\d{4,}'))
           node main.js ${id[@]}
-          git config --global user.name 'xCrypt0r'
+          git config --global user.name ${{ secrets.USER }}
           git config --global user.email ${{ secrets.EMAIL }}
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add ../README.md

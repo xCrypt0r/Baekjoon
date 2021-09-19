@@ -6,9 +6,7 @@
 
 ### 자동 리드미 업데이트
 
-1. [main.yml](.github/workflows/main.yml) 파일에서 `git config --global user.name 'xCrypt0r'` 부분을 본인의 깃허브 아이디로 변경합니다.
-
-1. 리포지토리의 Settings 에서 Secrets 탭으로 이동한 후 `New repository secret` 버튼을 누르고 `Name` 부분에는 `EMAIL` 을 적고 `Value` 부분에는 본인의 깃허브 이메일을 적어줍니다.
+1. 리포지토리의 Settings 에서 Secrets 탭으로 이동한 후 `New repository secret` 버튼을 누르고 `Name` 부분에 `EMAIL` 을 적고 `Value` 부분에 본인의 깃허브 이메일을 적어줍니다. 같은 방식으로 `Name` 부분에 `USER` 을 적고 `Value` 부분에 본인의 깃허브 유저네임을 적어줍니다.
 
 1. 위의 단계를 거친 후에는 커밋 메시지를 정규식 `^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$` 과 일치하도록 작성하여 커밋하면 자동으로 리드미가 업데이트 됩니다. 아래는 예시입니다.
     - Add 1000.cpp
