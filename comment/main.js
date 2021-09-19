@@ -52,6 +52,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         case '.kt':
         case '.php':
         case '.rs':
+        case '.sv':
         case '.swift':
         case '.ts':
             template = fs.readFileSync('templates/comment_cpp.txt', 'utf8');
