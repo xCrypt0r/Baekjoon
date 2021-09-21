@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1011문제)
+## 문제 풀이 현황 (1012문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>8</td>
-        <td>183</td>
-        <td>4.14 KB</td>
+        <td>9</td>
+        <td>202</td>
+        <td>4.52 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,051</td>
-        <td>35,443</td>
-        <td>603.99 KB</td>
+        <td>1,052</td>
+        <td>35,462</td>
+        <td>604.37 KB</td>
     </tr>
 </table>
 
@@ -11112,6 +11112,17 @@
         </td>
         <td align="center">
             <a href="src/21/21300.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21335">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                21335 Another Eruption
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/21/21335.cs">C#</a>
         </td>
     </tr>
     <tr>

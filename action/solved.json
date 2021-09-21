@@ -8064,6 +8064,14 @@
         ]
     },
     {
+        "id": 21335,
+        "title": "Another Eruption",
+        "level": 2,
+        "codes": [
+            "src/21/21335.cs"
+        ]
+    },
+    {
         "id": 21354,
         "title": "Äpplen och päron",
         "level": 2,
