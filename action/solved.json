@@ -8088,6 +8088,14 @@
         ]
     },
     {
+        "id": 21631,
+        "title": "Checkers",
+        "level": 2,
+        "codes": [
+            "src/21/21631.cs"
+        ]
+    },
+    {
         "id": 22015,
         "title": "金平糖 (Konpeito)",
         "level": 2,

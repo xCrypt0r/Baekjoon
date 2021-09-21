@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1009문제)
+## 문제 풀이 현황 (1010문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>6</td>
-        <td>145</td>
-        <td>3.36 KB</td>
+        <td>7</td>
+        <td>164</td>
+        <td>3.77 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,049</td>
-        <td>35,405</td>
-        <td>603.21 KB</td>
+        <td>1,050</td>
+        <td>35,424</td>
+        <td>603.62 KB</td>
     </tr>
 </table>
 
@@ -11145,6 +11145,17 @@
         </td>
         <td align="center">
             <a href="src/21/21612.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21631">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                21631 Checkers
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/21/21631.cs">C#</a>
         </td>
     </tr>
     <tr>
