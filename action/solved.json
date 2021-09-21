@@ -8136,6 +8136,14 @@
         ]
     },
     {
+        "id": 21638,
+        "title": "SMS from MCHS",
+        "level": 2,
+        "codes": [
+            "src/21/21638.cs"
+        ]
+    },
+    {
         "id": 22015,
         "title": "金平糖 (Konpeito)",
         "level": 2,
