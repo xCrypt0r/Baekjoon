@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1010문제)
+## 문제 풀이 현황 (1011문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>7</td>
-        <td>164</td>
-        <td>3.77 KB</td>
+        <td>8</td>
+        <td>183</td>
+        <td>4.14 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,050</td>
-        <td>35,424</td>
-        <td>603.62 KB</td>
+        <td>1,051</td>
+        <td>35,443</td>
+        <td>603.99 KB</td>
     </tr>
 </table>
 
@@ -11035,6 +11035,17 @@
         </td>
         <td align="center">
             <a href="src/20/20299.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20352">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                20352 Circus
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20352.cs">C#</a>
         </td>
     </tr>
     <tr>
