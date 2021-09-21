@@ -8120,6 +8120,14 @@
         ]
     },
     {
+        "id": 21633,
+        "title": "Bank Transfer",
+        "level": 2,
+        "codes": [
+            "src/21/21633.cs"
+        ]
+    },
+    {
         "id": 22015,
         "title": "金平糖 (Konpeito)",
         "level": 2,
