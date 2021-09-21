@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1016문제)
+## 문제 풀이 현황 (1017문제)
 
 ### 언어별 코드 수
 <table>
@@ -50,16 +50,16 @@
         <td>15.3 KB</td>
     </tr>
     <tr>
+        <td><b>C#</b></td>
+        <td>14</td>
+        <td>315</td>
+        <td>7.08 KB</td>
+    </tr>
+    <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
         <td>16.85 KB</td>
-    </tr>
-    <tr>
-        <td><b>C#</b></td>
-        <td>13</td>
-        <td>295</td>
-        <td>6.6 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,056</td>
-        <td>35,555</td>
-        <td>606.45 KB</td>
+        <td>1,057</td>
+        <td>35,575</td>
+        <td>606.93 KB</td>
     </tr>
 </table>
 
@@ -10980,6 +10980,17 @@
         </td>
         <td align="center">
             <a href="src/20/20155.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20215">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                20215 Cutting Corners
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20215.cs">C#</a>
         </td>
     </tr>
     <tr>

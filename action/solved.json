@@ -7968,6 +7968,14 @@
         ]
     },
     {
+        "id": 20215,
+        "title": "Cutting Corners",
+        "level": 2,
+        "codes": [
+            "src/20/20215.cs"
+        ]
+    },
+    {
         "id": 20216,
         "title": "Ducky Debugging",
         "level": 3,
