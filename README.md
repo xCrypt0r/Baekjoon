@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1018문제)
+## 문제 풀이 현황 (1019문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>15</td>
-        <td>333</td>
-        <td>7.43 KB</td>
+        <td>16</td>
+        <td>363</td>
+        <td>8.06 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,058</td>
-        <td>35,593</td>
-        <td>607.27 KB</td>
+        <td>1,059</td>
+        <td>35,623</td>
+        <td>607.91 KB</td>
     </tr>
 </table>
 
@@ -673,6 +673,17 @@
         </td>
         <td align="center">
             <a href="src/1/1475.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1476">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                1476 날짜 계산
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1476.cs">C#</a>
         </td>
     </tr>
     <tr>
