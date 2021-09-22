@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1017문제)
+## 문제 풀이 현황 (1018문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>14</td>
-        <td>315</td>
-        <td>7.08 KB</td>
+        <td>15</td>
+        <td>333</td>
+        <td>7.43 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,057</td>
-        <td>35,575</td>
-        <td>606.93 KB</td>
+        <td>1,058</td>
+        <td>35,593</td>
+        <td>607.27 KB</td>
     </tr>
 </table>
 
@@ -11112,6 +11112,17 @@
         </td>
         <td align="center">
             <a href="src/20/20673.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20944">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                20944 팰린드롬 척화비
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20944.cs">C#</a>
         </td>
     </tr>
     <tr>

@@ -8064,6 +8064,14 @@
         ]
     },
     {
+        "id": 20944,
+        "title": "팰린드롬 척화비",
+        "level": 3,
+        "codes": [
+            "src/20/20944.cs"
+        ]
+    },
+    {
         "id": 20976,
         "title": "2 番目に大きい整数 (The Second Largest Integer)",
         "level": 2,
