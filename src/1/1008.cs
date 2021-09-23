@@ -11,7 +11,8 @@
 using System;
 
 class Program {
-    public static void Main() {
+    public static void Main()
+    {
         string[] input = Console.ReadLine().Split(' ');
         double A = Convert.ToInt32(input[0]);
         double B = Convert.ToInt32(input[1]);
