@@ -157,7 +157,7 @@ function setComment(target, { id, title, memory, time, language, date }) {
         + '\n\n'
         + fs.readFileSync(target, 'utf8');
 
-    fs.writeFileSync(target, result);
+    fs.writeFileSync(target, result, 'utf8');
 }
 
 main();
