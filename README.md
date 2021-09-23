@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1020문제)
+## 문제 풀이 현황 (1021문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>17</td>
-        <td>397</td>
-        <td>8.93 kB</td>
+        <td>18</td>
+        <td>427</td>
+        <td>9.7 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,060</td>
-        <td>35,657</td>
-        <td>623.17 kB</td>
+        <td>1,061</td>
+        <td>35,687</td>
+        <td>623.94 kB</td>
     </tr>
 </table>
 
@@ -981,6 +981,17 @@
         </td>
         <td align="center">
             <a href="src/1/1919.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1920">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                1920 수 찾기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1920.cs">C#</a>
         </td>
     </tr>
     <tr>
