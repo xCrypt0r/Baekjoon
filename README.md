@@ -52,7 +52,7 @@
     <tr>
         <td><b>C#</b></td>
         <td>22</td>
-        <td>671</td>
+        <td>673</td>
         <td>14.65 kB</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
     <tr>
         <td><b>Total</b></td>
         <td>1,065</td>
-        <td>35,931</td>
+        <td>35,933</td>
         <td>628.89 kB</td>
     </tr>
 </table>
