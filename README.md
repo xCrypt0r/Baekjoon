@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1022문제)
+## 문제 풀이 현황 (1023문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>19</td>
-        <td>458</td>
-        <td>10.3 kB</td>
+        <td>20</td>
+        <td>557</td>
+        <td>12.28 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,062</td>
-        <td>35,718</td>
-        <td>624.54 kB</td>
+        <td>1,063</td>
+        <td>35,817</td>
+        <td>626.52 kB</td>
     </tr>
 </table>
 
@@ -178,6 +178,17 @@
         </td>
         <td align="center">
             <a href="src/1/1013.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1018">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                1018 체스판 다시 칠하기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1018.cs">C#</a>
         </td>
     </tr>
     <tr>
