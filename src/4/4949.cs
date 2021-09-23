@@ -11,7 +11,8 @@
 using System;
 using System.Text.RegularExpressions;
 
-class Program {
+class Program
+{
     public static void Main()
     {
         Regex rgx = new Regex(@"[^\(\)\[\]]");

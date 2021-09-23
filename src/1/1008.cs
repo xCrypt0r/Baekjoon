@@ -10,7 +10,8 @@
 
 using System;
 
-class Program {
+class Program
+{
     public static void Main()
     {
         string[] input = Console.ReadLine().Split(' ');
