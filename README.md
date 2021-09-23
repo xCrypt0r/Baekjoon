@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1024문제)
+## 문제 풀이 현황 (1025문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>21</td>
-        <td>633</td>
-        <td>13.84 kB</td>
+        <td>22</td>
+        <td>671</td>
+        <td>14.65 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,064</td>
-        <td>35,893</td>
-        <td>628.08 kB</td>
+        <td>1,065</td>
+        <td>35,931</td>
+        <td>628.89 kB</td>
     </tr>
 </table>
 
@@ -3225,6 +3225,17 @@
         </td>
         <td align="center">
             <a href="src/4/4922.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4949">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                4949 균형잡힌 세상
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4949.cs">C#</a>
         </td>
     </tr>
     <tr>
