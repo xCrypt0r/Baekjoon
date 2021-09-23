@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1025문제)
+## 문제 풀이 현황 (1026문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>22</td>
-        <td>673</td>
-        <td>14.65 kB</td>
+        <td>23</td>
+        <td>707</td>
+        <td>15.37 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,065</td>
-        <td>35,933</td>
-        <td>628.89 kB</td>
+        <td>1,066</td>
+        <td>35,967</td>
+        <td>629.61 kB</td>
     </tr>
 </table>
 
@@ -10903,6 +10903,17 @@
         </td>
         <td align="center">
             <a href="src/19/19602.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19604">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                19604 Art
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/19/19604.cs">C#</a>
         </td>
     </tr>
     <tr>
