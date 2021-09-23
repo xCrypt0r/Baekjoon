@@ -1,0 +1,10 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/action"
+  schedule:
+    interval: daily
+- package-ecosystem: npm
+  directory: "/comment"
+  schedule:
+    interval: daily
