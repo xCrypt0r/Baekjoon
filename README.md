@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1019문제)
+## 문제 풀이 현황 (1020문제)
 
 ### 언어별 코드 수
 <table>
@@ -17,49 +17,49 @@
         <td><b>C++</b></td>
         <td>314</td>
         <td>10,647</td>
-        <td>158.74 KB</td>
+        <td>162.55 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>312</td>
         <td>7,959</td>
-        <td>138.68 KB</td>
+        <td>142.01 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>250</td>
         <td>7,671</td>
-        <td>157.03 KB</td>
+        <td>160.8 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>83.36 KB</td>
+        <td>85.36 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>29.68 KB</td>
+        <td>30.39 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>15.3 KB</td>
+        <td>15.66 kB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>16</td>
-        <td>363</td>
-        <td>8.06 KB</td>
+        <td>17</td>
+        <td>397</td>
+        <td>8.93 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>16.85 KB</td>
+        <td>17.26 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,059</td>
-        <td>35,623</td>
-        <td>607.91 KB</td>
+        <td>1,060</td>
+        <td>35,657</td>
+        <td>623.17 kB</td>
     </tr>
 </table>
 
@@ -530,6 +530,17 @@
         </td>
         <td align="center">
             <a href="src/1/1302.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1305">
+                <img src="https://static.solved.ac/tier_small/17.svg" height="14">
+                1305 광고
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1305.cs">C#</a>
         </td>
     </tr>
     <tr>
