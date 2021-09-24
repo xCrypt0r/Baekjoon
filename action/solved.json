@@ -4535,6 +4535,14 @@
         ]
     },
     {
+        "id": 10889,
+        "title": "Ancient symbol",
+        "level": 0,
+        "codes": [
+            "src/10/10889.cs"
+        ]
+    },
+    {
         "id": 10926,
         "title": "??!",
         "level": 1,
