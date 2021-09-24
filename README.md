@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1032문제)
+## 문제 풀이 현황 (1033문제)
 
 ### 언어별 코드 수
 <table>
@@ -38,16 +38,16 @@
         <td>85.36 kB</td>
     </tr>
     <tr>
+        <td><b>C#</b></td>
+        <td>30</td>
+        <td>1,025</td>
+        <td>22.45 kB</td>
+    </tr>
+    <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
         <td>30.39 kB</td>
-    </tr>
-    <tr>
-        <td><b>C#</b></td>
-        <td>29</td>
-        <td>987</td>
-        <td>21.62 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,072</td>
-        <td>36,247</td>
-        <td>635.87 kB</td>
+        <td>1,073</td>
+        <td>36,285</td>
+        <td>636.69 kB</td>
     </tr>
 </table>
 
@@ -7933,6 +7933,17 @@
         </td>
         <td align="center">
             <a href="src/13/13417.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13419">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                13419 탕수육
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/13/13419.cs">C#</a>
         </td>
     </tr>
     <tr>
