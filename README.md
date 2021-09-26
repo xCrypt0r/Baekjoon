@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1043문제)
+## 문제 풀이 현황 (1044문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>40</td>
-        <td>1,404</td>
-        <td>30.35 kB</td>
+        <td>41</td>
+        <td>1,445</td>
+        <td>31.21 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,083</td>
-        <td>36,664</td>
-        <td>644.59 kB</td>
+        <td>1,084</td>
+        <td>36,705</td>
+        <td>645.46 kB</td>
     </tr>
 </table>
 
@@ -11541,6 +11541,17 @@
         </td>
         <td align="center">
             <a href="src/22/22380.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22396">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                22396 カレー作り
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/22/22396.cs">C#</a>
         </td>
     </tr>
     <tr>
