@@ -7126,6 +7126,14 @@
         ]
     },
     {
+        "id": 16395,
+        "title": "파스칼의 삼각형",
+        "level": 5,
+        "codes": [
+            "src/16/16395.cs"
+        ]
+    },
+    {
         "id": 16408,
         "title": "Poker Hand",
         "level": 3,

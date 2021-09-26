@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1049문제)
+## 문제 풀이 현황 (1050문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>47</td>
-        <td>1,662</td>
-        <td>35.84 kB</td>
+        <td>48</td>
+        <td>1,699</td>
+        <td>36.58 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,090</td>
-        <td>36,922</td>
-        <td>650.08 kB</td>
+        <td>1,091</td>
+        <td>36,959</td>
+        <td>650.83 kB</td>
     </tr>
 </table>
 
@@ -9825,6 +9825,17 @@
         </td>
         <td align="center">
             <a href="src/16/16394.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16395">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                16395 파스칼의 삼각형
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16395.cs">C#</a>
         </td>
     </tr>
     <tr>
