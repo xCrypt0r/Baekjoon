@@ -8369,6 +8369,14 @@
         ]
     },
     {
+        "id": 22151,
+        "title": "Игра",
+        "level": 3,
+        "codes": [
+            "src/22/22151.cs"
+        ]
+    },
+    {
         "id": 22193,
         "title": "Multiply",
         "level": 1,

@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1045문제)
+## 문제 풀이 현황 (1046문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>43</td>
-        <td>1,520</td>
-        <td>32.76 kB</td>
+        <td>44</td>
+        <td>1,551</td>
+        <td>33.48 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,086</td>
-        <td>36,780</td>
-        <td>647.01 kB</td>
+        <td>1,087</td>
+        <td>36,811</td>
+        <td>647.73 kB</td>
     </tr>
 </table>
 
@@ -11530,6 +11530,17 @@
         </td>
         <td align="center">
             <a href="src/22/22015.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22151">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                22151 Игра
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/22/22151.cs">C#</a>
         </td>
     </tr>
     <tr>
