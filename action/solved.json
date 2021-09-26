@@ -6545,6 +6545,14 @@
         ]
     },
     {
+        "id": 15489,
+        "title": "파스칼 삼각형",
+        "level": 6,
+        "codes": [
+            "src/15/15489.cs"
+        ]
+    },
+    {
         "id": 15547,
         "title": "Lorem ipsum",
         "level": 0,
