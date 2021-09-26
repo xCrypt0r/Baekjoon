@@ -8328,6 +8328,14 @@
         ]
     },
     {
+        "id": 21895,
+        "title": "Rock-Paper-Scissors for three",
+        "level": 4,
+        "codes": [
+            "src/21/21895.cs"
+        ]
+    },
+    {
         "id": 21955,
         "title": "Split",
         "level": 4,
