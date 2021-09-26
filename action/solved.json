@@ -8240,6 +8240,14 @@
         ]
     },
     {
+        "id": 20839,
+        "title": "Betygsättning",
+        "level": 2,
+        "codes": [
+            "src/20/20839.cs"
+        ]
+    },
+    {
         "id": 20944,
         "title": "팰린드롬 척화비",
         "level": 3,
