@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1051문제)
+## 문제 풀이 현황 (1052문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>49</td>
-        <td>1,745</td>
-        <td>37.58 kB</td>
+        <td>50</td>
+        <td>1,775</td>
+        <td>38.12 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,092</td>
-        <td>37,005</td>
-        <td>651.83 kB</td>
+        <td>1,093</td>
+        <td>37,035</td>
+        <td>652.37 kB</td>
     </tr>
 </table>
 
@@ -8318,6 +8318,17 @@
         </td>
         <td align="center">
             <a href="src/14/14491.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14495">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                14495 피보나치 비스무리한 수열
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14495.cs">C#</a>
         </td>
     </tr>
     <tr>
