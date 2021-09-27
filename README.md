@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1052문제)
+## 문제 풀이 현황 (1053문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>50</td>
-        <td>1,775</td>
-        <td>38.12 kB</td>
+        <td>51</td>
+        <td>1,832</td>
+        <td>39.35 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,093</td>
-        <td>37,035</td>
-        <td>652.37 kB</td>
+        <td>1,094</td>
+        <td>37,092</td>
+        <td>653.59 kB</td>
     </tr>
 </table>
 
@@ -1025,6 +1025,17 @@
         </td>
         <td align="center">
             <a href="src/1/1929.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1932">
+                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                1932 정수 삼각형
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/1/1932.cs">C#</a>
         </td>
     </tr>
     <tr>
