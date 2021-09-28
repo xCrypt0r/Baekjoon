@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1056문제)
+## 문제 풀이 현황 (1057문제)
 
 ### 언어별 코드 수
 <table>
@@ -62,6 +62,12 @@
         <td>17.26 kB</td>
     </tr>
     <tr>
+        <td><b>Bash</b></td>
+        <td>1</td>
+        <td>19</td>
+        <td>221 B</td>
+    </tr>
+    <tr>
         <td><b>Pascal</b></td>
         <td>1</td>
         <td>15</td>
@@ -69,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,097</td>
-        <td>37,219</td>
-        <td>656.39 kB</td>
+        <td>1,098</td>
+        <td>37,238</td>
+        <td>656.61 kB</td>
     </tr>
 </table>
 
@@ -11431,6 +11437,17 @@
         </td>
         <td align="center">
             <a href="src/20/20673.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20833">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                20833 Kuber
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/20/20833.sh">Bash</a>
         </td>
     </tr>
     <tr>

@@ -8297,6 +8297,14 @@
         ]
     },
     {
+        "id": 20833,
+        "title": "Kuber",
+        "level": 3,
+        "codes": [
+            "src/20/20833.sh"
+        ]
+    },
+    {
         "id": 20839,
         "title": "Betygsättning",
         "level": 2,
