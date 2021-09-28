@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1061문제)
+## 문제 풀이 현황 (1062문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>4</td>
-        <td>117</td>
-        <td>1.73 kB</td>
+        <td>5</td>
+        <td>153</td>
+        <td>2.26 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,103</td>
-        <td>37,383</td>
-        <td>658.99 kB</td>
+        <td>1,104</td>
+        <td>37,419</td>
+        <td>659.51 kB</td>
     </tr>
 </table>
 
@@ -7642,6 +7642,17 @@
         </td>
         <td align="center">
             <a href="src/12/12605.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12606">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                12606 Reverse Words (Large)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/12/12606.sh">Bash</a>
         </td>
     </tr>
     <tr>

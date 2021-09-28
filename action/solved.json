@@ -5524,6 +5524,14 @@
         ]
     },
     {
+        "id": 12606,
+        "title": "Reverse Words (Large)",
+        "level": 4,
+        "codes": [
+            "src/12/12606.sh"
+        ]
+    },
+    {
         "id": 12756,
         "title": "고급 여관",
         "level": 3,
