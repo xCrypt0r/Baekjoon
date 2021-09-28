@@ -64,8 +64,8 @@
     <tr>
         <td><b>Bash</b></td>
         <td>4</td>
-        <td>105</td>
-        <td>1.56 kB</td>
+        <td>117</td>
+        <td>1.73 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -76,8 +76,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>1,102</td>
-        <td>37,340</td>
-        <td>658.19 kB</td>
+        <td>37,352</td>
+        <td>658.37 kB</td>
     </tr>
 </table>
 
