@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1062문제)
+## 문제 풀이 현황 (1063문제)
 
 ### 언어별 코드 수
 <table>
@@ -17,55 +17,55 @@
         <td><b>C++</b></td>
         <td>314</td>
         <td>10,647</td>
-        <td>169.04 KB</td>
+        <td>162.55 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>313</td>
         <td>7,975</td>
-        <td>146.7 KB</td>
+        <td>142.26 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>251</td>
         <td>7,702</td>
-        <td>165.12 KB</td>
+        <td>161.41 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>87.46 KB</td>
+        <td>85.36 kB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
         <td>54</td>
         <td>1,959</td>
-        <td>41.2 KB</td>
+        <td>42.14 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>32.84 KB</td>
+        <td>30.39 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>16.05 KB</td>
+        <td>15.66 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>17.59 KB</td>
+        <td>17.26 kB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>5</td>
-        <td>142</td>
-        <td>2.15 KB</td>
+        <td>6</td>
+        <td>161</td>
+        <td>2.47 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,104</td>
-        <td>37,408</td>
-        <td>678.38 KB</td>
+        <td>1,105</td>
+        <td>37,427</td>
+        <td>659.72 kB</td>
     </tr>
 </table>
 
@@ -9831,6 +9831,17 @@
         </td>
         <td align="center">
             <a href="src/16/16170.java">Java</a><br><a href="src/16/16170.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16171">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                16171 나는 친구가 적다 (Small)
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16171.sh">Bash</a>
         </td>
     </tr>
     <tr>

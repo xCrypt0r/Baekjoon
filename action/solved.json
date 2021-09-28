@@ -7127,6 +7127,14 @@
         ]
     },
     {
+        "id": 16171,
+        "title": "나는 친구가 적다 (Small)",
+        "level": 6,
+        "codes": [
+            "src/16/16171.sh"
+        ]
+    },
+    {
         "id": 16175,
         "title": "General Election",
         "level": 3,
