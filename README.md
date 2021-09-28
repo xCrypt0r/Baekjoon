@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1064문제)
+## 문제 풀이 현황 (1065문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>6</td>
-        <td>161</td>
-        <td>2.47 kB</td>
+        <td>7</td>
+        <td>179</td>
+        <td>2.71 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,106</td>
-        <td>37,480</td>
-        <td>660.76 kB</td>
+        <td>1,107</td>
+        <td>37,498</td>
+        <td>661 kB</td>
     </tr>
 </table>
 
@@ -10073,6 +10073,17 @@
         </td>
         <td align="center">
             <a href="src/16/16462.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16478">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                16478 원의 분할
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16478.sh">Bash</a>
         </td>
     </tr>
     <tr>
