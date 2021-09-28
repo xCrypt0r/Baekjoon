@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1059문제)
+## 문제 풀이 현황 (1060문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>3</td>
-        <td>76</td>
-        <td>1.08 kB</td>
+        <td>4</td>
+        <td>105</td>
+        <td>1.56 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,101</td>
-        <td>37,311</td>
-        <td>657.71 kB</td>
+        <td>1,102</td>
+        <td>37,340</td>
+        <td>658.19 kB</td>
     </tr>
 </table>
 
@@ -1163,6 +1163,17 @@
         </td>
         <td align="center">
             <a href="src/2/2061.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2083">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2083 럭비 클럽
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/2/2083.sh">Bash</a>
         </td>
     </tr>
     <tr>
