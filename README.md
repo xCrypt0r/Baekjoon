@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>2</td>
-        <td>43</td>
-        <td>586 B</td>
+        <td>3</td>
+        <td>76</td>
+        <td>1.08 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,099</td>
-        <td>37,262</td>
-        <td>656.97 kB</td>
+        <td>1,100</td>
+        <td>37,295</td>
+        <td>657.46 kB</td>
     </tr>
 </table>
 
@@ -2064,7 +2064,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/2/2752.cpp">C++</a>
+            <a href="src/2/2752.cpp">C++</a><br><a href="src/2/2752.sh">Bash</a>
         </td>
     </tr>
     <tr>
