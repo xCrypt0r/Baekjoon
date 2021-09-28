@@ -2168,6 +2168,14 @@
         ]
     },
     {
+        "id": 4589,
+        "title": "Gnome Sequencing",
+        "level": 4,
+        "codes": [
+            "src/4/4589.sh"
+        ]
+    },
+    {
         "id": 4592,
         "title": "중복을 없애자",
         "level": 4,
