@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1063문제)
+## 문제 풀이 현황 (1064문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>251</td>
-        <td>7,702</td>
-        <td>161.41 kB</td>
+        <td>252</td>
+        <td>7,755</td>
+        <td>162.45 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,105</td>
-        <td>37,427</td>
-        <td>659.72 kB</td>
+        <td>1,106</td>
+        <td>37,480</td>
+        <td>660.76 kB</td>
     </tr>
 </table>
 
@@ -8698,6 +8698,17 @@
         </td>
         <td align="center">
             <a href="src/14/14724.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14726">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14726 신용카드 판별
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/14/14726.js">Node.js</a>
         </td>
     </tr>
     <tr>
