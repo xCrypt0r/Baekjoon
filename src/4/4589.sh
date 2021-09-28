@@ -11,17 +11,15 @@
 main() {
     read N
 
-    echo "Gnomes:"
+    echo 'Gnomes:'
 
-    for (( i = 0; i < N; i++ ))
-    do
+    for (( i = 0; i < N; i++ )); do
         read a b c
 
-        if ([[ $a -le $b ]] && [[ $b -le $c ]]) || ([[ $a -ge $b ]] && [[ $b -ge $c ]])
-        then
-            echo "Ordered"
+        if ((( a <= b )) && (( b <= c ))) || ((( a >= b )) && (( b >= c ))); then
+            echo 'Ordered'
         else
-            echo "Unordered"
+            echo 'Unordered'
         fi
     done
 }

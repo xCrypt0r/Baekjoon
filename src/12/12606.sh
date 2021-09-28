@@ -11,8 +11,7 @@
 main() {
     read N
 
-    for (( i = 1; i <= N; i++ ))
-    do
+    for (( i = 1; i <= N; i++ )); do
         read line
         read -a words <<< $line
 
@@ -26,9 +25,8 @@ reverse_array() {
     local arr=("$@")
     local res=()
 
-    for (( i = ${#arr[@]} - 1; i >= 0; i-- ))
-    do
-        res+=(${arr[i]})
+    for (( i = ${#arr[@]} - 1; i >= 0; i-- )); do
+        res+=(${arr[$i]})
     done
 
     echo ${res[@]}

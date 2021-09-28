@@ -11,10 +11,9 @@
 main() {
     read N
 
-    res=0
+    local res=0
 
-    for (( i = 1; i <= N; i++ ))
-    do
+    for (( i = 1; i <= N; i++ )); do
         res=$(( res + i * i * i ))
     done
 

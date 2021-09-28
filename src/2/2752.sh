@@ -14,18 +14,15 @@ main() {
 }
 
 qsort() {
-    arr=("$@")
-
+    local arr=("$@")
     local i j k
 
-    for (( i = 1; i < ${#arr[@]}; i++ ))
-    do
+    for (( i = 1; i < ${#arr[@]}; i++ )); do
         k=${arr[i]}
         j=$(( i - 1 ))
 
-        while [[ $j -ge 0 && ${arr[j]} -gt $k ]]
-        do
-            arr[$(( j + 1 ))]=${arr[j]}
+        while (( j >= 0 )) && (( ${arr[$j]} > k )); do
+            arr[$(( j + 1 ))]=${arr[$j]}
             (( j-- ))
         done
 

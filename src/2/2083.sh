@@ -9,17 +9,14 @@
 '
 
 main() {
-    while true
-    do
+    while true; do
         read name age weight
 
-        if [[ "$name" = "#" ]] && [[ $age -eq 0 ]] && [[ $weight -eq 0 ]]
-        then
+        if [[ $name == "#" ]] && (( age == 0 )) && (( weight == 0 )); then
             break
         fi
 
-        if [[ $age -gt 17 ]] || [[ $weight -ge 80 ]]
-        then
+        if (( age > 17 )) || (( weight >= 80 )); then
             echo "$name Senior"
         else
             echo "$name Junior"
