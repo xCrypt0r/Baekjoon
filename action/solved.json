@@ -6303,6 +6303,14 @@
         ]
     },
     {
+        "id": 14729,
+        "title": "칠무해",
+        "level": 6,
+        "codes": [
+            "src/14/14729.cpp"
+        ]
+    },
+    {
         "id": 14761,
         "title": "FizzBuzz",
         "level": 3,
