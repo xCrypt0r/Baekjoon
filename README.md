@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1069문제)
+## 문제 풀이 현황 (1070문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>9</td>
-        <td>214</td>
-        <td>3.14 kB</td>
+        <td>10</td>
+        <td>235</td>
+        <td>3.48 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,111</td>
-        <td>37,605</td>
-        <td>662.49 kB</td>
+        <td>1,112</td>
+        <td>37,626</td>
+        <td>662.82 kB</td>
     </tr>
 </table>
 
@@ -11833,6 +11833,17 @@
         </td>
         <td align="center">
             <a href="src/22/22396.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22938">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                22938 백발백준하는 명사수
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/22/22938.sh">Bash</a>
         </td>
     </tr>
     <tr>
