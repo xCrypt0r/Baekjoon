@@ -8,13 +8,17 @@
 해결 날짜: 2021년 9월 28일
 '
 
-read N
+main() {
+    read N
 
-res=0
+    res=0
 
-for ((i=1; i<=N; i++))
-do
-    res=$((res + i * i * i))
-done
+    for (( i = 1; i <= N; i++ ))
+    do
+        res=$(( res + i * i * i ))
+    done
 
-echo $res
+    echo $res
+}
+
+main

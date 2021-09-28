@@ -8,18 +8,22 @@
 해결 날짜: 2021년 9월 28일
 '
 
-read N
+main() {
+    read N
 
-echo "Gnomes:"
+    echo "Gnomes:"
 
-for ((i=0; i<N; i++))
-do
-    read a b c
+    for (( i = 0; i < N; i++ ))
+    do
+        read a b c
 
-    if ([ $a -le $b ] && [ $b -le $c ]) || ([ $a -ge $b ] && [ $b -ge $c ])
-    then
-        echo "Ordered"
-    else
-        echo "Unordered"
-    fi
-done
+        if ([[ $a -le $b ]] && [[ $b -le $c ]]) || ([[ $a -ge $b ]] && [[ $b -ge $c ]])
+        then
+            echo "Ordered"
+        else
+            echo "Unordered"
+        fi
+    done
+}
+
+main

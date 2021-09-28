@@ -13,12 +13,12 @@ main() {
     do
         read name age weight
 
-        if [ "$name" = "#" ] && [ $age -eq 0 ] && [ $weight -eq 0 ]
+        if [[ "$name" = "#" ]] && [[ $age -eq 0 ]] && [[ $weight -eq 0 ]]
         then
             break
         fi
 
-        if [ $age -gt 17 ] || [ $weight -ge 80 ]
+        if [[ $age -gt 17 ]] || [[ $weight -ge 80 ]]
         then
             echo "$name Senior"
         else
