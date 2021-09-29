@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1072문제)
+## 문제 풀이 현황 (1073문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>54</td>
-        <td>1,959</td>
-        <td>42.14 kB</td>
+        <td>55</td>
+        <td>1,988</td>
+        <td>42.83 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,115</td>
-        <td>37,751</td>
-        <td>665.13 kB</td>
+        <td>1,116</td>
+        <td>37,780</td>
+        <td>665.81 kB</td>
     </tr>
 </table>
 
@@ -5442,6 +5442,17 @@
         </td>
         <td align="center">
             <a href="src/9/9987.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9996">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                9996 한국이 그리울 땐 서버에 접속하지
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9996.cs">C#</a>
         </td>
     </tr>
     <tr>
