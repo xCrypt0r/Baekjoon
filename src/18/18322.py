@@ -3,9 +3,9 @@
 
 작성자: xCrypt0r
 언어: Python 3
-사용 메모리: 29,380 KB
-소요 시간: 64 ms
-해결 날짜: 2020년 9월 20일
+사용 메모리: 29,200 KB
+소요 시간: 72 ms
+해결 날짜: 2021년 9월 30일
 """
 
 def main():
@@ -14,13 +14,19 @@ def main():
     count = 0
 
     for i in range(len(essay)):
-        count += len(essay[i])
+        delta = len(essay[i])
 
-        if count > K:
-            count = len(essay[i])
-            essay[i] = '\n' + essay[i]
+        if count + delta > K:
+            print('\n' + essay[i], end='')
 
-    print(*essay)
+            count = delta
+        else:
+            if count != 0:
+                print(' ', end='')
+
+            print(essay[i], end='')
+
+            count += delta
 
 if __name__ == '__main__':
     main()
