@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>252</td>
-        <td>7,755</td>
-        <td>162.45 kB</td>
+        <td>253</td>
+        <td>7,790</td>
+        <td>163.16 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,114</td>
-        <td>37,716</td>
-        <td>664.42 kB</td>
+        <td>1,115</td>
+        <td>37,751</td>
+        <td>665.13 kB</td>
     </tr>
 </table>
 
@@ -2801,7 +2801,7 @@
             </a>
         </td>
         <td align="center">
-            <a href="src/3/3107.java">Java</a>
+            <a href="src/3/3107.java">Java</a><br><a href="src/3/3107.js">Node.js</a>
         </td>
     </tr>
     <tr>
