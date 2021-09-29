@@ -16,8 +16,8 @@
     <tr>
         <td><b>C++</b></td>
         <td>316</td>
-        <td>10,719</td>
-        <td>163.61 kB</td>
+        <td>10,718</td>
+        <td>163.6 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -76,8 +76,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>1,112</td>
-        <td>37,624</td>
-        <td>662.78 kB</td>
+        <td>37,623</td>
+        <td>662.77 kB</td>
     </tr>
 </table>
 
@@ -6646,7 +6646,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10989">
-                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 10989 수 정렬하기 3
             </a>
         </td>
