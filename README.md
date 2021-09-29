@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1071문제)
+## 문제 풀이 현황 (1072문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>11</td>
-        <td>269</td>
-        <td>4 kB</td>
+        <td>12</td>
+        <td>328</td>
+        <td>5.12 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,113</td>
-        <td>37,657</td>
-        <td>663.29 kB</td>
+        <td>1,114</td>
+        <td>37,716</td>
+        <td>664.42 kB</td>
     </tr>
 </table>
 
@@ -4793,6 +4793,17 @@
         </td>
         <td align="center">
             <a href="src/9/9012.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9046">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                9046 복호화
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/9/9046.sh">Bash</a>
         </td>
     </tr>
     <tr>
