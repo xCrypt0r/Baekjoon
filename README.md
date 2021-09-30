@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1076문제)
+## 문제 풀이 현황 (1077문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>14</td>
-        <td>368</td>
-        <td>5.73 kB</td>
+        <td>15</td>
+        <td>402</td>
+        <td>6.26 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,119</td>
-        <td>37,846</td>
-        <td>666.76 kB</td>
+        <td>1,120</td>
+        <td>37,880</td>
+        <td>667.3 kB</td>
     </tr>
 </table>
 
@@ -2890,6 +2890,17 @@
         </td>
         <td align="center">
             <a href="src/3/3613.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4072">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                4072 Words
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/4/4072.sh">Bash</a>
         </td>
     </tr>
     <tr>

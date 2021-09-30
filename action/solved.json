@@ -2058,6 +2058,14 @@
         ]
     },
     {
+        "id": 4072,
+        "title": "Words",
+        "level": 4,
+        "codes": [
+            "src/4/4072.sh"
+        ]
+    },
+    {
         "id": 4084,
         "title": "Viva la Diferencia",
         "level": 3,
