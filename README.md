@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1075문제)
+## 문제 풀이 현황 (1076문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>316</td>
-        <td>10,718</td>
-        <td>163.6 kB</td>
+        <td>317</td>
+        <td>10,744</td>
+        <td>163.94 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,118</td>
-        <td>37,820</td>
-        <td>666.42 kB</td>
+        <td>1,119</td>
+        <td>37,846</td>
+        <td>666.76 kB</td>
     </tr>
 </table>
 
@@ -10205,6 +10205,17 @@
         </td>
         <td align="center">
             <a href="src/16/16488.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16499">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                16499 동일한 단어 그룹화하기
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/16/16499.cpp">C++</a>
         </td>
     </tr>
     <tr>
