@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1078문제)
+## 문제 풀이 현황 (1079문제)
 
 ### 언어별 코드 수
 <table>
@@ -17,55 +17,55 @@
         <td><b>C++</b></td>
         <td>317</td>
         <td>10,744</td>
-        <td>170.36 KB</td>
+        <td>163.94 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>313</td>
         <td>7,973</td>
-        <td>146.61 KB</td>
+        <td>142.22 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>253</td>
         <td>7,790</td>
-        <td>166.83 KB</td>
+        <td>163.16 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>87.46 KB</td>
+        <td>85.36 kB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>56</td>
-        <td>2,070</td>
-        <td>43.6 KB</td>
+        <td>57</td>
+        <td>2,120</td>
+        <td>45.84 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>32.84 KB</td>
+        <td>30.39 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>16.05 KB</td>
+        <td>15.66 kB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
         <td>15</td>
         <td>402</td>
-        <td>6.14 KB</td>
+        <td>6.26 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>17.59 KB</td>
+        <td>17.26 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,121</td>
-        <td>37,962</td>
-        <td>687.7 KB</td>
+        <td>1,122</td>
+        <td>38,012</td>
+        <td>670.31 kB</td>
     </tr>
 </table>
 
@@ -1003,6 +1003,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1748.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1755">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                1755 숫자놀이
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/1/1755.cs">C#</a>
         </td>
     </tr>
     <tr>
