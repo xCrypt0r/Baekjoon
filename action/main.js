@@ -14,6 +14,7 @@ const URL           = 'https://solved.ac/search?query=';
 const saveFile      = './solved.json';
 const list          = require(saveFile);
 const LANG          = require('./langs.json');
+const COLOR         = require('./colors.json');
 
 function main() {
     let promises = [],
@@ -123,7 +124,13 @@ async function updateReadme(list) {
 
     let codesMarkdown = list.map(p => {
         let codes = p.codes.map(code => {
-            return `<a href="${code}">${LANG[path.extname(code).substr(1)]}</a>`;
+            let lang = LANG[path.extname(code).substr(1)],
+                color = COLOR[lang].replace('#', '') || 'EDEDED';
+
+            return `
+            <img src="https://via.placeholder.com/12/${color}/000000?text=+" height="12">
+            <a href="${code}">${lang}</a>
+        `;
         });
 
         return `
@@ -134,9 +141,7 @@ async function updateReadme(list) {
                 ${p.id} ${p.title}
             </a>
         </td>
-        <td align="center">
-            ${codes.join('<br>')}
-        </td>
+        <td>${codes.join('\t<br>')}</td>
     </tr>`;
     });
 

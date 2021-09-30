@@ -17,55 +17,55 @@
         <td><b>C++</b></td>
         <td>317</td>
         <td>10,744</td>
-        <td>163.94 kB</td>
+        <td>170.36 KB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>313</td>
         <td>7,973</td>
-        <td>142.22 kB</td>
+        <td>146.61 KB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>253</td>
         <td>7,790</td>
-        <td>163.16 kB</td>
+        <td>166.83 KB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>85.36 kB</td>
+        <td>87.46 KB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
         <td>56</td>
         <td>2,070</td>
-        <td>44.6 kB</td>
+        <td>43.6 KB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>29</td>
         <td>3,239</td>
-        <td>30.39 kB</td>
+        <td>32.84 KB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>15.66 kB</td>
+        <td>16.05 KB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
         <td>15</td>
         <td>402</td>
-        <td>6.26 kB</td>
+        <td>6.14 KB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>17.26 kB</td>
+        <td>17.59 KB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -77,7 +77,7 @@
         <td><b>Total</b></td>
         <td>1,121</td>
         <td>37,962</td>
-        <td>669.07 kB</td>
+        <td>687.7 KB</td>
     </tr>
 </table>
 
@@ -85,7 +85,7 @@
 <table>
     <tr>
         <th>문제</th>
-        <th>코드</th>
+        <th>　　코드　　　　　</th>
     </tr>
     <tr>
         <td>
@@ -94,8 +94,12 @@
                 1000 A+B
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1000.cpp">C++</a><br><a href="src/1/1000.rs">Rust</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/1/1000.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
+            <a href="src/1/1000.rs">Rust</a>
         </td>
     </tr>
     <tr>
@@ -105,8 +109,12 @@
                 1001 A-B
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1001.cpp">C++</a><br><a href="src/1/1001.pas">Pascal</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/1/1001.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/E3F171/000000?text=+" height="12">
+            <a href="src/1/1001.pas">Pascal</a>
         </td>
     </tr>
     <tr>
@@ -116,7 +124,8 @@
                 1002 터렛
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1002.js">Node.js</a>
         </td>
     </tr>
@@ -127,7 +136,8 @@
                 1003 피보나치 함수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1003.cpp">C++</a>
         </td>
     </tr>
@@ -138,8 +148,12 @@
                 1008 A/B
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1008.cpp">C++</a><br><a href="src/1/1008.cs">C#</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/1/1008.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/1/1008.cs">C#</a>
         </td>
     </tr>
     <tr>
@@ -149,7 +163,8 @@
                 1009 분산처리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1009.rs">Rust</a>
         </td>
     </tr>
@@ -160,8 +175,12 @@
                 1010 다리 놓기
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1010.kt">Kotlin</a><br><a href="src/1/1010.rs">Rust</a>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/1/1010.kt">Kotlin</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
+            <a href="src/1/1010.rs">Rust</a>
         </td>
     </tr>
     <tr>
@@ -171,7 +190,8 @@
                 1012 유기농 배추
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/1/1012.kt">Kotlin</a>
         </td>
     </tr>
@@ -182,7 +202,8 @@
                 1013 Contact
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1013.js">Node.js</a>
         </td>
     </tr>
@@ -193,7 +214,8 @@
                 1018 체스판 다시 칠하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1018.cs">C#</a>
         </td>
     </tr>
@@ -204,7 +226,8 @@
                 1026 보물
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1026.cpp">C++</a>
         </td>
     </tr>
@@ -215,7 +238,8 @@
                 1032 명령 프롬프트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1032.js">Node.js</a>
         </td>
     </tr>
@@ -226,7 +250,8 @@
                 1037 약수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1037.py">Python</a>
         </td>
     </tr>
@@ -237,7 +262,8 @@
                 1065 한수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1065.cpp">C++</a>
         </td>
     </tr>
@@ -248,7 +274,8 @@
                 1075 나누기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1075.js">Node.js</a>
         </td>
     </tr>
@@ -259,7 +286,8 @@
                 1076 저항
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1076.py">Python</a>
         </td>
     </tr>
@@ -270,7 +298,8 @@
                 1085 직사각형에서 탈출
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1085.cpp">C++</a>
         </td>
     </tr>
@@ -281,7 +310,8 @@
                 1094 막대기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1094.cpp">C++</a>
         </td>
     </tr>
@@ -292,7 +322,8 @@
                 1100 하얀 칸
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1100.cpp">C++</a>
         </td>
     </tr>
@@ -303,7 +334,8 @@
                 1110 더하기 사이클
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1110.cpp">C++</a>
         </td>
     </tr>
@@ -314,7 +346,8 @@
                 1152 단어의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1152.cpp">C++</a>
         </td>
     </tr>
@@ -325,7 +358,8 @@
                 1157 단어 공부
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1157.cpp">C++</a>
         </td>
     </tr>
@@ -336,7 +370,8 @@
                 1159 농구 경기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1159.py">Python</a>
         </td>
     </tr>
@@ -347,7 +382,8 @@
                 1181 단어 정렬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1181.cpp">C++</a>
         </td>
     </tr>
@@ -358,7 +394,8 @@
                 1188 음식 평론가
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1188.js">Node.js</a>
         </td>
     </tr>
@@ -369,7 +406,8 @@
                 1193 분수찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1193.js">Node.js</a>
         </td>
     </tr>
@@ -380,8 +418,12 @@
                 1212 8진수 2진수
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1212.java">Java</a><br><a href="src/1/1212.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/1/1212.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/1/1212.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -391,7 +433,8 @@
                 1213 팰린드롬 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1213.js">Node.js</a>
         </td>
     </tr>
@@ -402,7 +445,8 @@
                 1225 이상한 곱셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1225.py">Python</a>
         </td>
     </tr>
@@ -413,7 +457,8 @@
                 1233 주사위
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1233.js">Node.js</a>
         </td>
     </tr>
@@ -424,7 +469,8 @@
                 1237 정ㅋ벅ㅋ
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1237.cpp">C++</a>
         </td>
     </tr>
@@ -435,7 +481,8 @@
                 1247 부호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1247.py">Python</a>
         </td>
     </tr>
@@ -446,7 +493,8 @@
                 1252 이진수 덧셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1252.py">Python</a>
         </td>
     </tr>
@@ -457,7 +505,8 @@
                 1259 팰린드롬수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1259.cpp">C++</a>
         </td>
     </tr>
@@ -468,7 +517,8 @@
                 1264 모음의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1264.py">Python</a>
         </td>
     </tr>
@@ -479,7 +529,8 @@
                 1267 핸드폰 요금
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1267.py">Python</a>
         </td>
     </tr>
@@ -490,7 +541,8 @@
                 1271 엄청난 부자2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1271.py">Python</a>
         </td>
     </tr>
@@ -501,7 +553,8 @@
                 1283 단축키 지정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1283.js">Node.js</a>
         </td>
     </tr>
@@ -512,8 +565,12 @@
                 1284 집 주소
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1284.kt">Kotlin</a><br><a href="src/1/1284.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/1/1284.kt">Kotlin</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/1/1284.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -523,7 +580,8 @@
                 1292 쉽게 푸는 문제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1292.js">Node.js</a>
         </td>
     </tr>
@@ -534,7 +592,8 @@
                 1297 TV 크기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1297.py">Python</a>
         </td>
     </tr>
@@ -545,7 +604,8 @@
                 1302 베스트셀러
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1302.cpp">C++</a>
         </td>
     </tr>
@@ -556,7 +616,8 @@
                 1305 광고
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1305.cs">C#</a>
         </td>
     </tr>
@@ -567,7 +628,8 @@
                 1316 그룹 단어 체커
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1316.cpp">C++</a>
         </td>
     </tr>
@@ -578,7 +640,8 @@
                 1330 두 수 비교하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1330.cpp">C++</a>
         </td>
     </tr>
@@ -589,7 +652,8 @@
                 1350 진짜 공간
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1350.js">Node.js</a>
         </td>
     </tr>
@@ -600,7 +664,8 @@
                 1356 유진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1356.js">Node.js</a>
         </td>
     </tr>
@@ -611,7 +676,8 @@
                 1357 뒤집힌 덧셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1357.py">Python</a>
         </td>
     </tr>
@@ -622,7 +688,8 @@
                 1371 가장 많은 글자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1371.cpp">C++</a>
         </td>
     </tr>
@@ -633,7 +700,8 @@
                 1373 2진수 8진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1373.py">Python</a>
         </td>
     </tr>
@@ -644,7 +712,8 @@
                 1402 아무래도이문제는A번난이도인것같다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1402.rs">Rust</a>
         </td>
     </tr>
@@ -655,7 +724,8 @@
                 1408 24
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1408.js">Node.js</a>
         </td>
     </tr>
@@ -666,7 +736,8 @@
                 1427 소트인사이드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1427.cpp">C++</a>
         </td>
     </tr>
@@ -677,7 +748,8 @@
                 1453 피시방 알바
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1453.cpp">C++</a>
         </td>
     </tr>
@@ -688,7 +760,8 @@
                 1463 1로 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1463.cpp">C++</a>
         </td>
     </tr>
@@ -699,7 +772,8 @@
                 1475 방 번호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1475.js">Node.js</a>
         </td>
     </tr>
@@ -710,7 +784,8 @@
                 1476 날짜 계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1476.cs">C#</a>
         </td>
     </tr>
@@ -721,7 +796,8 @@
                 1526 가장 큰 금민수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1526.js">Node.js</a>
         </td>
     </tr>
@@ -732,7 +808,8 @@
                 1543 문서 검색
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1543.js">Node.js</a>
         </td>
     </tr>
@@ -743,7 +820,8 @@
                 1546 평균
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1546.cpp">C++</a>
         </td>
     </tr>
@@ -754,7 +832,8 @@
                 1547 공
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1547.cpp">C++</a>
         </td>
     </tr>
@@ -765,7 +844,8 @@
                 1550 16진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1550.cpp">C++</a>
         </td>
     </tr>
@@ -776,7 +856,8 @@
                 1551 수열의 변화
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1551.js">Node.js</a>
         </td>
     </tr>
@@ -787,7 +868,8 @@
                 1560 비숍
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1560.py">Python</a>
         </td>
     </tr>
@@ -798,7 +880,8 @@
                 1568 새
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1568.py">Python</a>
         </td>
     </tr>
@@ -809,7 +892,8 @@
                 1592 영식이와 친구들
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1592.js">Node.js</a>
         </td>
     </tr>
@@ -820,7 +904,8 @@
                 1598 꼬리를 무는 숫자 나열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1598.js">Node.js</a>
         </td>
     </tr>
@@ -831,7 +916,8 @@
                 1673 치킨 쿠폰
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1673.js">Node.js</a>
         </td>
     </tr>
@@ -842,7 +928,8 @@
                 1676 팩토리얼 0의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1676.js">Node.js</a>
         </td>
     </tr>
@@ -853,7 +940,8 @@
                 1699 제곱수의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1699.js">Node.js</a>
         </td>
     </tr>
@@ -864,7 +952,8 @@
                 1703 생장점
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1703.rs">Rust</a>
         </td>
     </tr>
@@ -875,7 +964,8 @@
                 1712 손익분기점
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1712.cpp">C++</a>
         </td>
     </tr>
@@ -886,7 +976,8 @@
                 1731 추론
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1731.py">Python</a>
         </td>
     </tr>
@@ -897,7 +988,8 @@
                 1747 소수&팰린드롬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1747.js">Node.js</a>
         </td>
     </tr>
@@ -908,7 +1000,8 @@
                 1748 수 이어 쓰기 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1748.js">Node.js</a>
         </td>
     </tr>
@@ -919,7 +1012,8 @@
                 1759 암호 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1759.py">Python</a>
         </td>
     </tr>
@@ -930,7 +1024,8 @@
                 1764 듣보잡
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1764.cpp">C++</a>
         </td>
     </tr>
@@ -941,7 +1036,8 @@
                 1773 폭죽쇼
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1773.js">Node.js</a>
         </td>
     </tr>
@@ -952,7 +1048,8 @@
                 1834 나머지와 몫이 같은 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1834.py">Python</a>
         </td>
     </tr>
@@ -963,7 +1060,8 @@
                 1850 최대공약수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1850.py">Python</a>
         </td>
     </tr>
@@ -974,7 +1072,8 @@
                 1864 문어 숫자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1864.py">Python</a>
         </td>
     </tr>
@@ -985,7 +1084,8 @@
                 1871 좋은 자동차 번호판
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1871.cpp">C++</a>
         </td>
     </tr>
@@ -996,7 +1096,8 @@
                 1912 연속합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1912.rs">Rust</a>
         </td>
     </tr>
@@ -1007,7 +1108,8 @@
                 1919 애너그램 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1919.cpp">C++</a>
         </td>
     </tr>
@@ -1018,7 +1120,8 @@
                 1920 수 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1920.cs">C#</a>
         </td>
     </tr>
@@ -1029,7 +1132,8 @@
                 1924 2007년
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1924.cpp">C++</a>
         </td>
     </tr>
@@ -1040,7 +1144,8 @@
                 1929 소수 구하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1929.cpp">C++</a>
         </td>
     </tr>
@@ -1051,7 +1156,8 @@
                 1932 정수 삼각형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/1/1932.cs">C#</a>
         </td>
     </tr>
@@ -1062,7 +1168,8 @@
                 1934 최소공배수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1934.cpp">C++</a>
         </td>
     </tr>
@@ -1073,7 +1180,8 @@
                 1942 디지털시계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1942.js">Node.js</a>
         </td>
     </tr>
@@ -1084,7 +1192,8 @@
                 1964 오각형, 오각형, 오각형…
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/1/1964.py">Python</a>
         </td>
     </tr>
@@ -1095,7 +1204,8 @@
                 1975 Number Game
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1975.js">Node.js</a>
         </td>
     </tr>
@@ -1106,8 +1216,12 @@
                 1977 완전제곱수
             </a>
         </td>
-        <td align="center">
-            <a href="src/1/1977.cpp">C++</a><br><a href="src/1/1977.js">Node.js</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/1/1977.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/1/1977.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -1117,7 +1231,8 @@
                 1978 소수 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1978.cpp">C++</a>
         </td>
     </tr>
@@ -1128,7 +1243,8 @@
                 2010 플러그
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2010.py">Python</a>
         </td>
     </tr>
@@ -1139,7 +1255,8 @@
                 2028 자기복제수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2028.js">Node.js</a>
         </td>
     </tr>
@@ -1150,7 +1267,8 @@
                 2052 지수연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2052.py">Python</a>
         </td>
     </tr>
@@ -1161,7 +1279,8 @@
                 2061 좋은 암호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2061.py">Python</a>
         </td>
     </tr>
@@ -1172,7 +1291,8 @@
                 2083 럭비 클럽
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/2/2083.sh">Bash</a>
         </td>
     </tr>
@@ -1183,7 +1303,8 @@
                 2108 통계학
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2108.js">Node.js</a>
         </td>
     </tr>
@@ -1194,7 +1315,8 @@
                 2153 소수 단어
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2153.js">Node.js</a>
         </td>
     </tr>
@@ -1205,7 +1327,8 @@
                 2161 카드1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2161.cpp">C++</a>
         </td>
     </tr>
@@ -1216,7 +1339,8 @@
                 2163 초콜릿 자르기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2163.cpp">C++</a>
         </td>
     </tr>
@@ -1227,7 +1351,8 @@
                 2164 카드2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/2/2164.cs">C#</a>
         </td>
     </tr>
@@ -1238,7 +1363,8 @@
                 2167 2차원 배열의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2167.js">Node.js</a>
         </td>
     </tr>
@@ -1249,7 +1375,8 @@
                 2193 이친수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2193.js">Node.js</a>
         </td>
     </tr>
@@ -1260,7 +1387,8 @@
                 2204 도비의 난독증 테스트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2204.js">Node.js</a>
         </td>
     </tr>
@@ -1271,7 +1399,8 @@
                 2231 분해합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2231.cpp">C++</a>
         </td>
     </tr>
@@ -1282,7 +1411,8 @@
                 2292 벌집
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2292.rs">Rust</a>
         </td>
     </tr>
@@ -1293,7 +1423,8 @@
                 2309 일곱 난쟁이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2309.py">Python</a>
         </td>
     </tr>
@@ -1304,7 +1435,8 @@
                 2338 긴자리 계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2338.py">Python</a>
         </td>
     </tr>
@@ -1315,7 +1447,8 @@
                 2355 시그마
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2355.cpp">C++</a>
         </td>
     </tr>
@@ -1326,7 +1459,8 @@
                 2386 도비의 영어 공부
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2386.cpp">C++</a>
         </td>
     </tr>
@@ -1337,7 +1471,8 @@
                 2407 조합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2407.py">Python</a>
         </td>
     </tr>
@@ -1348,7 +1483,8 @@
                 2420 사파리월드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2420.cpp">C++</a>
         </td>
     </tr>
@@ -1359,7 +1495,8 @@
                 2438 별 찍기 - 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2438.cpp">C++</a>
         </td>
     </tr>
@@ -1370,7 +1507,8 @@
                 2439 별 찍기 - 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2439.cpp">C++</a>
         </td>
     </tr>
@@ -1381,8 +1519,12 @@
                 2440 별 찍기 - 3
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2440.cpp">C++</a><br><a href="src/2/2440.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2440.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2440.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -1392,8 +1534,12 @@
                 2441 별 찍기 - 4
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2441.cpp">C++</a><br><a href="src/2/2441.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2441.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2441.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -1403,8 +1549,12 @@
                 2442 별 찍기 - 5
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2442.cpp">C++</a><br><a href="src/2/2442.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2442.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2442.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -1414,8 +1564,12 @@
                 2443 별 찍기 - 6
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2443.cpp">C++</a><br><a href="src/2/2443.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2443.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2443.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -1425,8 +1579,12 @@
                 2444 별 찍기 - 7
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2444.cpp">C++</a><br><a href="src/2/2444.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2444.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2444.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -1436,7 +1594,8 @@
                 2445 별 찍기 - 8
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2445.cpp">C++</a>
         </td>
     </tr>
@@ -1447,7 +1606,8 @@
                 2446 별 찍기 - 9
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2446.cpp">C++</a>
         </td>
     </tr>
@@ -1458,7 +1618,8 @@
                 2455 지능형 기차
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2455.cpp">C++</a>
         </td>
     </tr>
@@ -1469,7 +1630,8 @@
                 2456 나는 학급회장이다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2456.js">Node.js</a>
         </td>
     </tr>
@@ -1480,7 +1642,8 @@
                 2460 지능형 기차 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2460.cpp">C++</a>
         </td>
     </tr>
@@ -1491,7 +1654,8 @@
                 2475 검증수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2475.cpp">C++</a>
         </td>
     </tr>
@@ -1502,7 +1666,8 @@
                 2476 주사위 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2476.cpp">C++</a>
         </td>
     </tr>
@@ -1513,7 +1678,8 @@
                 2480 주사위 세개
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2480.cpp">C++</a>
         </td>
     </tr>
@@ -1524,7 +1690,8 @@
                 2484 주사위 네개
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2484.py">Python</a>
         </td>
     </tr>
@@ -1535,7 +1702,8 @@
                 2490 윷놀이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2490.cpp">C++</a>
         </td>
     </tr>
@@ -1546,7 +1714,8 @@
                 2495 연속구간
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2495.cpp">C++</a>
         </td>
     </tr>
@@ -1557,7 +1726,8 @@
                 2501 약수 구하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2501.cpp">C++</a>
         </td>
     </tr>
@@ -1568,7 +1738,8 @@
                 2506 점수계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2506.cpp">C++</a>
         </td>
     </tr>
@@ -1579,7 +1750,8 @@
                 2511 카드놀이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2511.rs">Rust</a>
         </td>
     </tr>
@@ -1590,7 +1762,8 @@
                 2522 별 찍기 - 12
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2522.cpp">C++</a>
         </td>
     </tr>
@@ -1601,7 +1774,8 @@
                 2523 별 찍기 - 13
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2523.cpp">C++</a>
         </td>
     </tr>
@@ -1612,7 +1786,8 @@
                 2525 오븐 시계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2525.cpp">C++</a>
         </td>
     </tr>
@@ -1623,7 +1798,8 @@
                 2526 싸이클
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2526.js">Node.js</a>
         </td>
     </tr>
@@ -1634,7 +1810,8 @@
                 2530 인공지능 시계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2530.cpp">C++</a>
         </td>
     </tr>
@@ -1645,7 +1822,8 @@
                 2547 사탕 선생 고창영
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2547.py">Python</a>
         </td>
     </tr>
@@ -1656,7 +1834,8 @@
                 2555 생일 출력하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2555.cpp">C++</a>
         </td>
     </tr>
@@ -1667,7 +1846,8 @@
                 2556 별 찍기 - 14
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2556.py">Python</a>
         </td>
     </tr>
@@ -1678,7 +1858,8 @@
                 2557 Hello World
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2557.cpp">C++</a>
         </td>
     </tr>
@@ -1689,7 +1870,8 @@
                 2558 A+B - 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2558.cpp">C++</a>
         </td>
     </tr>
@@ -1700,7 +1882,8 @@
                 2562 최댓값
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2562.cpp">C++</a>
         </td>
     </tr>
@@ -1711,7 +1894,8 @@
                 2566 최댓값
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2566.cpp">C++</a>
         </td>
     </tr>
@@ -1722,7 +1906,8 @@
                 2576 홀수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2576.cpp">C++</a>
         </td>
     </tr>
@@ -1733,7 +1918,8 @@
                 2577 숫자의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2577.cpp">C++</a>
         </td>
     </tr>
@@ -1744,7 +1930,8 @@
                 2579 계단 오르기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2579.rs">Rust</a>
         </td>
     </tr>
@@ -1755,7 +1942,8 @@
                 2581 소수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2581.py">Python</a>
         </td>
     </tr>
@@ -1766,7 +1954,8 @@
                 2587 대표값2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2587.cpp">C++</a>
         </td>
     </tr>
@@ -1777,7 +1966,8 @@
                 2588 곱셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2588.cpp">C++</a>
         </td>
     </tr>
@@ -1788,7 +1978,8 @@
                 2592 대표값
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2592.cpp">C++</a>
         </td>
     </tr>
@@ -1799,7 +1990,8 @@
                 2605 줄 세우기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2605.py">Python</a>
         </td>
     </tr>
@@ -1810,7 +2002,8 @@
                 2609 최대공약수와 최소공배수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2609.cpp">C++</a>
         </td>
     </tr>
@@ -1821,7 +2014,8 @@
                 2667 단지번호붙이기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/2/2667.kt">Kotlin</a>
         </td>
     </tr>
@@ -1832,7 +2026,8 @@
                 2669 직사각형 네개의 합집합의 면적 구하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2669.js">Node.js</a>
         </td>
     </tr>
@@ -1843,7 +2038,8 @@
                 2670 연속부분최대곱
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2670.rs">Rust</a>
         </td>
     </tr>
@@ -1854,7 +2050,8 @@
                 2671 잠수함식별
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2671.js">Node.js</a>
         </td>
     </tr>
@@ -1865,7 +2062,8 @@
                 2675 문자열 반복
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2675.cpp">C++</a>
         </td>
     </tr>
@@ -1876,7 +2074,8 @@
                 2684 동전 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/2/2684.cs">C#</a>
         </td>
     </tr>
@@ -1887,7 +2086,8 @@
                 2693 N번째 큰 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2693.cpp">C++</a>
         </td>
     </tr>
@@ -1898,7 +2098,8 @@
                 2702 초6 수학
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2702.js">Node.js</a>
         </td>
     </tr>
@@ -1909,7 +2110,8 @@
                 2711 오타맨 고창영
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2711.cpp">C++</a>
         </td>
     </tr>
@@ -1920,7 +2122,8 @@
                 2712 미국 스타일
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2712.js">Node.js</a>
         </td>
     </tr>
@@ -1931,7 +2134,8 @@
                 2720 세탁소 사장 동혁
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2720.cpp">C++</a>
         </td>
     </tr>
@@ -1942,8 +2146,12 @@
                 2721 삼각수의 합
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2721.java">Java</a><br><a href="src/2/2721.js">Node.js</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2721.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/2/2721.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -1953,7 +2161,8 @@
                 2733 Brainf*ck
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/2/2733.kt">Kotlin</a>
         </td>
     </tr>
@@ -1964,8 +2173,12 @@
                 2738 행렬 덧셈
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2738.java">Java</a><br><a href="src/2/2738.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/2/2738.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/2/2738.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -1975,7 +2188,8 @@
                 2739 구구단
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2739.cpp">C++</a>
         </td>
     </tr>
@@ -1986,7 +2200,8 @@
                 2741 N 찍기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2741.cpp">C++</a>
         </td>
     </tr>
@@ -1997,7 +2212,8 @@
                 2742 기찍 N
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2742.cpp">C++</a>
         </td>
     </tr>
@@ -2008,7 +2224,8 @@
                 2743 단어 길이 재기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2743.cpp">C++</a>
         </td>
     </tr>
@@ -2019,7 +2236,8 @@
                 2744 대소문자 바꾸기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2744.cpp">C++</a>
         </td>
     </tr>
@@ -2030,7 +2248,8 @@
                 2745 진법 변환
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2745.cpp">C++</a>
         </td>
     </tr>
@@ -2041,7 +2260,8 @@
                 2747 피보나치 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2747.cpp">C++</a>
         </td>
     </tr>
@@ -2052,8 +2272,12 @@
                 2748 피보나치 수 2
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2748.cpp">C++</a><br><a href="src/2/2748.kt">Kotlin</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2748.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/2/2748.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
@@ -2063,7 +2287,8 @@
                 2750 수 정렬하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2750.cpp">C++</a>
         </td>
     </tr>
@@ -2074,7 +2299,8 @@
                 2751 수 정렬하기 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2751.cpp">C++</a>
         </td>
     </tr>
@@ -2085,8 +2311,12 @@
                 2752 세수정렬
             </a>
         </td>
-        <td align="center">
-            <a href="src/2/2752.cpp">C++</a><br><a href="src/2/2752.sh">Bash</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2752.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/2/2752.sh">Bash</a>
         </td>
     </tr>
     <tr>
@@ -2096,7 +2326,8 @@
                 2753 윤년
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2753.cpp">C++</a>
         </td>
     </tr>
@@ -2107,7 +2338,8 @@
                 2754 학점계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2754.cpp">C++</a>
         </td>
     </tr>
@@ -2118,7 +2350,8 @@
                 2765 자전거 속도
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2765.js">Node.js</a>
         </td>
     </tr>
@@ -2129,7 +2362,8 @@
                 2774 아름다운 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2774.js">Node.js</a>
         </td>
     </tr>
@@ -2140,7 +2374,8 @@
                 2775 부녀회장이 될테야
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2775.js">Node.js</a>
         </td>
     </tr>
@@ -2151,7 +2386,8 @@
                 2776 암기왕
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2776.cpp">C++</a>
         </td>
     </tr>
@@ -2162,7 +2398,8 @@
                 2783 삼각 김밥
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2783.rs">Rust</a>
         </td>
     </tr>
@@ -2173,7 +2410,8 @@
                 2789 유학 금지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2789.cpp">C++</a>
         </td>
     </tr>
@@ -2184,7 +2422,8 @@
                 2798 블랙잭
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2798.py">Python</a>
         </td>
     </tr>
@@ -2195,7 +2434,8 @@
                 2804 크로스워드 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2804.js">Node.js</a>
         </td>
     </tr>
@@ -2206,7 +2446,8 @@
                 2810 컵홀더
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2810.py">Python</a>
         </td>
     </tr>
@@ -2217,7 +2458,8 @@
                 2822 점수 계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2822.cpp">C++</a>
         </td>
     </tr>
@@ -2228,7 +2470,8 @@
                 2839 설탕 배달
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2839.cpp">C++</a>
         </td>
     </tr>
@@ -2239,7 +2482,8 @@
                 2845 파티가 끝나고 난 뒤
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2845.cpp">C++</a>
         </td>
     </tr>
@@ -2250,7 +2494,8 @@
                 2846 오르막길
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2846.js">Node.js</a>
         </td>
     </tr>
@@ -2261,7 +2506,8 @@
                 2851 슈퍼 마리오
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2851.js">Node.js</a>
         </td>
     </tr>
@@ -2272,7 +2518,8 @@
                 2857 FBI
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2857.cpp">C++</a>
         </td>
     </tr>
@@ -2283,7 +2530,8 @@
                 2858 기숙사 바닥
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2858.js">Node.js</a>
         </td>
     </tr>
@@ -2294,7 +2542,8 @@
                 2863 이게 분수?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2863.js">Node.js</a>
         </td>
     </tr>
@@ -2305,7 +2554,8 @@
                 2864 5와 6의 차이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2864.cpp">C++</a>
         </td>
     </tr>
@@ -2316,7 +2566,8 @@
                 2869 달팽이는 올라가고 싶다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2869.js">Node.js</a>
         </td>
     </tr>
@@ -2327,7 +2578,8 @@
                 2870 수학숙제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2870.js">Node.js</a>
         </td>
     </tr>
@@ -2338,7 +2590,8 @@
                 2875 대회 or 인턴
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2875.py">Python</a>
         </td>
     </tr>
@@ -2349,7 +2602,8 @@
                 2884 알람 시계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2884.cpp">C++</a>
         </td>
     </tr>
@@ -2360,7 +2614,8 @@
                 2902 KMP는 왜 KMP일까?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2902.cpp">C++</a>
         </td>
     </tr>
@@ -2371,7 +2626,8 @@
                 2903 중앙 이동 알고리즘
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2903.rs">Rust</a>
         </td>
     </tr>
@@ -2382,7 +2638,8 @@
                 2908 상수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2908.cpp">C++</a>
         </td>
     </tr>
@@ -2393,7 +2650,8 @@
                 2909 캔디 구매
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2909.js">Node.js</a>
         </td>
     </tr>
@@ -2404,7 +2662,8 @@
                 2914 저작권
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2914.cpp">C++</a>
         </td>
     </tr>
@@ -2415,7 +2674,8 @@
                 2920 음계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2920.cpp">C++</a>
         </td>
     </tr>
@@ -2426,7 +2686,8 @@
                 2921 도미노
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2921.rs">Rust</a>
         </td>
     </tr>
@@ -2437,7 +2698,8 @@
                 2935 소음
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2935.py">Python</a>
         </td>
     </tr>
@@ -2448,7 +2710,8 @@
                 2941 크로아티아 알파벳
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2941.py">Python</a>
         </td>
     </tr>
@@ -2459,7 +2722,8 @@
                 2947 나무 조각
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2947.py">Python</a>
         </td>
     </tr>
@@ -2470,7 +2734,8 @@
                 2948 2009년
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2948.js">Node.js</a>
         </td>
     </tr>
@@ -2481,7 +2746,8 @@
                 2953 나는 요리사다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2953.cpp">C++</a>
         </td>
     </tr>
@@ -2492,7 +2758,8 @@
                 2954 창영이의 일기장
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2954.cpp">C++</a>
         </td>
     </tr>
@@ -2503,7 +2770,8 @@
                 2959 거북이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2959.py">Python</a>
         </td>
     </tr>
@@ -2514,7 +2782,8 @@
                 2960 에라토스테네스의 체
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2960.js">Node.js</a>
         </td>
     </tr>
@@ -2525,7 +2794,8 @@
                 2965 캥거루 세마리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2965.cpp">C++</a>
         </td>
     </tr>
@@ -2536,7 +2806,8 @@
                 2966 찍기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2966.py">Python</a>
         </td>
     </tr>
@@ -2547,7 +2818,8 @@
                 2975 Transactions
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2975.py">Python</a>
         </td>
     </tr>
@@ -2558,7 +2830,8 @@
                 2979 트럭 주차
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2979.js">Node.js</a>
         </td>
     </tr>
@@ -2569,7 +2842,8 @@
                 2985 세 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2985.rs">Rust</a>
         </td>
     </tr>
@@ -2580,7 +2854,8 @@
                 2991 사나운 개
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2991.rs">Rust</a>
         </td>
     </tr>
@@ -2591,7 +2866,8 @@
                 2997 네 번째 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2997.py">Python</a>
         </td>
     </tr>
@@ -2602,7 +2878,8 @@
                 2998 8진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2998.py">Python</a>
         </td>
     </tr>
@@ -2613,7 +2890,8 @@
                 3003 킹, 퀸, 룩, 비숍, 나이트, 폰
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3003.cpp">C++</a>
         </td>
     </tr>
@@ -2624,7 +2902,8 @@
                 3004 체스판 조각
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3004.py">Python</a>
         </td>
     </tr>
@@ -2635,7 +2914,8 @@
                 3009 네 번째 점
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3009.cpp">C++</a>
         </td>
     </tr>
@@ -2646,7 +2926,8 @@
                 3028 창영마을
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3028.py">Python</a>
         </td>
     </tr>
@@ -2657,7 +2938,8 @@
                 3029 경고
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3029.py">Python</a>
         </td>
     </tr>
@@ -2668,7 +2950,8 @@
                 3034 앵그리 창영
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3034.cpp">C++</a>
         </td>
     </tr>
@@ -2679,7 +2962,8 @@
                 3036 링
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3036.cpp">C++</a>
         </td>
     </tr>
@@ -2690,7 +2974,8 @@
                 3040 백설 공주와 일곱 난쟁이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3040.py">Python</a>
         </td>
     </tr>
@@ -2701,7 +2986,8 @@
                 3046 R2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3046.cpp">C++</a>
         </td>
     </tr>
@@ -2712,7 +2998,8 @@
                 3047 ABC
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3047.cpp">C++</a>
         </td>
     </tr>
@@ -2723,7 +3010,8 @@
                 3049 다각형의 대각선
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3049.py">Python</a>
         </td>
     </tr>
@@ -2734,7 +3022,8 @@
                 3052 나머지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3052.cpp">C++</a>
         </td>
     </tr>
@@ -2745,7 +3034,8 @@
                 3053 택시 기하학
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/3/3053.rs">Rust</a>
         </td>
     </tr>
@@ -2756,7 +3046,8 @@
                 3058 짝수를 찾아라
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3058.cpp">C++</a>
         </td>
     </tr>
@@ -2767,7 +3058,8 @@
                 3059 등장하지 않는 문자의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3059.cpp">C++</a>
         </td>
     </tr>
@@ -2778,8 +3070,12 @@
                 3062 수 뒤집기
             </a>
         </td>
-        <td align="center">
-            <a href="src/3/3062.java">Java</a><br><a href="src/3/3062.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/3/3062.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/3/3062.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -2789,7 +3085,8 @@
                 3076 상근이의 체스판
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/3/3076.js">Node.js</a>
         </td>
     </tr>
@@ -2800,8 +3097,12 @@
                 3107 IPv6
             </a>
         </td>
-        <td align="center">
-            <a href="src/3/3107.java">Java</a><br><a href="src/3/3107.js">Node.js</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/3/3107.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/3/3107.js">Node.js</a>
         </td>
     </tr>
     <tr>
@@ -2811,7 +3112,8 @@
                 3181 줄임말 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/3/3181.js">Node.js</a>
         </td>
     </tr>
@@ -2822,7 +3124,8 @@
                 3447 버그왕
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/3/3447.sh">Bash</a>
         </td>
     </tr>
@@ -2833,7 +3136,8 @@
                 3449 해밍 거리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3449.cpp">C++</a>
         </td>
     </tr>
@@ -2844,7 +3148,8 @@
                 3460 이진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/3/3460.cpp">C++</a>
         </td>
     </tr>
@@ -2855,7 +3160,8 @@
                 3486 Adding Reversed Numbers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3486.py">Python</a>
         </td>
     </tr>
@@ -2866,7 +3172,8 @@
                 3507 Automated Telephone Exchange
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3507.py">Python</a>
         </td>
     </tr>
@@ -2877,7 +3184,8 @@
                 3568 iSharp
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/3/3568.js">Node.js</a>
         </td>
     </tr>
@@ -2888,7 +3196,8 @@
                 3613 Java vs C++
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/3/3613.js">Node.js</a>
         </td>
     </tr>
@@ -2899,7 +3208,8 @@
                 4072 Words
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/4/4072.sh">Bash</a>
         </td>
     </tr>
@@ -2910,7 +3220,8 @@
                 4084 Viva la Diferencia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4084.py">Python</a>
         </td>
     </tr>
@@ -2921,7 +3232,8 @@
                 4101 크냐?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4101.cpp">C++</a>
         </td>
     </tr>
@@ -2932,7 +3244,8 @@
                 4150 피보나치 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4150.py">Python</a>
         </td>
     </tr>
@@ -2943,7 +3256,8 @@
                 4153 직각삼각형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4153.cpp">C++</a>
         </td>
     </tr>
@@ -2954,7 +3268,8 @@
                 4299 AFC 윔블던
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4299.cpp">C++</a>
         </td>
     </tr>
@@ -2965,7 +3280,8 @@
                 4344 평균은 넘겠지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4344.cpp">C++</a>
         </td>
     </tr>
@@ -2976,7 +3292,8 @@
                 4388 받아올림
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4388.js">Node.js</a>
         </td>
     </tr>
@@ -2987,7 +3304,8 @@
                 4402 Soundex
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4402.cpp">C++</a>
         </td>
     </tr>
@@ -2998,7 +3316,8 @@
                 4435 중간계 전쟁
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4435.js">Node.js</a>
         </td>
     </tr>
@@ -3009,7 +3328,8 @@
                 4447 좋은놈 나쁜놈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4447.py">Python</a>
         </td>
     </tr>
@@ -3020,7 +3340,8 @@
                 4458 첫 글자를 대문자로
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4458.cpp">C++</a>
         </td>
     </tr>
@@ -3031,7 +3352,8 @@
                 4470 줄번호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4470.py">Python</a>
         </td>
     </tr>
@@ -3042,7 +3364,8 @@
                 4493 가위 바위 보?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4493.py">Python</a>
         </td>
     </tr>
@@ -3053,7 +3376,8 @@
                 4504 배수 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4504.cpp">C++</a>
         </td>
     </tr>
@@ -3064,7 +3388,8 @@
                 4562 No Brainer
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/4/4562.cs">C#</a>
         </td>
     </tr>
@@ -3075,7 +3400,8 @@
                 4564 숫자 카드놀이
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4564.js">Node.js</a>
         </td>
     </tr>
@@ -3086,7 +3412,8 @@
                 4581 Voting
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/4/4581.cs">C#</a>
         </td>
     </tr>
@@ -3097,7 +3424,8 @@
                 4589 Gnome Sequencing
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/4/4589.sh">Bash</a>
         </td>
     </tr>
@@ -3108,7 +3436,8 @@
                 4592 중복을 없애자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4592.js">Node.js</a>
         </td>
     </tr>
@@ -3119,7 +3448,8 @@
                 4597 패리티
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/4/4597.cs">C#</a>
         </td>
     </tr>
@@ -3130,7 +3460,8 @@
                 4606 The Seven Percent Solution
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4606.cpp">C++</a>
         </td>
     </tr>
@@ -3141,7 +3472,8 @@
                 4619 루트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4619.js">Node.js</a>
         </td>
     </tr>
@@ -3152,7 +3484,8 @@
                 4623 Copier Reduction
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4623.js">Node.js</a>
         </td>
     </tr>
@@ -3163,7 +3496,8 @@
                 4635 Speed Limit
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4635.py">Python</a>
         </td>
     </tr>
@@ -3174,7 +3508,8 @@
                 4655 Hangover
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4655.js">Node.js</a>
         </td>
     </tr>
@@ -3185,7 +3520,8 @@
                 4659 비밀번호 발음하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4659.py">Python</a>
         </td>
     </tr>
@@ -3196,7 +3532,8 @@
                 4673 셀프 넘버
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4673.cpp">C++</a>
         </td>
     </tr>
@@ -3207,7 +3544,8 @@
                 4690 완전 세제곱
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/4/4690.txt">Text</a>
         </td>
     </tr>
@@ -3218,7 +3556,8 @@
                 4706 쌍둥이 역설
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4706.py">Python</a>
         </td>
     </tr>
@@ -3229,7 +3568,8 @@
                 4714 Lunacy
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4714.py">Python</a>
         </td>
     </tr>
@@ -3240,7 +3580,8 @@
                 4740 거울, 오! 거울
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4740.js">Node.js</a>
         </td>
     </tr>
@@ -3251,7 +3592,8 @@
                 4758 Filling Out the Team
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4758.py">Python</a>
         </td>
     </tr>
@@ -3262,7 +3604,8 @@
                 4766 일반 화학 실험
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4766.py">Python</a>
         </td>
     </tr>
@@ -3273,7 +3616,8 @@
                 4806 줄 세기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4806.js">Node.js</a>
         </td>
     </tr>
@@ -3284,7 +3628,8 @@
                 4828 XML
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4828.js">Node.js</a>
         </td>
     </tr>
@@ -3295,7 +3640,8 @@
                 4880 다음수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4880.py">Python</a>
         </td>
     </tr>
@@ -3306,7 +3652,8 @@
                 4892 숫자 맞추기 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4892.py">Python</a>
         </td>
     </tr>
@@ -3317,7 +3664,8 @@
                 4909 Judging Olympia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/4/4909.rs">Rust</a>
         </td>
     </tr>
@@ -3328,7 +3676,8 @@
                 4922 Walk Like an Egyptian
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/4/4922.rs">Rust</a>
         </td>
     </tr>
@@ -3339,7 +3688,8 @@
                 4949 균형잡힌 세상
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/4/4949.cs">C#</a>
         </td>
     </tr>
@@ -3350,7 +3700,8 @@
                 4998 저금
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4998.js">Node.js</a>
         </td>
     </tr>
@@ -3361,7 +3712,8 @@
                 4999 아!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4999.cpp">C++</a>
         </td>
     </tr>
@@ -3372,7 +3724,8 @@
                 5026 박사 과정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5026.cpp">C++</a>
         </td>
     </tr>
@@ -3383,7 +3736,8 @@
                 5032 탄산 음료
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5032.py">Python</a>
         </td>
     </tr>
@@ -3394,7 +3748,8 @@
                 5043 정말 좋은 압축
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5043.js">Node.js</a>
         </td>
     </tr>
@@ -3405,7 +3760,8 @@
                 5052 전화번호 목록
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5052.py">Python</a>
         </td>
     </tr>
@@ -3416,7 +3772,8 @@
                 5054 주차의 신
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5054.py">Python</a>
         </td>
     </tr>
@@ -3427,7 +3784,8 @@
                 5063 TGN
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5063.cpp">C++</a>
         </td>
     </tr>
@@ -3438,7 +3796,8 @@
                 5073 삼각형과 세 변
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5073.py">Python</a>
         </td>
     </tr>
@@ -3449,7 +3808,8 @@
                 5074 When Do We Finish?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5074.py">Python</a>
         </td>
     </tr>
@@ -3460,7 +3820,8 @@
                 5086 배수와 약수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5086.cpp">C++</a>
         </td>
     </tr>
@@ -3471,7 +3832,8 @@
                 5101 Sequences
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/5/5101.rs">Rust</a>
         </td>
     </tr>
@@ -3482,7 +3844,8 @@
                 5176 대회 자리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5176.js">Node.js</a>
         </td>
     </tr>
@@ -3493,7 +3856,8 @@
                 5177 출력 형식이 잘못되었습니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5177.js">Node.js</a>
         </td>
     </tr>
@@ -3504,7 +3868,8 @@
                 5217 쌍의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5217.py">Python</a>
         </td>
     </tr>
@@ -3515,7 +3880,8 @@
                 5218 알파벳 거리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5218.cpp">C++</a>
         </td>
     </tr>
@@ -3526,7 +3892,8 @@
                 5235 Even Sum More Than Odd Sum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/5/5235.cs">C#</a>
         </td>
     </tr>
@@ -3537,8 +3904,12 @@
                 5337 웰컴
             </a>
         </td>
-        <td align="center">
-            <a href="src/5/5337.cpp">C++</a><br><a href="src/5/5337.txt">Text</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/5/5337.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/5/5337.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -3548,8 +3919,12 @@
                 5338 마이크로소프트 로고
             </a>
         </td>
-        <td align="center">
-            <a href="src/5/5338.cpp">C++</a><br><a href="src/5/5338.txt">Text</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/5/5338.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/5/5338.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -3559,7 +3934,8 @@
                 5339 콜센터
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5339.cpp">C++</a>
         </td>
     </tr>
@@ -3570,7 +3946,8 @@
                 5354 J박스
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5354.js">Node.js</a>
         </td>
     </tr>
@@ -3581,7 +3958,8 @@
                 5355 화성 수학
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5355.js">Node.js</a>
         </td>
     </tr>
@@ -3592,7 +3970,8 @@
                 5361 전투 드로이드 가격
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5361.py">Python</a>
         </td>
     </tr>
@@ -3603,7 +3982,8 @@
                 5363 요다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5363.js">Node.js</a>
         </td>
     </tr>
@@ -3614,7 +3994,8 @@
                 5522 카드 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5522.cpp">C++</a>
         </td>
     </tr>
@@ -3625,7 +4006,8 @@
                 5523 경기 결과
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5523.py">Python</a>
         </td>
     </tr>
@@ -3636,7 +4018,8 @@
                 5524 입실 관리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5524.cpp">C++</a>
         </td>
     </tr>
@@ -3647,7 +4030,8 @@
                 5532 방학 숙제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5532.cpp">C++</a>
         </td>
     </tr>
@@ -3658,7 +4042,8 @@
                 5533 유니크
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5533.cpp">C++</a>
         </td>
     </tr>
@@ -3669,7 +4054,8 @@
                 5543 상근날드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5543.cpp">C++</a>
         </td>
     </tr>
@@ -3680,7 +4066,8 @@
                 5554 심부름 가는 길
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5554.cpp">C++</a>
         </td>
     </tr>
@@ -3691,7 +4078,8 @@
                 5555 반지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5555.js">Node.js</a>
         </td>
     </tr>
@@ -3702,7 +4090,8 @@
                 5565 영수증
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5565.cpp">C++</a>
         </td>
     </tr>
@@ -3713,7 +4102,8 @@
                 5575 타임 카드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5575.cpp">C++</a>
         </td>
     </tr>
@@ -3724,7 +4114,8 @@
                 5576 콘테스트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5576.cpp">C++</a>
         </td>
     </tr>
@@ -3735,7 +4126,8 @@
                 5585 거스름돈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5585.cpp">C++</a>
         </td>
     </tr>
@@ -3746,7 +4138,8 @@
                 5586 JOI와 IOI
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5586.cpp">C++</a>
         </td>
     </tr>
@@ -3757,7 +4150,8 @@
                 5596 시험 점수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5596.cpp">C++</a>
         </td>
     </tr>
@@ -3768,7 +4162,8 @@
                 5597 과제 안 내신 분..?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5597.cpp">C++</a>
         </td>
     </tr>
@@ -3779,7 +4174,8 @@
                 5598 카이사르 암호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5598.js">Node.js</a>
         </td>
     </tr>
@@ -3790,7 +4186,8 @@
                 5607 問題 １
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/5/5607.cs">C#</a>
         </td>
     </tr>
@@ -3801,7 +4198,8 @@
                 5612 터널의 입구와 출구
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/5/5612.rs">Rust</a>
         </td>
     </tr>
@@ -3812,7 +4210,8 @@
                 5613 계산기 프로그램
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5613.py">Python</a>
         </td>
     </tr>
@@ -3823,7 +4222,8 @@
                 5617 問題 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5617.cpp">C++</a>
         </td>
     </tr>
@@ -3834,7 +4234,8 @@
                 5618 공약수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5618.py">Python</a>
         </td>
     </tr>
@@ -3845,7 +4246,8 @@
                 5622 다이얼
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/5/5622.rs">Rust</a>
         </td>
     </tr>
@@ -3856,7 +4258,8 @@
                 5635 생일
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5635.cpp">C++</a>
         </td>
     </tr>
@@ -3867,7 +4270,8 @@
                 5656 비교 연산자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5656.cpp">C++</a>
         </td>
     </tr>
@@ -3878,7 +4282,8 @@
                 5666 Hot Dogs
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5666.py">Python</a>
         </td>
     </tr>
@@ -3889,7 +4294,8 @@
                 5691 평균 중앙값 문제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5691.py">Python</a>
         </td>
     </tr>
@@ -3900,7 +4306,8 @@
                 5692 팩토리얼 진법
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5692.js">Node.js</a>
         </td>
     </tr>
@@ -3911,7 +4318,8 @@
                 5704 팬그램
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5704.py">Python</a>
         </td>
     </tr>
@@ -3922,7 +4330,8 @@
                 5715 Jingle Composing
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/5/5715.cs">C#</a>
         </td>
     </tr>
@@ -3933,7 +4342,8 @@
                 5717 상근이의 친구들
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5717.cpp">C++</a>
         </td>
     </tr>
@@ -3944,7 +4354,8 @@
                 5724 파인만
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5724.py">Python</a>
         </td>
     </tr>
@@ -3955,7 +4366,8 @@
                 5751 Head or Tail
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5751.py">Python</a>
         </td>
     </tr>
@@ -3966,7 +4378,8 @@
                 5789 한다 안한다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5789.js">Node.js</a>
         </td>
     </tr>
@@ -3977,7 +4390,8 @@
                 5800 성적 통계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5800.cpp">C++</a>
         </td>
     </tr>
@@ -3988,7 +4402,8 @@
                 5893 17배
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5893.py">Python</a>
         </td>
     </tr>
@@ -3999,7 +4414,8 @@
                 5928 Contest Timing
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5928.cpp">C++</a>
         </td>
     </tr>
@@ -4010,7 +4426,8 @@
                 5949 Adding Commas
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5949.py">Python</a>
         </td>
     </tr>
@@ -4021,7 +4438,8 @@
                 5987 String Function Encoding
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/5/5987.py">Python</a>
         </td>
     </tr>
@@ -4032,7 +4450,8 @@
                 5988 홀수일까 짝수일까
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5988.cpp">C++</a>
         </td>
     </tr>
@@ -4043,7 +4462,8 @@
                 6040 Hexadecimal Conversion
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6040.py">Python</a>
         </td>
     </tr>
@@ -4054,7 +4474,8 @@
                 6060 Wheel Rotation
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6060.js">Node.js</a>
         </td>
     </tr>
@@ -4065,7 +4486,8 @@
                 6131 완전 제곱수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/6/6131.rs">Rust</a>
         </td>
     </tr>
@@ -4076,7 +4498,8 @@
                 6139 Speed Reading
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6139.js">Node.js</a>
         </td>
     </tr>
@@ -4087,7 +4510,8 @@
                 6162 Superlatives
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/6/6162.rs">Rust</a>
         </td>
     </tr>
@@ -4098,7 +4522,8 @@
                 6190 Another Cow Number Game
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6190.py">Python</a>
         </td>
     </tr>
@@ -4109,7 +4534,8 @@
                 6249 TV Reports
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6249.py">Python</a>
         </td>
     </tr>
@@ -4120,7 +4546,8 @@
                 6321 IBM 빼기 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6321.js">Node.js</a>
         </td>
     </tr>
@@ -4131,7 +4558,8 @@
                 6322 직각 삼각형의 두 변
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6322.js">Node.js</a>
         </td>
     </tr>
@@ -4142,7 +4570,8 @@
                 6324 URLs
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6324.js">Node.js</a>
         </td>
     </tr>
@@ -4153,7 +4582,8 @@
                 6358 Four Quarters
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/6/6358.txt">Text</a>
         </td>
     </tr>
@@ -4164,7 +4594,8 @@
                 6359 만취한 상범
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/6/6359.cpp">C++</a>
         </td>
     </tr>
@@ -4175,7 +4606,8 @@
                 6376 e 계산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/6/6376.txt">Text</a>
         </td>
     </tr>
@@ -4186,7 +4618,8 @@
                 6378 디지털 루트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6378.js">Node.js</a>
         </td>
     </tr>
@@ -4197,7 +4630,8 @@
                 6491 Perfection
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6491.js">Node.js</a>
         </td>
     </tr>
@@ -4208,7 +4642,8 @@
                 6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/6/6568.rs">Rust</a>
         </td>
     </tr>
@@ -4219,7 +4654,8 @@
                 6609 모기곱셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6609.js">Node.js</a>
         </td>
     </tr>
@@ -4230,7 +4666,8 @@
                 6679 싱기한 네자리 숫자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6679.py">Python</a>
         </td>
     </tr>
@@ -4241,7 +4678,8 @@
                 6721 Backward numbers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6721.py">Python</a>
         </td>
     </tr>
@@ -4252,7 +4690,8 @@
                 6749 Next in line
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/6/6749.cpp">C++</a>
         </td>
     </tr>
@@ -4263,7 +4702,8 @@
                 6750 Rotating letters
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6750.js">Node.js</a>
         </td>
     </tr>
@@ -4274,7 +4714,8 @@
                 6763 Speed fines are not fine!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6763.js">Node.js</a>
         </td>
     </tr>
@@ -4285,7 +4726,8 @@
                 6764 Sounds fishy!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/6/6764.cpp">C++</a>
         </td>
     </tr>
@@ -4296,7 +4738,8 @@
                 6768 Don’t pass me the ball!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6768.js">Node.js</a>
         </td>
     </tr>
@@ -4307,7 +4750,8 @@
                 6778 Which Alien?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6778.py">Python</a>
         </td>
     </tr>
@@ -4318,7 +4762,8 @@
                 6780 Sumac Sequences
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6780.py">Python</a>
         </td>
     </tr>
@@ -4329,7 +4774,8 @@
                 6783 English or French?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/6/6783.rs">Rust</a>
         </td>
     </tr>
@@ -4340,7 +4786,8 @@
                 6794 What is n, Daddy?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/6/6794.rs">Rust</a>
         </td>
     </tr>
@@ -4351,7 +4798,8 @@
                 6974 Long Division
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6974.py">Python</a>
         </td>
     </tr>
@@ -4362,7 +4810,8 @@
                 6975 Deficient, Perfect, and Abundant
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6975.js">Node.js</a>
         </td>
     </tr>
@@ -4373,7 +4822,8 @@
                 6996 애너그램
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/6/6996.cpp">C++</a>
         </td>
     </tr>
@@ -4384,7 +4834,8 @@
                 7015 Millennium
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7015.js">Node.js</a>
         </td>
     </tr>
@@ -4395,7 +4846,8 @@
                 7287 등록
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/7/7287.cpp">C++</a>
         </td>
     </tr>
@@ -4406,7 +4858,8 @@
                 7482 상자 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7482.js">Node.js</a>
         </td>
     </tr>
@@ -4417,7 +4870,8 @@
                 7510 고급 수학
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/7/7510.py">Python</a>
         </td>
     </tr>
@@ -4428,7 +4882,8 @@
                 7523 Gauß
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7523.js">Node.js</a>
         </td>
     </tr>
@@ -4439,7 +4894,8 @@
                 7567 그릇
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/7/7567.cpp">C++</a>
         </td>
     </tr>
@@ -4450,7 +4906,8 @@
                 7572 간지(干支)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7572.js">Node.js</a>
         </td>
     </tr>
@@ -4461,7 +4918,8 @@
                 7581 Cuboids
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/7/7581.py">Python</a>
         </td>
     </tr>
@@ -4472,7 +4930,8 @@
                 7595 Triangles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/7/7595.py">Python</a>
         </td>
     </tr>
@@ -4483,7 +4942,8 @@
                 7598 Bookings
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/7/7598.py">Python</a>
         </td>
     </tr>
@@ -4494,7 +4954,8 @@
                 7600 문자가 몇갤까
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/7/7600.cpp">C++</a>
         </td>
     </tr>
@@ -4505,7 +4966,8 @@
                 7770 아즈텍 피라미드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7770.js">Node.js</a>
         </td>
     </tr>
@@ -4516,7 +4978,8 @@
                 7891 Can you add this?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/7/7891.js">Node.js</a>
         </td>
     </tr>
@@ -4527,7 +4990,8 @@
                 8246 Stół
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8246.py">Python</a>
         </td>
     </tr>
@@ -4538,7 +5002,8 @@
                 8295 Rectangles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8295.rs">Rust</a>
         </td>
     </tr>
@@ -4549,7 +5014,8 @@
                 8320 직사각형을 만드는 방법
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8320.js">Node.js</a>
         </td>
     </tr>
@@ -4560,7 +5026,8 @@
                 8370 Plane
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/8/8370.cpp">C++</a>
         </td>
     </tr>
@@ -4571,7 +5038,8 @@
                 8371 Dyslexia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8371.py">Python</a>
         </td>
     </tr>
@@ -4582,7 +5050,8 @@
                 8387 Dyslexia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8387.py">Python</a>
         </td>
     </tr>
@@ -4593,7 +5062,8 @@
                 8393 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/8/8393.cpp">C++</a>
         </td>
     </tr>
@@ -4604,7 +5074,8 @@
                 8437 Julka
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8437.py">Python</a>
         </td>
     </tr>
@@ -4615,7 +5086,8 @@
                 8545 Zadanie próbne
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8545.js">Node.js</a>
         </td>
     </tr>
@@ -4626,7 +5098,8 @@
                 8558 Silnia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8558.rs">Rust</a>
         </td>
     </tr>
@@ -4637,7 +5110,8 @@
                 8710 Koszykarz
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8710.py">Python</a>
         </td>
     </tr>
@@ -4648,7 +5122,8 @@
                 8712 Wężyk
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8712.py">Python</a>
         </td>
     </tr>
@@ -4659,7 +5134,8 @@
                 8713 Znak działania
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8713.js">Node.js</a>
         </td>
     </tr>
@@ -4670,7 +5146,8 @@
                 8714 Monety
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8714.js">Node.js</a>
         </td>
     </tr>
@@ -4681,7 +5158,8 @@
                 8716 Pole
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8716.py">Python</a>
         </td>
     </tr>
@@ -4692,7 +5170,8 @@
                 8718 Bałwanek
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8718.py">Python</a>
         </td>
     </tr>
@@ -4703,7 +5182,8 @@
                 8719 Piłeczka
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8719.rs">Rust</a>
         </td>
     </tr>
@@ -4714,7 +5194,8 @@
                 8721 Wykreślanka
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8721.js">Node.js</a>
         </td>
     </tr>
@@ -4725,7 +5206,8 @@
                 8723 Patyki
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/8/8723.py">Python</a>
         </td>
     </tr>
@@ -4736,7 +5218,8 @@
                 8741 이진수 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8741.js">Node.js</a>
         </td>
     </tr>
@@ -4747,7 +5230,8 @@
                 8760 Schronisko
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/8/8760.cs">C#</a>
         </td>
     </tr>
@@ -4758,7 +5242,8 @@
                 8804 Palindromy
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8804.js">Node.js</a>
         </td>
     </tr>
@@ -4769,7 +5254,8 @@
                 8806 Papier kamień nożyczki
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/8/8806.js">Node.js</a>
         </td>
     </tr>
@@ -4780,7 +5266,8 @@
                 8815 Test
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8815.rs">Rust</a>
         </td>
     </tr>
@@ -4791,7 +5278,8 @@
                 8932 7종 경기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8932.rs">Rust</a>
         </td>
     </tr>
@@ -4802,7 +5290,8 @@
                 8949 대충 더해
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/8/8949.cpp">C++</a>
         </td>
     </tr>
@@ -4813,7 +5302,8 @@
                 8958 OX퀴즈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/8/8958.cpp">C++</a>
         </td>
     </tr>
@@ -4824,7 +5314,8 @@
                 9012 괄호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9012.cpp">C++</a>
         </td>
     </tr>
@@ -4835,7 +5326,8 @@
                 9046 복호화
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/9/9046.sh">Bash</a>
         </td>
     </tr>
@@ -4846,7 +5338,8 @@
                 9076 점수 집계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9076.py">Python</a>
         </td>
     </tr>
@@ -4857,7 +5350,8 @@
                 9085 더하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9085.cpp">C++</a>
         </td>
     </tr>
@@ -4868,8 +5362,12 @@
                 9086 문자열
             </a>
         </td>
-        <td align="center">
-            <a href="src/9/9086.cpp">C++</a><br><a href="src/9/9086.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/9/9086.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/9/9086.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -4879,7 +5377,8 @@
                 9093 단어 뒤집기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9093.cpp">C++</a>
         </td>
     </tr>
@@ -4890,7 +5389,8 @@
                 9094 수학적 호기심
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9094.rs">Rust</a>
         </td>
     </tr>
@@ -4901,7 +5401,8 @@
                 9095 1, 2, 3 더하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9095.cpp">C++</a>
         </td>
     </tr>
@@ -4912,7 +5413,8 @@
                 9161 Sir Bedavere’s Bogus Division Solutions
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9161.js">Node.js</a>
         </td>
     </tr>
@@ -4923,7 +5425,8 @@
                 9226 도깨비말
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9226.js">Node.js</a>
         </td>
     </tr>
@@ -4934,7 +5437,8 @@
                 9229 단어 사다리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9229.js">Node.js</a>
         </td>
     </tr>
@@ -4945,7 +5449,8 @@
                 9243 파일 완전 삭제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9243.js">Node.js</a>
         </td>
     </tr>
@@ -4956,7 +5461,8 @@
                 9286 Gradabase
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9286.py">Python</a>
         </td>
     </tr>
@@ -4967,7 +5473,8 @@
                 9288 More Dice
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9288.rs">Rust</a>
         </td>
     </tr>
@@ -4978,7 +5485,8 @@
                 9295 주사위
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9295.py">Python</a>
         </td>
     </tr>
@@ -4989,7 +5497,8 @@
                 9296 Grading Exams
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9296.py">Python</a>
         </td>
     </tr>
@@ -5000,7 +5509,8 @@
                 9297 Reducing Improper Fractions
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9297.rs">Rust</a>
         </td>
     </tr>
@@ -5011,7 +5521,8 @@
                 9298 Ant Entrapment
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9298.js">Node.js</a>
         </td>
     </tr>
@@ -5022,7 +5533,8 @@
                 9299 Math Tutoring
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9299.py">Python</a>
         </td>
     </tr>
@@ -5033,7 +5545,8 @@
                 9310 Arithmetic and Geometric Sums
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9310.rs">Rust</a>
         </td>
     </tr>
@@ -5044,7 +5557,8 @@
                 9316 Hello Judge
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9316.cpp">C++</a>
         </td>
     </tr>
@@ -5055,7 +5569,8 @@
                 9317 Monitor DPI
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9317.py">Python</a>
         </td>
     </tr>
@@ -5066,7 +5581,8 @@
                 9325 얼마?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9325.cpp">C++</a>
         </td>
     </tr>
@@ -5077,7 +5593,8 @@
                 9342 염색체
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9342.js">Node.js</a>
         </td>
     </tr>
@@ -5088,7 +5605,8 @@
                 9366 삼각형 분류
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9366.py">Python</a>
         </td>
     </tr>
@@ -5099,7 +5617,8 @@
                 9437 사라진 페이지 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9437.py">Python</a>
         </td>
     </tr>
@@ -5110,7 +5629,8 @@
                 9449 Garage
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9449.js">Node.js</a>
         </td>
     </tr>
@@ -5121,7 +5641,8 @@
                 9461 파도반 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9461.rs">Rust</a>
         </td>
     </tr>
@@ -5132,7 +5653,8 @@
                 9469 폰 노이만
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9469.py">Python</a>
         </td>
     </tr>
@@ -5143,7 +5665,8 @@
                 9493 길면 기차, 기차는 빨라, 빠른 것은 비행기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9493.js">Node.js</a>
         </td>
     </tr>
@@ -5154,7 +5677,8 @@
                 9498 시험 성적
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9498.cpp">C++</a>
         </td>
     </tr>
@@ -5165,7 +5689,8 @@
                 9501 꿍의 우주여행
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9501.py">Python</a>
         </td>
     </tr>
@@ -5176,7 +5701,8 @@
                 9506 약수들의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9506.py">Python</a>
         </td>
     </tr>
@@ -5187,7 +5713,8 @@
                 9507 Generations of Tribbles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9507.cpp">C++</a>
         </td>
     </tr>
@@ -5198,7 +5725,8 @@
                 9517 아이 러브 크로아티아
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9517.js">Node.js</a>
         </td>
     </tr>
@@ -5209,7 +5737,8 @@
                 9523 Arithmetic with Morse
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9523.py">Python</a>
         </td>
     </tr>
@@ -5220,7 +5749,8 @@
                 9524 Beautiful Yekaterinburg
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9524.py">Python</a>
         </td>
     </tr>
@@ -5231,7 +5761,8 @@
                 9546 3000번 버스
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9546.js">Node.js</a>
         </td>
     </tr>
@@ -5242,7 +5773,8 @@
                 9550 아이들은 사탕을 좋아해
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9550.rs">Rust</a>
         </td>
     </tr>
@@ -5253,7 +5785,8 @@
                 9610 사분면
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9610.cpp">C++</a>
         </td>
     </tr>
@@ -5264,7 +5797,8 @@
                 9613 GCD 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9613.py">Python</a>
         </td>
     </tr>
@@ -5275,7 +5809,8 @@
                 9622 Cabin Baggage
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9622.js">Node.js</a>
         </td>
     </tr>
@@ -5286,7 +5821,8 @@
                 9625 BABBA
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9625.rs">Rust</a>
         </td>
     </tr>
@@ -5297,7 +5833,8 @@
                 9653 스타워즈 로고
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9653.cpp">C++</a>
         </td>
     </tr>
@@ -5308,7 +5845,8 @@
                 9654 나부 함대 데이터
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9654.cpp">C++</a>
         </td>
     </tr>
@@ -5319,7 +5857,8 @@
                 9655 돌 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9655.js">Node.js</a>
         </td>
     </tr>
@@ -5330,7 +5869,8 @@
                 9656 돌 게임 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9656.js">Node.js</a>
         </td>
     </tr>
@@ -5341,7 +5881,8 @@
                 9657 돌 게임 3
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9657.js">Node.js</a>
         </td>
     </tr>
@@ -5352,7 +5893,8 @@
                 9658 돌 게임 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9658.js">Node.js</a>
         </td>
     </tr>
@@ -5363,7 +5905,8 @@
                 9659 돌 게임 5
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9659.js">Node.js</a>
         </td>
     </tr>
@@ -5374,7 +5917,8 @@
                 9660 돌 게임 6
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9660.js">Node.js</a>
         </td>
     </tr>
@@ -5385,7 +5929,8 @@
                 9661 돌 게임 7
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9661.js">Node.js</a>
         </td>
     </tr>
@@ -5396,7 +5941,8 @@
                 9664 NASLJEDSTVO
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/9/9664.rs">Rust</a>
         </td>
     </tr>
@@ -5407,7 +5953,8 @@
                 9699 RICE SACK
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9699.py">Python</a>
         </td>
     </tr>
@@ -5418,7 +5965,8 @@
                 9713 Sum of Odd Sequence
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9713.py">Python</a>
         </td>
     </tr>
@@ -5429,7 +5977,8 @@
                 9724 Perfect Cube
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9724.js">Node.js</a>
         </td>
     </tr>
@@ -5440,7 +5989,8 @@
                 9848 Gift
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/9/9848.cs">C#</a>
         </td>
     </tr>
@@ -5451,7 +6001,8 @@
                 9933 민균이의 비밀번호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9933.py">Python</a>
         </td>
     </tr>
@@ -5462,7 +6013,8 @@
                 9950 Rectangles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9950.py">Python</a>
         </td>
     </tr>
@@ -5473,7 +6025,8 @@
                 9987 포켓몬 마스터
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9987.py">Python</a>
         </td>
     </tr>
@@ -5484,7 +6037,8 @@
                 9996 한국이 그리울 땐 서버에 접속하지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/9/9996.cs">C#</a>
         </td>
     </tr>
@@ -5495,7 +6049,8 @@
                 9999 구구
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9999.py">Python</a>
         </td>
     </tr>
@@ -5506,7 +6061,8 @@
                 10039 평균 점수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10039.cpp">C++</a>
         </td>
     </tr>
@@ -5517,7 +6073,8 @@
                 10093 숫자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10093.py">Python</a>
         </td>
     </tr>
@@ -5528,7 +6085,8 @@
                 10101 삼각형 외우기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10101.cpp">C++</a>
         </td>
     </tr>
@@ -5539,7 +6097,8 @@
                 10102 개표
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10102.py">Python</a>
         </td>
     </tr>
@@ -5550,7 +6109,8 @@
                 10103 주사위 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10103.cpp">C++</a>
         </td>
     </tr>
@@ -5561,7 +6121,8 @@
                 10156 과자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10156.cpp">C++</a>
         </td>
     </tr>
@@ -5572,7 +6133,8 @@
                 10162 전자레인지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10162.cpp">C++</a>
         </td>
     </tr>
@@ -5583,7 +6145,8 @@
                 10170 NFC West vs North
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10170.cpp">C++</a>
         </td>
     </tr>
@@ -5594,8 +6157,12 @@
                 10171 고양이
             </a>
         </td>
-        <td align="center">
-            <a href="src/10/10171.cpp">C++</a><br><a href="src/10/10171.txt">Text</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10171.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/10/10171.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -5605,7 +6172,8 @@
                 10172 개
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10172.cpp">C++</a>
         </td>
     </tr>
@@ -5616,7 +6184,8 @@
                 10173 니모를 찾아서
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10173.js">Node.js</a>
         </td>
     </tr>
@@ -5627,7 +6196,8 @@
                 10174 팰린드롬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10174.py">Python</a>
         </td>
     </tr>
@@ -5638,7 +6208,8 @@
                 10178 할로윈의 사탕
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10178.cpp">C++</a>
         </td>
     </tr>
@@ -5649,7 +6220,8 @@
                 10179 쿠폰
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10179.cpp">C++</a>
         </td>
     </tr>
@@ -5660,7 +6232,8 @@
                 10180 Ship Selection
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10180.py">Python</a>
         </td>
     </tr>
@@ -5671,7 +6244,8 @@
                 10181 Federation Favorites
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10181.py">Python</a>
         </td>
     </tr>
@@ -5682,7 +6256,8 @@
                 10212 Mystery
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10212.js">Node.js</a>
         </td>
     </tr>
@@ -5693,7 +6268,8 @@
                 10214 Baseball
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10214.cpp">C++</a>
         </td>
     </tr>
@@ -5704,7 +6280,8 @@
                 10250 ACM 호텔
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/10/10250.rs">Rust</a>
         </td>
     </tr>
@@ -5715,7 +6292,8 @@
                 10262 주사위 게임
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/10/10262.rs">Rust</a>
         </td>
     </tr>
@@ -5726,7 +6304,8 @@
                 10270 Algebraic Teamwork
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10270.js">Node.js</a>
         </td>
     </tr>
@@ -5737,7 +6316,8 @@
                 10372 Alarm Clock
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10372.js">Node.js</a>
         </td>
     </tr>
@@ -5748,7 +6328,8 @@
                 10395 Automated Checking Machine
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10395.py">Python</a>
         </td>
     </tr>
@@ -5759,7 +6340,8 @@
                 10406 The fellowship of the ring
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10406.py">Python</a>
         </td>
     </tr>
@@ -5770,7 +6352,8 @@
                 10409 서버
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10409.js">Node.js</a>
         </td>
     </tr>
@@ -5781,7 +6364,8 @@
                 10419 지각
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10419.py">Python</a>
         </td>
     </tr>
@@ -5792,7 +6376,8 @@
                 10420 기념일 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10420.js">Node.js</a>
         </td>
     </tr>
@@ -5803,7 +6388,8 @@
                 10430 나머지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10430.cpp">C++</a>
         </td>
     </tr>
@@ -5814,7 +6400,8 @@
                 10448 유레카 이론
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10448.js">Node.js</a>
         </td>
     </tr>
@@ -5825,7 +6412,8 @@
                 10451 순열 사이클
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/10/10451.kt">Kotlin</a>
         </td>
     </tr>
@@ -5836,7 +6424,8 @@
                 10474 분수좋아해?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10474.py">Python</a>
         </td>
     </tr>
@@ -5847,7 +6436,8 @@
                 10480 Oddities
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10480.py">Python</a>
         </td>
     </tr>
@@ -5858,7 +6448,8 @@
                 10491 Quite a problem
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/10/10491.sh">Bash</a>
         </td>
     </tr>
@@ -5869,7 +6460,8 @@
                 10539 수빈이와 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10539.cpp">C++</a>
         </td>
     </tr>
@@ -5880,7 +6472,8 @@
                 10551 STROJOPIS
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10551.cpp">C++</a>
         </td>
     </tr>
@@ -5891,7 +6484,8 @@
                 10569 다면체
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10569.cpp">C++</a>
         </td>
     </tr>
@@ -5902,7 +6496,8 @@
                 10599 페르시아의 왕들
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10599.py">Python</a>
         </td>
     </tr>
@@ -5913,7 +6508,8 @@
                 10610 30
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10610.cpp">C++</a>
         </td>
     </tr>
@@ -5924,7 +6520,8 @@
                 10695 Dalia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10695.js">Node.js</a>
         </td>
     </tr>
@@ -5935,7 +6532,8 @@
                 10698 Ahmed Aly
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10698.py">Python</a>
         </td>
     </tr>
@@ -5946,7 +6544,8 @@
                 10699 오늘 날짜
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10699.py">Python</a>
         </td>
     </tr>
@@ -5957,7 +6556,8 @@
                 10707 수도요금
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10707.cpp">C++</a>
         </td>
     </tr>
@@ -5968,7 +6568,8 @@
                 10708 크리스마스 파티
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10708.js">Node.js</a>
         </td>
     </tr>
@@ -5979,7 +6580,8 @@
                 10718 We love kriii
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10718.cpp">C++</a>
         </td>
     </tr>
@@ -5990,8 +6592,12 @@
                 10757 큰 수 A+B
             </a>
         </td>
-        <td align="center">
-            <a href="src/10/10757.java">Java</a><br><a href="src/10/10757.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/10/10757.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/10/10757.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -6001,7 +6607,8 @@
                 10768 특별한 날
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10768.cpp">C++</a>
         </td>
     </tr>
@@ -6012,7 +6619,8 @@
                 10773 제로
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10773.cpp">C++</a>
         </td>
     </tr>
@@ -6023,7 +6631,8 @@
                 10797 10부제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10797.cpp">C++</a>
         </td>
     </tr>
@@ -6034,7 +6643,8 @@
                 10798 세로읽기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10798.cpp">C++</a>
         </td>
     </tr>
@@ -6045,8 +6655,12 @@
                 10801 카드게임
             </a>
         </td>
-        <td align="center">
-            <a href="src/10/10801.kt">Kotlin</a><br><a href="src/10/10801.rs">Rust</a>
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10801.kt">Kotlin</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
+            <a href="src/10/10801.rs">Rust</a>
         </td>
     </tr>
     <tr>
@@ -6056,7 +6670,8 @@
                 10804 카드 역배치
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10804.js">Node.js</a>
         </td>
     </tr>
@@ -6067,7 +6682,8 @@
                 10807 개수 세기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10807.cpp">C++</a>
         </td>
     </tr>
@@ -6078,7 +6694,8 @@
                 10808 알파벳 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10808.cpp">C++</a>
         </td>
     </tr>
@@ -6089,7 +6706,8 @@
                 10809 알파벳 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10809.cpp">C++</a>
         </td>
     </tr>
@@ -6100,7 +6718,8 @@
                 10810 공 넣기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10810.py">Python</a>
         </td>
     </tr>
@@ -6111,7 +6730,8 @@
                 10811 바구니 뒤집기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10811.js">Node.js</a>
         </td>
     </tr>
@@ -6122,7 +6742,8 @@
                 10813 공 바꾸기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10813.py">Python</a>
         </td>
     </tr>
@@ -6133,7 +6754,8 @@
                 10814 나이순 정렬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10814.cpp">C++</a>
         </td>
     </tr>
@@ -6144,7 +6766,8 @@
                 10815 숫자 카드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10815.cpp">C++</a>
         </td>
     </tr>
@@ -6155,7 +6778,8 @@
                 10816 숫자 카드 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/10/10816.cs">C#</a>
         </td>
     </tr>
@@ -6166,7 +6790,8 @@
                 10817 세 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10817.cpp">C++</a>
         </td>
     </tr>
@@ -6177,7 +6802,8 @@
                 10818 최소, 최대
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10818.cpp">C++</a>
         </td>
     </tr>
@@ -6188,7 +6814,8 @@
                 10820 문자열 분석
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10820.py">Python</a>
         </td>
     </tr>
@@ -6199,7 +6826,8 @@
                 10821 정수의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10821.py">Python</a>
         </td>
     </tr>
@@ -6210,7 +6838,8 @@
                 10822 더하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10822.cpp">C++</a>
         </td>
     </tr>
@@ -6221,7 +6850,8 @@
                 10823 더하기 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10823.cpp">C++</a>
         </td>
     </tr>
@@ -6232,7 +6862,8 @@
                 10824 네 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10824.cpp">C++</a>
         </td>
     </tr>
@@ -6243,7 +6874,8 @@
                 10825 국영수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10825.cpp">C++</a>
         </td>
     </tr>
@@ -6254,7 +6886,8 @@
                 10826 피보나치 수 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10826.py">Python</a>
         </td>
     </tr>
@@ -6265,7 +6898,8 @@
                 10828 스택
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10828.cpp">C++</a>
         </td>
     </tr>
@@ -6276,7 +6910,8 @@
                 10829 이진수 변환
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10829.js">Node.js</a>
         </td>
     </tr>
@@ -6287,7 +6922,8 @@
                 10833 사과
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10833.cpp">C++</a>
         </td>
     </tr>
@@ -6298,7 +6934,8 @@
                 10834 벨트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10834.js">Node.js</a>
         </td>
     </tr>
@@ -6309,7 +6946,8 @@
                 10845 큐
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10845.js">Node.js</a>
         </td>
     </tr>
@@ -6320,7 +6958,8 @@
                 10864 친구
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10864.js">Node.js</a>
         </td>
     </tr>
@@ -6331,7 +6970,8 @@
                 10865 친구 친구
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10865.js">Node.js</a>
         </td>
     </tr>
@@ -6342,7 +6982,8 @@
                 10866 덱
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10866.js">Node.js</a>
         </td>
     </tr>
@@ -6353,7 +6994,8 @@
                 10867 중복 빼고 정렬하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10867.cpp">C++</a>
         </td>
     </tr>
@@ -6364,7 +7006,8 @@
                 10869 사칙연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10869.cpp">C++</a>
         </td>
     </tr>
@@ -6375,7 +7018,8 @@
                 10870 피보나치 수 5
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10870.cpp">C++</a>
         </td>
     </tr>
@@ -6386,7 +7030,8 @@
                 10871 X보다 작은 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10871.cpp">C++</a>
         </td>
     </tr>
@@ -6397,8 +7042,12 @@
                 10872 팩토리얼
             </a>
         </td>
-        <td align="center">
-            <a href="src/10/10872.cpp">C++</a><br><a href="src/10/10872.kt">Kotlin</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/10/10872.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/10/10872.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
@@ -6408,7 +7057,8 @@
                 10874 이교수님의 시험
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10874.js">Node.js</a>
         </td>
     </tr>
@@ -6419,7 +7069,8 @@
                 10886 0 = not cute / 1 = cute
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10886.cpp">C++</a>
         </td>
     </tr>
@@ -6430,7 +7081,8 @@
                 10889 Ancient symbol
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/10/10889.cs">C#</a>
         </td>
     </tr>
@@ -6441,7 +7093,8 @@
                 10926 ??!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10926.cpp">C++</a>
         </td>
     </tr>
@@ -6452,7 +7105,8 @@
                 10927 MD5
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10927.py">Python</a>
         </td>
     </tr>
@@ -6463,7 +7117,8 @@
                 10928 SHA-1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10928.py">Python</a>
         </td>
     </tr>
@@ -6474,7 +7129,8 @@
                 10929 SHA-224
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10929.py">Python</a>
         </td>
     </tr>
@@ -6485,7 +7141,8 @@
                 10930 SHA-256
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10930.py">Python</a>
         </td>
     </tr>
@@ -6496,7 +7153,8 @@
                 10931 SHA-384
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10931.py">Python</a>
         </td>
     </tr>
@@ -6507,7 +7165,8 @@
                 10932 SHA-512
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10932.py">Python</a>
         </td>
     </tr>
@@ -6518,8 +7177,12 @@
                 10933 RIPEMD-160
             </a>
         </td>
-        <td align="center">
-            <a href="src/10/10933.js">Node.js</a><br><a href="src/10/10933.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/10/10933.js">Node.js</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/10/10933.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -6529,7 +7192,8 @@
                 10934 SHA
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10934.py">Python</a>
         </td>
     </tr>
@@ -6540,7 +7204,8 @@
                 10935 BASE64 인코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10935.py">Python</a>
         </td>
     </tr>
@@ -6551,7 +7216,8 @@
                 10936 BASE64 디코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10936.py">Python</a>
         </td>
     </tr>
@@ -6562,7 +7228,8 @@
                 10938 BASE32 인코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10938.py">Python</a>
         </td>
     </tr>
@@ -6573,7 +7240,8 @@
                 10939 BASE32 디코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10939.py">Python</a>
         </td>
     </tr>
@@ -6584,7 +7252,8 @@
                 10940 BASE16 인코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10940.py">Python</a>
         </td>
     </tr>
@@ -6595,7 +7264,8 @@
                 10941 BASE16 디코딩
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10941.py">Python</a>
         </td>
     </tr>
@@ -6606,7 +7276,8 @@
                 10943 랜덤 게임~
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/10/10943.txt">Text</a>
         </td>
     </tr>
@@ -6617,7 +7288,8 @@
                 10946 랜덤 게임~~~~
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/10/10946.txt">Text</a>
         </td>
     </tr>
@@ -6628,7 +7300,8 @@
                 10949 숫자야구
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/10/10949.txt">Text</a>
         </td>
     </tr>
@@ -6639,7 +7312,8 @@
                 10950 A+B - 3
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10950.cpp">C++</a>
         </td>
     </tr>
@@ -6650,7 +7324,8 @@
                 10951 A+B - 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10951.cpp">C++</a>
         </td>
     </tr>
@@ -6661,7 +7336,8 @@
                 10952 A+B - 5
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10952.cpp">C++</a>
         </td>
     </tr>
@@ -6672,7 +7348,8 @@
                 10953 A+B - 6
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10953.cpp">C++</a>
         </td>
     </tr>
@@ -6683,7 +7360,8 @@
                 10984 내 학점을 구해줘
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10984.cpp">C++</a>
         </td>
     </tr>
@@ -6694,7 +7372,8 @@
                 10987 모음의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10987.cpp">C++</a>
         </td>
     </tr>
@@ -6705,7 +7384,8 @@
                 10988 팰린드롬인지 확인하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10988.cpp">C++</a>
         </td>
     </tr>
@@ -6716,7 +7396,8 @@
                 10989 수 정렬하기 3
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10989.cpp">C++</a>
         </td>
     </tr>
@@ -6727,7 +7408,8 @@
                 10990 별 찍기 - 15
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/10/10990.rs">Rust</a>
         </td>
     </tr>
@@ -6738,7 +7420,8 @@
                 10991 별 찍기 - 16
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10991.cpp">C++</a>
         </td>
     </tr>
@@ -6749,7 +7432,8 @@
                 10992 별 찍기 - 17
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/10/10992.js">Node.js</a>
         </td>
     </tr>
@@ -6760,7 +7444,8 @@
                 10995 별 찍기 - 20
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10995.cpp">C++</a>
         </td>
     </tr>
@@ -6771,7 +7456,8 @@
                 10996 별 찍기 - 21
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10996.cpp">C++</a>
         </td>
     </tr>
@@ -6782,7 +7468,8 @@
                 10998 A×B
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10998.cpp">C++</a>
         </td>
     </tr>
@@ -6793,7 +7480,8 @@
                 11004 K번째 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11004.cpp">C++</a>
         </td>
     </tr>
@@ -6804,7 +7492,8 @@
                 11005 진법 변환 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11005.cpp">C++</a>
         </td>
     </tr>
@@ -6815,7 +7504,8 @@
                 11006 남욱이의 닭장
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11006.cpp">C++</a>
         </td>
     </tr>
@@ -6826,7 +7516,8 @@
                 11021 A+B - 7
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11021.cpp">C++</a>
         </td>
     </tr>
@@ -6837,7 +7528,8 @@
                 11022 A+B - 8
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11022.cpp">C++</a>
         </td>
     </tr>
@@ -6848,7 +7540,8 @@
                 11023 더하기 3
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11023.cpp">C++</a>
         </td>
     </tr>
@@ -6859,7 +7552,8 @@
                 11024 더하기 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11024.cpp">C++</a>
         </td>
     </tr>
@@ -6870,7 +7564,8 @@
                 11034 캥거루 세마리2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11034.js">Node.js</a>
         </td>
     </tr>
@@ -6881,7 +7576,8 @@
                 11050 이항 계수 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11050.cpp">C++</a>
         </td>
     </tr>
@@ -6892,7 +7588,8 @@
                 11052 카드 구매하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/11/11052.cs">C#</a>
         </td>
     </tr>
@@ -6903,7 +7600,8 @@
                 11053 가장 긴 증가하는 부분 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11053.rs">Rust</a>
         </td>
     </tr>
@@ -6914,7 +7612,8 @@
                 11091 알파벳 전부 쓰기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/11/11091.cs">C#</a>
         </td>
     </tr>
@@ -6925,7 +7624,8 @@
                 11098 첼시를 도와줘!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11098.cpp">C++</a>
         </td>
     </tr>
@@ -6936,7 +7636,8 @@
                 11104 Fridge of Your Dreams
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11104.py">Python</a>
         </td>
     </tr>
@@ -6947,7 +7648,8 @@
                 11109 괴짜 교수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11109.py">Python</a>
         </td>
     </tr>
@@ -6958,7 +7660,8 @@
                 11131 Balancing Weights
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11131.py">Python</a>
         </td>
     </tr>
@@ -6969,7 +7672,8 @@
                 11134 쿠키애호가
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11134.py">Python</a>
         </td>
     </tr>
@@ -6980,7 +7684,8 @@
                 11170 0의 개수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11170.py">Python</a>
         </td>
     </tr>
@@ -6991,7 +7696,8 @@
                 11179 2진수 뒤집기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11179.py">Python</a>
         </td>
     </tr>
@@ -7002,7 +7708,8 @@
                 11269 Cryptographer’s Conundrum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11269.py">Python</a>
         </td>
     </tr>
@@ -7013,7 +7720,8 @@
                 11282 한글
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11282.py">Python</a>
         </td>
     </tr>
@@ -7024,8 +7732,12 @@
                 11283 한글 2
             </a>
         </td>
-        <td align="center">
-            <a href="src/11/11283.java">Java</a><br><a href="src/11/11283.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/11/11283.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/11/11283.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -7035,7 +7747,8 @@
                 11312 삼각 무늬 - 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11312.js">Node.js</a>
         </td>
     </tr>
@@ -7046,7 +7759,8 @@
                 11319 Count Me In
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11319.py">Python</a>
         </td>
     </tr>
@@ -7057,7 +7771,8 @@
                 11320 삼각 무늬 - 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11320.rs">Rust</a>
         </td>
     </tr>
@@ -7068,7 +7783,8 @@
                 11328 Strfry
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11328.py">Python</a>
         </td>
     </tr>
@@ -7079,7 +7795,8 @@
                 11365 !밀비 급일
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11365.cpp">C++</a>
         </td>
     </tr>
@@ -7090,7 +7807,8 @@
                 11367 Report Card Time
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11367.py">Python</a>
         </td>
     </tr>
@@ -7101,8 +7819,12 @@
                 11382 꼬마 정민
             </a>
         </td>
-        <td align="center">
-            <a href="src/11/11382.cpp">C++</a><br><a href="src/11/11382.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/11/11382.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/11/11382.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -7112,7 +7834,8 @@
                 11383 뚊
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11383.js">Node.js</a>
         </td>
     </tr>
@@ -7123,7 +7846,8 @@
                 11399 ATM
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11399.cpp">C++</a>
         </td>
     </tr>
@@ -7134,7 +7858,8 @@
                 11466 Alex Origami Squares
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11466.rs">Rust</a>
         </td>
     </tr>
@@ -7145,7 +7870,8 @@
                 11506 占쏙옙
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11506.py">Python</a>
         </td>
     </tr>
@@ -7156,7 +7882,8 @@
                 11522 Sum Kind of Problem
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11522.py">Python</a>
         </td>
     </tr>
@@ -7167,7 +7894,8 @@
                 11549 Identifying tea
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11549.cpp">C++</a>
         </td>
     </tr>
@@ -7178,7 +7906,8 @@
                 11557 Yangjojang of The Year
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11557.cpp">C++</a>
         </td>
     </tr>
@@ -7189,7 +7918,8 @@
                 11575 Affine Cipher
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11575.cpp">C++</a>
         </td>
     </tr>
@@ -7200,7 +7930,8 @@
                 11586 지영 공주님의 마법 거울
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11586.cpp">C++</a>
         </td>
     </tr>
@@ -7211,7 +7942,8 @@
                 11605 Magic Trick
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11605.js">Node.js</a>
         </td>
     </tr>
@@ -7222,7 +7954,8 @@
                 11606 Egg Drop
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11606.js">Node.js</a>
         </td>
     </tr>
@@ -7233,7 +7966,8 @@
                 11636 Stand on Zanzibar
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11636.js">Node.js</a>
         </td>
     </tr>
@@ -7244,7 +7978,8 @@
                 11648 지속
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11648.js">Node.js</a>
         </td>
     </tr>
@@ -7255,7 +7990,8 @@
                 11650 좌표 정렬하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11650.cpp">C++</a>
         </td>
     </tr>
@@ -7266,7 +8002,8 @@
                 11651 좌표 정렬하기 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11651.cpp">C++</a>
         </td>
     </tr>
@@ -7277,7 +8014,8 @@
                 11652 카드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11652.rs">Rust</a>
         </td>
     </tr>
@@ -7288,7 +8026,8 @@
                 11653 소인수분해
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/11/11653.cs">C#</a>
         </td>
     </tr>
@@ -7299,8 +8038,12 @@
                 11654 아스키 코드
             </a>
         </td>
-        <td align="center">
-            <a href="src/11/11654.cpp">C++</a><br><a href="src/11/11654.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/11/11654.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/11/11654.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -7310,7 +8053,8 @@
                 11655 ROT13
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11655.cpp">C++</a>
         </td>
     </tr>
@@ -7321,7 +8065,8 @@
                 11656 접미사 배열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11656.cpp">C++</a>
         </td>
     </tr>
@@ -7332,7 +8077,8 @@
                 11718 그대로 출력하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11718.cpp">C++</a>
         </td>
     </tr>
@@ -7343,7 +8089,8 @@
                 11719 그대로 출력하기 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11719.cpp">C++</a>
         </td>
     </tr>
@@ -7354,7 +8101,8 @@
                 11720 숫자의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11720.cpp">C++</a>
         </td>
     </tr>
@@ -7365,7 +8113,8 @@
                 11721 열 개씩 끊어 출력하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11721.cpp">C++</a>
         </td>
     </tr>
@@ -7376,7 +8125,8 @@
                 11722 가장 긴 감소하는 부분 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11722.rs">Rust</a>
         </td>
     </tr>
@@ -7387,7 +8137,8 @@
                 11726 2×n 타일링
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11726.cpp">C++</a>
         </td>
     </tr>
@@ -7398,7 +8149,8 @@
                 11727 2×n 타일링 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11727.rs">Rust</a>
         </td>
     </tr>
@@ -7409,7 +8161,8 @@
                 11728 배열 합치기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11728.js">Node.js</a>
         </td>
     </tr>
@@ -7420,7 +8173,8 @@
                 11758 CCW
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11758.cpp">C++</a>
         </td>
     </tr>
@@ -7431,7 +8185,8 @@
                 11772 POT
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11772.py">Python</a>
         </td>
     </tr>
@@ -7442,7 +8197,8 @@
                 11795 Donation Packaging
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11795.py">Python</a>
         </td>
     </tr>
@@ -7453,7 +8209,8 @@
                 11800 Tawla
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11800.py">Python</a>
         </td>
     </tr>
@@ -7464,7 +8221,8 @@
                 11816 8진수, 10진수, 16진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11816.cpp">C++</a>
         </td>
     </tr>
@@ -7475,7 +8233,8 @@
                 11866 요세푸스 문제 0
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11866.js">Node.js</a>
         </td>
     </tr>
@@ -7486,7 +8245,8 @@
                 11874 ZAMKA
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11874.rs">Rust</a>
         </td>
     </tr>
@@ -7497,7 +8257,8 @@
                 11908 카드
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11908.rs">Rust</a>
         </td>
     </tr>
@@ -7508,7 +8269,8 @@
                 11921 0.1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11921.cpp">C++</a>
         </td>
     </tr>
@@ -7519,7 +8281,8 @@
                 11922 BELA
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/11/11922.cs">C#</a>
         </td>
     </tr>
@@ -7530,7 +8293,8 @@
                 11931 수 정렬하기 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11931.cpp">C++</a>
         </td>
     </tr>
@@ -7541,7 +8305,8 @@
                 11942 고려대는 사랑입니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11942.cpp">C++</a>
         </td>
     </tr>
@@ -7552,7 +8317,8 @@
                 11943 파일 옮기기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11943.cpp">C++</a>
         </td>
     </tr>
@@ -7563,7 +8329,8 @@
                 11944 NN
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11944.py">Python</a>
         </td>
     </tr>
@@ -7574,7 +8341,8 @@
                 11945 뜨거운 붕어빵
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11945.js">Node.js</a>
         </td>
     </tr>
@@ -7585,7 +8353,8 @@
                 11948 과목선택
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11948.cpp">C++</a>
         </td>
     </tr>
@@ -7596,7 +8365,8 @@
                 11949 번호표 교환
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11949.js">Node.js</a>
         </td>
     </tr>
@@ -7607,7 +8377,8 @@
                 11966 2의 제곱인가?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/11/11966.py">Python</a>
         </td>
     </tr>
@@ -7618,7 +8389,8 @@
                 11970 Fence Painting
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11970.js">Node.js</a>
         </td>
     </tr>
@@ -7629,7 +8401,8 @@
                 12090 초성 변환
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12090.js">Node.js</a>
         </td>
     </tr>
@@ -7640,7 +8413,8 @@
                 12091 이브이 진화 시키기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12091.py">Python</a>
         </td>
     </tr>
@@ -7651,7 +8425,8 @@
                 12093 최댓값은 곧 페널티 감소
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/12/12093.txt">Text</a>
         </td>
     </tr>
@@ -7662,7 +8437,8 @@
                 12095 가장 오래 걸리는 스도쿠
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/12/12095.txt">Text</a>
         </td>
     </tr>
@@ -7673,7 +8449,8 @@
                 12096 
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12096.py">Python</a>
         </td>
     </tr>
@@ -7684,7 +8461,8 @@
                 12174 #include <Google I/O.h>
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12174.js">Node.js</a>
         </td>
     </tr>
@@ -7695,7 +8473,8 @@
                 12344 Moist (Small1)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12344.js">Node.js</a>
         </td>
     </tr>
@@ -7706,7 +8485,8 @@
                 12605 단어순서 뒤집기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12605.js">Node.js</a>
         </td>
     </tr>
@@ -7717,7 +8497,8 @@
                 12606 Reverse Words (Large)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/12/12606.sh">Bash</a>
         </td>
     </tr>
@@ -7728,7 +8509,8 @@
                 12756 고급 여관
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12756.py">Python</a>
         </td>
     </tr>
@@ -7739,7 +8521,8 @@
                 12780 원피스
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12780.py">Python</a>
         </td>
     </tr>
@@ -7750,7 +8533,8 @@
                 12790 Mini Fantasy War
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12790.py">Python</a>
         </td>
     </tr>
@@ -7761,7 +8545,8 @@
                 12813 이진수 연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12813.js">Node.js</a>
         </td>
     </tr>
@@ -7772,7 +8557,8 @@
                 12833 XORXORXOR
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12833.py">Python</a>
         </td>
     </tr>
@@ -7783,7 +8569,8 @@
                 12871 무한 문자열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12871.js">Node.js</a>
         </td>
     </tr>
@@ -7794,7 +8581,8 @@
                 13063 Lobby
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13063.js">Node.js</a>
         </td>
     </tr>
@@ -7805,7 +8593,8 @@
                 13073 Sums
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13073.py">Python</a>
         </td>
     </tr>
@@ -7816,7 +8605,8 @@
                 13118 뉴턴과 사과
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13118.py">Python</a>
         </td>
     </tr>
@@ -7827,7 +8617,8 @@
                 13129 Disposable Cup
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13129.js">Node.js</a>
         </td>
     </tr>
@@ -7838,7 +8629,8 @@
                 13131 HicCup
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13131.js">Node.js</a>
         </td>
     </tr>
@@ -7849,7 +8641,8 @@
                 13136 Do Not Touch Anything
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13136.cpp">C++</a>
         </td>
     </tr>
@@ -7860,7 +8653,8 @@
                 13155 Common Knowledge
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13155.js">Node.js</a>
         </td>
     </tr>
@@ -7871,7 +8665,8 @@
                 13163 닉네임에 갓 붙이기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13163.cpp">C++</a>
         </td>
     </tr>
@@ -7882,7 +8677,8 @@
                 13221 Manhattan
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13221.py">Python</a>
         </td>
     </tr>
@@ -7893,7 +8689,8 @@
                 13222 Matches
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13222.py">Python</a>
         </td>
     </tr>
@@ -7904,7 +8701,8 @@
                 13224 Chop Cup
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13224.js">Node.js</a>
         </td>
     </tr>
@@ -7915,7 +8713,8 @@
                 13225 Divisors
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13225.py">Python</a>
         </td>
     </tr>
@@ -7926,7 +8725,8 @@
                 13228 The REAL Manhattan distance
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13228.py">Python</a>
         </td>
     </tr>
@@ -7937,7 +8737,8 @@
                 13234 George Boole
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13234.cpp">C++</a>
         </td>
     </tr>
@@ -7948,7 +8749,8 @@
                 13235 팰린드롬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13235.js">Node.js</a>
         </td>
     </tr>
@@ -7959,7 +8761,8 @@
                 13236 Collatz Conjecture
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13236.py">Python</a>
         </td>
     </tr>
@@ -7970,7 +8773,8 @@
                 13240 Chessboard
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13240.py">Python</a>
         </td>
     </tr>
@@ -7981,7 +8785,8 @@
                 13241 최소공배수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13241.cpp">C++</a>
         </td>
     </tr>
@@ -7992,8 +8797,12 @@
                 13277 큰 수 곱셈
             </a>
         </td>
-        <td align="center">
-            <a href="src/13/13277.java">Java</a><br><a href="src/13/13277.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/13/13277.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/13/13277.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -8003,7 +8812,8 @@
                 13288 A New Alphabet
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13288.js">Node.js</a>
         </td>
     </tr>
@@ -8014,7 +8824,8 @@
                 13297 Quick Estimates
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13297.py">Python</a>
         </td>
     </tr>
@@ -8025,7 +8836,8 @@
                 13300 방 배정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13300.js">Node.js</a>
         </td>
     </tr>
@@ -8036,7 +8848,8 @@
                 13301 타일 장식물
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13301.rs">Rust</a>
         </td>
     </tr>
@@ -8047,7 +8860,8 @@
                 13304 방 배정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13304.js">Node.js</a>
         </td>
     </tr>
@@ -8058,7 +8872,8 @@
                 13311 행운의 편지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/13/13311.txt">Text</a>
         </td>
     </tr>
@@ -8069,7 +8884,8 @@
                 13312 아크코사인은 믿음입니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/13/13312.txt">Text</a>
         </td>
     </tr>
@@ -8080,7 +8896,8 @@
                 13322 접두사 배열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13322.js">Node.js</a>
         </td>
     </tr>
@@ -8091,7 +8908,8 @@
                 13363 Jumbled Compass
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13363.rs">Rust</a>
         </td>
     </tr>
@@ -8102,7 +8920,8 @@
                 13410 거꾸로 구구단
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13410.js">Node.js</a>
         </td>
     </tr>
@@ -8113,7 +8932,8 @@
                 13416 주식 투자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13416.rs">Rust</a>
         </td>
     </tr>
@@ -8124,7 +8944,8 @@
                 13417 카드 문자열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13417.cpp">C++</a>
         </td>
     </tr>
@@ -8135,7 +8956,8 @@
                 13419 탕수육
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/13/13419.cs">C#</a>
         </td>
     </tr>
@@ -8146,7 +8968,8 @@
                 13420 사칙연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13420.py">Python</a>
         </td>
     </tr>
@@ -8157,7 +8980,8 @@
                 13458 시험 감독
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13458.js">Node.js</a>
         </td>
     </tr>
@@ -8168,7 +8992,8 @@
                 13484 Tarifa
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13484.py">Python</a>
         </td>
     </tr>
@@ -8179,7 +9004,8 @@
                 13597 Tri-du
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13597.py">Python</a>
         </td>
     </tr>
@@ -8190,7 +9016,8 @@
                 13610 Volta
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13610.rs">Rust</a>
         </td>
     </tr>
@@ -8201,7 +9028,8 @@
                 13655 Guarda Costeira
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13655.js">Node.js</a>
         </td>
     </tr>
@@ -8212,7 +9040,8 @@
                 13684 Divisão da Nlogõnia
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/13/13684.cs">C#</a>
         </td>
     </tr>
@@ -8223,7 +9052,8 @@
                 13698 Hawk eyes
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13698.py">Python</a>
         </td>
     </tr>
@@ -8234,7 +9064,8 @@
                 13699 점화식
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13699.rs">Rust</a>
         </td>
     </tr>
@@ -8245,7 +9076,8 @@
                 13752 히스토그램
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13752.py">Python</a>
         </td>
     </tr>
@@ -8256,7 +9088,8 @@
                 13771 Presents
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/13/13771.py">Python</a>
         </td>
     </tr>
@@ -8267,7 +9100,8 @@
                 13773 Olympic Games
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13773.js">Node.js</a>
         </td>
     </tr>
@@ -8278,7 +9112,8 @@
                 13777 Hunt The Rabbit
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13777.js">Node.js</a>
         </td>
     </tr>
@@ -8289,7 +9124,8 @@
                 13866 팀 나누기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13866.cpp">C++</a>
         </td>
     </tr>
@@ -8300,7 +9136,8 @@
                 13877 이건 무슨 진법이지?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/13/13877.js">Node.js</a>
         </td>
     </tr>
@@ -8311,7 +9148,8 @@
                 13985 Equality
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13985.cpp">C++</a>
         </td>
     </tr>
@@ -8322,8 +9160,12 @@
                 14004 ICPC
             </a>
         </td>
-        <td align="center">
-            <a href="src/14/14004.js">Node.js</a><br><a href="src/14/14004.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/14/14004.js">Node.js</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/14/14004.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -8333,7 +9175,8 @@
                 14038 Tournament Selection
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14038.cpp">C++</a>
         </td>
     </tr>
@@ -8344,7 +9187,8 @@
                 14041 Arrival Time
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14041.js">Node.js</a>
         </td>
     </tr>
@@ -8355,7 +9199,8 @@
                 14065 Gorivo
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14065.rs">Rust</a>
         </td>
     </tr>
@@ -8366,7 +9211,8 @@
                 14173 Square Pasture
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14173.rs">Rust</a>
         </td>
     </tr>
@@ -8377,7 +9223,8 @@
                 14182 Tax
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14182.py">Python</a>
         </td>
     </tr>
@@ -8388,7 +9235,8 @@
                 14215 세 막대
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14215.rs">Rust</a>
         </td>
     </tr>
@@ -8399,7 +9247,8 @@
                 14264 정육각형과 삼각형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14264.py">Python</a>
         </td>
     </tr>
@@ -8410,7 +9259,8 @@
                 14405 피카츄
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14405.js">Node.js</a>
         </td>
     </tr>
@@ -8421,7 +9271,8 @@
                 14406 좌중을 사로잡는 건배사
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14406.rs">Rust</a>
         </td>
     </tr>
@@ -8432,7 +9283,8 @@
                 14443 채점 소수 번호
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/14/14443.txt">Text</a>
         </td>
     </tr>
@@ -8443,7 +9295,8 @@
                 14470 전자레인지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14470.py">Python</a>
         </td>
     </tr>
@@ -8454,7 +9307,8 @@
                 14487 욱제는 효도쟁이야!!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14487.js">Node.js</a>
         </td>
     </tr>
@@ -8465,7 +9319,8 @@
                 14489 치킨 두 마리 (...)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14489.js">Node.js</a>
         </td>
     </tr>
@@ -8476,7 +9331,8 @@
                 14490 백대열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14490.cpp">C++</a>
         </td>
     </tr>
@@ -8487,7 +9343,8 @@
                 14491 9진수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14491.py">Python</a>
         </td>
     </tr>
@@ -8498,7 +9355,8 @@
                 14495 피보나치 비스무리한 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/14/14495.cs">C#</a>
         </td>
     </tr>
@@ -8509,7 +9367,8 @@
                 14530 The Lost Cow
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14530.js">Node.js</a>
         </td>
     </tr>
@@ -8520,7 +9379,8 @@
                 14541 Speed Limit
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14541.py">Python</a>
         </td>
     </tr>
@@ -8531,7 +9391,8 @@
                 14542 Outer Triangle Sum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14542.rs">Rust</a>
         </td>
     </tr>
@@ -8542,7 +9403,8 @@
                 14545 Square
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14545.py">Python</a>
         </td>
     </tr>
@@ -8553,7 +9415,8 @@
                 14561 회문
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14561.js">Node.js</a>
         </td>
     </tr>
@@ -8564,7 +9427,8 @@
                 14563 완전수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14563.rs">Rust</a>
         </td>
     </tr>
@@ -8575,7 +9439,8 @@
                 14568 2017 연세대학교 프로그래밍 경시대회
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14568.rs">Rust</a>
         </td>
     </tr>
@@ -8586,7 +9451,8 @@
                 14579 덧셈과 곱셈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14579.py">Python</a>
         </td>
     </tr>
@@ -8597,7 +9463,8 @@
                 14581 팬들에게 둘러싸인 홍준
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14581.py">Python</a>
         </td>
     </tr>
@@ -8608,7 +9475,8 @@
                 14592 2017 아주대학교 프로그래밍 경시대회 (Small)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14592.js">Node.js</a>
         </td>
     </tr>
@@ -8619,7 +9487,8 @@
                 14593 2017 아주대학교 프로그래밍 경시대회 (Large)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14593.js">Node.js</a>
         </td>
     </tr>
@@ -8630,7 +9499,8 @@
                 14614 Calculate!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14614.py">Python</a>
         </td>
     </tr>
@@ -8641,7 +9511,8 @@
                 14623 감정이입
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14623.py">Python</a>
         </td>
     </tr>
@@ -8652,7 +9523,8 @@
                 14624 전북대학교
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14624.js">Node.js</a>
         </td>
     </tr>
@@ -8663,7 +9535,8 @@
                 14645 와이버스 부릉부릉
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14645.cpp">C++</a>
         </td>
     </tr>
@@ -8674,8 +9547,12 @@
                 14652 나는 행복합니다~
             </a>
         </td>
-        <td align="center">
-            <a href="src/14/14652.cpp">C++</a><br><a href="src/14/14652.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/14/14652.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/14/14652.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -8685,7 +9562,8 @@
                 14656 조교는 새디스트야!!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14656.py">Python</a>
         </td>
     </tr>
@@ -8696,7 +9574,8 @@
                 14659 한조서열정리하고옴ㅋㅋ
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14659.js">Node.js</a>
         </td>
     </tr>
@@ -8707,7 +9586,8 @@
                 14681 사분면 고르기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14681.cpp">C++</a>
         </td>
     </tr>
@@ -8718,7 +9598,8 @@
                 14682 Shifty Sum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14682.py">Python</a>
         </td>
     </tr>
@@ -8729,7 +9610,8 @@
                 14697 방 배정하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14697.rs">Rust</a>
         </td>
     </tr>
@@ -8740,7 +9622,8 @@
                 14720 우유 축제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14720.rs">Rust</a>
         </td>
     </tr>
@@ -8751,7 +9634,8 @@
                 14723 이산수학 과제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14723.js">Node.js</a>
         </td>
     </tr>
@@ -8762,7 +9646,8 @@
                 14724 관리자는 누구?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14724.js">Node.js</a>
         </td>
     </tr>
@@ -8773,7 +9658,8 @@
                 14726 신용카드 판별
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14726.js">Node.js</a>
         </td>
     </tr>
@@ -8784,7 +9670,8 @@
                 14729 칠무해
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14729.cpp">C++</a>
         </td>
     </tr>
@@ -8795,7 +9682,8 @@
                 14761 FizzBuzz
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14761.py">Python</a>
         </td>
     </tr>
@@ -8806,7 +9694,8 @@
                 14782 Bedtime Reading, I
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14782.py">Python</a>
         </td>
     </tr>
@@ -8817,7 +9706,8 @@
                 14790 Tidy Numbers (Small)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14790.js">Node.js</a>
         </td>
     </tr>
@@ -8828,7 +9718,8 @@
                 14803 Steed 2: Cruise Control (Small)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14803.js">Node.js</a>
         </td>
     </tr>
@@ -8839,7 +9730,8 @@
                 14804 Steed 2: Cruise Control (Large)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14804.js">Node.js</a>
         </td>
     </tr>
@@ -8850,7 +9742,8 @@
                 14909 양수 개수 세기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14909.py">Python</a>
         </td>
     </tr>
@@ -8861,7 +9754,8 @@
                 14910 오르막
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14910.py">Python</a>
         </td>
     </tr>
@@ -8872,7 +9766,8 @@
                 14912 숫자 빈도수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14912.py">Python</a>
         </td>
     </tr>
@@ -8883,7 +9778,8 @@
                 14913 등차수열에서 항 번호 찾기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14913.py">Python</a>
         </td>
     </tr>
@@ -8894,7 +9790,8 @@
                 14914 사과와 바나나 나눠주기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14914.py">Python</a>
         </td>
     </tr>
@@ -8905,7 +9802,8 @@
                 14915 진수 변환기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14915.js">Node.js</a>
         </td>
     </tr>
@@ -8916,7 +9814,8 @@
                 14916 거스름돈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14916.rs">Rust</a>
         </td>
     </tr>
@@ -8927,8 +9826,12 @@
                 14918 더하기
             </a>
         </td>
-        <td align="center">
-            <a href="src/14/14918.cpp">C++</a><br><a href="src/14/14918.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/14/14918.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/14/14918.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -8938,7 +9841,8 @@
                 14920 3n+1 수열
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14920.py">Python</a>
         </td>
     </tr>
@@ -8949,7 +9853,8 @@
                 14924 폰 노이만과 파리
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14924.cpp">C++</a>
         </td>
     </tr>
@@ -8960,7 +9865,8 @@
                 14928 큰 수 (BIG)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14928.py">Python</a>
         </td>
     </tr>
@@ -8971,7 +9877,8 @@
                 14935 FA
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14935.py">Python</a>
         </td>
     </tr>
@@ -8982,7 +9889,8 @@
                 15000 CAPS
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15000.py">Python</a>
         </td>
     </tr>
@@ -8993,7 +9901,8 @@
                 15025 Judging Moose
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15025.py">Python</a>
         </td>
     </tr>
@@ -9004,7 +9913,8 @@
                 15036 Just A Minim
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15036.js">Node.js</a>
         </td>
     </tr>
@@ -9015,7 +9925,8 @@
                 15048 Jogo de Boca
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15048.py">Python</a>
         </td>
     </tr>
@@ -9026,8 +9937,12 @@
                 15051 Máquina de café
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15051.cpp">C++</a><br><a href="src/15/15051.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15051.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/15/15051.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -9037,7 +9952,8 @@
                 15059 Hard choice
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15059.py">Python</a>
         </td>
     </tr>
@@ -9048,7 +9964,8 @@
                 15080 Every Second Counts
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15080.py">Python</a>
         </td>
     </tr>
@@ -9059,7 +9976,8 @@
                 15096 Batter Up
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15096.py">Python</a>
         </td>
     </tr>
@@ -9070,7 +9988,8 @@
                 15115 Delayed Work
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15115.rs">Rust</a>
         </td>
     </tr>
@@ -9081,7 +10000,8 @@
                 15128 Congruent Numbers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15128.py">Python</a>
         </td>
     </tr>
@@ -9092,7 +10012,8 @@
                 15151 Incomplete Book
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15151.rs">Rust</a>
         </td>
     </tr>
@@ -9103,7 +10024,8 @@
                 15178 Angles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15178.py">Python</a>
         </td>
     </tr>
@@ -9114,7 +10036,8 @@
                 15232 Rectangles
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15232.py">Python</a>
         </td>
     </tr>
@@ -9125,7 +10048,8 @@
                 15236 Dominos
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15236.py">Python</a>
         </td>
     </tr>
@@ -9136,7 +10060,8 @@
                 15279 Heart Rate
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15279.js">Node.js</a>
         </td>
     </tr>
@@ -9147,7 +10072,8 @@
                 15295 Chanukah Challenge
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15295.py">Python</a>
         </td>
     </tr>
@@ -9158,7 +10084,8 @@
                 15296 Sum Squared Digits Function
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15296.js">Node.js</a>
         </td>
     </tr>
@@ -9169,7 +10096,8 @@
                 15312 이름 궁합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15312.js">Node.js</a>
         </td>
     </tr>
@@ -9180,7 +10108,8 @@
                 15340 Sim Card
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15340.py">Python</a>
         </td>
     </tr>
@@ -9191,7 +10120,8 @@
                 15351 인생 점수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15351.js">Node.js</a>
         </td>
     </tr>
@@ -9202,7 +10132,8 @@
                 15354 Aron
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15354.py">Python</a>
         </td>
     </tr>
@@ -9213,7 +10144,8 @@
                 15372 A Simple Problem.
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15372.js">Node.js</a>
         </td>
     </tr>
@@ -9224,8 +10156,12 @@
                 15439 Vera and Outfits
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15439.cpp">C++</a><br><a href="src/15/15439.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15439.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/15/15439.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -9235,7 +10171,8 @@
                 15474 鉛筆
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15474.py">Python</a>
         </td>
     </tr>
@@ -9246,7 +10183,8 @@
                 15489 파스칼 삼각형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/15/15489.cs">C#</a>
         </td>
     </tr>
@@ -9257,7 +10195,8 @@
                 15547 Lorem ipsum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15547.rs">Rust</a>
         </td>
     </tr>
@@ -9268,7 +10207,8 @@
                 15552 빠른 A+B
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15552.cpp">C++</a>
         </td>
     </tr>
@@ -9279,7 +10219,8 @@
                 15596 정수 N개의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15596.cpp">C++</a>
         </td>
     </tr>
@@ -9290,7 +10231,8 @@
                 15600 Boss Battle
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15600.rs">Rust</a>
         </td>
     </tr>
@@ -9301,7 +10243,8 @@
                 15610 Abbey Courtyard
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15610.py">Python</a>
         </td>
     </tr>
@@ -9312,7 +10255,8 @@
                 15624 피보나치 수 7
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15624.py">Python</a>
         </td>
     </tr>
@@ -9323,7 +10267,8 @@
                 15631 BOJeopardy
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15631.txt">Text</a>
         </td>
     </tr>
@@ -9334,7 +10279,8 @@
                 15633 Fan Death
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15633.py">Python</a>
         </td>
     </tr>
@@ -9345,7 +10291,8 @@
                 15636 Linear Algebra and Group
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15636.txt">Text</a>
         </td>
     </tr>
@@ -9356,7 +10303,8 @@
                 15637 Lotto
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15637.rs">Rust</a>
         </td>
     </tr>
@@ -9367,7 +10315,8 @@
                 15638 No Description
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15638.cpp">C++</a>
         </td>
     </tr>
@@ -9378,7 +10327,8 @@
                 15639 Rick
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15639.js">Node.js</a>
         </td>
     </tr>
@@ -9389,7 +10339,8 @@
                 15641 SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15641.txt">Text</a>
         </td>
     </tr>
@@ -9400,7 +10351,8 @@
                 15643 Yee
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15643.txt">Text</a>
         </td>
     </tr>
@@ -9411,7 +10363,8 @@
                 15649 N과 M (1)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/15/15649.kt">Kotlin</a>
         </td>
     </tr>
@@ -9422,7 +10375,8 @@
                 15650 N과 M (2)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/15/15650.kt">Kotlin</a>
         </td>
     </tr>
@@ -9433,7 +10387,8 @@
                 15651 N과 M (3)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/15/15651.kt">Kotlin</a>
         </td>
     </tr>
@@ -9444,7 +10399,8 @@
                 15667 2018 연세대학교 프로그래밍 경진대회
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15667.py">Python</a>
         </td>
     </tr>
@@ -9455,7 +10411,8 @@
                 15680 연세대학교
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15680.cpp">C++</a>
         </td>
     </tr>
@@ -9466,7 +10423,8 @@
                 15688 수 정렬하기 5
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15688.cpp">C++</a>
         </td>
     </tr>
@@ -9477,7 +10435,8 @@
                 15700 타일 채우기 4
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15700.py">Python</a>
         </td>
     </tr>
@@ -9488,7 +10447,8 @@
                 15726 이칙연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15726.py">Python</a>
         </td>
     </tr>
@@ -9499,8 +10459,12 @@
                 15727 조별과제를 하려는데 조장이 사라졌다
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15727.cpp">C++</a><br><a href="src/15/15727.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15727.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/15/15727.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -9510,7 +10474,8 @@
                 15733 나는 누구인가
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15733.cpp">C++</a>
         </td>
     </tr>
@@ -9521,7 +10486,8 @@
                 15734 명장 남정훈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15734.py">Python</a>
         </td>
     </tr>
@@ -9532,7 +10498,8 @@
                 15740 A+B - 9
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15740.py">Python</a>
         </td>
     </tr>
@@ -9543,7 +10510,8 @@
                 15751 Teleportation
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15751.rs">Rust</a>
         </td>
     </tr>
@@ -9554,7 +10522,8 @@
                 15780 멀티탭 충분하니?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15780.rs">Rust</a>
         </td>
     </tr>
@@ -9565,7 +10534,8 @@
                 15781 헬멧과 조끼
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15781.py">Python</a>
         </td>
     </tr>
@@ -9576,7 +10546,8 @@
                 15784 질투진서
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15784.js">Node.js</a>
         </td>
     </tr>
@@ -9587,7 +10558,8 @@
                 15792 A/B - 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15792.rs">Rust</a>
         </td>
     </tr>
@@ -9598,8 +10570,12 @@
                 15802 타노스
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15802.cpp">C++</a><br><a href="src/15/15802.txt">Text</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15802.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/15/15802.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -9609,7 +10585,8 @@
                 15813 너의 이름은 몇 점이니?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15813.cpp">C++</a>
         </td>
     </tr>
@@ -9620,7 +10597,8 @@
                 15814 야바위 대장
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15814.py">Python</a>
         </td>
     </tr>
@@ -9631,7 +10609,8 @@
                 15818 오버플로우와 모듈러
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15818.rs">Rust</a>
         </td>
     </tr>
@@ -9642,7 +10621,8 @@
                 15819 너의 핸들은
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15819.js">Node.js</a>
         </td>
     </tr>
@@ -9653,7 +10633,8 @@
                 15820 맞았는데 왜 틀리죠?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15820.py">Python</a>
         </td>
     </tr>
@@ -9664,7 +10645,8 @@
                 15829 Hashing
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15829.js">Node.js</a>
         </td>
     </tr>
@@ -9675,7 +10657,8 @@
                 15858 Simple Arithmetic
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15858.py">Python</a>
         </td>
     </tr>
@@ -9686,7 +10669,8 @@
                 15873 공백 없는 A+B
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15873.py">Python</a>
         </td>
     </tr>
@@ -9697,7 +10681,8 @@
                 15881 Pen Pineapple Apple Pen
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15881.js">Node.js</a>
         </td>
     </tr>
@@ -9708,7 +10693,8 @@
                 15885 고장난 시계
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15885.js">Node.js</a>
         </td>
     </tr>
@@ -9719,7 +10705,8 @@
                 15890 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15890.cpp">C++</a>
         </td>
     </tr>
@@ -9730,7 +10717,8 @@
                 15891 스타트링크 사무실을 파헤쳐보자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15891.py">Python</a>
         </td>
     </tr>
@@ -9741,7 +10729,8 @@
                 15894 수학은 체육과목 입니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15894.cpp">C++</a>
         </td>
     </tr>
@@ -9752,7 +10741,8 @@
                 15904 UCPC는 무엇의 약자일까?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15904.js">Node.js</a>
         </td>
     </tr>
@@ -9763,7 +10753,8 @@
                 15913 가위 바위 보 999
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15913.txt">Text</a>
         </td>
     </tr>
@@ -9774,7 +10765,8 @@
                 15915 가위 바위 보 1002
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/15/15915.txt">Text</a>
         </td>
     </tr>
@@ -9785,7 +10777,8 @@
                 15917 노솔브 방지문제야!!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15917.js">Node.js</a>
         </td>
     </tr>
@@ -9796,7 +10789,8 @@
                 15921 수찬은 마린보이야!!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15921.py">Python</a>
         </td>
     </tr>
@@ -9807,7 +10801,8 @@
                 15923 욱제는 건축왕이야!!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15923.py">Python</a>
         </td>
     </tr>
@@ -9818,7 +10813,8 @@
                 15947 아기 석환 뚜루루 뚜루
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15947.js">Node.js</a>
         </td>
     </tr>
@@ -9829,7 +10825,8 @@
                 15953 상금 헌터
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15953.py">Python</a>
         </td>
     </tr>
@@ -9840,8 +10837,12 @@
                 15962 새로운 시작
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15962.cpp">C++</a><br><a href="src/15/15962.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15962.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/15/15962.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -9851,7 +10852,8 @@
                 15963 CASIO
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15963.py">Python</a>
         </td>
     </tr>
@@ -9862,8 +10864,12 @@
                 15964 이상한 기호
             </a>
         </td>
-        <td align="center">
-            <a href="src/15/15964.cpp">C++</a><br><a href="src/15/15964.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15964.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/15/15964.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -9873,7 +10879,8 @@
                 15969 행복
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15969.py">Python</a>
         </td>
     </tr>
@@ -9884,7 +10891,8 @@
                 15995 잉여역수 구하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15995.rs">Rust</a>
         </td>
     </tr>
@@ -9895,7 +10903,8 @@
                 16017 Telemarketer or not?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16017.py">Python</a>
         </td>
     </tr>
@@ -9906,7 +10915,8 @@
                 16076 휴식이 필요해
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/16/16076.txt">Text</a>
         </td>
     </tr>
@@ -9917,8 +10927,12 @@
                 16170 오늘의 날짜는?
             </a>
         </td>
-        <td align="center">
-            <a href="src/16/16170.java">Java</a><br><a href="src/16/16170.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/16/16170.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/16/16170.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -9928,7 +10942,8 @@
                 16171 나는 친구가 적다 (Small)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/16/16171.sh">Bash</a>
         </td>
     </tr>
@@ -9939,7 +10954,8 @@
                 16175 General Election
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16175.py">Python</a>
         </td>
     </tr>
@@ -9950,7 +10966,8 @@
                 16189 Repetitive Palindrome
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16189.py">Python</a>
         </td>
     </tr>
@@ -9961,7 +10978,8 @@
                 16199 나이 계산하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16199.py">Python</a>
         </td>
     </tr>
@@ -9972,7 +10990,8 @@
                 16204 카드 뽑기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16204.py">Python</a>
         </td>
     </tr>
@@ -9983,7 +11002,8 @@
                 16205 변수명
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16205.js">Node.js</a>
         </td>
     </tr>
@@ -9994,7 +11014,8 @@
                 16212 정열적인 정렬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16212.py">Python</a>
         </td>
     </tr>
@@ -10005,7 +11026,8 @@
                 16239 Nadan
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16239.rs">Rust</a>
         </td>
     </tr>
@@ -10016,7 +11038,8 @@
                 16283 Farm
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16283.js">Node.js</a>
         </td>
     </tr>
@@ -10027,7 +11050,8 @@
                 16316 Baby Bites
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16316.rs">Rust</a>
         </td>
     </tr>
@@ -10038,7 +11062,8 @@
                 16341 Horsemeet
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16341.js">Node.js</a>
         </td>
     </tr>
@@ -10049,7 +11074,8 @@
                 16394 홍익대학교
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/16/16394.cpp">C++</a>
         </td>
     </tr>
@@ -10060,7 +11086,8 @@
                 16395 파스칼의 삼각형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/16/16395.cs">C#</a>
         </td>
     </tr>
@@ -10071,7 +11098,8 @@
                 16408 Poker Hand
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16408.py">Python</a>
         </td>
     </tr>
@@ -10082,7 +11110,8 @@
                 16427 Time Limits
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16427.py">Python</a>
         </td>
     </tr>
@@ -10093,8 +11122,12 @@
                 16428 A/B - 3
             </a>
         </td>
-        <td align="center">
-            <a href="src/16/16428.cs">C#</a><br><a href="src/16/16428.py">Python</a>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/16/16428.cs">C#</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/16/16428.py">Python</a>
         </td>
     </tr>
     <tr>
@@ -10104,7 +11137,8 @@
                 16430 제리와 톰
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/16/16430.cpp">C++</a>
         </td>
     </tr>
@@ -10115,7 +11149,8 @@
                 16431 베시와 데이지
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16431.py">Python</a>
         </td>
     </tr>
@@ -10126,7 +11161,8 @@
                 16445 Desvendando Monty Hall
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16445.py">Python</a>
         </td>
     </tr>
@@ -10137,7 +11173,8 @@
                 16456 하와와 대학생쨩 하와이로 가는 거시와요~
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16456.rs">Rust</a>
         </td>
     </tr>
@@ -10148,7 +11185,8 @@
                 16462 '나교수' 교수님의 악필
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16462.js">Node.js</a>
         </td>
     </tr>
@@ -10159,7 +11197,8 @@
                 16478 원의 분할
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/16/16478.sh">Bash</a>
         </td>
     </tr>
@@ -10170,7 +11209,8 @@
                 16479 컵라면 측정하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16479.py">Python</a>
         </td>
     </tr>
@@ -10181,7 +11221,8 @@
                 16481 원 전문가 진우
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/16/16481.cs">C#</a>
         </td>
     </tr>
@@ -10192,7 +11233,8 @@
                 16483 접시 안의 원
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16483.py">Python</a>
         </td>
     </tr>
@@ -10203,7 +11245,8 @@
                 16485 작도하자! - ②
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16485.py">Python</a>
         </td>
     </tr>
@@ -10214,7 +11257,8 @@
                 16486 운동장 한 바퀴
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16486.py">Python</a>
         </td>
     </tr>
@@ -10225,7 +11269,8 @@
                 16488 피카츄가 낸 어려운 문제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/16/16488.sh">Bash</a>
         </td>
     </tr>
@@ -10236,7 +11281,8 @@
                 16499 동일한 단어 그룹화하기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/16/16499.cpp">C++</a>
         </td>
     </tr>
@@ -10247,7 +11293,8 @@
                 16503 괄호 없는 사칙연산
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16503.js">Node.js</a>
         </td>
     </tr>
@@ -10258,7 +11305,8 @@
                 16504 종이접기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16504.js">Node.js</a>
         </td>
     </tr>
@@ -10269,7 +11317,8 @@
                 16546 Missing Runners
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16546.py">Python</a>
         </td>
     </tr>
@@ -10280,7 +11329,8 @@
                 16561 3의 배수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16561.rs">Rust</a>
         </td>
     </tr>
@@ -10291,7 +11341,8 @@
                 16600 Contemporary Art
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16600.py">Python</a>
         </td>
     </tr>
@@ -10302,7 +11353,8 @@
                 16625 Das Blinkenlights
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16625.rs">Rust</a>
         </td>
     </tr>
@@ -10313,7 +11365,8 @@
                 16647 Happy Birthday, kipa00!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/16/16647.txt">Text</a>
         </td>
     </tr>
@@ -10324,7 +11377,8 @@
                 16648 Accumulator Battery
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16648.py">Python</a>
         </td>
     </tr>
@@ -10335,7 +11389,8 @@
                 16673 고려대학교에는 공식 와인이 있다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/16/16673.cpp">C++</a>
         </td>
     </tr>
@@ -10346,7 +11401,8 @@
                 16675 두 개의 손
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16675.rs">Rust</a>
         </td>
     </tr>
@@ -10357,7 +11413,8 @@
                 16693 Pizza Deal
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16693.py">Python</a>
         </td>
     </tr>
@@ -10368,7 +11425,8 @@
                 16727 ICPC
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16727.py">Python</a>
         </td>
     </tr>
@@ -10379,7 +11437,8 @@
                 16756 Pismo
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16756.rs">Rust</a>
         </td>
     </tr>
@@ -10390,7 +11449,8 @@
                 16785 ソーシャルゲーム
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16785.py">Python</a>
         </td>
     </tr>
@@ -10401,7 +11461,8 @@
                 16815 Star in Parentheses
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16815.py">Python</a>
         </td>
     </tr>
@@ -10412,7 +11473,8 @@
                 16861 Harshad Numbers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16861.rs">Rust</a>
         </td>
     </tr>
@@ -10423,7 +11485,8 @@
                 16864 So You Like Your Food Hot?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/16/16864.js">Node.js</a>
         </td>
     </tr>
@@ -10434,7 +11497,8 @@
                 16917 양념 반 후라이드 반
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/16/16917.rs">Rust</a>
         </td>
     </tr>
@@ -10445,7 +11509,8 @@
                 16972 814 - 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/16/16972.txt">Text</a>
         </td>
     </tr>
@@ -10456,7 +11521,8 @@
                 17009 Winning Score
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17009.py">Python</a>
         </td>
     </tr>
@@ -10467,7 +11533,8 @@
                 17010 Time to Decompress
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17010.py">Python</a>
         </td>
     </tr>
@@ -10478,7 +11545,8 @@
                 17027 Shell Game
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17027.js">Node.js</a>
         </td>
     </tr>
@@ -10489,7 +11557,8 @@
                 17094 Serious Problem
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17094.py">Python</a>
         </td>
     </tr>
@@ -10500,7 +11569,8 @@
                 17107 Thinking Language
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/17/17107.txt">Text</a>
         </td>
     </tr>
@@ -10511,7 +11581,8 @@
                 17109 연결그래프의 모든 간선의 저항이 1Ω일 경우 간선으로 직접 이어진 모든 쌍의 점 A, B 에 대해 A와 B 사이의 합성저항 값의 총합을 구한 뒤 소수점 넷째자리에서 반올림한 값을 출력하는 문제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17109.js">Node.js</a>
         </td>
     </tr>
@@ -10522,7 +11593,8 @@
                 17113 3분 그래프
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/17/17113.txt">Text</a>
         </td>
     </tr>
@@ -10533,7 +11605,8 @@
                 17116 목격자
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17116.js">Node.js</a>
         </td>
     </tr>
@@ -10544,7 +11617,8 @@
                 17117 평가
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17117.py">Python</a>
         </td>
     </tr>
@@ -10555,7 +11629,8 @@
                 17173 배수들의 합
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17173.js">Node.js</a>
         </td>
     </tr>
@@ -10566,7 +11641,8 @@
                 17174 전체 계산 횟수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17174.py">Python</a>
         </td>
     </tr>
@@ -10577,7 +11653,8 @@
                 17177 내접사각형 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17177.js">Node.js</a>
         </td>
     </tr>
@@ -10588,7 +11665,8 @@
                 17201 자석 체인
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17201.js">Node.js</a>
         </td>
     </tr>
@@ -10599,7 +11677,8 @@
                 17206 준석이의 수학 숙제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17206.js">Node.js</a>
         </td>
     </tr>
@@ -10610,7 +11689,8 @@
                 17210 문문문
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17210.js">Node.js</a>
         </td>
     </tr>
@@ -10621,7 +11701,8 @@
                 17214 다항 함수의 적분
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17214.js">Node.js</a>
         </td>
     </tr>
@@ -10632,7 +11713,8 @@
                 17249 태보태보 총난타
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17249.cpp">C++</a>
         </td>
     </tr>
@@ -10643,7 +11725,8 @@
                 17256 달달함이 넘쳐흘러
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17256.py">Python</a>
         </td>
     </tr>
@@ -10654,7 +11737,8 @@
                 17263 Sort 마스터 배지훈
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17263.py">Python</a>
         </td>
     </tr>
@@ -10665,7 +11749,8 @@
                 17284 Vending Machine
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17284.py">Python</a>
         </td>
     </tr>
@@ -10676,7 +11761,8 @@
                 17293 맥주 99병
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17293.py">Python</a>
         </td>
     </tr>
@@ -10687,7 +11773,8 @@
                 17295 엔드게임 스포일러
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17295.cpp">C++</a>
         </td>
     </tr>
@@ -10698,7 +11785,8 @@
                 17350 2루수 이름이 뭐야
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17350.py">Python</a>
         </td>
     </tr>
@@ -10709,7 +11797,8 @@
                 17356 욱 제
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17356.py">Python</a>
         </td>
     </tr>
@@ -10720,7 +11809,8 @@
                 17362 수학은 체육과목 입니다 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17362.py">Python</a>
         </td>
     </tr>
@@ -10731,7 +11821,8 @@
                 17388 와글와글 숭고한
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17388.py">Python</a>
         </td>
     </tr>
@@ -10742,7 +11833,8 @@
                 17389 보너스 점수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17389.js">Node.js</a>
         </td>
     </tr>
@@ -10753,8 +11845,12 @@
                 17413 단어 뒤집기 2
             </a>
         </td>
-        <td align="center">
-            <a href="src/17/17413.js">Node.js</a><br><a href="src/17/17413.kt">Kotlin</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/17/17413.js">Node.js</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
+            <a href="src/17/17413.kt">Kotlin</a>
         </td>
     </tr>
     <tr>
@@ -10764,7 +11860,8 @@
                 17419 비트가 넘쳐흘러
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17419.cpp">C++</a>
         </td>
     </tr>
@@ -10775,7 +11872,8 @@
                 17450 과자 사기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17450.js">Node.js</a>
         </td>
     </tr>
@@ -10786,7 +11884,8 @@
                 17496 스타후르츠
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17496.cpp">C++</a>
         </td>
     </tr>
@@ -10797,7 +11896,8 @@
                 17502 클레어와 팰린드롬
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17502.js">Node.js</a>
         </td>
     </tr>
@@ -10808,7 +11908,8 @@
                 17520 Balanced String
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17520.py">Python</a>
         </td>
     </tr>
@@ -10819,7 +11920,8 @@
                 17530 Buffoon
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17530.py">Python</a>
         </td>
     </tr>
@@ -10830,7 +11932,8 @@
                 17548 Greetings!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17548.py">Python</a>
         </td>
     </tr>
@@ -10841,7 +11944,8 @@
                 17588 Missing Numbers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17588.py">Python</a>
         </td>
     </tr>
@@ -10852,7 +11956,8 @@
                 17608 막대기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17608.js">Node.js</a>
         </td>
     </tr>
@@ -10863,7 +11968,8 @@
                 17614 369
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17614.js">Node.js</a>
         </td>
     </tr>
@@ -10874,7 +11980,8 @@
                 17618 신기한 수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/17/17618.rs">Rust</a>
         </td>
     </tr>
@@ -10885,7 +11992,8 @@
                 17783 Breaking Branches
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17783.py">Python</a>
         </td>
     </tr>
@@ -10896,7 +12004,8 @@
                 17826 나의 학점은?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17826.js">Node.js</a>
         </td>
     </tr>
@@ -10907,7 +12016,8 @@
                 17863 FYI
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17863.cpp">C++</a>
         </td>
     </tr>
@@ -10918,7 +12028,8 @@
                 17874 Piece of Cake!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17874.py">Python</a>
         </td>
     </tr>
@@ -10929,7 +12040,8 @@
                 17903 Counting Clauses
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/17/17903.rs">Rust</a>
         </td>
     </tr>
@@ -10940,7 +12052,8 @@
                 17912 License to Launch
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17912.py">Python</a>
         </td>
     </tr>
@@ -10951,7 +12064,8 @@
                 17944 퐁당퐁당 1
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/17/17944.rs">Rust</a>
         </td>
     </tr>
@@ -10962,7 +12076,8 @@
                 17945 통학의 신
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17945.py">Python</a>
         </td>
     </tr>
@@ -10973,7 +12088,8 @@
                 17946 피자는 나눌 수록 커지잖아요
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17946.js">Node.js</a>
         </td>
     </tr>
@@ -10984,7 +12100,8 @@
                 18005 Even or Odd?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18005.py">Python</a>
         </td>
     </tr>
@@ -10995,7 +12112,8 @@
                 18063 Jazz Enthusiast
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/18/18063.rs">Rust</a>
         </td>
     </tr>
@@ -11006,7 +12124,8 @@
                 18096 Арифметическая магия
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/18/18096.cpp">C++</a>
         </td>
     </tr>
@@ -11017,8 +12136,12 @@
                 18108 1998년생인 내가 태국에서는 2541년생?!
             </a>
         </td>
-        <td align="center">
-            <a href="src/18/18108.cpp">C++</a><br><a href="src/18/18108.java">Java</a>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/18/18108.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
+            <a href="src/18/18108.java">Java</a>
         </td>
     </tr>
     <tr>
@@ -11028,7 +12151,8 @@
                 18127 모형결정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/18/18127.cs">C#</a>
         </td>
     </tr>
@@ -11039,7 +12163,8 @@
                 18142 Tapioka
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18142.py">Python</a>
         </td>
     </tr>
@@ -11050,7 +12175,8 @@
                 18247 겨울왕국 티켓 예매
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/18/18247.js">Node.js</a>
         </td>
     </tr>
@@ -11061,7 +12187,8 @@
                 18301 Rats
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/18/18301.cpp">C++</a>
         </td>
     </tr>
@@ -11072,7 +12199,8 @@
                 18322 Word Processor
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18322.py">Python</a>
         </td>
     </tr>
@@ -11083,7 +12211,8 @@
                 18330 Petrol
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/18/18330.rs">Rust</a>
         </td>
     </tr>
@@ -11094,7 +12223,8 @@
                 18332 Valid Emails
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/18/18332.js">Node.js</a>
         </td>
     </tr>
@@ -11105,7 +12235,8 @@
                 18398 HOMWRK
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18398.py">Python</a>
         </td>
     </tr>
@@ -11116,7 +12247,8 @@
                 18406 럭키 스트레이트
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/18/18406.cpp">C++</a>
         </td>
     </tr>
@@ -11127,7 +12259,8 @@
                 18408 3 つの整数
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18408.py">Python</a>
         </td>
     </tr>
@@ -11138,7 +12271,8 @@
                 18409 母音を数える
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18409.py">Python</a>
         </td>
     </tr>
@@ -11149,7 +12283,8 @@
                 18411 試験
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18411.py">Python</a>
         </td>
     </tr>
@@ -11160,7 +12295,8 @@
                 18412 文字列の反転
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18412.py">Python</a>
         </td>
     </tr>
@@ -11171,7 +12307,8 @@
                 18414 X に最も近い値
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18414.py">Python</a>
         </td>
     </tr>
@@ -11182,7 +12319,8 @@
                 18415 キャピタリゼーション
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18415.py">Python</a>
         </td>
     </tr>
@@ -11193,7 +12331,8 @@
                 18679 Banana
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18679.py">Python</a>
         </td>
     </tr>
@@ -11204,7 +12343,8 @@
                 18822 Beginning the Hunt
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/18/18822.txt">Text</a>
         </td>
     </tr>
@@ -11215,7 +12355,8 @@
                 18825 눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/18/18825.js">Node.js</a>
         </td>
     </tr>
@@ -11226,7 +12367,8 @@
                 18829 0초 후에 제출할 수 있습니다.
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/18/18829.txt">Text</a>
         </td>
     </tr>
@@ -11237,7 +12379,8 @@
                 18856 피드백
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/18/18856.rs">Rust</a>
         </td>
     </tr>
@@ -11248,7 +12391,8 @@
                 18883 N M 찍기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/18/18883.js">Node.js</a>
         </td>
     </tr>
@@ -11259,7 +12403,8 @@
                 19155 Copying Homework
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19155.js">Node.js</a>
         </td>
     </tr>
@@ -11270,7 +12415,8 @@
                 19532 수학은 비대면강의입니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19532.rs">Rust</a>
         </td>
     </tr>
@@ -11281,7 +12427,8 @@
                 19564 반복
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19564.rs">Rust</a>
         </td>
     </tr>
@@ -11292,7 +12439,8 @@
                 19572 가뭄(Small)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19572.js">Node.js</a>
         </td>
     </tr>
@@ -11303,7 +12451,8 @@
                 19575 Polynomial
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19575.rs">Rust</a>
         </td>
     </tr>
@@ -11314,7 +12463,8 @@
                 19602 Dog Treats
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/19/19602.py">Python</a>
         </td>
     </tr>
@@ -11325,7 +12475,8 @@
                 19604 Art
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/19/19604.cs">C#</a>
         </td>
     </tr>
@@ -11336,7 +12487,8 @@
                 19617 랜덤 게임~~~~~
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/19/19617.txt">Text</a>
         </td>
     </tr>
@@ -11347,7 +12499,8 @@
                 19698 헛간 청약
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19698.rs">Rust</a>
         </td>
     </tr>
@@ -11358,7 +12511,8 @@
                 19813 Dates
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19813.rs">Rust</a>
         </td>
     </tr>
@@ -11369,7 +12523,8 @@
                 19843 수면 패턴
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19843.js">Node.js</a>
         </td>
     </tr>
@@ -11380,7 +12535,8 @@
                 19844 단어 개수 세기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/19/19844.js">Node.js</a>
         </td>
     </tr>
@@ -11391,7 +12547,8 @@
                 19944 뉴비의 기준은 뭘까?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19944.rs">Rust</a>
         </td>
     </tr>
@@ -11402,7 +12559,8 @@
                 19945 새로운 언어 CC
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19945.rs">Rust</a>
         </td>
     </tr>
@@ -11413,7 +12571,8 @@
                 20001 고무오리 디버깅
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/20/20001.rs">Rust</a>
         </td>
     </tr>
@@ -11424,7 +12583,8 @@
                 20004 베스킨라빈스 31
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/20/20004.rs">Rust</a>
         </td>
     </tr>
@@ -11435,7 +12595,8 @@
                 20053 최소, 최대 2
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20053.js">Node.js</a>
         </td>
     </tr>
@@ -11446,7 +12607,8 @@
                 20112 사토르 마방진
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20112.js">Node.js</a>
         </td>
     </tr>
@@ -11457,7 +12619,8 @@
                 20113 긴급 회의
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20113.js">Node.js</a>
         </td>
     </tr>
@@ -11468,7 +12631,8 @@
                 20124 모르고리즘 회장님 추천 받습니다
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20124.js">Node.js</a>
         </td>
     </tr>
@@ -11479,7 +12643,8 @@
                 20155 우리 집 밑에 편의점이 있는데
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20155.js">Node.js</a>
         </td>
     </tr>
@@ -11490,7 +12655,8 @@
                 20215 Cutting Corners
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20215.cs">C#</a>
         </td>
     </tr>
@@ -11501,7 +12667,8 @@
                 20216 Ducky Debugging
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/20/20216.py">Python</a>
         </td>
     </tr>
@@ -11512,7 +12679,8 @@
                 20232 Archivist
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20232.js">Node.js</a>
         </td>
     </tr>
@@ -11523,7 +12691,8 @@
                 20233 Bicycle
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20233.cs">C#</a>
         </td>
     </tr>
@@ -11534,7 +12703,8 @@
                 20254 Site Score
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20254.js">Node.js</a>
         </td>
     </tr>
@@ -11545,7 +12715,8 @@
                 20268 Keystroke
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20268.cs">C#</a>
         </td>
     </tr>
@@ -11556,7 +12727,8 @@
                 20299 3대 측정
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/20/20299.js">Node.js</a>
         </td>
     </tr>
@@ -11567,7 +12739,8 @@
                 20352 Circus
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20352.cs">C#</a>
         </td>
     </tr>
@@ -11578,7 +12751,8 @@
                 20353 Atrium
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20353.cs">C#</a>
         </td>
     </tr>
@@ -11589,7 +12763,8 @@
                 20492 세금
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20492.cpp">C++</a>
         </td>
     </tr>
@@ -11600,7 +12775,8 @@
                 20494 스시
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20494.cs">C#</a>
         </td>
     </tr>
@@ -11611,7 +12787,8 @@
                 20499 Darius님 한타 안 함?
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20499.cs">C#</a>
         </td>
     </tr>
@@ -11622,7 +12799,8 @@
                 20528 끝말잇기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/20/20528.sh">Bash</a>
         </td>
     </tr>
@@ -11633,7 +12811,8 @@
                 20540 연길이의 이상형
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20540.cpp">C++</a>
         </td>
     </tr>
@@ -11644,7 +12823,8 @@
                 20673 Covid-19
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20673.cpp">C++</a>
         </td>
     </tr>
@@ -11655,7 +12835,8 @@
                 20833 Kuber
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/20/20833.sh">Bash</a>
         </td>
     </tr>
@@ -11666,7 +12847,8 @@
                 20839 Betygsättning
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20839.cs">C#</a>
         </td>
     </tr>
@@ -11677,7 +12859,8 @@
                 20944 팰린드롬 척화비
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20944.cs">C#</a>
         </td>
     </tr>
@@ -11688,7 +12871,8 @@
                 20976 2 番目に大きい整数 (The Second Largest Integer)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20976.cpp">C++</a>
         </td>
     </tr>
@@ -11699,7 +12883,8 @@
                 21185 Some Sum
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21185.cs">C#</a>
         </td>
     </tr>
@@ -11710,7 +12895,8 @@
                 21300 Bottle Return
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21300.cpp">C++</a>
         </td>
     </tr>
@@ -11721,7 +12907,8 @@
                 21335 Another Eruption
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21335.cs">C#</a>
         </td>
     </tr>
@@ -11732,7 +12919,8 @@
                 21354 Äpplen och päron
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21354.cpp">C++</a>
         </td>
     </tr>
@@ -11743,7 +12931,8 @@
                 21553 암호 만들기
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/21/21553.sh">Bash</a>
         </td>
     </tr>
@@ -11754,7 +12943,8 @@
                 21569 Цапли
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21569.cs">C#</a>
         </td>
     </tr>
@@ -11765,7 +12955,8 @@
                 21591 Laptop Sticker
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21591.cpp">C++</a>
         </td>
     </tr>
@@ -11776,7 +12967,8 @@
                 21598 SciComLove
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21598.cpp">C++</a>
         </td>
     </tr>
@@ -11787,7 +12979,8 @@
                 21612 Boiling Water
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21612.cpp">C++</a>
         </td>
     </tr>
@@ -11798,7 +12991,8 @@
                 21631 Checkers
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21631.cs">C#</a>
         </td>
     </tr>
@@ -11809,7 +13003,8 @@
                 21633 Bank Transfer
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21633.cs">C#</a>
         </td>
     </tr>
@@ -11820,7 +13015,8 @@
                 21638 SMS from MCHS
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21638.cs">C#</a>
         </td>
     </tr>
@@ -11831,7 +13027,8 @@
                 21895 Rock-Paper-Scissors for three
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21895.cs">C#</a>
         </td>
     </tr>
@@ -11842,7 +13039,8 @@
                 21955 Split
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21955.cs">C#</a>
         </td>
     </tr>
@@ -11853,7 +13051,8 @@
                 22015 金平糖 (Konpeito)
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/22/22015.cpp">C++</a>
         </td>
     </tr>
@@ -11864,7 +13063,8 @@
                 22150 Шоколадка
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22150.cs">C#</a>
         </td>
     </tr>
@@ -11875,7 +13075,8 @@
                 22151 Игра
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22151.cs">C#</a>
         </td>
     </tr>
@@ -11886,7 +13087,8 @@
                 22193 Multiply
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22193.cs">C#</a>
         </td>
     </tr>
@@ -11897,7 +13099,8 @@
                 22380 割り勘
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22380.cs">C#</a>
         </td>
     </tr>
@@ -11908,7 +13111,8 @@
                 22388 改元
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22388.cs">C#</a>
         </td>
     </tr>
@@ -11919,7 +13123,8 @@
                 22396 カレー作り
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22396.cs">C#</a>
         </td>
     </tr>
@@ -11930,7 +13135,8 @@
                 22938 백발백준하는 명사수
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/22/22938.sh">Bash</a>
         </td>
     </tr>
@@ -11941,7 +13147,8 @@
                 23037 5의 수난
             </a>
         </td>
-        <td align="center">
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/23/23037.cpp">C++</a>
         </td>
     </tr>
