@@ -4190,6 +4190,14 @@
         ]
     },
     {
+        "id": 10491,
+        "title": "Quite a problem",
+        "level": 4,
+        "codes": [
+            "src/10/10491.sh"
+        ]
+    },
+    {
         "id": 10539,
         "title": "수빈이와 수열",
         "level": 3,
