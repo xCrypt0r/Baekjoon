@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1074문제)
+## 문제 풀이 현황 (1075문제)
 
 ### 언어별 코드 수
 <table>
@@ -56,16 +56,16 @@
         <td>15.66 kB</td>
     </tr>
     <tr>
+        <td><b>Bash</b></td>
+        <td>14</td>
+        <td>368</td>
+        <td>5.73 kB</td>
+    </tr>
+    <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
         <td>17.26 kB</td>
-    </tr>
-    <tr>
-        <td><b>Bash</b></td>
-        <td>13</td>
-        <td>346</td>
-        <td>5.41 kB</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,117</td>
-        <td>37,798</td>
-        <td>666.1 kB</td>
+        <td>1,118</td>
+        <td>37,820</td>
+        <td>666.42 kB</td>
     </tr>
 </table>
 
@@ -2813,6 +2813,17 @@
         </td>
         <td align="center">
             <a href="src/3/3181.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3447">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                3447 버그왕
+            </a>
+        </td>
+        <td align="center">
+            <a href="src/3/3447.sh">Bash</a>
         </td>
     </tr>
     <tr>
