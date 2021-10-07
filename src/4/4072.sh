@@ -21,7 +21,7 @@ main() {
         read -a words <<< $sentence
 
         for word in ${words[@]}; do
-            for ((i = ${#word} - 1; i >= 0; i--)); do
+            for (( i = ${#word} - 1; i >= 0; i-- )); do
                 echo -n ${word:$i:1}
             done
 
