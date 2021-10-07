@@ -8603,6 +8603,14 @@
         ]
     },
     {
+        "id": 21866,
+        "title": "추첨을 통해 커피를 받자",
+        "level": 3,
+        "codes": [
+            "src/21/21866.sh"
+        ]
+    },
+    {
         "id": 21895,
         "title": "Rock-Paper-Scissors for three",
         "level": 4,

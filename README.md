@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1082문제)
+## 문제 풀이 현황 (1083문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>15</td>
-        <td>402</td>
-        <td>6.26 kB</td>
+        <td>16</td>
+        <td>439</td>
+        <td>6.94 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,125</td>
-        <td>38,131</td>
-        <td>672.77 kB</td>
+        <td>1,126</td>
+        <td>38,168</td>
+        <td>673.44 kB</td>
     </tr>
 </table>
 
@@ -13054,6 +13054,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21638.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21866">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21866 추첨을 통해 커피를 받자
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/21/21866.sh">Bash</a>
         </td>
     </tr>
     <tr>
