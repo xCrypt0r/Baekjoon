@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1081문제)
+## 문제 풀이 현황 (1082문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>59</td>
-        <td>2,202</td>
-        <td>47.53 kB</td>
+        <td>60</td>
+        <td>2,239</td>
+        <td>48.3 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,124</td>
-        <td>38,094</td>
-        <td>672 kB</td>
+        <td>1,125</td>
+        <td>38,131</td>
+        <td>672.77 kB</td>
     </tr>
 </table>
 
@@ -13162,6 +13162,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/22/22396.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22864">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                22864 피로도
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/22/22864.cs">C#</a>
         </td>
     </tr>
     <tr>
