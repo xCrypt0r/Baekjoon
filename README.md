@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1086문제)
+## 문제 풀이 현황 (1087문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>63</td>
-        <td>2,340</td>
-        <td>50.23 kB</td>
+        <td>64</td>
+        <td>2,381</td>
+        <td>51.06 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,129</td>
-        <td>38,269</td>
-        <td>675.37 kB</td>
+        <td>1,130</td>
+        <td>38,310</td>
+        <td>676.2 kB</td>
     </tr>
 </table>
 
@@ -1450,6 +1450,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/2/2292.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2293">
+                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                2293 동전 1
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/2/2293.cs">C#</a>
         </td>
     </tr>
     <tr>
