@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1089문제)
+## 문제 풀이 현황 (1090문제)
 
 ### 언어별 코드 수
 <table>
@@ -68,6 +68,12 @@
         <td>17.26 kB</td>
     </tr>
     <tr>
+        <td><b>C</b></td>
+        <td>1</td>
+        <td>48</td>
+        <td>729 B</td>
+    </tr>
+    <tr>
         <td><b>Pascal</b></td>
         <td>1</td>
         <td>15</td>
@@ -75,9 +81,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,132</td>
-        <td>38,447</td>
-        <td>678.38 kB</td>
+        <td>1,133</td>
+        <td>0</td>
+        <td>6.67 MB</td>
     </tr>
 </table>
 
@@ -7687,6 +7693,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/11/11053.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11055">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+                11055 가장 큰 증가 부분 수열
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/555555/000000?text=+" height="12">
+            <a href="src/11/11055.c">C</a>
         </td>
     </tr>
     <tr>
