@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1091문제)
+## 문제 풀이 현황 (1092문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>17</td>
-        <td>457</td>
-        <td>7.16 kB</td>
+        <td>18</td>
+        <td>493</td>
+        <td>8.01 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,134</td>
+        <td>1,135</td>
         <td>0</td>
         <td>6.67 MB</td>
     </tr>
@@ -8518,6 +8518,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12091.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12092">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
+                12092 포켓몬 GO 진화
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/12/12092.sh">Bash</a>
         </td>
     </tr>
     <tr>
