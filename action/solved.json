@@ -8331,6 +8331,14 @@
         ]
     },
     {
+        "id": 19774,
+        "title": "ABCD-код",
+        "level": 3,
+        "codes": [
+            "src/19/19774.c"
+        ]
+    },
+    {
         "id": 19813,
         "title": "Dates",
         "level": 4,

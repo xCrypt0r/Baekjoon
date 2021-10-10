@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1093문제)
+## 문제 풀이 현황 (1094문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>C</b></td>
-        <td>1</td>
-        <td>48</td>
-        <td>729 B</td>
+        <td>2</td>
+        <td>66</td>
+        <td>966 B</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,136</td>
+        <td>1,137</td>
         <td>0</td>
         <td>6.67 MB</td>
     </tr>
@@ -12652,6 +12652,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19698.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19774">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                19774 ABCD-код
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/555555/000000?text=+" height="12">
+            <a href="src/19/19774.c">C</a>
         </td>
     </tr>
     <tr>
