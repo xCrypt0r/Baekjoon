@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1094문제)
+## 문제 풀이 현황 (1095문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>19</td>
-        <td>515</td>
-        <td>8.36 kB</td>
+        <td>20</td>
+        <td>544</td>
+        <td>8.75 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -81,7 +81,7 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,137</td>
+        <td>1,138</td>
         <td>0</td>
         <td>6.67 MB</td>
     </tr>
@@ -13084,6 +13084,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21354.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21420">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21420 Монетки
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/21/21420.sh">Bash</a>
         </td>
     </tr>
     <tr>
