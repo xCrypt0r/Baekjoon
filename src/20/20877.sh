@@ -18,7 +18,7 @@ main() {
     read -a numbers <<< "$X"
 
     for (( i = 0; i < N; i++ )); do
-        res=$(( res + (( numbers[i] > 7 ? 7 : numbers[i] )) - (( i % 2 ? 3 : 2 )) ))
+        res=$(( res + (numbers[i] > 7 ? 7 : numbers[i]) - (i % 2 ? 3 : 2) ))
     done
 
     echo $res
