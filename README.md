@@ -95,7 +95,7 @@
         <td><b>Total</b></td>
         <td>1,142</td>
         <td>38,688</td>
-        <td>682.21 kB</td>
+        <td>682.2 kB</td>
     </tr>
 </table>
 
