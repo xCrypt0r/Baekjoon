@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1095문제)
+## 문제 풀이 현황 (1096문제)
 
 ### 언어별 코드 수
 <table>
@@ -86,8 +86,14 @@
         <td>220 B</td>
     </tr>
     <tr>
+        <td><b>Lua</b></td>
+        <td>1</td>
+        <td>14</td>
+        <td>214 B</td>
+    </tr>
+    <tr>
         <td><b>Total</b></td>
-        <td>1,140</td>
+        <td>1,141</td>
         <td>0</td>
         <td>6.67 MB</td>
     </tr>
@@ -13372,6 +13378,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/23/23037.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23234">
+                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                23234 The World Responds
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/000080/000000?text=+" height="12">
+            <a href="src/23/23234.lua">Lua</a>
         </td>
     </tr>
 </table>

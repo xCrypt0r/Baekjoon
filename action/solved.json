@@ -8803,5 +8803,13 @@
         "codes": [
             "src/23/23037.cpp"
         ]
+    },
+    {
+        "id": 23234,
+        "title": "The World Responds",
+        "level": 1,
+        "codes": [
+            "src/23/23234.lua"
+        ]
     }
 ]
