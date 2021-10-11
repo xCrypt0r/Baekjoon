@@ -1208,7 +1208,8 @@
         "title": "Hello World",
         "level": 1,
         "codes": [
-            "src/2/2557.cpp"
+            "src/2/2557.cpp",
+            "src/2/2557.rb"
         ]
     },
     {
