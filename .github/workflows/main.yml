@@ -9,16 +9,13 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [ 12.x ]
     steps:
       - name: Check commit message
         uses: GsActions/commit-message-checker@v1
         with:
-          pattern: '^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$'
-          flags: 'gm'
-          error: 'Commit message should start with Add or Delete or Update'
+          pattern: ^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$
+          flags: gm
+          error: Commit message should start with Add or Delete or Update
 
       - name: Checkout code
         uses: actions/checkout@v2
@@ -29,7 +26,7 @@ jobs:
         env:
           cache-name: cache-node-modules
         with:
-          path: ~/.npm
+          path: action/node_modules
           key: ${{ runner.os }}-build-${{ env.cahce-name }}-${{ hashFiles('action/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-
@@ -41,22 +38,17 @@ jobs:
           format: space-delimited
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 'Install Node.js ${{ matrix.node-version }}'
+      - name: Install dependencies
         if: steps.cacheStep.outputs.cache-hit != 'true'
-        uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node-version }}
+        run: cd action && npm install
 
       - name: Push to github
         run: |
-          cd action
-          npm install
           id=($(echo "${{ steps.files.outputs.all }}" | grep -oP '\d{4,}'))
+          cd action
           node main.js ${id[@]}
           git config --global user.name ${{ secrets.USER }}
           git config --global user.email ${{ secrets.EMAIL }}
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add ../README.md
-          git add solved.json
-          git commit -m "Update README.md"
+          git commit -am "Update README.md"
           git push
