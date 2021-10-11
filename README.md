@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1096문제)
+## 문제 풀이 현황 (1097문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>20</td>
-        <td>544</td>
-        <td>8.75 kB</td>
+        <td>21</td>
+        <td>570</td>
+        <td>9.15 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,141</td>
-        <td>0</td>
-        <td>6.67 MB</td>
+        <td>1,142</td>
+        <td>38,688</td>
+        <td>682.21 kB</td>
     </tr>
 </table>
 
@@ -13030,6 +13030,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20839.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20877">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                20877 Minigolf
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/20/20877.sh">Bash</a>
         </td>
     </tr>
     <tr>
