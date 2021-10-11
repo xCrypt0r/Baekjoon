@@ -74,6 +74,12 @@
         <td>966 B</td>
     </tr>
     <tr>
+        <td><b>Ruby</b></td>
+        <td>1</td>
+        <td>16</td>
+        <td>232 B</td>
+    </tr>
+    <tr>
         <td><b>Pascal</b></td>
         <td>1</td>
         <td>15</td>
@@ -81,7 +87,7 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,138</td>
+        <td>1,139</td>
         <td>0</td>
         <td>6.67 MB</td>
     </tr>
@@ -6673,6 +6679,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10718.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/701516/000000?text=+" height="12">
+            <a href="src/10/10718.rb">Ruby</a>
         </td>
     </tr>
     <tr>
