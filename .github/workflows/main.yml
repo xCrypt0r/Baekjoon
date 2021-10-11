@@ -19,16 +19,34 @@ jobs:
           pattern: '^(Add|Delete|Update) \d+\.\w+( \| (Add|Delete|Update) \d+\.\w+)*$'
           flags: 'gm'
           error: 'Commit message should start with Add or Delete or Update'
-      - uses: actions/checkout@v2
-      - uses: jitterbit/get-changed-files@v1
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Cache node modules
+        id: cacheStep
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cahce-name }}-${{ hashFiles('action/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+
+      - name: Get changed files
+        uses: jitterbit/get-changed-files@v1
         id: files
         with:
           format: space-delimited
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: 'Install Node.js ${{ matrix.node-version }}'
+        if: steps.cacheStep.outputs.cache-hit != 'true'
         uses: actions/setup-node@v1
         with:
-          node-version: '${{ matrix.node-version }}'
+          node-version: ${{ matrix.node-version }}
+
       - name: Push to github
         run: |
           cd action
