@@ -3133,6 +3133,14 @@
         ]
     },
     {
+        "id": 6779,
+        "title": "Who Has Seen The Wind",
+        "level": 3,
+        "codes": [
+            "src/6/6779.sh"
+        ]
+    },
+    {
         "id": 6780,
         "title": "Sumac Sequences",
         "level": 3,

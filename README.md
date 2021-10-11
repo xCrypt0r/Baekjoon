@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1097문제)
+## 문제 풀이 현황 (1098문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>21</td>
-        <td>570</td>
-        <td>9.15 kB</td>
+        <td>22</td>
+        <td>602</td>
+        <td>9.71 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,142</td>
-        <td>38,688</td>
-        <td>682.2 kB</td>
+        <td>1,143</td>
+        <td>38,720</td>
+        <td>682.76 kB</td>
     </tr>
 </table>
 
@@ -4834,6 +4834,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6778.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6779">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6779 Who Has Seen The Wind
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/6/6779.sh">Bash</a>
         </td>
     </tr>
     <tr>
