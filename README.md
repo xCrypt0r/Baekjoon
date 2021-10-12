@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>29</td>
-        <td>3,239</td>
-        <td>30.39 kB</td>
+        <td>34</td>
+        <td>4,280</td>
+        <td>36.06 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,144</td>
-        <td>38,749</td>
-        <td>683.18 kB</td>
+        <td>1,149</td>
+        <td>39,790</td>
+        <td>688.84 kB</td>
     </tr>
 </table>
 
@@ -490,6 +490,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1237.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/1/1237.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -1915,6 +1918,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2555.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/2/2555.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -1942,6 +1948,9 @@
         	<br>
             <img src="https://via.placeholder.com/12/701516/000000?text=+" height="12">
             <a href="src/2/2557.rb">Ruby</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/2/2557.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -3609,13 +3618,16 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/4673">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 4673 셀프 넘버
             </a>
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/4/4673.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/4/4673.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -4018,6 +4030,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5339.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/5/5339.txt">Text</a>
         </td>
     </tr>
     <tr>

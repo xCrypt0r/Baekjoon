@@ -249,7 +249,8 @@
         "title": "정ㅋ벅ㅋ",
         "level": 0,
         "codes": [
-            "src/1/1237.cpp"
+            "src/1/1237.cpp",
+            "src/1/1237.txt"
         ]
     },
     {
@@ -1192,7 +1193,8 @@
         "title": "생일 출력하기",
         "level": 0,
         "codes": [
-            "src/2/2555.cpp"
+            "src/2/2555.cpp",
+            "src/2/2555.txt"
         ]
     },
     {
@@ -1209,7 +1211,8 @@
         "level": 1,
         "codes": [
             "src/2/2557.cpp",
-            "src/2/2557.rb"
+            "src/2/2557.rb",
+            "src/2/2557.txt"
         ]
     },
     {
@@ -2317,9 +2320,10 @@
     {
         "id": 4673,
         "title": "셀프 넘버",
-        "level": 5,
+        "level": 6,
         "codes": [
-            "src/4/4673.cpp"
+            "src/4/4673.cpp",
+            "src/4/4673.txt"
         ]
     },
     {
@@ -2585,7 +2589,8 @@
         "title": "콜센터",
         "level": 1,
         "codes": [
-            "src/5/5339.cpp"
+            "src/5/5339.cpp",
+            "src/5/5339.txt"
         ]
     },
     {
