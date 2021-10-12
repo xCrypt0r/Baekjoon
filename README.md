@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>39</td>
-        <td>4,418</td>
-        <td>37.9 kB</td>
+        <td>44</td>
+        <td>4,485</td>
+        <td>39.02 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,154</td>
-        <td>39,928</td>
-        <td>690.68 kB</td>
+        <td>1,159</td>
+        <td>39,995</td>
+        <td>691.81 kB</td>
     </tr>
 </table>
 
@@ -6199,6 +6199,9 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9999.py">Python</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/9/9999.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -6295,6 +6298,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10170.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/10/10170.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -6322,6 +6328,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/10/10172.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/10/10172.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -6694,6 +6703,9 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/10/10699.py">Python</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/10/10699.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -6733,6 +6745,9 @@
         	<br>
             <img src="https://via.placeholder.com/12/701516/000000?text=+" height="12">
             <a href="src/10/10718.rb">Ruby</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/10/10718.txt">Text</a>
         </td>
     </tr>
     <tr>
