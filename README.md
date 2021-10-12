@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>49</td>
-        <td>4,535</td>
-        <td>39.79 kB</td>
+        <td>54</td>
+        <td>4,585</td>
+        <td>40.67 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,164</td>
-        <td>40,045</td>
-        <td>692.58 kB</td>
+        <td>1,169</td>
+        <td>40,095</td>
+        <td>693.46 kB</td>
     </tr>
 </table>
 
@@ -10693,6 +10693,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15733.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/15/15733.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -10917,13 +10920,16 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15890">
-                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 15890 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
             </a>
         </td>
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/15/15890.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/15/15890.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -11059,6 +11065,9 @@
         	<br>
             <img src="https://via.placeholder.com/12/B07219/000000?text=+" height="12">
             <a href="src/15/15962.java">Java</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/15/15962.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -12016,6 +12025,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17295.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/17/17295.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -13474,6 +13486,9 @@
         <td>
             <img src="https://via.placeholder.com/12/000080/000000?text=+" height="12">
             <a href="src/23/23234.lua">Lua</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/23/23234.txt">Text</a>
         </td>
     </tr>
     <tr>
