@@ -37,3 +37,10 @@
     ```
 
 1. `node main.js 1000.cpp` 와 같이 입력하면 해당 문제에 자동으로 주석이 추가됩니다.
+
+### 문제 정보 업데이트
+---
+
+1. `cd action` 를 입력하여 `action` 폴더로 이동하고 `bash update.sh` 를 입력하여 업데이트를 진행합니다. (윈도우 환경이라면 `git bash` 에서 실행하면 정상적으로 동작합니다.)
+
+2. 자동으로 [solved.json](action/solved.json) 의 문제 정보(책정 난이도 등)가 업데이트되고 [README.md](README.md) 에도 반영됩니다.
