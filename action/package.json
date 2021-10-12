@@ -11,7 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "cheerio": "^1.0.0-rc.10",
     "fast-glob": "^3.2.7",
     "filesize": "^8.0.3",
     "request": "^2.88.2"

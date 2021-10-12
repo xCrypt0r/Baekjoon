@@ -1,13 +1,12 @@
 #!/bin/bash
 
 src="../src"
+id=($(
+    find $src -type f \
+    | grep -oP '\d{4,}' \
+    | uniq \
+    | tr '\n' ' ' \
+))
 
-for folder in $(ls $src | sort -n)
-do
-    node main.js $( \
-        find $src/$folder -type f \
-        | grep -oP '\d{4,}' \
-        | uniq \
-        | tr '\n' ' ' \
-    )
-done
+echo "${#id[@]}문제의 정보를 업데이트 합니다."
+node main.js ${id[@]}

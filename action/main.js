@@ -1,7 +1,6 @@
 const { promisify } = require('util');
 const chalk         = require('chalk');
 const request       = promisify(require('request'));
-const cheerio       = require('cheerio');
 const glob          = require('fast-glob');
 const fs            = require('fs');
 const filesize      = require('filesize');
@@ -10,7 +9,7 @@ const path          = require('path');
 const exec          = promisify(require('child_process').exec);
 const rgx_id        = /\d+/;
 const argv          = process.argv.slice(2).map(a => a.match(rgx_id)[0]);
-const URL           = 'https://solved.ac/search?query=';
+const URL           = 'https://solved.ac/api/v3/problem/lookup?problemIds=';
 const saveFile      = './solved.json';
 const list          = require(saveFile);
 const LANG          = require('./langs.json');
@@ -20,8 +19,12 @@ function main() {
     let promises = [],
         ids = [...new Set(argv)];
 
-    for (let id of ids) {
-        promises.push(getInfo(id));
+    if (ids.length < 1) {
+        process.exit(1);
+    }
+
+    for (let chunk of chunkArray(ids, 100)) {
+        promises.push(getInfo(chunk));
     }
 
     return Promise.all(promises)
@@ -32,13 +35,14 @@ function main() {
         });
 }
 
-async function getInfo(id) {
-    let { body } = await request(URL + id),
-        $ = cheerio.load(body),
-        problems = JSON.parse($('#__NEXT_DATA__').html()).props.pageProps.problems.items,
-        { problemId, titleKo, level } = problems.find(p => p.problemId === +id);
+async function getInfo(ids) {
+    let { body } = await request({ url: URL + ids.join(','), json: true });
 
-    saveInfo(problemId, titleKo, level);
+    for (let problem of body) {
+        let { problemId, titleKo, level } = problem;
+
+        saveInfo(problemId, titleKo, level);
+    }
 }
 
 function saveInfo(id, title, level) {
@@ -151,6 +155,16 @@ async function updateReadme(list) {
         .replace('${{SOLVED}}', codesMarkdown.join('').trim());
 
     fs.writeFileSync('../README.md', readme);
+}
+
+function chunkArray(arr, size) {
+    let chunks = [];
+
+    for (let i = 0, len = arr.length; i < len; i += size) {
+        chunks.push(arr.slice(i, i + size));
+    }
+
+    return chunks;
 }
 
 main();
