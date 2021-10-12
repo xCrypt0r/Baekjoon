@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>34</td>
-        <td>4,280</td>
-        <td>36.06 kB</td>
+        <td>39</td>
+        <td>4,418</td>
+        <td>37.9 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,149</td>
-        <td>39,790</td>
-        <td>688.84 kB</td>
+        <td>1,154</td>
+        <td>39,928</td>
+        <td>690.68 kB</td>
     </tr>
 </table>
 
@@ -4765,6 +4765,9 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/6/6679.py">Python</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/6/6679.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -4969,6 +4972,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/7/7287.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/7/7287.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -5536,6 +5542,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/9/9161.js">Node.js</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/9/9161.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -5968,6 +5977,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9653.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/9/9653.txt">Text</a>
         </td>
     </tr>
     <tr>
@@ -5980,6 +5992,9 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/9/9654.cpp">C++</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/9/9654.txt">Text</a>
         </td>
     </tr>
     <tr>

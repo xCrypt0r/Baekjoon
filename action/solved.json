@@ -3078,7 +3078,8 @@
         "title": "싱기한 네자리 숫자",
         "level": 4,
         "codes": [
-            "src/6/6679.py"
+            "src/6/6679.py",
+            "src/6/6679.txt"
         ]
     },
     {
@@ -3214,7 +3215,8 @@
         "title": "등록",
         "level": 1,
         "codes": [
-            "src/7/7287.cpp"
+            "src/7/7287.cpp",
+            "src/7/7287.txt"
         ]
     },
     {
@@ -3591,7 +3593,8 @@
         "title": "Sir Bedavere’s Bogus Division Solutions",
         "level": 3,
         "codes": [
-            "src/9/9161.js"
+            "src/9/9161.js",
+            "src/9/9161.txt"
         ]
     },
     {
@@ -3879,7 +3882,8 @@
         "title": "스타워즈 로고",
         "level": 1,
         "codes": [
-            "src/9/9653.cpp"
+            "src/9/9653.cpp",
+            "src/9/9653.txt"
         ]
     },
     {
@@ -3887,7 +3891,8 @@
         "title": "나부 함대 데이터",
         "level": 1,
         "codes": [
-            "src/9/9654.cpp"
+            "src/9/9654.cpp",
+            "src/9/9654.txt"
         ]
     },
     {
