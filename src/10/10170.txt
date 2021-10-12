@@ -1,0 +1,23 @@
+---
+10170. NFC West vs North
+
+작성자: xCrypt0r
+언어: Text
+사용 메모리: 4,528 KB
+소요 시간: 0 ms
+해결 날짜: 2021년 10월 12일
+---
+
+NFC West       W   L  T
+-----------------------
+Seattle        13  3  0
+San Francisco  12  4  0
+Arizona        10  6  0
+St. Louis      7   9  0
+
+NFC North      W   L  T
+-----------------------
+Green Bay      8   7  1
+Chicago        8   8  0
+Detroit        7   9  0
+Minnesota      5  10  1
