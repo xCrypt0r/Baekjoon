@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1099문제)
+## 문제 풀이 현황 (1100문제)
 
 ### 언어별 코드 수
 <table>
@@ -17,55 +17,55 @@
         <td><b>C++</b></td>
         <td>318</td>
         <td>10,837</td>
-        <td>175.72 kB</td>
+        <td>165.21 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>313</td>
         <td>7,973</td>
-        <td>150.13 kB</td>
+        <td>142.22 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>253</td>
         <td>7,790</td>
-        <td>170.81 kB</td>
+        <td>163.16 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>89.56 kB</td>
+        <td>85.36 kB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
         <td>65</td>
         <td>2,425</td>
-        <td>52.03 kB</td>
+        <td>51.97 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>54</td>
         <td>4,585</td>
-        <td>43.91 kB</td>
+        <td>40.67 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>16.44 kB</td>
+        <td>15.66 kB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>23</td>
-        <td>631</td>
-        <td>10.2 kB</td>
+        <td>24</td>
+        <td>657</td>
+        <td>10.6 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>18.01 kB</td>
+        <td>17.26 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,169</td>
-        <td>40,095</td>
-        <td>728.62 kB</td>
+        <td>1,170</td>
+        <td>40,121</td>
+        <td>693.94 kB</td>
     </tr>
 </table>
 
@@ -13018,6 +13018,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20353.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20410">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                20410 추첨상 사수 대작전! (Easy)
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/20/20410.sh">Bash</a>
         </td>
     </tr>
     <tr>
