@@ -70,7 +70,7 @@
     {
         "id": 1013,
         "title": "Contact",
-        "level": 10,
+        "level": 11,
         "codes": [
             "src/1/1013.js"
         ]
@@ -206,7 +206,7 @@
     {
         "id": 1193,
         "title": "분수찾기",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/1/1193.js"
         ]
@@ -214,7 +214,7 @@
     {
         "id": 1212,
         "title": "8진수 2진수",
-        "level": 2,
+        "level": 3,
         "codes": [
             "src/1/1212.java",
             "src/1/1212.py"
@@ -264,7 +264,7 @@
     {
         "id": 1252,
         "title": "이진수 덧셈",
-        "level": 5,
+        "level": 4,
         "codes": [
             "src/1/1252.py"
         ]
@@ -329,7 +329,7 @@
     {
         "id": 1292,
         "title": "쉽게 푸는 문제",
-        "level": 7,
+        "level": 6,
         "codes": [
             "src/1/1292.js"
         ]
@@ -561,7 +561,7 @@
     {
         "id": 1676,
         "title": "팩토리얼 0의 개수",
-        "level": 8,
+        "level": 7,
         "codes": [
             "src/1/1676.js"
         ]
@@ -600,7 +600,7 @@
     },
     {
         "id": 1747,
-        "title": "소수&팰린드롬",
+        "title": "소수&amp;팰린드롬",
         "level": 11,
         "codes": [
             "src/1/1747.js"
@@ -745,7 +745,7 @@
     {
         "id": 1942,
         "title": "디지털시계",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/1/1942.js"
         ]
@@ -954,7 +954,7 @@
     {
         "id": 2407,
         "title": "조합",
-        "level": 9,
+        "level": 8,
         "codes": [
             "src/2/2407.py"
         ]
@@ -1266,7 +1266,7 @@
     {
         "id": 2581,
         "title": "소수",
-        "level": 7,
+        "level": 6,
         "codes": [
             "src/2/2581.py"
         ]
@@ -1322,7 +1322,7 @@
     {
         "id": 2669,
         "title": "직사각형 네개의 합집합의 면적 구하기",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/2/2669.js"
         ]
@@ -1402,7 +1402,7 @@
     {
         "id": 2721,
         "title": "삼각수의 합",
-        "level": 4,
+        "level": 3,
         "codes": [
             "src/2/2721.java",
             "src/2/2721.js"
@@ -1411,7 +1411,7 @@
     {
         "id": 2733,
         "title": "Brainf*ck",
-        "level": 12,
+        "level": 13,
         "codes": [
             "src/2/2733.kt"
         ]
@@ -1484,7 +1484,7 @@
     {
         "id": 2748,
         "title": "피보나치 수 2",
-        "level": 6,
+        "level": 5,
         "codes": [
             "src/2/2748.cpp",
             "src/2/2748.kt"
@@ -1558,7 +1558,7 @@
     {
         "id": 2776,
         "title": "암기왕",
-        "level": 8,
+        "level": 7,
         "codes": [
             "src/2/2776.cpp"
         ]
@@ -1678,7 +1678,7 @@
     {
         "id": 2869,
         "title": "달팽이는 올라가고 싶다",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/2/2869.js"
         ]
@@ -1686,7 +1686,7 @@
     {
         "id": 2870,
         "title": "수학숙제",
-        "level": 6,
+        "level": 7,
         "codes": [
             "src/2/2870.js"
         ]
@@ -1886,7 +1886,7 @@
     {
         "id": 2998,
         "title": "8진수",
-        "level": 6,
+        "level": 5,
         "codes": [
             "src/2/2998.py"
         ]
@@ -1974,7 +1974,7 @@
     {
         "id": 3049,
         "title": "다각형의 대각선",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/3/3049.py"
         ]
@@ -2088,7 +2088,7 @@
     {
         "id": 3568,
         "title": "iSharp",
-        "level": 6,
+        "level": 7,
         "codes": [
             "src/3/3568.js"
         ]
@@ -2128,7 +2128,7 @@
     {
         "id": 4150,
         "title": "피보나치 수",
-        "level": 8,
+        "level": 6,
         "codes": [
             "src/4/4150.py"
         ]
@@ -2168,7 +2168,7 @@
     {
         "id": 4402,
         "title": "Soundex",
-        "level": 6,
+        "level": 5,
         "codes": [
             "src/4/4402.cpp"
         ]
@@ -3020,7 +3020,7 @@
     {
         "id": 6358,
         "title": "Four Quarters",
-        "level": 5,
+        "level": 8,
         "codes": [
             "src/6/6358.txt"
         ]
@@ -3310,7 +3310,7 @@
     {
         "id": 8246,
         "title": "Stół",
-        "level": 2,
+        "level": 3,
         "codes": [
             "src/8/8246.py"
         ]
@@ -3422,7 +3422,7 @@
     {
         "id": 8716,
         "title": "Pole",
-        "level": 2,
+        "level": 3,
         "codes": [
             "src/8/8716.py"
         ]
@@ -3446,7 +3446,7 @@
     {
         "id": 8721,
         "title": "Wykreślanka",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/8/8721.js"
         ]
@@ -3720,7 +3720,7 @@
     {
         "id": 9342,
         "title": "염색체",
-        "level": 6,
+        "level": 7,
         "codes": [
             "src/9/9342.js"
         ]
@@ -3824,7 +3824,7 @@
     {
         "id": 9524,
         "title": "Beautiful Yekaterinburg",
-        "level": 2,
+        "level": 0,
         "codes": [
             "src/9/9524.py"
         ]
@@ -3906,7 +3906,7 @@
     {
         "id": 9656,
         "title": "돌 게임 2",
-        "level": 7,
+        "level": 6,
         "codes": [
             "src/9/9656.js"
         ]
@@ -3930,7 +3930,7 @@
     {
         "id": 9659,
         "title": "돌 게임 5",
-        "level": 11,
+        "level": 9,
         "codes": [
             "src/9/9659.js"
         ]
@@ -4270,7 +4270,7 @@
     {
         "id": 10451,
         "title": "순열 사이클",
-        "level": 10,
+        "level": 9,
         "codes": [
             "src/10/10451.kt"
         ]
@@ -4603,7 +4603,7 @@
     {
         "id": 10829,
         "title": "이진수 변환",
-        "level": 5,
+        "level": 4,
         "codes": [
             "src/10/10829.js"
         ]
@@ -4732,7 +4732,7 @@
     {
         "id": 10927,
         "title": "MD5",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10927.py"
         ]
@@ -4740,7 +4740,7 @@
     {
         "id": 10928,
         "title": "SHA-1",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10928.py"
         ]
@@ -4748,7 +4748,7 @@
     {
         "id": 10929,
         "title": "SHA-224",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10929.py"
         ]
@@ -4756,7 +4756,7 @@
     {
         "id": 10930,
         "title": "SHA-256",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10930.py"
         ]
@@ -4764,7 +4764,7 @@
     {
         "id": 10931,
         "title": "SHA-384",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10931.py"
         ]
@@ -4772,7 +4772,7 @@
     {
         "id": 10932,
         "title": "SHA-512",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10932.py"
         ]
@@ -4780,7 +4780,7 @@
     {
         "id": 10933,
         "title": "RIPEMD-160",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10933.js",
             "src/10/10933.py"
@@ -4789,7 +4789,7 @@
     {
         "id": 10934,
         "title": "SHA",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10934.py"
         ]
@@ -4797,7 +4797,7 @@
     {
         "id": 10935,
         "title": "BASE64 인코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10935.py"
         ]
@@ -4805,7 +4805,7 @@
     {
         "id": 10936,
         "title": "BASE64 디코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10936.py"
         ]
@@ -4813,7 +4813,7 @@
     {
         "id": 10938,
         "title": "BASE32 인코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10938.py"
         ]
@@ -4821,7 +4821,7 @@
     {
         "id": 10939,
         "title": "BASE32 디코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10939.py"
         ]
@@ -4829,7 +4829,7 @@
     {
         "id": 10940,
         "title": "BASE16 인코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10940.py"
         ]
@@ -4837,7 +4837,7 @@
     {
         "id": 10941,
         "title": "BASE16 디코딩",
-        "level": 4,
+        "level": 0,
         "codes": [
             "src/10/10941.py"
         ]
@@ -4860,7 +4860,7 @@
     },
     {
         "id": 10949,
-        "title": "숫자야구",
+        "title": "숫자 야구 5",
         "level": 0,
         "codes": [
             "src/10/10949.txt"
@@ -5077,7 +5077,7 @@
     {
         "id": 11091,
         "title": "알파벳 전부 쓰기",
-        "level": 5,
+        "level": 4,
         "codes": [
             "src/11/11091.cs"
         ]
@@ -5174,7 +5174,7 @@
     {
         "id": 11319,
         "title": "Count Me In",
-        "level": 5,
+        "level": 4,
         "codes": [
             "src/11/11319.py"
         ]
@@ -5296,7 +5296,7 @@
     {
         "id": 11605,
         "title": "Magic Trick",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/11/11605.js"
         ]
@@ -5304,7 +5304,7 @@
     {
         "id": 11606,
         "title": "Egg Drop",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/11/11606.js"
         ]
@@ -5312,7 +5312,7 @@
     {
         "id": 11636,
         "title": "Stand on Zanzibar",
-        "level": 4,
+        "level": 3,
         "codes": [
             "src/11/11636.js"
         ]
@@ -5481,7 +5481,7 @@
     {
         "id": 11816,
         "title": "8진수, 10진수, 16진수",
-        "level": 5,
+        "level": 4,
         "codes": [
             "src/11/11816.cpp"
         ]
@@ -5513,7 +5513,7 @@
     {
         "id": 11921,
         "title": "0.1",
-        "level": 3,
+        "level": 0,
         "codes": [
             "src/11/11921.cpp"
         ]
@@ -5634,7 +5634,7 @@
     {
         "id": 12095,
         "title": "가장 오래 걸리는 스도쿠",
-        "level": 4,
+        "level": 9,
         "codes": [
             "src/12/12095.txt"
         ]
@@ -5650,7 +5650,7 @@
     },
     {
         "id": 12174,
-        "title": "#include <Google I/O.h>",
+        "title": "#include &lt;Google I/O.h&gt;",
         "level": 4,
         "codes": [
             "src/12/12174.js"
@@ -5667,7 +5667,7 @@
     {
         "id": 12605,
         "title": "단어순서 뒤집기",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/12/12605.js"
         ]
@@ -5932,7 +5932,7 @@
     {
         "id": 13312,
         "title": "아크코사인은 믿음입니다",
-        "level": 13,
+        "level": 12,
         "codes": [
             "src/13/13312.txt"
         ]
@@ -6084,7 +6084,7 @@
     {
         "id": 13777,
         "title": "Hunt The Rabbit",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/13/13777.js"
         ]
@@ -6116,7 +6116,7 @@
     {
         "id": 14004,
         "title": "ICPC",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/14/14004.js",
             "src/14/14004.py"
@@ -6237,7 +6237,7 @@
     {
         "id": 14490,
         "title": "백대열",
-        "level": 8,
+        "level": 7,
         "codes": [
             "src/14/14490.cpp"
         ]
@@ -6495,7 +6495,7 @@
     {
         "id": 14803,
         "title": "Steed 2: Cruise Control (Small)",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/14/14803.js"
         ]
@@ -6503,7 +6503,7 @@
     {
         "id": 14804,
         "title": "Steed 2: Cruise Control (Large)",
-        "level": 6,
+        "level": 5,
         "codes": [
             "src/14/14804.js"
         ]
@@ -6567,7 +6567,7 @@
     {
         "id": 14918,
         "title": "더하기",
-        "level": 1,
+        "level": 0,
         "codes": [
             "src/14/14918.cpp",
             "src/14/14918.java"
@@ -6633,7 +6633,7 @@
     {
         "id": 15048,
         "title": "Jogo de Boca",
-        "level": 2,
+        "level": 3,
         "codes": [
             "src/15/15048.py"
         ]
@@ -6714,7 +6714,7 @@
     {
         "id": 15236,
         "title": "Dominos",
-        "level": 2,
+        "level": 3,
         "codes": [
             "src/15/15236.py"
         ]
@@ -6794,7 +6794,7 @@
     },
     {
         "id": 15474,
-        "title": "鉛筆",
+        "title": "鉛筆 (Pencils)",
         "level": 2,
         "codes": [
             "src/15/15474.py"
@@ -6907,7 +6907,7 @@
     {
         "id": 15641,
         "title": "SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION",
-        "level": 1,
+        "level": 0,
         "codes": [
             "src/15/15641.txt"
         ]
@@ -7061,7 +7061,7 @@
     {
         "id": 15802,
         "title": "타노스",
-        "level": 1,
+        "level": 0,
         "codes": [
             "src/15/15802.cpp",
             "src/15/15802.txt"
@@ -7094,7 +7094,7 @@
     {
         "id": 15819,
         "title": "너의 핸들은",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/15/15819.js"
         ]
@@ -7134,7 +7134,7 @@
     {
         "id": 15881,
         "title": "Pen Pineapple Apple Pen",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/15/15881.js"
         ]
@@ -7142,7 +7142,7 @@
     {
         "id": 15885,
         "title": "고장난 시계",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/15/15885.js"
         ]
@@ -7175,7 +7175,7 @@
     {
         "id": 15904,
         "title": "UCPC는 무엇의 약자일까?",
-        "level": 5,
+        "level": 6,
         "codes": [
             "src/15/15904.js"
         ]
@@ -7323,7 +7323,7 @@
     {
         "id": 16175,
         "title": "General Election",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/16/16175.py"
         ]
@@ -7331,7 +7331,7 @@
     {
         "id": 16189,
         "title": "Repetitive Palindrome",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/16/16189.py"
         ]
@@ -7395,7 +7395,7 @@
     {
         "id": 16341,
         "title": "Horsemeet",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/16/16341.js"
         ]
@@ -7652,14 +7652,14 @@
     {
         "id": 16756,
         "title": "Pismo",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/16/16756.rs"
         ]
     },
     {
         "id": 16785,
-        "title": "ソーシャルゲーム",
+        "title": "ソーシャルゲーム (Social Game)",
         "level": 2,
         "codes": [
             "src/16/16785.py"
@@ -7684,7 +7684,7 @@
     {
         "id": 16864,
         "title": "So You Like Your Food Hot?",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/16/16864.js"
         ]
@@ -7796,7 +7796,7 @@
     {
         "id": 17177,
         "title": "내접사각형 만들기",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/17/17177.js"
         ]
@@ -7828,7 +7828,7 @@
     {
         "id": 17214,
         "title": "다항 함수의 적분",
-        "level": 10,
+        "level": 11,
         "codes": [
             "src/17/17214.js"
         ]
@@ -7966,7 +7966,7 @@
     {
         "id": 17520,
         "title": "Balanced String",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/17/17520.py"
         ]
@@ -8102,7 +8102,7 @@
     {
         "id": 18063,
         "title": "Jazz Enthusiast",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/18/18063.rs"
         ]
@@ -8198,7 +8198,7 @@
     },
     {
         "id": 18408,
-        "title": "3 つの整数",
+        "title": "3 つの整数 (Three Integers)",
         "level": 2,
         "codes": [
             "src/18/18408.py"
@@ -8206,7 +8206,7 @@
     },
     {
         "id": 18409,
-        "title": "母音を数える",
+        "title": "母音を数える (Counting Vowels)",
         "level": 4,
         "codes": [
             "src/18/18409.py"
@@ -8214,7 +8214,7 @@
     },
     {
         "id": 18411,
-        "title": "試験",
+        "title": "試験 (Exam)",
         "level": 2,
         "codes": [
             "src/18/18411.py"
@@ -8222,7 +8222,7 @@
     },
     {
         "id": 18412,
-        "title": "文字列の反転",
+        "title": "文字列の反転 (Inversion of a String)",
         "level": 4,
         "codes": [
             "src/18/18412.py"
@@ -8230,7 +8230,7 @@
     },
     {
         "id": 18414,
-        "title": "X に最も近い値",
+        "title": "X に最も近い値 (The Nearest Value)",
         "level": 2,
         "codes": [
             "src/18/18414.py"
@@ -8238,7 +8238,7 @@
     },
     {
         "id": 18415,
-        "title": "キャピタリゼーション",
+        "title": "キャピタリゼーション (Capitalization)",
         "level": 4,
         "codes": [
             "src/18/18415.py"
@@ -8247,7 +8247,7 @@
     {
         "id": 18679,
         "title": "Banana",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/18/18679.py"
         ]
@@ -8383,7 +8383,7 @@
     {
         "id": 19843,
         "title": "수면 패턴",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/19/19843.js"
         ]
@@ -8415,7 +8415,7 @@
     {
         "id": 20001,
         "title": "고무오리 디버깅",
-        "level": 4,
+        "level": 5,
         "codes": [
             "src/20/20001.rs"
         ]
@@ -8479,7 +8479,7 @@
     {
         "id": 20216,
         "title": "Ducky Debugging",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/20/20216.py"
         ]
@@ -8519,7 +8519,7 @@
     {
         "id": 20299,
         "title": "3대 측정",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/20/20299.js"
         ]
@@ -8679,7 +8679,7 @@
     {
         "id": 21569,
         "title": "Цапли",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/21/21569.cs"
         ]
@@ -8775,7 +8775,7 @@
     {
         "id": 22151,
         "title": "Игра",
-        "level": 3,
+        "level": 4,
         "codes": [
             "src/22/22151.cs"
         ]

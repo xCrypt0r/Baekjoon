@@ -17,55 +17,55 @@
         <td><b>C++</b></td>
         <td>318</td>
         <td>10,837</td>
-        <td>165.21 kB</td>
+        <td>175.72 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
         <td>313</td>
         <td>7,973</td>
-        <td>142.22 kB</td>
+        <td>150.13 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
         <td>253</td>
         <td>7,790</td>
-        <td>163.16 kB</td>
+        <td>170.81 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
         <td>100</td>
         <td>4,199</td>
-        <td>85.36 kB</td>
+        <td>89.56 kB</td>
     </tr>
     <tr>
         <td><b>C#</b></td>
         <td>65</td>
         <td>2,425</td>
-        <td>51.97 kB</td>
+        <td>52.03 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
         <td>54</td>
         <td>4,585</td>
-        <td>40.67 kB</td>
+        <td>43.91 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
-        <td>15.66 kB</td>
+        <td>16.44 kB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
         <td>23</td>
         <td>631</td>
-        <td>10.12 kB</td>
+        <td>10.2 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
-        <td>17.26 kB</td>
+        <td>18.01 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -95,7 +95,7 @@
         <td><b>Total</b></td>
         <td>1,169</td>
         <td>40,095</td>
-        <td>693.46 kB</td>
+        <td>728.62 kB</td>
     </tr>
 </table>
 
@@ -216,7 +216,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1013">
-                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
                 1013 Contact
             </a>
         </td>
@@ -420,7 +420,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1193">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 1193 분수찾기
             </a>
         </td>
@@ -432,7 +432,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1212">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 1212 8진수 2진수
             </a>
         </td>
@@ -510,7 +510,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1252">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 1252 이진수 덧셈
             </a>
         </td>
@@ -609,7 +609,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1292">
-                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 1292 쉽게 푸는 문제
             </a>
         </td>
@@ -957,7 +957,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1676">
-                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 1676 팩토리얼 0의 개수
             </a>
         </td>
@@ -1018,7 +1018,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/1747">
                 <img src="https://static.solved.ac/tier_small/11.svg" height="14">
-                1747 소수&팰린드롬
+                1747 소수&amp;팰린드롬
             </a>
         </td>
         <td>
@@ -1233,7 +1233,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/1942">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 1942 디지털시계
             </a>
         </td>
@@ -1548,7 +1548,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2407">
-                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
                 2407 조합
             </a>
         </td>
@@ -2028,7 +2028,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2581">
-                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 2581 소수
             </a>
         </td>
@@ -2112,7 +2112,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2669">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 2669 직사각형 네개의 합집합의 면적 구하기
             </a>
         </td>
@@ -2232,7 +2232,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2721">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 2721 삼각수의 합
             </a>
         </td>
@@ -2247,7 +2247,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2733">
-                <img src="https://static.solved.ac/tier_small/12.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/13.svg" height="14">
                 2733 Brainf*ck
             </a>
         </td>
@@ -2358,7 +2358,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2748">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 2748 피보나치 수 2
             </a>
         </td>
@@ -2472,7 +2472,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2776">
-                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 2776 암기왕
             </a>
         </td>
@@ -2652,7 +2652,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2869">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 2869 달팽이는 올라가고 싶다
             </a>
         </td>
@@ -2664,7 +2664,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2870">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 2870 수학숙제
             </a>
         </td>
@@ -2964,7 +2964,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/2998">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 2998 8진수
             </a>
         </td>
@@ -3096,7 +3096,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/3049">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 3049 다각형의 대각선
             </a>
         </td>
@@ -3270,7 +3270,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/3568">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 3568 iSharp
             </a>
         </td>
@@ -3330,7 +3330,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/4150">
-                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 4150 피보나치 수
             </a>
         </td>
@@ -3390,7 +3390,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/4402">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 4402 Soundex
             </a>
         </td>
@@ -4674,7 +4674,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/6358">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
                 6358 Four Quarters
             </a>
         </td>
@@ -5112,7 +5112,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/8246">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 8246 Stół
             </a>
         </td>
@@ -5280,7 +5280,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/8716">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 8716 Pole
             </a>
         </td>
@@ -5316,7 +5316,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/8721">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 8721 Wykreślanka
             </a>
         </td>
@@ -5730,7 +5730,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/9342">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 9342 염색체
             </a>
         </td>
@@ -5886,7 +5886,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/9524">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 9524 Beautiful Yekaterinburg
             </a>
         </td>
@@ -6012,7 +6012,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/9656">
-                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 9656 돌 게임 2
             </a>
         </td>
@@ -6048,7 +6048,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/9659">
-                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
                 9659 돌 게임 5
             </a>
         </td>
@@ -6564,7 +6564,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10451">
-                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
                 10451 순열 사이클
             </a>
         </td>
@@ -7071,7 +7071,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10829">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 10829 이진수 변환
             </a>
         </td>
@@ -7266,7 +7266,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10927">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10927 MD5
             </a>
         </td>
@@ -7278,7 +7278,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10928">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10928 SHA-1
             </a>
         </td>
@@ -7290,7 +7290,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10929">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10929 SHA-224
             </a>
         </td>
@@ -7302,7 +7302,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10930">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10930 SHA-256
             </a>
         </td>
@@ -7314,7 +7314,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10931">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10931 SHA-384
             </a>
         </td>
@@ -7326,7 +7326,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10932">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10932 SHA-512
             </a>
         </td>
@@ -7338,7 +7338,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10933">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10933 RIPEMD-160
             </a>
         </td>
@@ -7353,7 +7353,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10934">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10934 SHA
             </a>
         </td>
@@ -7365,7 +7365,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10935">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10935 BASE64 인코딩
             </a>
         </td>
@@ -7377,7 +7377,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10936">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10936 BASE64 디코딩
             </a>
         </td>
@@ -7389,7 +7389,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10938">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10938 BASE32 인코딩
             </a>
         </td>
@@ -7401,7 +7401,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10939">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10939 BASE32 디코딩
             </a>
         </td>
@@ -7413,7 +7413,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10940">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10940 BASE16 인코딩
             </a>
         </td>
@@ -7425,7 +7425,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/10941">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 10941 BASE16 디코딩
             </a>
         </td>
@@ -7462,7 +7462,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/10949">
                 <img src="https://static.solved.ac/tier_small/0.svg" height="14">
-                10949 숫자야구
+                10949 숫자 야구 5
             </a>
         </td>
         <td>
@@ -7785,7 +7785,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11091">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 11091 알파벳 전부 쓰기
             </a>
         </td>
@@ -7932,7 +7932,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11319">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 11319 Count Me In
             </a>
         </td>
@@ -8118,7 +8118,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11605">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 11605 Magic Trick
             </a>
         </td>
@@ -8130,7 +8130,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11606">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 11606 Egg Drop
             </a>
         </td>
@@ -8142,7 +8142,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11636">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 11636 Stand on Zanzibar
             </a>
         </td>
@@ -8397,7 +8397,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11816">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 11816 8진수, 10진수, 16진수
             </a>
         </td>
@@ -8445,7 +8445,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/11921">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 11921 0.1
             </a>
         </td>
@@ -8628,7 +8628,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/12095">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/9.svg" height="14">
                 12095 가장 오래 걸리는 스도쿠
             </a>
         </td>
@@ -8656,7 +8656,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/12174">
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
-                12174 #include <Google I/O.h>
+                12174 #include &lt;Google I/O.h&gt;
             </a>
         </td>
         <td>
@@ -8679,7 +8679,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/12605">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 12605 단어순서 뒤집기
             </a>
         </td>
@@ -9078,7 +9078,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/13312">
-                <img src="https://static.solved.ac/tier_small/13.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/12.svg" height="14">
                 13312 아크코사인은 믿음입니다
             </a>
         </td>
@@ -9306,7 +9306,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/13777">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 13777 Hunt The Rabbit
             </a>
         </td>
@@ -9354,7 +9354,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/14004">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 14004 ICPC
             </a>
         </td>
@@ -9537,7 +9537,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/14490">
-                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
                 14490 백대열
             </a>
         </td>
@@ -9927,7 +9927,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/14803">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 14803 Steed 2: Cruise Control (Small)
             </a>
         </td>
@@ -9939,7 +9939,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/14804">
-                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 14804 Steed 2: Cruise Control (Large)
             </a>
         </td>
@@ -10035,7 +10035,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/14918">
-                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 14918 더하기
             </a>
         </td>
@@ -10137,7 +10137,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15048">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 15048 Jogo de Boca
             </a>
         </td>
@@ -10260,7 +10260,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15236">
-                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
                 15236 Dominos
             </a>
         </td>
@@ -10384,7 +10384,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/15474">
                 <img src="https://static.solved.ac/tier_small/2.svg" height="14">
-                15474 鉛筆
+                15474 鉛筆 (Pencils)
             </a>
         </td>
         <td>
@@ -10551,7 +10551,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15641">
-                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 15641 SUPER SUPER BINARY SEARCH DELUXE 2.5: THE LEGEND OF THE GOLDEN MAZASSUMNIDA, EPISODE 2: THE MAZWAETL UNIVERSE, PART 2: THE PARALLEL UNIVERSE AND THE LOST MAZASSUMNIDA: GAME OF THE YEAR EDITION
             </a>
         </td>
@@ -10785,7 +10785,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15802">
-                <img src="https://static.solved.ac/tier_small/1.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/0.svg" height="14">
                 15802 타노스
             </a>
         </td>
@@ -10836,7 +10836,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15819">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 15819 너의 핸들은
             </a>
         </td>
@@ -10896,7 +10896,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15881">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 15881 Pen Pineapple Apple Pen
             </a>
         </td>
@@ -10908,7 +10908,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15885">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 15885 고장난 시계
             </a>
         </td>
@@ -10959,7 +10959,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/15904">
-                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
                 15904 UCPC는 무엇의 약자일까?
             </a>
         </td>
@@ -11187,7 +11187,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/16175">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 16175 General Election
             </a>
         </td>
@@ -11199,7 +11199,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/16189">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 16189 Repetitive Palindrome
             </a>
         </td>
@@ -11295,7 +11295,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/16341">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 16341 Horsemeet
             </a>
         </td>
@@ -11682,7 +11682,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/16756">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 16756 Pismo
             </a>
         </td>
@@ -11695,7 +11695,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/16785">
                 <img src="https://static.solved.ac/tier_small/2.svg" height="14">
-                16785 ソーシャルゲーム
+                16785 ソーシャルゲーム (Social Game)
             </a>
         </td>
         <td>
@@ -11730,7 +11730,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/16864">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 16864 So You Like Your Food Hot?
             </a>
         </td>
@@ -11898,7 +11898,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/17177">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 17177 내접사각형 만들기
             </a>
         </td>
@@ -11946,7 +11946,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/17214">
-                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
                 17214 다항 함수의 적분
             </a>
         </td>
@@ -12156,7 +12156,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/17520">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 17520 Balanced String
             </a>
         </td>
@@ -12360,7 +12360,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/18063">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 18063 Jazz Enthusiast
             </a>
         </td>
@@ -12508,7 +12508,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18408">
                 <img src="https://static.solved.ac/tier_small/2.svg" height="14">
-                18408 3 つの整数
+                18408 3 つの整数 (Three Integers)
             </a>
         </td>
         <td>
@@ -12520,7 +12520,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18409">
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
-                18409 母音を数える
+                18409 母音を数える (Counting Vowels)
             </a>
         </td>
         <td>
@@ -12532,7 +12532,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18411">
                 <img src="https://static.solved.ac/tier_small/2.svg" height="14">
-                18411 試験
+                18411 試験 (Exam)
             </a>
         </td>
         <td>
@@ -12544,7 +12544,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18412">
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
-                18412 文字列の反転
+                18412 文字列の反転 (Inversion of a String)
             </a>
         </td>
         <td>
@@ -12556,7 +12556,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18414">
                 <img src="https://static.solved.ac/tier_small/2.svg" height="14">
-                18414 X に最も近い値
+                18414 X に最も近い値 (The Nearest Value)
             </a>
         </td>
         <td>
@@ -12568,7 +12568,7 @@
         <td>
             <a href="https://www.acmicpc.net/problem/18415">
                 <img src="https://static.solved.ac/tier_small/4.svg" height="14">
-                18415 キャピタリゼーション
+                18415 キャピタリゼーション (Capitalization)
             </a>
         </td>
         <td>
@@ -12579,7 +12579,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/18679">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 18679 Banana
             </a>
         </td>
@@ -12783,7 +12783,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/19843">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 19843 수면 패턴
             </a>
         </td>
@@ -12831,7 +12831,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/20001">
-                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
                 20001 고무오리 디버깅
             </a>
         </td>
@@ -12927,7 +12927,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/20216">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 20216 Ducky Debugging
             </a>
         </td>
@@ -12987,7 +12987,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/20299">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 20299 3대 측정
             </a>
         </td>
@@ -13227,7 +13227,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/21569">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 21569 Цапли
             </a>
         </td>
@@ -13371,7 +13371,7 @@
     <tr>
         <td>
             <a href="https://www.acmicpc.net/problem/22151">
-                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
                 22151 Игра
             </a>
         </td>
