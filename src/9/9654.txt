@@ -1,0 +1,16 @@
+---
+9654. 나부 함대 데이터
+
+작성자: xCrypt0r
+언어: Text
+사용 메모리: 4,528 KB
+소요 시간: 0 ms
+해결 날짜: 2021년 10월 12일
+---
+
+SHIP NAME      CLASS          DEPLOYMENT IN SERVICE
+N2 Bomber      Heavy Fighter  Limited    21
+J-Type 327     Light Combat   Unlimited  1
+NX Cruiser     Medium Fighter Limited    18
+N1 Starfighter Medium Fighter Unlimited  25
+Royal Cruiser  Light Combat   Limited    4
