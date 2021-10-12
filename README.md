@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1098문제)
+## 문제 풀이 현황 (1099문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>22</td>
-        <td>602</td>
-        <td>9.71 kB</td>
+        <td>23</td>
+        <td>631</td>
+        <td>10.12 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,143</td>
-        <td>38,720</td>
-        <td>682.76 kB</td>
+        <td>1,144</td>
+        <td>38,749</td>
+        <td>683.18 kB</td>
     </tr>
 </table>
 
@@ -13414,6 +13414,18 @@
         <td>
             <img src="https://via.placeholder.com/12/000080/000000?text=+" height="12">
             <a href="src/23/23234.lua">Lua</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23235">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                23235 The Fastest Sorting Algorithm In The World
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23235.sh">Bash</a>
         </td>
     </tr>
 </table>
