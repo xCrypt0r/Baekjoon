@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1100문제)
+## 문제 풀이 현황 (1101문제)
 
 ### 언어별 코드 수
 <table>
@@ -50,16 +50,16 @@
         <td>40.67 kB</td>
     </tr>
     <tr>
+        <td><b>Bash</b></td>
+        <td>25</td>
+        <td>690</td>
+        <td>11.24 kB</td>
+    </tr>
+    <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
         <td>15.66 kB</td>
-    </tr>
-    <tr>
-        <td><b>Bash</b></td>
-        <td>24</td>
-        <td>657</td>
-        <td>10.6 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,170</td>
-        <td>40,121</td>
-        <td>693.94 kB</td>
+        <td>1,171</td>
+        <td>40,154</td>
+        <td>694.57 kB</td>
     </tr>
 </table>
 
@@ -3976,6 +3976,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5218.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5220">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                5220 Error Detection
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/5/5220.sh">Bash</a>
         </td>
     </tr>
     <tr>

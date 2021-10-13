@@ -2559,6 +2559,14 @@
         ]
     },
     {
+        "id": 5220,
+        "title": "Error Detection",
+        "level": 3,
+        "codes": [
+            "src/5/5220.sh"
+        ]
+    },
+    {
         "id": 5235,
         "title": "Even Sum More Than Odd Sum",
         "level": 3,
