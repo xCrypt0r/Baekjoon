@@ -130,6 +130,10 @@ function setComment(target, { id, title, memory, time, language, date }) {
         case '.sh':
             template = fs.readFileSync('templates/comment_sh.txt', 'utf8');
 
+            if (title.includes('\'')) {
+                template = template.replace(/'/g, '"');
+            }
+
             break;
 
         case '.txt':
