@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1101문제)
+## 문제 풀이 현황 (1102문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>25</td>
-        <td>690</td>
-        <td>11.24 kB</td>
+        <td>26</td>
+        <td>720</td>
+        <td>11.72 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,171</td>
-        <td>40,154</td>
-        <td>694.57 kB</td>
+        <td>1,172</td>
+        <td>40,184</td>
+        <td>695.05 kB</td>
     </tr>
 </table>
 
@@ -3928,6 +3928,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/5/5101.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5102">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                5102 Sarah's Toys
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/5/5102.sh">Bash</a>
         </td>
     </tr>
     <tr>
