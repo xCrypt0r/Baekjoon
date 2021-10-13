@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1102문제)
+## 문제 풀이 현황 (1103문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>253</td>
-        <td>7,790</td>
-        <td>163.16 kB</td>
+        <td>254</td>
+        <td>7,823</td>
+        <td>163.91 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,172</td>
-        <td>40,184</td>
-        <td>695.05 kB</td>
+        <td>1,173</td>
+        <td>40,217</td>
+        <td>695.8 kB</td>
     </tr>
 </table>
 
@@ -940,6 +940,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1598.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1620">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                1620 나는야 포켓몬 마스터 이다솜
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/1/1620.js">Node.js</a>
         </td>
     </tr>
     <tr>
