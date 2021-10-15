@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1104문제)
+## 문제 풀이 현황 (1105문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>254</td>
-        <td>7,823</td>
-        <td>163.91 kB</td>
+        <td>255</td>
+        <td>7,852</td>
+        <td>164.5 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,174</td>
-        <td>40,251</td>
-        <td>696.51 kB</td>
+        <td>1,175</td>
+        <td>40,280</td>
+        <td>697.11 kB</td>
     </tr>
 </table>
 
@@ -13522,6 +13522,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/22/22938.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23027">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23027 1번부터 문제의 상태가…?
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/23/23027.js">Node.js</a>
         </td>
     </tr>
     <tr>
