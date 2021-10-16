@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1105문제)
+## 문제 풀이 현황 (1106문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>26</td>
-        <td>720</td>
-        <td>11.72 kB</td>
+        <td>27</td>
+        <td>739</td>
+        <td>11.96 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,175</td>
-        <td>40,280</td>
-        <td>697.11 kB</td>
+        <td>1,176</td>
+        <td>40,299</td>
+        <td>697.35 kB</td>
     </tr>
 </table>
 
@@ -13402,6 +13402,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21955.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21964">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                21964 선린인터넷고등학교 교가
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/21/21964.sh">Bash</a>
         </td>
     </tr>
     <tr>
