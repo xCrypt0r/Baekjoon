@@ -5163,6 +5163,14 @@
         ]
     },
     {
+        "id": 11145,
+        "title": "Is it a Number?",
+        "level": 4,
+        "codes": [
+            "src/11/11145.cs"
+        ]
+    },
+    {
         "id": 11170,
         "title": "0의 개수",
         "level": 6,
