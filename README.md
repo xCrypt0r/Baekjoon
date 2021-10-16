@@ -40,8 +40,8 @@
     <tr>
         <td><b>C#</b></td>
         <td>67</td>
-        <td>2,486</td>
-        <td>53.25 kB</td>
+        <td>2,484</td>
+        <td>53.2 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -94,8 +94,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>1,179</td>
-        <td>40,383</td>
-        <td>698.82 kB</td>
+        <td>40,381</td>
+        <td>698.77 kB</td>
     </tr>
 </table>
 
