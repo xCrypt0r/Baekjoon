@@ -2286,6 +2286,14 @@
         ]
     },
     {
+        "id": 4613,
+        "title": "Quicksum",
+        "level": 4,
+        "codes": [
+            "src/4/4613.cs"
+        ]
+    },
+    {
         "id": 4619,
         "title": "루트",
         "level": 3,
