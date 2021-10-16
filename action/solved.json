@@ -8789,6 +8789,14 @@
         ]
     },
     {
+        "id": 21867,
+        "title": "Java Bitecode",
+        "level": 4,
+        "codes": [
+            "src/21/21867.c"
+        ]
+    },
+    {
         "id": 21895,
         "title": "Rock-Paper-Scissors for three",
         "level": 4,

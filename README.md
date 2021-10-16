@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1107문제)
+## 문제 풀이 현황 (1108문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>C</b></td>
-        <td>2</td>
-        <td>66</td>
-        <td>966 B</td>
+        <td>3</td>
+        <td>92</td>
+        <td>1.32 kB</td>
     </tr>
     <tr>
         <td><b>Ruby</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,177</td>
-        <td>40,330</td>
-        <td>697.91 kB</td>
+        <td>1,178</td>
+        <td>40,356</td>
+        <td>698.27 kB</td>
     </tr>
 </table>
 
@@ -13390,6 +13390,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/21/21866.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21867">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                21867 Java Bitecode
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/555555/000000?text=+" height="12">
+            <a href="src/21/21867.c">C</a>
         </td>
     </tr>
     <tr>
