@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1117문제)
+## 문제 풀이 현황 (1118문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>74</td>
-        <td>2,725</td>
-        <td>58.13 kB</td>
+        <td>75</td>
+        <td>2,764</td>
+        <td>58.82 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,187</td>
-        <td>40,656</td>
-        <td>704.23 kB</td>
+        <td>1,188</td>
+        <td>40,695</td>
+        <td>704.93 kB</td>
     </tr>
 </table>
 
@@ -12550,6 +12550,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/18/18142.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/18245">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                18245 이상한 나라의 암호
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/18/18245.cs">C#</a>
         </td>
     </tr>
     <tr>
