@@ -2270,6 +2270,14 @@
         ]
     },
     {
+        "id": 4593,
+        "title": "Rock, Paper, Scissors",
+        "level": 5,
+        "codes": [
+            "src/4/4593.cs"
+        ]
+    },
+    {
         "id": 4597,
         "title": "패리티",
         "level": 4,

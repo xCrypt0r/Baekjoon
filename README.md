@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1115문제)
+## 문제 풀이 현황 (1116문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>72</td>
-        <td>2,634</td>
-        <td>56.14 kB</td>
+        <td>73</td>
+        <td>2,678</td>
+        <td>57.19 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,185</td>
-        <td>40,565</td>
-        <td>702.24 kB</td>
+        <td>1,186</td>
+        <td>40,609</td>
+        <td>703.3 kB</td>
     </tr>
 </table>
 
@@ -3541,6 +3541,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4592.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4593">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                4593 Rock, Paper, Scissors
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/4/4593.cs">C#</a>
         </td>
     </tr>
     <tr>
