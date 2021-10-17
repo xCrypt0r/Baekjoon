@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1113문제)
+## 문제 풀이 현황 (1114문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>70</td>
-        <td>2,583</td>
-        <td>55.12 kB</td>
+        <td>71</td>
+        <td>2,612</td>
+        <td>55.71 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,183</td>
-        <td>40,514</td>
-        <td>701.23 kB</td>
+        <td>1,184</td>
+        <td>40,543</td>
+        <td>701.81 kB</td>
     </tr>
 </table>
 
@@ -7732,6 +7732,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/11/11006.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11008">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                11008 복붙의 달인
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/11/11008.cs">C#</a>
         </td>
     </tr>
     <tr>
