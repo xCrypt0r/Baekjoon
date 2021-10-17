@@ -4056,6 +4056,14 @@
         ]
     },
     {
+        "id": 9946,
+        "title": "단어 퍼즐",
+        "level": 5,
+        "codes": [
+            "src/9/9946.cs"
+        ]
+    },
+    {
         "id": 9950,
         "title": "Rectangles",
         "level": 3,
