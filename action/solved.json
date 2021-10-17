@@ -1384,6 +1384,14 @@
         ]
     },
     {
+        "id": 2703,
+        "title": "Cryptoquote",
+        "level": 5,
+        "codes": [
+            "src/2/2703.cs"
+        ]
+    },
+    {
         "id": 2711,
         "title": "오타맨 고창영",
         "level": 4,
