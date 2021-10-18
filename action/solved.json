@@ -3436,6 +3436,14 @@
         ]
     },
     {
+        "id": 8595,
+        "title": "히든 넘버",
+        "level": 5,
+        "codes": [
+            "src/8/8595.cs"
+        ]
+    },
+    {
         "id": 8710,
         "title": "Koszykarz",
         "level": 2,

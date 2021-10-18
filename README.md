@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1121문제)
+## 문제 풀이 현황 (1122문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>78</td>
-        <td>2,922</td>
-        <td>62.03 kB</td>
+        <td>79</td>
+        <td>2,954</td>
+        <td>62.7 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,191</td>
-        <td>40,853</td>
-        <td>708.13 kB</td>
+        <td>1,192</td>
+        <td>40,885</td>
+        <td>708.8 kB</td>
     </tr>
 </table>
 
@@ -5299,6 +5299,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8558.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8595">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                8595 히든 넘버
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/8/8595.cs">C#</a>
         </td>
     </tr>
     <tr>
