@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1124문제)
+## 문제 풀이 현황 (1125문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>318</td>
-        <td>10,837</td>
-        <td>165.21 kB</td>
+        <td>319</td>
+        <td>10,881</td>
+        <td>166.16 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,194</td>
-        <td>40,969</td>
-        <td>710.49 kB</td>
+        <td>1,195</td>
+        <td>41,013</td>
+        <td>711.44 kB</td>
     </tr>
 </table>
 
@@ -2455,6 +2455,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/2/2754.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2755">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2755 이번학기 평점은 몇점?
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/2/2755.cpp">C++</a>
         </td>
     </tr>
     <tr>
