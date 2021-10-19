@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1126문제)
+## 문제 풀이 현황 (1127문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>313</td>
-        <td>7,973</td>
-        <td>142.22 kB</td>
+        <td>314</td>
+        <td>7,995</td>
+        <td>142.58 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,196</td>
-        <td>41,048</td>
-        <td>711.92 kB</td>
+        <td>1,197</td>
+        <td>41,070</td>
+        <td>712.28 kB</td>
     </tr>
 </table>
 
@@ -1567,6 +1567,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/2/2407.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2408">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                2408 큰 수 계산
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/2/2408.py">Python</a>
         </td>
     </tr>
     <tr>
