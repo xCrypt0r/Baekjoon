@@ -8957,6 +8957,14 @@
         ]
     },
     {
+        "id": 21603,
+        "title": "K 2K 게임",
+        "level": 3,
+        "codes": [
+            "src/21/21603.cs"
+        ]
+    },
+    {
         "id": 21612,
         "title": "Boiling Water",
         "level": 2,

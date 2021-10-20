@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1136문제)
+## 문제 풀이 현황 (1137문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>89</td>
-        <td>3,339</td>
-        <td>70.48 kB</td>
+        <td>90</td>
+        <td>3,375</td>
+        <td>71.25 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,206</td>
-        <td>41,393</td>
-        <td>718.69 kB</td>
+        <td>1,207</td>
+        <td>41,429</td>
+        <td>719.46 kB</td>
     </tr>
 </table>
 
@@ -13642,6 +13642,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21598.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21603">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21603 K 2K 게임
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/21/21603.cs">C#</a>
         </td>
     </tr>
     <tr>
