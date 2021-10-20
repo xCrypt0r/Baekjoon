@@ -3380,6 +3380,14 @@
         ]
     },
     {
+        "id": 7789,
+        "title": "텔레프라임",
+        "level": 3,
+        "codes": [
+            "src/7/7789.cs"
+        ]
+    },
+    {
         "id": 7891,
         "title": "Can you add this?",
         "level": 3,
