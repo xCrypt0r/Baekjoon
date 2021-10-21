@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1137문제)
+## 문제 풀이 현황 (1138문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>90</td>
-        <td>3,375</td>
-        <td>71.25 kB</td>
+        <td>91</td>
+        <td>3,408</td>
+        <td>72.09 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -93,9 +93,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,207</td>
-        <td>41,429</td>
-        <td>719.46 kB</td>
+        <td>1,208</td>
+        <td>41,462</td>
+        <td>720.3 kB</td>
     </tr>
 </table>
 
@@ -199,6 +199,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/1/1010.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1011">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                1011 Fly me to the Alpha Centauri
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/1/1011.cs">C#</a>
         </td>
     </tr>
     <tr>

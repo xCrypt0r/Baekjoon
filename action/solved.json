@@ -60,6 +60,14 @@
         ]
     },
     {
+        "id": 1011,
+        "title": "Fly me to the Alpha Centauri",
+        "level": 11,
+        "codes": [
+            "src/1/1011.cs"
+        ]
+    },
+    {
         "id": 1012,
         "title": "유기농 배추",
         "level": 9,
