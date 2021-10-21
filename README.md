@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1145문제)
+## 문제 풀이 현황 (1146문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>94</td>
-        <td>3,509</td>
-        <td>74.11 kB</td>
+        <td>95</td>
+        <td>3,535</td>
+        <td>74.7 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,215</td>
-        <td>41,669</td>
-        <td>724.46 kB</td>
+        <td>1,216</td>
+        <td>41,695</td>
+        <td>725.05 kB</td>
     </tr>
 </table>
 
@@ -5245,6 +5245,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/7/7600.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/7656">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                7656 만능 오라클
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/7/7656.cs">C#</a>
         </td>
     </tr>
     <tr>
