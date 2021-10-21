@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1138문제)
+## 문제 풀이 현황 (1139문제)
 
 ### 언어별 코드 수
 <table>
@@ -80,6 +80,12 @@
         <td>424 B</td>
     </tr>
     <tr>
+        <td><b>Perl</b></td>
+        <td>1</td>
+        <td>28</td>
+        <td>533 B</td>
+    </tr>
+    <tr>
         <td><b>Pascal</b></td>
         <td>1</td>
         <td>15</td>
@@ -93,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,208</td>
-        <td>41,462</td>
-        <td>720.3 kB</td>
+        <td>1,209</td>
+        <td>41,490</td>
+        <td>720.84 kB</td>
     </tr>
 </table>
 
@@ -10234,6 +10240,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14804.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14906">
+                <img src="https://static.solved.ac/tier_small/12.svg" height="14">
+                14906 스러피
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/0298C3/000000?text=+" height="12">
+            <a href="src/14/14906.pl">Perl</a>
         </td>
     </tr>
     <tr>
