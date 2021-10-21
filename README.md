@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1139문제)
+## 문제 풀이 현황 (1140문제)
 
 ### 언어별 코드 수
 <table>
@@ -74,16 +74,16 @@
         <td>1.32 kB</td>
     </tr>
     <tr>
+        <td><b>Perl</b></td>
+        <td>2</td>
+        <td>53</td>
+        <td>1 kB</td>
+    </tr>
+    <tr>
         <td><b>Ruby</b></td>
         <td>2</td>
         <td>30</td>
         <td>424 B</td>
-    </tr>
-    <tr>
-        <td><b>Perl</b></td>
-        <td>1</td>
-        <td>28</td>
-        <td>533 B</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,209</td>
-        <td>41,490</td>
-        <td>720.84 kB</td>
+        <td>1,210</td>
+        <td>41,515</td>
+        <td>721.31 kB</td>
     </tr>
 </table>
 
@@ -4867,6 +4867,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6491.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6493">
+                <img src="https://static.solved.ac/tier_small/12.svg" height="14">
+                6493 Slurpys
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/0298C3/000000?text=+" height="12">
+            <a href="src/6/6493.pl">Perl</a>
         </td>
     </tr>
     <tr>
