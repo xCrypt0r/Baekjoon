@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1142문제)
+## 문제 풀이 현황 (1143문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>92</td>
-        <td>3,437</td>
-        <td>72.63 kB</td>
+        <td>93</td>
+        <td>3,466</td>
+        <td>73.14 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,212</td>
-        <td>41,569</td>
-        <td>722.36 kB</td>
+        <td>1,213</td>
+        <td>41,598</td>
+        <td>722.87 kB</td>
     </tr>
 </table>
 
@@ -10045,6 +10045,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/14/14645.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14650">
+                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                14650 걷다보니 신천역 삼 (Small)
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/14/14650.cs">C#</a>
         </td>
     </tr>
     <tr>
