@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1143문제)
+## 문제 풀이 현황 (1144문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>257</td>
-        <td>7,908</td>
-        <td>165.58 kB</td>
+        <td>258</td>
+        <td>7,936</td>
+        <td>166.2 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,213</td>
-        <td>41,598</td>
-        <td>722.87 kB</td>
+        <td>1,214</td>
+        <td>41,626</td>
+        <td>723.5 kB</td>
     </tr>
 </table>
 
@@ -9643,6 +9643,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/13/13985.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13989">
+                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                13989 Abbreviation
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/13/13989.js">Node.js</a>
         </td>
     </tr>
     <tr>

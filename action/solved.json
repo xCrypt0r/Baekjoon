@@ -6306,6 +6306,14 @@
         ]
     },
     {
+        "id": 13989,
+        "title": "Abbreviation",
+        "level": 14,
+        "codes": [
+            "src/13/13989.js"
+        ]
+    },
+    {
         "id": 14004,
         "title": "ICPC",
         "level": 4,
