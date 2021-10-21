@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1146문제)
+## 문제 풀이 현황 (1147문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>95</td>
-        <td>3,535</td>
-        <td>74.7 kB</td>
+        <td>96</td>
+        <td>3,582</td>
+        <td>75.82 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,216</td>
-        <td>41,695</td>
-        <td>725.05 kB</td>
+        <td>1,217</td>
+        <td>41,742</td>
+        <td>726.18 kB</td>
     </tr>
 </table>
 
@@ -6127,6 +6127,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9524.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9536">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                9536 여우는 어떻게 울지?
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/9/9536.cs">C#</a>
         </td>
     </tr>
     <tr>
