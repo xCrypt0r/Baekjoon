@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1150문제)
+## 문제 풀이 현황 (1151문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>260</td>
-        <td>8,008</td>
-        <td>168.23 kB</td>
+        <td>261</td>
+        <td>8,026</td>
+        <td>168.57 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,220</td>
-        <td>41,936</td>
-        <td>730.6 kB</td>
+        <td>1,221</td>
+        <td>41,954</td>
+        <td>730.94 kB</td>
     </tr>
 </table>
 
@@ -13672,6 +13672,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20944.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20959">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                20959 Šifra
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/20/20959.js">Node.js</a>
         </td>
     </tr>
     <tr>

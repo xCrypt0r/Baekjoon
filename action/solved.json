@@ -8973,6 +8973,14 @@
         ]
     },
     {
+        "id": 20959,
+        "title": "Šifra",
+        "level": 4,
+        "codes": [
+            "src/20/20959.js"
+        ]
+    },
+    {
         "id": 20976,
         "title": "2 番目に大きい整数 (The Second Largest Integer)",
         "level": 2,
