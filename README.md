@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1151문제)
+## 문제 풀이 현황 (1152문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>96</td>
-        <td>3,582</td>
-        <td>75.82 kB</td>
+        <td>97</td>
+        <td>3,641</td>
+        <td>77.27 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,221</td>
-        <td>41,954</td>
-        <td>730.94 kB</td>
+        <td>1,222</td>
+        <td>42,013</td>
+        <td>732.39 kB</td>
     </tr>
 </table>
 
@@ -9730,6 +9730,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14004.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14014">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                14014 Dudu of English
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/14/14014.cs">C#</a>
         </td>
     </tr>
     <tr>
