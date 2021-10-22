@@ -2222,6 +2222,14 @@
         ]
     },
     {
+        "id": 4396,
+        "title": "지뢰 찾기",
+        "level": 6,
+        "codes": [
+            "src/4/4396.cpp"
+        ]
+    },
+    {
         "id": 4402,
         "title": "Soundex",
         "level": 5,

@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1147문제)
+## 문제 풀이 현황 (1148문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>320</td>
-        <td>10,916</td>
-        <td>166.64 kB</td>
+        <td>321</td>
+        <td>11,038</td>
+        <td>169.03 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,217</td>
-        <td>41,742</td>
-        <td>726.18 kB</td>
+        <td>1,218</td>
+        <td>41,864</td>
+        <td>728.57 kB</td>
     </tr>
 </table>
 
@@ -3475,6 +3475,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4388.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4396">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                4396 지뢰 찾기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/4/4396.cpp">C++</a>
         </td>
     </tr>
     <tr>
