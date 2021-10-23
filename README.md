@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1155문제)
+## 문제 풀이 현황 (1156문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>C</b></td>
-        <td>3</td>
-        <td>92</td>
-        <td>1.32 kB</td>
+        <td>4</td>
+        <td>116</td>
+        <td>1.71 kB</td>
     </tr>
     <tr>
         <td><b>Perl</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,225</td>
-        <td>42,155</td>
-        <td>735.15 kB</td>
+        <td>1,226</td>
+        <td>42,179</td>
+        <td>735.54 kB</td>
     </tr>
 </table>
 
@@ -13720,6 +13720,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20944.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20953">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                20953 고고학자 예린
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/555555/000000?text=+" height="12">
+            <a href="src/20/20953.c">C</a>
         </td>
     </tr>
     <tr>
