@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1154문제)
+## 문제 풀이 현황 (1155문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>322</td>
-        <td>11,087</td>
-        <td>169.9 kB</td>
+        <td>323</td>
+        <td>11,129</td>
+        <td>170.57 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,224</td>
-        <td>42,113</td>
-        <td>734.48 kB</td>
+        <td>1,225</td>
+        <td>42,155</td>
+        <td>735.15 kB</td>
     </tr>
 </table>
 
@@ -11104,6 +11104,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15700.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15725">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                15725 다항함수의 미분
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/15/15725.cpp">C++</a>
         </td>
     </tr>
     <tr>
