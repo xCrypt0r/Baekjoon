@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1159문제)
+## 문제 풀이 현황 (1160문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>98</td>
-        <td>3,672</td>
-        <td>77.93 kB</td>
+        <td>99</td>
+        <td>3,708</td>
+        <td>78.6 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,229</td>
-        <td>42,290</td>
-        <td>737.48 kB</td>
+        <td>1,230</td>
+        <td>42,326</td>
+        <td>738.15 kB</td>
     </tr>
 </table>
 
@@ -13564,6 +13564,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20353.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20359">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                20359 A simple task
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/20/20359.cs">C#</a>
         </td>
     </tr>
     <tr>

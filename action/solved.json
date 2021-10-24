@@ -8901,6 +8901,14 @@
         ]
     },
     {
+        "id": 20359,
+        "title": "A simple task",
+        "level": 3,
+        "codes": [
+            "src/20/20359.cs"
+        ]
+    },
+    {
         "id": 20361,
         "title": "일우는 야바위꾼",
         "level": 3,
