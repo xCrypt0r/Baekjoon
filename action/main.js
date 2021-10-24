@@ -52,11 +52,14 @@ function saveInfo(id, title, level) {
         info = { id, title, level, codes },
         i = list.findIndex(p => p.id === +id);
 
-    if (i != -1) {
-        if (JSON.stringify(list[i]) !== JSON.stringify(info)) {
+    if (i !== -1) {
+        if (codes.length < 1) {
+            list.splice(i, 1);
+            console.log(chalk.red(`[Deleted] ${id}. ${title}`));
+        } else if (JSON.stringify(list[i]) !== JSON.stringify(info)) {
             list[i] = info;
 
-            console.log(chalk.red(`[Updated] ${id}. ${title}`));
+            console.log(chalk.yellow(`[Updated] ${id}. ${title}`));
         } else {
             console.log(chalk.white(`[Duplicated] ${id}. ${title}`));
         }
