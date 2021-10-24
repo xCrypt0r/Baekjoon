@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1162문제)
+## 문제 풀이 현황 (1163문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>324</td>
-        <td>11,173</td>
-        <td>171.17 kB</td>
+        <td>325</td>
+        <td>11,211</td>
+        <td>171.74 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,232</td>
-        <td>42,361</td>
-        <td>738.76 kB</td>
+        <td>1,233</td>
+        <td>42,399</td>
+        <td>739.32 kB</td>
     </tr>
 </table>
 
@@ -5761,6 +5761,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/9/9076.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9081">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                9081 단어 맞추기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/9/9081.cpp">C++</a>
         </td>
     </tr>
     <tr>
