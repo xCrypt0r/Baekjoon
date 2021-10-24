@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1157문제)
+## 문제 풀이 현황 (1158문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>97</td>
-        <td>3,641</td>
-        <td>77.27 kB</td>
+        <td>98</td>
+        <td>3,672</td>
+        <td>77.93 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,227</td>
-        <td>42,215</td>
-        <td>736.22 kB</td>
+        <td>1,228</td>
+        <td>42,246</td>
+        <td>736.88 kB</td>
     </tr>
 </table>
 
@@ -4978,6 +4978,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/6/6679.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6696">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6696 Too Much Water
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/6/6696.cs">C#</a>
         </td>
     </tr>
     <tr>
