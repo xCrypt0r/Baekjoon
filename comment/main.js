@@ -52,7 +52,7 @@ async function getProblemInfo(id) {
         infos.push({ i: ++tmp, title, result, memory, time, language, date });
     });
 
-    console.table(infos);
+    console.table(infos.map(({ title, ...props }) => props));
 
     let index = prompt('주석으로 사용할 정보의 인덱스를 입력해주세요: ');
 
