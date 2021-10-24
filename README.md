@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1156문제)
+## 문제 풀이 현황 (1157문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>29</td>
-        <td>795</td>
-        <td>12.8 kB</td>
+        <td>30</td>
+        <td>831</td>
+        <td>13.48 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,226</td>
-        <td>42,179</td>
-        <td>735.54 kB</td>
+        <td>1,227</td>
+        <td>42,215</td>
+        <td>736.22 kB</td>
     </tr>
 </table>
 
@@ -13780,6 +13780,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21300.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21312">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21312 홀짝 칵테일
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/21/21312.sh">Bash</a>
         </td>
     </tr>
     <tr>
