@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1160문제)
+## 문제 풀이 현황 (1161문제)
 
 ### 언어별 코드 수
 <table>
@@ -39,9 +39,9 @@
     </tr>
     <tr>
         <td><b>C#</b></td>
-        <td>99</td>
-        <td>3,708</td>
-        <td>78.6 kB</td>
+        <td>100</td>
+        <td>3,743</td>
+        <td>79.4 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -99,9 +99,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,230</td>
-        <td>42,308</td>
-        <td>737.75 kB</td>
+        <td>1,231</td>
+        <td>42,343</td>
+        <td>738.54 kB</td>
     </tr>
 </table>
 
@@ -13276,6 +13276,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19698.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19759">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                19759 &lt;&lt;Кто хочет стать миллионером?&gt;&gt;
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
+            <a href="src/19/19759.cs">C#</a>
         </td>
     </tr>
     <tr>
