@@ -2,12 +2,15 @@ const Config        = require('./config.json');
 const { promisify } = require('util');
 const request       = promisify(require('request'));
 const cheerio       = require('cheerio');
+const prompt        = require('prompt-sync')({ sigint: true });
 const fs            = require('fs');
 const nf            = new Intl.NumberFormat();
 const path          = require('path');
 const rgx_file      = /\d+\..+/;
 const argv          = process.argv.slice(2).map(a => a.match(rgx_file)[0]);
 const URL           = 'https://www.acmicpc.net/status?from_mine=1&problem_id={problem}&user_id={user}';
+
+require('console.table');
 
 async function main() {
     if (argv.length < 1) {
@@ -27,18 +30,53 @@ async function getProblemInfo(id) {
     let url = URL.replace('{problem}', id).replace('{user}', Config.BAEKJOON_USER),
         { body } = await request(url),
         $ = cheerio.load(body),
-        row = $('#status-table > tbody > tr:nth-child(1)'),
-        title = row.find('td:nth-child(3) > a').attr('title'),
-        memory = row.find('.memory').text(),
-        time = row.find('.time').text(),
-        language = row.find('td:nth-child(7)').text(),
-        date = row.find('td:nth-child(9) > a').attr('title');
+        rows = $('#status-table > tbody > tr'),
+        infos = [],
+        tmp = 0;
 
-    date = date
+    rows.each((i, row) => {
+        let $row = $(row);
+
+        // 틀렸습니다 제외
+        if ($row.find('.result span').hasClass('result-wa')) {
+            return;
+        }
+
+        let title = $row.find('td:nth-child(3) > a').attr('title'),
+            result = $row.find('.result').text(),
+            memory = $row.find('.memory').text(),
+            time = $row.find('.time').text(),
+            language = $row.find('td:nth-child(7)').text(),
+            date = $row.find('td:nth-child(9) > a').attr('title');
+
+        infos.push({ i: ++tmp, title, result, memory, time, language, date });
+    });
+
+    console.table(infos);
+
+    let index = prompt('주석으로 사용할 정보의 인덱스를 입력해주세요: ');
+
+    index = parseInt(index);
+
+    if (Number.isInteger(index) && index > 0 && index <= infos.length) {
+        info = infos[index - 1];
+    } else {
+        console.log('잘못된 인덱스입니다. 프로그램을 종료합니다.');
+        process.exit(1);
+    }
+
+    let date = info.date
         .split(' ')[0]
         .replace(/(\d{4})-(\d{2})-(\d{2})/, (s, y, m, d) => `${y}년 ${+m}월 ${+d}일`);
 
-    return { id, title, memory, time, language, date };
+    return {
+        id,
+        title: info.title,
+        memory: info.memory,
+        time: info.time,
+        language: info.language,
+        date
+    };
 }
 
 function setComment(target, { id, title, memory, time, language, date }) {
