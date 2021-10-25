@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1163문제)
+## 문제 풀이 현황 (1164문제)
 
 ### 언어별 코드 수
 <table>
@@ -86,6 +86,12 @@
         <td>424 B</td>
     </tr>
     <tr>
+        <td><b>Go</b></td>
+        <td>1</td>
+        <td>32</td>
+        <td>449 B</td>
+    </tr>
+    <tr>
         <td><b>Pascal</b></td>
         <td>1</td>
         <td>15</td>
@@ -99,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,233</td>
-        <td>42,399</td>
-        <td>739.32 kB</td>
+        <td>1,234</td>
+        <td>42,431</td>
+        <td>739.77 kB</td>
     </tr>
 </table>
 
@@ -14275,6 +14281,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/23/23235.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23251">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23251 스물셋
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/23/23251.go">Go</a>
         </td>
     </tr>
 </table>
