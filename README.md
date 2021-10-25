@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1164문제)
+## 문제 풀이 현황 (1165문제)
 
 ### 언어별 코드 수
 <table>
@@ -74,6 +74,12 @@
         <td>1.71 kB</td>
     </tr>
     <tr>
+        <td><b>Go</b></td>
+        <td>2</td>
+        <td>61</td>
+        <td>855 B</td>
+    </tr>
+    <tr>
         <td><b>Perl</b></td>
         <td>2</td>
         <td>53</td>
@@ -84,12 +90,6 @@
         <td>2</td>
         <td>30</td>
         <td>424 B</td>
-    </tr>
-    <tr>
-        <td><b>Go</b></td>
-        <td>1</td>
-        <td>32</td>
-        <td>449 B</td>
     </tr>
     <tr>
         <td><b>Pascal</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,234</td>
-        <td>42,431</td>
-        <td>739.77 kB</td>
+        <td>1,235</td>
+        <td>42,460</td>
+        <td>740.17 kB</td>
     </tr>
 </table>
 
@@ -14254,6 +14254,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/23/23037.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23080">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23080 스키테일 암호
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/23/23080.go">Go</a>
         </td>
     </tr>
     <tr>

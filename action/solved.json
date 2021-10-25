@@ -9357,6 +9357,14 @@
         ]
     },
     {
+        "id": 23080,
+        "title": "스키테일 암호",
+        "level": 4,
+        "codes": [
+            "src/23/23080.go"
+        ]
+    },
+    {
         "id": 23234,
         "title": "The World Responds",
         "level": 1,
