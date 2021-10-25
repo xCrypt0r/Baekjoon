@@ -3162,6 +3162,14 @@
         ]
     },
     {
+        "id": 6436,
+        "title": "Floppies",
+        "level": 3,
+        "codes": [
+            "src/6/6436.go"
+        ]
+    },
+    {
         "id": 6491,
         "title": "Perfection",
         "level": 3,

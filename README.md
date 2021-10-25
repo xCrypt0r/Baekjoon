@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1165문제)
+## 문제 풀이 현황 (1166문제)
 
 ### 언어별 코드 수
 <table>
@@ -75,9 +75,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>2</td>
-        <td>61</td>
-        <td>855 B</td>
+        <td>3</td>
+        <td>107</td>
+        <td>1.54 kB</td>
     </tr>
     <tr>
         <td><b>Perl</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,235</td>
-        <td>42,460</td>
-        <td>740.17 kB</td>
+        <td>1,236</td>
+        <td>42,506</td>
+        <td>740.86 kB</td>
     </tr>
 </table>
 
@@ -4897,6 +4897,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6378.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6436">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                6436 Floppies
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/6/6436.go">Go</a>
         </td>
     </tr>
     <tr>
