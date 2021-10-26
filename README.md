@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1166문제)
+## 문제 풀이 현황 (1167문제)
 
 ### 언어별 코드 수
 <table>
@@ -68,16 +68,16 @@
         <td>17.26 kB</td>
     </tr>
     <tr>
+        <td><b>Go</b></td>
+        <td>4</td>
+        <td>154</td>
+        <td>2.32 kB</td>
+    </tr>
+    <tr>
         <td><b>C</b></td>
         <td>4</td>
         <td>116</td>
         <td>1.71 kB</td>
-    </tr>
-    <tr>
-        <td><b>Go</b></td>
-        <td>3</td>
-        <td>107</td>
-        <td>1.54 kB</td>
     </tr>
     <tr>
         <td><b>Perl</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,236</td>
-        <td>42,506</td>
-        <td>740.86 kB</td>
+        <td>1,237</td>
+        <td>42,553</td>
+        <td>741.64 kB</td>
     </tr>
 </table>
 
@@ -13858,6 +13858,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/21/21197.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21200">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21200 Forced Choice
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/21/21200.go">Go</a>
         </td>
     </tr>
     <tr>

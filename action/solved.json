@@ -9093,6 +9093,14 @@
         ]
     },
     {
+        "id": 21200,
+        "title": "Forced Choice",
+        "level": 3,
+        "codes": [
+            "src/21/21200.go"
+        ]
+    },
+    {
         "id": 21300,
         "title": "Bottle Return",
         "level": 1,
