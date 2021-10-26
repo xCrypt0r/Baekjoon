@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1167문제)
+## 문제 풀이 현황 (1168문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>4</td>
-        <td>154</td>
-        <td>2.32 kB</td>
+        <td>5</td>
+        <td>192</td>
+        <td>2.84 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,237</td>
-        <td>42,553</td>
-        <td>741.64 kB</td>
+        <td>1,238</td>
+        <td>42,591</td>
+        <td>742.16 kB</td>
     </tr>
 </table>
 
@@ -808,6 +808,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1427.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1436">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                1436 영화감독 숌
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/1/1436.go">Go</a>
         </td>
     </tr>
     <tr>
