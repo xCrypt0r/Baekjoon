@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1170문제)
+## 문제 풀이 현황 (1171문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>7</td>
-        <td>266</td>
-        <td>4.08 kB</td>
+        <td>8</td>
+        <td>310</td>
+        <td>4.65 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,240</td>
-        <td>42,665</td>
-        <td>743.4 kB</td>
+        <td>1,241</td>
+        <td>42,709</td>
+        <td>743.96 kB</td>
     </tr>
 </table>
 
@@ -5068,6 +5068,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6750.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6751">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6751 From 1987 to 2013
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/6/6751.go">Go</a>
         </td>
     </tr>
     <tr>
