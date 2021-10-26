@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1169문제)
+## 문제 풀이 현황 (1170문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>6</td>
-        <td>227</td>
-        <td>3.35 kB</td>
+        <td>7</td>
+        <td>266</td>
+        <td>4.08 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,239</td>
-        <td>42,626</td>
-        <td>742.67 kB</td>
+        <td>1,240</td>
+        <td>42,665</td>
+        <td>743.4 kB</td>
     </tr>
 </table>
 
@@ -820,6 +820,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/1/1436.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1440">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1440 타임머신
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/1/1440.go">Go</a>
         </td>
     </tr>
     <tr>
