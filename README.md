@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1168문제)
+## 문제 풀이 현황 (1169문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>5</td>
-        <td>192</td>
-        <td>2.84 kB</td>
+        <td>6</td>
+        <td>227</td>
+        <td>3.35 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,238</td>
-        <td>42,591</td>
-        <td>742.16 kB</td>
+        <td>1,239</td>
+        <td>42,626</td>
+        <td>742.67 kB</td>
     </tr>
 </table>
 
@@ -1024,6 +1024,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1676.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1681">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1681 줄 세우기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/1/1681.go">Go</a>
         </td>
     </tr>
     <tr>
