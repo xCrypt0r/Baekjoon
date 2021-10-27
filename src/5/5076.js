@@ -11,7 +11,7 @@
 const fs = require('fs');
 
 function main() {
-    let lines = fs.readFileSync('../stdin').toString().trim().split('\n');
+    let lines = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
     let rgx_self_closing = /<([a-zA-Z]+)([^>]*)\/>/g;
     let rgx_opening = /<([a-zA-Z]+)([^>]*)>/g;
     let rgx_closing = /<\/([a-zA-Z]+)>/g;

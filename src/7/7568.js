@@ -11,7 +11,7 @@
 const fs = require('fs');
 
 function main() {
-    let input = fs.readFileSync('../stdin').toString().trim().split('\n');
+    let input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
     let N = +input.shift();
     let ranks = Array(N).fill(1);
 
