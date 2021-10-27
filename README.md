@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1172문제)
+## 문제 풀이 현황 (1173문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>9</td>
-        <td>349</td>
-        <td>5.22 kB</td>
+        <td>10</td>
+        <td>393</td>
+        <td>5.86 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,242</td>
-        <td>42,748</td>
-        <td>744.54 kB</td>
+        <td>1,243</td>
+        <td>42,792</td>
+        <td>745.18 kB</td>
     </tr>
 </table>
 
@@ -14389,6 +14389,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23251.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23278">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23278 영화 평가
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/23/23278.go">Go</a>
         </td>
     </tr>
 </table>
