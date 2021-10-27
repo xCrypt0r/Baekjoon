@@ -8981,6 +8981,14 @@
         ]
     },
     {
+        "id": 20360,
+        "title": "Binary numbers",
+        "level": 3,
+        "codes": [
+            "src/20/20360.go"
+        ]
+    },
+    {
         "id": 20361,
         "title": "일우는 야바위꾼",
         "level": 3,
