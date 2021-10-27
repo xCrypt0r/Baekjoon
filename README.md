@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1175문제)
+## 문제 풀이 현황 (1176문제)
 
 ### 언어별 코드 수
 <table>
@@ -69,9 +69,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>12</td>
-        <td>468</td>
-        <td>7.03 kB</td>
+        <td>13</td>
+        <td>507</td>
+        <td>7.73 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,245</td>
-        <td>42,867</td>
-        <td>746.35 kB</td>
+        <td>1,246</td>
+        <td>42,906</td>
+        <td>747.05 kB</td>
     </tr>
 </table>
 
@@ -13666,6 +13666,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/20/20332.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/20350">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                20350 Account Numbers
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/20/20350.go">Go</a>
         </td>
     </tr>
     <tr>
