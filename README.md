@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1176문제)
+## 문제 풀이 현황 (1177문제)
 
 ### 언어별 코드 수
 <table>
@@ -62,16 +62,16 @@
         <td>15.66 kB</td>
     </tr>
     <tr>
+        <td><b>Go</b></td>
+        <td>14</td>
+        <td>541</td>
+        <td>8.27 kB</td>
+    </tr>
+    <tr>
         <td><b>Kotlin</b></td>
         <td>13</td>
         <td>755</td>
         <td>17.26 kB</td>
-    </tr>
-    <tr>
-        <td><b>Go</b></td>
-        <td>13</td>
-        <td>507</td>
-        <td>7.73 kB</td>
     </tr>
     <tr>
         <td><b>C</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,246</td>
-        <td>42,906</td>
-        <td>747.05 kB</td>
+        <td>1,247</td>
+        <td>42,940</td>
+        <td>747.59 kB</td>
     </tr>
 </table>
 
@@ -14350,6 +14350,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/22/22938.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22966">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                22966 가장 쉬운 문제를 찾는 문제
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/22/22966.go">Go</a>
         </td>
     </tr>
     <tr>
