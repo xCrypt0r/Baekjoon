@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1180문제)
+## 문제 풀이 현황 (1181문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>325</td>
-        <td>11,211</td>
-        <td>171.74 kB</td>
+        <td>326</td>
+        <td>11,250</td>
+        <td>172.34 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,251</td>
-        <td>43,045</td>
-        <td>749.04 kB</td>
+        <td>1,252</td>
+        <td>43,084</td>
+        <td>749.64 kB</td>
     </tr>
 </table>
 
@@ -14437,6 +14437,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23080.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23103">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                23103 Academic Distance
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/23/23103.cpp">C++</a>
         </td>
     </tr>
     <tr>
