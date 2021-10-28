@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1179문제)
+## 문제 풀이 현황 (1180문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>31</td>
-        <td>849</td>
-        <td>13.69 kB</td>
+        <td>32</td>
+        <td>867</td>
+        <td>13.92 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>16</td>
-        <td>604</td>
-        <td>9.15 kB</td>
+        <td>17</td>
+        <td>628</td>
+        <td>9.49 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,249</td>
-        <td>43,003</td>
-        <td>748.47 kB</td>
+        <td>1,251</td>
+        <td>43,045</td>
+        <td>749.04 kB</td>
     </tr>
 </table>
 
@@ -5575,6 +5575,21 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/8/8658.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8661">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                8661 Stopki
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/8/8661.go">Go</a>
+        	<br>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/8/8661.sh">Bash</a>
         </td>
     </tr>
     <tr>

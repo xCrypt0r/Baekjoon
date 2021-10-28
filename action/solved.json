@@ -3612,6 +3612,15 @@
         ]
     },
     {
+        "id": 8661,
+        "title": "Stopki",
+        "level": 3,
+        "codes": [
+            "src/8/8661.go",
+            "src/8/8661.sh"
+        ]
+    },
+    {
         "id": 8678,
         "title": "Zbiór",
         "level": 3,
