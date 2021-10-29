@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1182문제)
+## 문제 풀이 현황 (1183문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>327</td>
-        <td>11,293</td>
-        <td>173.04 kB</td>
+        <td>328</td>
+        <td>11,347</td>
+        <td>173.93 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,253</td>
-        <td>43,127</td>
-        <td>750.35 kB</td>
+        <td>1,254</td>
+        <td>43,181</td>
+        <td>751.23 kB</td>
     </tr>
 </table>
 
@@ -9265,6 +9265,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/12/12833.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12840">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                12840 창용이의 시계
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/12/12840.cpp">C++</a>
         </td>
     </tr>
     <tr>
