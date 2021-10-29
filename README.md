@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1189문제)
+## 문제 풀이 현황 (1190문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>20</td>
-        <td>726</td>
-        <td>10.94 kB</td>
+        <td>21</td>
+        <td>765</td>
+        <td>11.6 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,260</td>
-        <td>43,389</td>
-        <td>754.55 kB</td>
+        <td>1,261</td>
+        <td>43,428</td>
+        <td>755.2 kB</td>
     </tr>
 </table>
 
@@ -10339,6 +10339,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14624.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14625">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14625 냉동식품
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/14/14625.go">Go</a>
         </td>
     </tr>
     <tr>
