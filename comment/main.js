@@ -37,8 +37,8 @@ async function getProblemInfo(id) {
     rows.each((i, row) => {
         let $row = $(row);
 
-        // 틀렸습니다 제외
-        if ($row.find('.result span').hasClass('result-wa')) {
+        // 출력 형식, 틀렸습니다, 시간 초과, 메모리 초과, 출력 초과, 런타임 에러, 컴파일 에러 제외
+        if (/result-(?:pe|wa|tle|mle|ole|rte|ce)/.test($row.find('.result span').attr('class'))) {
             return;
         }
 
