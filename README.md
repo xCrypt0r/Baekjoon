@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1184문제)
+## 문제 풀이 현황 (1185문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>17</td>
-        <td>628</td>
-        <td>9.49 kB</td>
+        <td>18</td>
+        <td>659</td>
+        <td>9.91 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,255</td>
-        <td>43,212</td>
-        <td>751.69 kB</td>
+        <td>1,256</td>
+        <td>43,243</td>
+        <td>752.11 kB</td>
     </tr>
 </table>
 
@@ -12958,6 +12958,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/17/17863.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17869">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                17869 Simple Collatz Sequence
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/17/17869.go">Go</a>
         </td>
     </tr>
     <tr>
