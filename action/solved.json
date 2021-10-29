@@ -3194,6 +3194,14 @@
         ]
     },
     {
+        "id": 6437,
+        "title": "Golf",
+        "level": 3,
+        "codes": [
+            "src/6/6437.sh"
+        ]
+    },
+    {
         "id": 6491,
         "title": "Perfection",
         "level": 3,
