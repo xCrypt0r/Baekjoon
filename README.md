@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1183문제)
+## 문제 풀이 현황 (1184문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>32</td>
-        <td>867</td>
-        <td>13.92 kB</td>
+        <td>33</td>
+        <td>898</td>
+        <td>14.38 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,254</td>
-        <td>43,181</td>
-        <td>751.23 kB</td>
+        <td>1,255</td>
+        <td>43,212</td>
+        <td>751.69 kB</td>
     </tr>
 </table>
 
@@ -10417,6 +10417,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/14/14682.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14683">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                14683 Exactly Electrical
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14683.sh">Bash</a>
         </td>
     </tr>
     <tr>

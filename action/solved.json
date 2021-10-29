@@ -6814,6 +6814,14 @@
         ]
     },
     {
+        "id": 14683,
+        "title": "Exactly Electrical",
+        "level": 3,
+        "codes": [
+            "src/14/14683.sh"
+        ]
+    },
+    {
         "id": 14697,
         "title": "방 배정하기",
         "level": 4,
