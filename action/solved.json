@@ -3621,6 +3621,14 @@
         ]
     },
     {
+        "id": 8674,
+        "title": "Tabliczka",
+        "level": 3,
+        "codes": [
+            "src/8/8674.go"
+        ]
+    },
+    {
         "id": 8678,
         "title": "Zbiór",
         "level": 3,

@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1186문제)
+## 문제 풀이 현황 (1187문제)
 
 ### 언어별 코드 수
 <table>
@@ -63,9 +63,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>18</td>
-        <td>659</td>
-        <td>9.91 kB</td>
+        <td>19</td>
+        <td>686</td>
+        <td>10.3 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,257</td>
-        <td>43,280</td>
-        <td>752.72 kB</td>
+        <td>1,258</td>
+        <td>43,307</td>
+        <td>753.11 kB</td>
     </tr>
 </table>
 
@@ -5590,6 +5590,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/8/8661.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8674">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                8674 Tabliczka
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/8/8674.go">Go</a>
         </td>
     </tr>
     <tr>
