@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1185문제)
+## 문제 풀이 현황 (1186문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>33</td>
-        <td>898</td>
-        <td>14.38 kB</td>
+        <td>34</td>
+        <td>935</td>
+        <td>14.98 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,256</td>
-        <td>43,243</td>
-        <td>752.11 kB</td>
+        <td>1,257</td>
+        <td>43,280</td>
+        <td>752.72 kB</td>
     </tr>
 </table>
 
@@ -13465,6 +13465,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/19/19698.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/19751">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                19751 Fractification
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/19/19751.sh">Bash</a>
         </td>
     </tr>
     <tr>
