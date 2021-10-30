@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1193문제)
+## 문제 풀이 현황 (1194문제)
 
 ### 언어별 코드 수
 <table>
@@ -56,16 +56,16 @@
         <td>15.78 kB</td>
     </tr>
     <tr>
+        <td><b>Go</b></td>
+        <td>24</td>
+        <td>889</td>
+        <td>13.72 kB</td>
+    </tr>
+    <tr>
         <td><b>Java</b></td>
         <td>24</td>
         <td>775</td>
         <td>15.66 kB</td>
-    </tr>
-    <tr>
-        <td><b>Go</b></td>
-        <td>23</td>
-        <td>846</td>
-        <td>13.09 kB</td>
     </tr>
     <tr>
         <td><b>Kotlin</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,264</td>
-        <td>43,528</td>
-        <td>757.01 kB</td>
+        <td>1,265</td>
+        <td>43,571</td>
+        <td>757.65 kB</td>
     </tr>
 </table>
 
@@ -3904,6 +3904,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/4/4880.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4890">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                4890 Tiles of Tetris, NOT!
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/4/4890.go">Go</a>
         </td>
     </tr>
     <tr>
