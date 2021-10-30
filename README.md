@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1198문제)
+## 문제 풀이 현황 (1199문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>264</td>
-        <td>8,096</td>
-        <td>170.1 kB</td>
+        <td>265</td>
+        <td>8,133</td>
+        <td>171.06 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,269</td>
-        <td>43,687</td>
-        <td>759.54 kB</td>
+        <td>1,270</td>
+        <td>43,724</td>
+        <td>760.5 kB</td>
     </tr>
 </table>
 
@@ -3409,6 +3409,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/3/3507.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/3518">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                3518 공백왕 빈-칸
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/3/3518.js">Node.js</a>
         </td>
     </tr>
     <tr>
