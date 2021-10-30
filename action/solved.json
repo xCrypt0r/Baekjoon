@@ -7810,6 +7810,14 @@
         ]
     },
     {
+        "id": 16172,
+        "title": "나는 친구가 적다 (Large)",
+        "level": 13,
+        "codes": [
+            "src/16/16172.js"
+        ]
+    },
+    {
         "id": 16175,
         "title": "General Election",
         "level": 4,

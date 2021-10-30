@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1196문제)
+## 문제 풀이 현황 (1197문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>263</td>
-        <td>8,078</td>
-        <td>169.72 kB</td>
+        <td>264</td>
+        <td>8,096</td>
+        <td>170.1 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,267</td>
-        <td>43,636</td>
-        <td>758.71 kB</td>
+        <td>1,268</td>
+        <td>43,654</td>
+        <td>759.09 kB</td>
     </tr>
 </table>
 
@@ -11929,6 +11929,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/16/16171.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16172">
+                <img src="https://static.solved.ac/tier_small/13.svg" height="14">
+                16172 나는 친구가 적다 (Large)
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/16/16172.js">Node.js</a>
         </td>
     </tr>
     <tr>
