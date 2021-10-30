@@ -9589,5 +9589,13 @@
         "codes": [
             "src/23/23278.go"
         ]
+    },
+    {
+        "id": 23343,
+        "title": "JavaScript",
+        "level": 2,
+        "codes": [
+            "src/23/23343.js"
+        ]
     }
 ]
