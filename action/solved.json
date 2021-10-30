@@ -9294,6 +9294,14 @@
         ]
     },
     {
+        "id": 21339,
+        "title": "Contest Struggles",
+        "level": 3,
+        "codes": [
+            "src/21/21339.go"
+        ]
+    },
+    {
         "id": 21354,
         "title": "Äpplen och päron",
         "level": 2,
