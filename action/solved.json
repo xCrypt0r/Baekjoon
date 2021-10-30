@@ -9254,6 +9254,14 @@
         ]
     },
     {
+        "id": 21167,
+        "title": "Curve Speed",
+        "level": 3,
+        "codes": [
+            "src/21/21167.go"
+        ]
+    },
+    {
         "id": 21185,
         "title": "Some Sum",
         "level": 2,

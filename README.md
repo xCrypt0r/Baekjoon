@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1194문제)
+## 문제 풀이 현황 (1195문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>24</td>
-        <td>889</td>
-        <td>13.72 kB</td>
+        <td>25</td>
+        <td>926</td>
+        <td>14.27 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,265</td>
-        <td>43,571</td>
-        <td>757.65 kB</td>
+        <td>1,266</td>
+        <td>43,608</td>
+        <td>758.2 kB</td>
     </tr>
 </table>
 
@@ -14101,6 +14101,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/20/20976.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21167">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                21167 Curve Speed
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/21/21167.go">Go</a>
         </td>
     </tr>
     <tr>
