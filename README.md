@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1199문제)
+## 문제 풀이 현황 (1200문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>36</td>
-        <td>1,010</td>
-        <td>16.22 kB</td>
+        <td>37</td>
+        <td>1,054</td>
+        <td>16.91 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,270</td>
-        <td>43,724</td>
-        <td>760.5 kB</td>
+        <td>1,271</td>
+        <td>43,768</td>
+        <td>761.19 kB</td>
     </tr>
 </table>
 
@@ -5914,6 +5914,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/9/9046.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9056">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                9056 Letter Bank
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/9/9056.sh">Bash</a>
         </td>
     </tr>
     <tr>
