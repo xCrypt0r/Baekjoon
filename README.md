@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1204문제)
+## 문제 풀이 현황 (1205문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>318</td>
-        <td>8,099</td>
-        <td>144.4 kB</td>
+        <td>319</td>
+        <td>8,122</td>
+        <td>144.8 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,275</td>
-        <td>43,887</td>
-        <td>763.11 kB</td>
+        <td>1,276</td>
+        <td>43,910</td>
+        <td>763.51 kB</td>
     </tr>
 </table>
 
@@ -11962,6 +11962,18 @@
         <td>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/16/16076.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16120">
+                <img src="https://static.solved.ac/tier_small/12.svg" height="14">
+                16120 PPAP
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/16/16120.py">Python</a>
         </td>
     </tr>
     <tr>
