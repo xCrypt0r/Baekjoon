@@ -9110,6 +9110,14 @@
         ]
     },
     {
+        "id": 20309,
+        "title": "트리플 소트",
+        "level": 7,
+        "codes": [
+            "src/20/20309.go"
+        ]
+    },
+    {
         "id": 20332,
         "title": "Divvying Up",
         "level": 3,
