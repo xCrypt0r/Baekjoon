@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1206문제)
+## 문제 풀이 현황 (1207문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>38</td>
-        <td>1,072</td>
-        <td>17.17 kB</td>
+        <td>39</td>
+        <td>1,101</td>
+        <td>17.62 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,277</td>
-        <td>43,928</td>
-        <td>763.77 kB</td>
+        <td>1,278</td>
+        <td>43,957</td>
+        <td>764.22 kB</td>
     </tr>
 </table>
 
@@ -14788,6 +14788,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/23/23303.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23320">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23320 홍익 절대평가
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23320.sh">Bash</a>
         </td>
     </tr>
     <tr>

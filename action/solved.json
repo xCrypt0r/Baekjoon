@@ -9711,6 +9711,14 @@
         ]
     },
     {
+        "id": 23320,
+        "title": "홍익 절대평가",
+        "level": 4,
+        "codes": [
+            "src/23/23320.sh"
+        ]
+    },
+    {
         "id": 23343,
         "title": "JavaScript",
         "level": 2,
