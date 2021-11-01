@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1207문제)
+## 문제 풀이 현황 (1208문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>265</td>
-        <td>8,133</td>
-        <td>171.06 kB</td>
+        <td>266</td>
+        <td>8,177</td>
+        <td>172.05 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,278</td>
-        <td>43,957</td>
-        <td>764.22 kB</td>
+        <td>1,279</td>
+        <td>44,001</td>
+        <td>765.21 kB</td>
     </tr>
 </table>
 
@@ -14776,6 +14776,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23278.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23292">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23292 코딩 바이오리듬
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/23/23292.js">Node.js</a>
         </td>
     </tr>
     <tr>
