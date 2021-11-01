@@ -9703,6 +9703,14 @@
         ]
     },
     {
+        "id": 23303,
+        "title": "이 문제는 D2 입니다.",
+        "level": 4,
+        "codes": [
+            "src/23/23303.sh"
+        ]
+    },
+    {
         "id": 23343,
         "title": "JavaScript",
         "level": 2,

@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1205문제)
+## 문제 풀이 현황 (1206문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>37</td>
-        <td>1,054</td>
-        <td>16.91 kB</td>
+        <td>38</td>
+        <td>1,072</td>
+        <td>17.17 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,276</td>
-        <td>43,910</td>
-        <td>763.51 kB</td>
+        <td>1,277</td>
+        <td>43,928</td>
+        <td>763.77 kB</td>
     </tr>
 </table>
 
@@ -14776,6 +14776,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23278.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23303">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23303 이 문제는 D2 입니다.
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23303.sh">Bash</a>
         </td>
     </tr>
     <tr>
