@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1208문제)
+## 문제 풀이 현황 (1209문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>266</td>
-        <td>8,177</td>
-        <td>172.05 kB</td>
+        <td>267</td>
+        <td>8,220</td>
+        <td>172.98 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,279</td>
-        <td>44,001</td>
-        <td>765.21 kB</td>
+        <td>1,280</td>
+        <td>44,044</td>
+        <td>766.14 kB</td>
     </tr>
 </table>
 
@@ -14812,6 +14812,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/23/23320.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23334">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                23334 Olympic Ranking
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/23/23334.js">Node.js</a>
         </td>
     </tr>
     <tr>

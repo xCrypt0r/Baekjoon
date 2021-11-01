@@ -9727,6 +9727,14 @@
         ]
     },
     {
+        "id": 23334,
+        "title": "Olympic Ranking",
+        "level": 5,
+        "codes": [
+            "src/23/23334.js"
+        ]
+    },
+    {
         "id": 23343,
         "title": "JavaScript",
         "level": 2,
