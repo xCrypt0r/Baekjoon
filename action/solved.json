@@ -6234,6 +6234,14 @@
         ]
     },
     {
+        "id": 13170,
+        "title": "떨어진 수정",
+        "level": 6,
+        "codes": [
+            "src/13/13170.sh"
+        ]
+    },
+    {
         "id": 13221,
         "title": "Manhattan",
         "level": 3,
