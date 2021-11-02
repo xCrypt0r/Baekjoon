@@ -8059,6 +8059,14 @@
         ]
     },
     {
+        "id": 16435,
+        "title": "스네이크버드",
+        "level": 6,
+        "codes": [
+            "src/16/16435.go"
+        ]
+    },
+    {
         "id": 16445,
         "title": "Desvendando Monty Hall",
         "level": 3,
