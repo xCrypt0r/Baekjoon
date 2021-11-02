@@ -7225,6 +7225,14 @@
         ]
     },
     {
+        "id": 15272,
+        "title": "Hissing Microphone",
+        "level": 4,
+        "codes": [
+            "src/15/15272.sh"
+        ]
+    },
+    {
         "id": 15279,
         "title": "Heart Rate",
         "level": 3,
