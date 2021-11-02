@@ -3991,6 +3991,14 @@
         ]
     },
     {
+        "id": 9272,
+        "title": "상근이의 아이디어",
+        "level": 8,
+        "codes": [
+            "src/9/9272.sh"
+        ]
+    },
+    {
         "id": 9286,
         "title": "Gradabase",
         "level": 3,
