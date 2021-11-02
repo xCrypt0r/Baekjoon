@@ -3122,6 +3122,14 @@
         ]
     },
     {
+        "id": 5974,
+        "title": "Lucky Charms",
+        "level": 4,
+        "codes": [
+            "src/5/5974.sh"
+        ]
+    },
+    {
         "id": 5987,
         "title": "String Function Encoding",
         "level": 5,
