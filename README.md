@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1222문제)
+## 문제 풀이 현황 (1223문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>49</td>
-        <td>1,315</td>
-        <td>20.63 kB</td>
+        <td>50</td>
+        <td>1,339</td>
+        <td>20.93 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,293</td>
-        <td>44,367</td>
-        <td>770.58 kB</td>
+        <td>1,294</td>
+        <td>44,391</td>
+        <td>770.89 kB</td>
     </tr>
 </table>
 
@@ -10729,6 +10729,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/14/14729.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14730">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                14730 謎紛芥索紀 (Small)
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14730.sh">Bash</a>
         </td>
     </tr>
     <tr>

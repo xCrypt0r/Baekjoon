@@ -7022,6 +7022,14 @@
         ]
     },
     {
+        "id": 14730,
+        "title": "謎紛芥索紀 (Small)",
+        "level": 5,
+        "codes": [
+            "src/14/14730.sh"
+        ]
+    },
+    {
         "id": 14761,
         "title": "FizzBuzz",
         "level": 3,
