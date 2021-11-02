@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1214문제)
+## 문제 풀이 현황 (1215문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>42</td>
-        <td>1,167</td>
-        <td>18.6 kB</td>
+        <td>43</td>
+        <td>1,185</td>
+        <td>18.83 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,285</td>
-        <td>44,176</td>
-        <td>768.01 kB</td>
+        <td>1,286</td>
+        <td>44,194</td>
+        <td>768.25 kB</td>
     </tr>
 </table>
 
@@ -5698,6 +5698,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/8/8661.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8668">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                8668 Konik polny 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/8/8668.sh">Bash</a>
         </td>
     </tr>
     <tr>

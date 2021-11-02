@@ -3693,6 +3693,14 @@
         ]
     },
     {
+        "id": 8668,
+        "title": "Konik polny 2",
+        "level": 4,
+        "codes": [
+            "src/8/8668.sh"
+        ]
+    },
+    {
         "id": 8674,
         "title": "Tabliczka",
         "level": 3,
