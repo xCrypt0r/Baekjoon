@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1210문제)
+## 문제 풀이 현황 (1211문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>26</td>
-        <td>969</td>
-        <td>14.89 kB</td>
+        <td>27</td>
+        <td>1,009</td>
+        <td>15.44 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,281</td>
-        <td>44,062</td>
-        <td>766.38 kB</td>
+        <td>1,282</td>
+        <td>44,102</td>
+        <td>766.94 kB</td>
     </tr>
 </table>
 
@@ -11098,6 +11098,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/15/15312.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15322">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15322 Košnja
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/15/15322.go">Go</a>
         </td>
     </tr>
     <tr>
