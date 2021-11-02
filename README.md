@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1219문제)
+## 문제 풀이 현황 (1220문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>46</td>
-        <td>1,247</td>
-        <td>19.67 kB</td>
+        <td>47</td>
+        <td>1,265</td>
+        <td>19.91 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,290</td>
-        <td>44,299</td>
-        <td>769.63 kB</td>
+        <td>1,291</td>
+        <td>44,317</td>
+        <td>769.87 kB</td>
     </tr>
 </table>
 
@@ -10633,6 +10633,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14697.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14710">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14710 고장난 시계
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14710.sh">Bash</a>
         </td>
     </tr>
     <tr>
