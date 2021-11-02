@@ -2559,6 +2559,14 @@
         ]
     },
     {
+        "id": 4903,
+        "title": "Relax! It’s just a game",
+        "level": 4,
+        "codes": [
+            "src/4/4903.sh"
+        ]
+    },
+    {
         "id": 4909,
         "title": "Judging Olympia",
         "level": 3,
