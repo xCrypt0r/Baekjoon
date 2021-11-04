@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1226문제)
+## 문제 풀이 현황 (1227문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>54</td>
-        <td>4,585</td>
-        <td>40.67 kB</td>
+        <td>55</td>
+        <td>4,606</td>
+        <td>40.86 kB</td>
     </tr>
     <tr>
         <td><b>Bash</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,297</td>
-        <td>44,460</td>
-        <td>771.92 kB</td>
+        <td>1,298</td>
+        <td>44,481</td>
+        <td>772.1 kB</td>
     </tr>
 </table>
 
@@ -4909,6 +4909,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6060.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6092">
+                <img src="https://static.solved.ac/tier_small/6.svg" height="14">
+                6092 Strange Towers of Hanoi
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/6/6092.txt">Text</a>
         </td>
     </tr>
     <tr>

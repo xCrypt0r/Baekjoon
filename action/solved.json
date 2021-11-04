@@ -3170,6 +3170,14 @@
         ]
     },
     {
+        "id": 6092,
+        "title": "Strange Towers of Hanoi",
+        "level": 6,
+        "codes": [
+            "src/6/6092.txt"
+        ]
+    },
+    {
         "id": 6131,
         "title": "완전 제곱수",
         "level": 3,
