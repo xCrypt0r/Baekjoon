@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1225문제)
+## 문제 풀이 현황 (1226문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>29</td>
-        <td>1,078</td>
-        <td>16.32 kB</td>
+        <td>30</td>
+        <td>1,100</td>
+        <td>16.62 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,296</td>
-        <td>44,438</td>
-        <td>771.62 kB</td>
+        <td>1,297</td>
+        <td>44,460</td>
+        <td>771.92 kB</td>
     </tr>
 </table>
 
@@ -11659,6 +11659,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15734.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15736">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                15736 청기 백기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/15/15736.go">Go</a>
         </td>
     </tr>
     <tr>
