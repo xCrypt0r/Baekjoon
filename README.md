@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1223문제)
+## 문제 풀이 현황 (1224문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>50</td>
-        <td>1,339</td>
-        <td>20.93 kB</td>
+        <td>51</td>
+        <td>1,364</td>
+        <td>21.25 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,294</td>
-        <td>44,391</td>
-        <td>770.89 kB</td>
+        <td>1,295</td>
+        <td>44,416</td>
+        <td>771.21 kB</td>
     </tr>
 </table>
 
@@ -10471,6 +10471,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/14/14593.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14606">
+                <img src="https://static.solved.ac/tier_small/7.svg" height="14">
+                14606 피자 (Small)
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14606.sh">Bash</a>
         </td>
     </tr>
     <tr>

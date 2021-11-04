@@ -6852,6 +6852,14 @@
         ]
     },
     {
+        "id": 14606,
+        "title": "피자 (Small)",
+        "level": 7,
+        "codes": [
+            "src/14/14606.sh"
+        ]
+    },
+    {
         "id": 14614,
         "title": "Calculate!",
         "level": 3,
