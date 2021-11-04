@@ -16,10 +16,10 @@ main() {
     for (( i = 0; i < N; i++ )); do
         read C K
 
-        (( S += C * K ))
+        (( res += C * K ))
     done
 
-    echo $S
+    echo $res
 }
 
 main
