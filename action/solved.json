@@ -9486,6 +9486,14 @@
         ]
     },
     {
+        "id": 21059,
+        "title": "Methodic Multiplication",
+        "level": 4,
+        "codes": [
+            "src/21/21059.js"
+        ]
+    },
+    {
         "id": 21167,
         "title": "Curve Speed",
         "level": 3,
