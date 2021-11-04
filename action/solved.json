@@ -3138,6 +3138,14 @@
         ]
     },
     {
+        "id": 5984,
+        "title": "The Bovine Fire Drill",
+        "level": 5,
+        "codes": [
+            "src/5/5984.sh"
+        ]
+    },
+    {
         "id": 5987,
         "title": "String Function Encoding",
         "level": 5,
