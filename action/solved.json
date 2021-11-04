@@ -6884,6 +6884,14 @@
         ]
     },
     {
+        "id": 14607,
+        "title": "피자 (Large)",
+        "level": 8,
+        "codes": [
+            "src/14/14607.sh"
+        ]
+    },
+    {
         "id": 14614,
         "title": "Calculate!",
         "level": 3,
