@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1224문제)
+## 문제 풀이 현황 (1225문제)
 
 ### 언어별 코드 수
 <table>
@@ -21,9 +21,9 @@
     </tr>
     <tr>
         <td><b>Python</b></td>
-        <td>319</td>
-        <td>8,122</td>
-        <td>144.8 kB</td>
+        <td>320</td>
+        <td>8,144</td>
+        <td>145.22 kB</td>
     </tr>
     <tr>
         <td><b>Node.js</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,295</td>
-        <td>44,416</td>
-        <td>771.21 kB</td>
+        <td>1,296</td>
+        <td>44,438</td>
+        <td>771.62 kB</td>
     </tr>
 </table>
 
@@ -2512,6 +2512,18 @@
         	<br>
             <img src="https://via.placeholder.com/12/A97BFF/000000?text=+" height="12">
             <a href="src/2/2748.kt">Kotlin</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2749">
+                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                2749 피보나치 수 3
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
+            <a href="src/2/2749.py">Python</a>
         </td>
     </tr>
     <tr>
