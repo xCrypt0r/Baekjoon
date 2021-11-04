@@ -53,7 +53,7 @@
         <td><b>Bash</b></td>
         <td>53</td>
         <td>1,410</td>
-        <td>21.87 kB</td>
+        <td>21.88 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
