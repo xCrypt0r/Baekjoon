@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1227문제)
+## 문제 풀이 현황 (1228문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>30</td>
-        <td>1,100</td>
-        <td>16.62 kB</td>
+        <td>31</td>
+        <td>1,124</td>
+        <td>16.95 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,298</td>
-        <td>44,481</td>
-        <td>772.1 kB</td>
+        <td>1,299</td>
+        <td>44,505</td>
+        <td>772.44 kB</td>
     </tr>
 </table>
 
@@ -10291,6 +10291,18 @@
         <td>
             <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
             <a href="src/14/14443.txt">Text</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14445">
+                <img src="https://static.solved.ac/tier_small/8.svg" height="14">
+                14445 케이크(?) 자르기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/14/14445.go">Go</a>
         </td>
     </tr>
     <tr>
