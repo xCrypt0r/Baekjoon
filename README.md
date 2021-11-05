@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1231문제)
+## 문제 풀이 현황 (1232문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>31</td>
-        <td>1,124</td>
-        <td>16.95 kB</td>
+        <td>32</td>
+        <td>1,176</td>
+        <td>17.71 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,302</td>
-        <td>44,570</td>
-        <td>773.51 kB</td>
+        <td>1,303</td>
+        <td>44,622</td>
+        <td>774.27 kB</td>
     </tr>
 </table>
 
@@ -12166,6 +12166,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16017.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16032">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                16032 Income Inequality
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/16/16032.go">Go</a>
         </td>
     </tr>
     <tr>

@@ -7969,6 +7969,14 @@
         ]
     },
     {
+        "id": 16032,
+        "title": "Income Inequality",
+        "level": 4,
+        "codes": [
+            "src/16/16032.go"
+        ]
+    },
+    {
         "id": 16076,
         "title": "휴식이 필요해",
         "level": 0,
