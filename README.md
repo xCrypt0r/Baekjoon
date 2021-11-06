@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1232문제)
+## 문제 풀이 현황 (1233문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>32</td>
-        <td>1,176</td>
-        <td>17.71 kB</td>
+        <td>33</td>
+        <td>1,218</td>
+        <td>18.35 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,303</td>
-        <td>44,622</td>
-        <td>774.27 kB</td>
+        <td>1,304</td>
+        <td>44,664</td>
+        <td>774.91 kB</td>
     </tr>
 </table>
 
@@ -15112,6 +15112,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/23/23343.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23348">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                23348 스트릿 코딩 파이터
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/23/23348.go">Go</a>
         </td>
     </tr>
 </table>
