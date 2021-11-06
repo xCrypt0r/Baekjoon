@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1233문제)
+## 문제 풀이 현황 (1234문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>53</td>
-        <td>1,410</td>
-        <td>21.88 kB</td>
+        <td>54</td>
+        <td>1,449</td>
+        <td>22.51 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,304</td>
-        <td>44,664</td>
-        <td>774.91 kB</td>
+        <td>1,305</td>
+        <td>44,703</td>
+        <td>775.54 kB</td>
     </tr>
 </table>
 
@@ -15124,6 +15124,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23348.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23367">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23367 Dickensian Dictionary
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23367.sh">Bash</a>
         </td>
     </tr>
 </table>
