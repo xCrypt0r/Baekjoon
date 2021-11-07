@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1234문제)
+## 문제 풀이 현황 (1235문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>33</td>
-        <td>1,218</td>
-        <td>18.35 kB</td>
+        <td>34</td>
+        <td>1,255</td>
+        <td>18.9 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,305</td>
-        <td>44,703</td>
-        <td>775.54 kB</td>
+        <td>1,306</td>
+        <td>44,740</td>
+        <td>776.09 kB</td>
     </tr>
 </table>
 
@@ -15136,6 +15136,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/23/23367.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23530">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                23530 Not A + B
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/23/23530.go">Go</a>
         </td>
     </tr>
 </table>
