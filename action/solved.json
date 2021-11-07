@@ -839,6 +839,14 @@
         ]
     },
     {
+        "id": 1966,
+        "title": "프린터 큐",
+        "level": 8,
+        "codes": [
+            "src/1/1966.cpp"
+        ]
+    },
+    {
         "id": 1975,
         "title": "Number Game",
         "level": 3,
