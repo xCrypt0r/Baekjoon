@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1244문제)
+## 문제 풀이 현황 (1245문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>60</td>
-        <td>1,610</td>
-        <td>24.85 kB</td>
+        <td>61</td>
+        <td>1,632</td>
+        <td>25.19 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,315</td>
-        <td>45,048</td>
-        <td>780.81 kB</td>
+        <td>1,316</td>
+        <td>45,070</td>
+        <td>781.14 kB</td>
     </tr>
 </table>
 
@@ -13354,6 +13354,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/17/17588.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17598">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                17598 Animal King Election
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/17/17598.sh">Bash</a>
         </td>
     </tr>
     <tr>

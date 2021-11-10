@@ -8757,6 +8757,14 @@
         ]
     },
     {
+        "id": 17598,
+        "title": "Animal King Election",
+        "level": 4,
+        "codes": [
+            "src/17/17598.sh"
+        ]
+    },
+    {
         "id": 17608,
         "title": "막대기",
         "level": 4,
