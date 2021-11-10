@@ -8627,6 +8627,14 @@
         ]
     },
     {
+        "id": 17273,
+        "title": "카드 공장 (Small)",
+        "level": 4,
+        "codes": [
+            "src/17/17273.sh"
+        ]
+    },
+    {
         "id": 17284,
         "title": "Vending Machine",
         "level": 3,
