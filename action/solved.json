@@ -8009,6 +8009,14 @@
         ]
     },
     {
+        "id": 16018,
+        "title": "Occupy parking",
+        "level": 4,
+        "codes": [
+            "src/16/16018.sh"
+        ]
+    },
+    {
         "id": 16032,
         "title": "Income Inequality",
         "level": 4,

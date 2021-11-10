@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1245문제)
+## 문제 풀이 현황 (1246문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>61</td>
-        <td>1,632</td>
-        <td>25.19 kB</td>
+        <td>62</td>
+        <td>1,656</td>
+        <td>25.55 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,316</td>
-        <td>45,070</td>
-        <td>781.14 kB</td>
+        <td>1,317</td>
+        <td>45,094</td>
+        <td>781.5 kB</td>
     </tr>
 </table>
 
@@ -12226,6 +12226,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/16/16017.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/16018">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                16018 Occupy parking
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/16/16018.sh">Bash</a>
         </td>
     </tr>
     <tr>
