@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1238문제)
+## 문제 풀이 현황 (1239문제)
 
 ### 언어별 코드 수
 <table>
@@ -44,16 +44,16 @@
         <td>79.4 kB</td>
     </tr>
     <tr>
+        <td><b>Bash</b></td>
+        <td>56</td>
+        <td>1,493</td>
+        <td>23.11 kB</td>
+    </tr>
+    <tr>
         <td><b>Text</b></td>
         <td>55</td>
         <td>4,606</td>
         <td>40.86 kB</td>
-    </tr>
-    <tr>
-        <td><b>Bash</b></td>
-        <td>55</td>
-        <td>1,475</td>
-        <td>22.87 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,309</td>
-        <td>44,864</td>
-        <td>778.06 kB</td>
+        <td>1,310</td>
+        <td>44,882</td>
+        <td>778.31 kB</td>
     </tr>
 </table>
 
@@ -10267,6 +10267,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14215.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14219">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14219 막대과자 포장
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14219.sh">Bash</a>
         </td>
     </tr>
     <tr>
