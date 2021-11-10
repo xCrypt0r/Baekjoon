@@ -9967,6 +9967,14 @@
         ]
     },
     {
+        "id": 23275,
+        "title": "Knot Knowledge",
+        "level": 4,
+        "codes": [
+            "src/23/23275.sh"
+        ]
+    },
+    {
         "id": 23278,
         "title": "영화 평가",
         "level": 4,

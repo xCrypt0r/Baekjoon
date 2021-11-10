@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1246문제)
+## 문제 풀이 현황 (1247문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>62</td>
-        <td>1,656</td>
-        <td>25.55 kB</td>
+        <td>63</td>
+        <td>1,682</td>
+        <td>25.9 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,317</td>
-        <td>45,094</td>
-        <td>781.5 kB</td>
+        <td>1,318</td>
+        <td>45,120</td>
+        <td>781.86 kB</td>
     </tr>
 </table>
 
@@ -15172,6 +15172,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/23/23251.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23275">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                23275 Knot Knowledge
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23275.sh">Bash</a>
         </td>
     </tr>
     <tr>
