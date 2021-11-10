@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1243문제)
+## 문제 풀이 현황 (1244문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>59</td>
-        <td>1,581</td>
-        <td>24.47 kB</td>
+        <td>60</td>
+        <td>1,610</td>
+        <td>24.85 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,314</td>
-        <td>45,019</td>
-        <td>780.42 kB</td>
+        <td>1,315</td>
+        <td>45,048</td>
+        <td>780.81 kB</td>
     </tr>
 </table>
 
@@ -14569,6 +14569,18 @@
         <td>
             <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
             <a href="src/21/21105.go">Go</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21143">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                21143 Magic Trick
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/21/21143.sh">Bash</a>
         </td>
     </tr>
     <tr>
