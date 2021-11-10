@@ -7329,6 +7329,14 @@
         ]
     },
     {
+        "id": 15122,
+        "title": "Forbidden Zero",
+        "level": 4,
+        "codes": [
+            "src/15/15122.sh"
+        ]
+    },
+    {
         "id": 15128,
         "title": "Congruent Numbers",
         "level": 2,

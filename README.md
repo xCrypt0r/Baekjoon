@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1242문제)
+## 문제 풀이 현황 (1243문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>58</td>
-        <td>1,558</td>
-        <td>24.18 kB</td>
+        <td>59</td>
+        <td>1,581</td>
+        <td>24.47 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,313</td>
-        <td>44,996</td>
-        <td>780.13 kB</td>
+        <td>1,314</td>
+        <td>45,019</td>
+        <td>780.42 kB</td>
     </tr>
 </table>
 
@@ -11194,6 +11194,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/15/15115.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15122">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15122 Forbidden Zero
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/15/15122.sh">Bash</a>
         </td>
     </tr>
     <tr>
