@@ -9758,6 +9758,14 @@
         ]
     },
     {
+        "id": 21945,
+        "title": "Palindromes",
+        "level": 4,
+        "codes": [
+            "src/21/21945.cpp"
+        ]
+    },
+    {
         "id": 21955,
         "title": "Split",
         "level": 4,

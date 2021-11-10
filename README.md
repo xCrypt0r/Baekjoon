@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1241문제)
+## 문제 풀이 현황 (1242문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>329</td>
-        <td>11,412</td>
-        <td>175.05 kB</td>
+        <td>330</td>
+        <td>11,461</td>
+        <td>175.8 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,312</td>
-        <td>44,947</td>
-        <td>779.38 kB</td>
+        <td>1,313</td>
+        <td>44,996</td>
+        <td>780.13 kB</td>
     </tr>
 </table>
 
@@ -14857,6 +14857,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/21/21895.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/21945">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                21945 Palindromes
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/21/21945.cpp">C++</a>
         </td>
     </tr>
     <tr>
