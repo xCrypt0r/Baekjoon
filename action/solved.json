@@ -9302,6 +9302,14 @@
         ]
     },
     {
+        "id": 20282,
+        "title": "Game Show!",
+        "level": 4,
+        "codes": [
+            "src/20/20282.sh"
+        ]
+    },
+    {
         "id": 20291,
         "title": "파일 정리",
         "level": 7,
