@@ -9510,6 +9510,14 @@
         ]
     },
     {
+        "id": 20733,
+        "title": "Triple Texting",
+        "level": 4,
+        "codes": [
+            "src/20/20733.sh"
+        ]
+    },
+    {
         "id": 20833,
         "title": "Kuber",
         "level": 3,
