@@ -3475,6 +3475,14 @@
         ]
     },
     {
+        "id": 6993,
+        "title": "Shift Letters",
+        "level": 4,
+        "codes": [
+            "src/6/6993.sh"
+        ]
+    },
+    {
         "id": 6996,
         "title": "애너그램",
         "level": 5,

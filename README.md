@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1240문제)
+## 문제 풀이 현황 (1241문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>57</td>
-        <td>1,535</td>
-        <td>23.81 kB</td>
+        <td>58</td>
+        <td>1,558</td>
+        <td>24.18 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,311</td>
-        <td>44,924</td>
-        <td>779.01 kB</td>
+        <td>1,312</td>
+        <td>44,947</td>
+        <td>779.38 kB</td>
     </tr>
 </table>
 
@@ -5368,6 +5368,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/6/6975.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6993">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6993 Shift Letters
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/6/6993.sh">Bash</a>
         </td>
     </tr>
     <tr>
