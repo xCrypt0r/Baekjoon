@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1249문제)
+## 문제 풀이 현황 (1250문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>65</td>
-        <td>1,732</td>
-        <td>26.7 kB</td>
+        <td>66</td>
+        <td>1,756</td>
+        <td>27.03 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,320</td>
-        <td>45,170</td>
-        <td>782.65 kB</td>
+        <td>1,321</td>
+        <td>45,194</td>
+        <td>782.98 kB</td>
     </tr>
 </table>
 
@@ -1567,6 +1567,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/2/2167.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2168">
+                <img src="https://static.solved.ac/tier_small/10.svg" height="14">
+                2168 타일 위의 대각선
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/2/2168.sh">Bash</a>
         </td>
     </tr>
     <tr>
