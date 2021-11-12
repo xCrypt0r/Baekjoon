@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1253문제)
+## 문제 풀이 현황 (1254문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>69</td>
-        <td>1,852</td>
-        <td>28.38 kB</td>
+        <td>70</td>
+        <td>1,883</td>
+        <td>28.82 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,324</td>
-        <td>45,290</td>
-        <td>784.33 kB</td>
+        <td>1,325</td>
+        <td>45,321</td>
+        <td>784.78 kB</td>
     </tr>
 </table>
 
@@ -1216,6 +1216,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/1/1773.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1813">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                1813 논리학 교수
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/1/1813.sh">Bash</a>
         </td>
     </tr>
     <tr>
