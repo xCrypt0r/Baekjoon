@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1255문제)
+## 문제 풀이 현황 (1256문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>71</td>
-        <td>1,901</td>
-        <td>29.05 kB</td>
+        <td>72</td>
+        <td>1,939</td>
+        <td>29.63 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,326</td>
-        <td>45,339</td>
-        <td>785 kB</td>
+        <td>1,327</td>
+        <td>45,377</td>
+        <td>785.58 kB</td>
     </tr>
 </table>
 
@@ -10108,6 +10108,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/13/13699.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/13717">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                13717 포켓몬 GO
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/13/13717.sh">Bash</a>
         </td>
     </tr>
     <tr>
