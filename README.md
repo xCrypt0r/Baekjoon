@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1256문제)
+## 문제 풀이 현황 (1257문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>72</td>
-        <td>1,939</td>
-        <td>29.63 kB</td>
+        <td>73</td>
+        <td>1,964</td>
+        <td>30.01 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,327</td>
-        <td>45,377</td>
-        <td>785.58 kB</td>
+        <td>1,328</td>
+        <td>45,402</td>
+        <td>785.96 kB</td>
     </tr>
 </table>
 
@@ -4885,6 +4885,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5928.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5948">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                5948 Bad Random Numbers
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/5/5948.sh">Bash</a>
         </td>
     </tr>
     <tr>
