@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1258문제)
+## 문제 풀이 현황 (1259문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>74</td>
-        <td>1,997</td>
-        <td>30.51 kB</td>
+        <td>75</td>
+        <td>2,029</td>
+        <td>31.12 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,329</td>
-        <td>45,435</td>
-        <td>786.46 kB</td>
+        <td>1,330</td>
+        <td>45,467</td>
+        <td>787.07 kB</td>
     </tr>
 </table>
 
@@ -1519,6 +1519,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/2/2133.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2139">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                2139 나는 너가 살아온 날을 알고 있다
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/2/2139.sh">Bash</a>
         </td>
     </tr>
     <tr>
