@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1251문제)
+## 문제 풀이 현황 (1252문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>67</td>
-        <td>1,784</td>
-        <td>27.39 kB</td>
+        <td>68</td>
+        <td>1,812</td>
+        <td>27.76 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,322</td>
-        <td>45,222</td>
-        <td>783.35 kB</td>
+        <td>1,323</td>
+        <td>45,250</td>
+        <td>783.71 kB</td>
     </tr>
 </table>
 
@@ -5125,6 +5125,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/6/6437.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/6438">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                6438 Reverse Text
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/6/6438.sh">Bash</a>
         </td>
     </tr>
     <tr>

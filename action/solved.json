@@ -3314,6 +3314,14 @@
         ]
     },
     {
+        "id": 6438,
+        "title": "Reverse Text",
+        "level": 4,
+        "codes": [
+            "src/6/6438.sh"
+        ]
+    },
+    {
         "id": 6491,
         "title": "Perfection",
         "level": 3,
