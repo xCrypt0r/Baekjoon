@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1254문제)
+## 문제 풀이 현황 (1255문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>70</td>
-        <td>1,883</td>
-        <td>28.82 kB</td>
+        <td>71</td>
+        <td>1,901</td>
+        <td>29.05 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,325</td>
-        <td>45,321</td>
-        <td>784.78 kB</td>
+        <td>1,326</td>
+        <td>45,339</td>
+        <td>785 kB</td>
     </tr>
 </table>
 
@@ -13012,6 +13012,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/17/17027.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/17080">
+                <img src="https://static.solved.ac/tier_small/14.svg" height="14">
+                17080 결함 게임
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/17/17080.sh">Bash</a>
         </td>
     </tr>
     <tr>

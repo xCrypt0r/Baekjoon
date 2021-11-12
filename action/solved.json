@@ -8531,6 +8531,14 @@
         ]
     },
     {
+        "id": 17080,
+        "title": "결함 게임",
+        "level": 14,
+        "codes": [
+            "src/17/17080.sh"
+        ]
+    },
+    {
         "id": 17094,
         "title": "Serious Problem",
         "level": 4,
