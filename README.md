@@ -46,8 +46,8 @@
     <tr>
         <td><b>Bash</b></td>
         <td>67</td>
-        <td>1,774</td>
-        <td>27.26 kB</td>
+        <td>1,784</td>
+        <td>27.39 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -106,8 +106,8 @@
     <tr>
         <td><b>Total</b></td>
         <td>1,322</td>
-        <td>45,212</td>
-        <td>783.21 kB</td>
+        <td>45,222</td>
+        <td>783.35 kB</td>
     </tr>
 </table>
 
