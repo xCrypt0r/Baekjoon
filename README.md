@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1259문제)
+## 문제 풀이 현황 (1260문제)
 
 ### 언어별 코드 수
 <table>
@@ -81,9 +81,9 @@
     </tr>
     <tr>
         <td><b>Perl</b></td>
-        <td>2</td>
-        <td>53</td>
-        <td>1 kB</td>
+        <td>3</td>
+        <td>79</td>
+        <td>1.4 kB</td>
     </tr>
     <tr>
         <td><b>Ruby</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,330</td>
-        <td>45,467</td>
-        <td>787.07 kB</td>
+        <td>1,331</td>
+        <td>45,493</td>
+        <td>787.46 kB</td>
     </tr>
 </table>
 
@@ -4789,6 +4789,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/5/5692.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5698">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                5698 Tautogram
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/0298C3/000000?text=+" height="12">
+            <a href="src/5/5698.pl">Perl</a>
         </td>
     </tr>
     <tr>
