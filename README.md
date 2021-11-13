@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1270문제)
+## 문제 풀이 현황 (1271문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>78</td>
-        <td>2,110</td>
-        <td>32.36 kB</td>
+        <td>79</td>
+        <td>2,137</td>
+        <td>32.77 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,341</td>
-        <td>45,858</td>
-        <td>793.46 kB</td>
+        <td>1,342</td>
+        <td>45,885</td>
+        <td>793.87 kB</td>
     </tr>
 </table>
 
@@ -15349,6 +15349,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/22/22938.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/22950">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                22950 이진수 나눗셈
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/22/22950.sh">Bash</a>
         </td>
     </tr>
     <tr>
