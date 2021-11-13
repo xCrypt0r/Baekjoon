@@ -4545,6 +4545,14 @@
         ]
     },
     {
+        "id": 9947,
+        "title": "Coin tossing",
+        "level": 4,
+        "codes": [
+            "src/9/9947.go"
+        ]
+    },
+    {
         "id": 9950,
         "title": "Rectangles",
         "level": 3,

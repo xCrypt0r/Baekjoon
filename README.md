@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1267문제)
+## 문제 풀이 현황 (1268문제)
 
 ### 언어별 코드 수
 <table>
@@ -57,9 +57,9 @@
     </tr>
     <tr>
         <td><b>Go</b></td>
-        <td>35</td>
-        <td>1,288</td>
-        <td>19.4 kB</td>
+        <td>36</td>
+        <td>1,338</td>
+        <td>20.22 kB</td>
     </tr>
     <tr>
         <td><b>Java</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,338</td>
-        <td>45,749</td>
-        <td>791.76 kB</td>
+        <td>1,339</td>
+        <td>45,799</td>
+        <td>792.58 kB</td>
     </tr>
 </table>
 
@@ -6982,6 +6982,18 @@
         <td>
             <img src="https://via.placeholder.com/12/178600/000000?text=+" height="12">
             <a href="src/9/9946.cs">C#</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/9947">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                9947 Coin tossing
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/00ADD8/000000?text=+" height="12">
+            <a href="src/9/9947.go">Go</a>
         </td>
     </tr>
     <tr>
