@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1265문제)
+## 문제 풀이 현황 (1266문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>330</td>
-        <td>11,461</td>
-        <td>175.8 kB</td>
+        <td>331</td>
+        <td>11,497</td>
+        <td>176.41 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,336</td>
-        <td>45,651</td>
-        <td>790.36 kB</td>
+        <td>1,337</td>
+        <td>45,687</td>
+        <td>790.97 kB</td>
     </tr>
 </table>
 
@@ -4609,6 +4609,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/5/5576.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/5582">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                5582 공통 부분 문자열
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/5/5582.cpp">C++</a>
         </td>
     </tr>
     <tr>
