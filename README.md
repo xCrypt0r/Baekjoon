@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1260문제)
+## 문제 풀이 현황 (1261문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>268</td>
-        <td>8,239</td>
-        <td>173.43 kB</td>
+        <td>269</td>
+        <td>8,284</td>
+        <td>174.45 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,331</td>
-        <td>45,493</td>
-        <td>787.46 kB</td>
+        <td>1,332</td>
+        <td>45,538</td>
+        <td>788.48 kB</td>
     </tr>
 </table>
 
@@ -4024,6 +4024,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/4/4806.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/4821">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                4821 페이지 세기
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/4/4821.js">Node.js</a>
         </td>
     </tr>
     <tr>
