@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1264문제)
+## 문제 풀이 현황 (1265문제)
 
 ### 언어별 코드 수
 <table>
@@ -51,9 +51,9 @@
     </tr>
     <tr>
         <td><b>Text</b></td>
-        <td>55</td>
-        <td>4,606</td>
-        <td>40.86 kB</td>
+        <td>56</td>
+        <td>4,627</td>
+        <td>41.13 kB</td>
     </tr>
     <tr>
         <td><b>Go</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,335</td>
-        <td>45,630</td>
-        <td>790.09 kB</td>
+        <td>1,336</td>
+        <td>45,651</td>
+        <td>790.36 kB</td>
     </tr>
 </table>
 
@@ -724,6 +724,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
             <a href="src/1/1316.cpp">C++</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/1318">
+                <img src="https://static.solved.ac/tier_small/13.svg" height="14">
+                1318 포커
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/CCCCCC/000000?text=+" height="12">
+            <a href="src/1/1318.txt">Text</a>
         </td>
     </tr>
     <tr>
