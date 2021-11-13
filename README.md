@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1261문제)
+## 문제 풀이 현황 (1262문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>269</td>
-        <td>8,284</td>
-        <td>174.45 kB</td>
+        <td>270</td>
+        <td>8,321</td>
+        <td>175.22 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,332</td>
-        <td>45,538</td>
-        <td>788.48 kB</td>
+        <td>1,333</td>
+        <td>45,575</td>
+        <td>789.25 kB</td>
     </tr>
 </table>
 
@@ -6094,6 +6094,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/8/8932.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/8941">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                8941 Molar mass
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/8/8941.js">Node.js</a>
         </td>
     </tr>
     <tr>
