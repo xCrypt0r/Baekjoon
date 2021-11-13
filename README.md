@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1262문제)
+## 문제 풀이 현황 (1263문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>75</td>
-        <td>2,029</td>
-        <td>31.12 kB</td>
+        <td>76</td>
+        <td>2,059</td>
+        <td>31.6 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,333</td>
-        <td>45,575</td>
-        <td>789.25 kB</td>
+        <td>1,334</td>
+        <td>45,605</td>
+        <td>789.73 kB</td>
     </tr>
 </table>
 
@@ -11314,6 +11314,18 @@
         <td>
             <img src="https://via.placeholder.com/12/3572A5/000000?text=+" height="12">
             <a href="src/15/15096.py">Python</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15098">
+                <img src="https://static.solved.ac/tier_small/5.svg" height="14">
+                15098 No Duplicates
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/15/15098.sh">Bash</a>
         </td>
     </tr>
     <tr>
