@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1269문제)
+## 문제 풀이 현황 (1270문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>77</td>
-        <td>2,084</td>
-        <td>31.96 kB</td>
+        <td>78</td>
+        <td>2,110</td>
+        <td>32.36 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,340</td>
-        <td>45,832</td>
-        <td>793.07 kB</td>
+        <td>1,341</td>
+        <td>45,858</td>
+        <td>793.46 kB</td>
     </tr>
 </table>
 
@@ -11374,6 +11374,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/15/15098.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/15104">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                15104 Odd Palindrome
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/15/15104.sh">Bash</a>
         </td>
     </tr>
     <tr>
