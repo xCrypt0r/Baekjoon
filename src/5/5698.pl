@@ -16,7 +16,7 @@ sub main {
             last;
         }
 
-        if ($_ =~ /^(([a-z])[a-z]*)(\s(?i)(\2)[a-z]*)*$/gim) {
+        if ($_ =~ /^(([a-z])[a-z]*)(\s(?i)(\2)[a-z]*)*$/i) {
             print "Y\n";
         } else {
             print "N\n";
