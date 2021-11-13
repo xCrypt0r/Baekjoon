@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1271문제)
+## 문제 풀이 현황 (1272문제)
 
 ### 언어별 코드 수
 <table>
@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><b>C++</b></td>
-        <td>332</td>
-        <td>11,559</td>
-        <td>177.2 kB</td>
+        <td>333</td>
+        <td>11,601</td>
+        <td>177.79 kB</td>
     </tr>
     <tr>
         <td><b>Python</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,342</td>
-        <td>45,885</td>
-        <td>793.87 kB</td>
+        <td>1,343</td>
+        <td>45,927</td>
+        <td>794.46 kB</td>
     </tr>
 </table>
 
@@ -9685,6 +9685,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/12/12871.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/12904">
+                <img src="https://static.solved.ac/tier_small/11.svg" height="14">
+                12904 A와 B
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F34B7D/000000?text=+" height="12">
+            <a href="src/12/12904.cpp">C++</a>
         </td>
     </tr>
     <tr>
