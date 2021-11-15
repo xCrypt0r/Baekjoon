@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1273문제)
+## 문제 풀이 현황 (1274문제)
 
 ### 언어별 코드 수
 <table>
@@ -27,9 +27,9 @@
     </tr>
     <tr>
         <td><b>Node.js</b></td>
-        <td>271</td>
-        <td>8,345</td>
-        <td>175.95 kB</td>
+        <td>272</td>
+        <td>8,370</td>
+        <td>176.72 kB</td>
     </tr>
     <tr>
         <td><b>Rust</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,344</td>
-        <td>45,951</td>
-        <td>795.19 kB</td>
+        <td>1,345</td>
+        <td>45,976</td>
+        <td>795.95 kB</td>
     </tr>
 </table>
 
@@ -8830,6 +8830,18 @@
         <td>
             <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
             <a href="src/11/11284.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/11285">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                11285 초성 중성 종성 2
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="src/11/11285.js">Node.js</a>
         </td>
     </tr>
     <tr>
