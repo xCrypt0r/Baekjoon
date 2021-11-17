@@ -10263,6 +10263,14 @@
         ]
     },
     {
+        "id": 23375,
+        "title": "Arm Coordination",
+        "level": 2,
+        "codes": [
+            "src/23/23375.sh"
+        ]
+    },
+    {
         "id": 23530,
         "title": "Not A + B",
         "level": 3,

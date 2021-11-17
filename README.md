@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1275문제)
+## 문제 풀이 현황 (1276문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>79</td>
-        <td>2,137</td>
-        <td>32.77 kB</td>
+        <td>80</td>
+        <td>2,159</td>
+        <td>33.12 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,346</td>
-        <td>46,024</td>
-        <td>796.74 kB</td>
+        <td>1,347</td>
+        <td>46,046</td>
+        <td>797.09 kB</td>
     </tr>
 </table>
 
@@ -15616,6 +15616,18 @@
         <td>
             <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
             <a href="src/23/23367.sh">Bash</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/23375">
+                <img src="https://static.solved.ac/tier_small/2.svg" height="14">
+                23375 Arm Coordination
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/23/23375.sh">Bash</a>
         </td>
     </tr>
     <tr>
