@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
 
-## 문제 풀이 현황 (1276문제)
+## 문제 풀이 현황 (1277문제)
 
 ### 언어별 코드 수
 <table>
@@ -45,9 +45,9 @@
     </tr>
     <tr>
         <td><b>Bash</b></td>
-        <td>80</td>
-        <td>2,159</td>
-        <td>33.12 kB</td>
+        <td>81</td>
+        <td>2,193</td>
+        <td>33.61 kB</td>
     </tr>
     <tr>
         <td><b>Text</b></td>
@@ -105,9 +105,9 @@
     </tr>
     <tr>
         <td><b>Total</b></td>
-        <td>1,347</td>
-        <td>46,046</td>
-        <td>797.09 kB</td>
+        <td>1,348</td>
+        <td>46,080</td>
+        <td>797.59 kB</td>
     </tr>
 </table>
 
@@ -10543,6 +10543,18 @@
         <td>
             <img src="https://via.placeholder.com/12/DEA584/000000?text=+" height="12">
             <a href="src/14/14406.rs">Rust</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/14409">
+                <img src="https://static.solved.ac/tier_small/4.svg" height="14">
+                14409 Tuna
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/89E051/000000?text=+" height="12">
+            <a href="src/14/14409.sh">Bash</a>
         </td>
     </tr>
     <tr>
