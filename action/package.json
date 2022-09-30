@@ -12,7 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "fast-glob": "^3.2.7",
-    "filesize": "^8.0.3",
+    "filesize": "^10.0.5",
     "request": "^2.88.2"
   }
 }
